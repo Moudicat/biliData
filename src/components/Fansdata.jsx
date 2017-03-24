@@ -10,34 +10,34 @@ import 'echarts/lib/component/title';
 import 'echarts/lib/component/dataZoom';
 import bilidata from '../data.js';
 
-export default class Attentiondata extends Component {
+export default class Fansdata extends Component {
 
   chartInit() {
-    let chart = echarts.init(this.refs.attentionChart);
-    let {attentiony: attentionyArr} = bilidata;
-    let {attentionx: attentionxArr} = bilidata;
+    let chart = echarts.init(this.refs.fansChart);
+    let {fansx, fansy} = bilidata;
     let total = 0;
     let sortArr = [];
     let count = 0;
-    attentionyArr.forEach((item, index) => {
+
+    fansy.forEach((item, index) => {
       total += item;
-      if (attentionxArr[index] > 12) {
+      if (fansx[index] > 10) {
         count += item;
       } else {
         let o = {
-          name: attentionxArr[index],
+          name: fansx[index],
           value: item
         };
         sortArr.push(o);
       }
     });
     sortArr.push({
-      name: '其他',
+      name: '10+',
       value: count
     });
     chart.setOption({
       title: [{
-        text: "用户关注数统计",
+        text: "用户粉丝数统计",
         subtext: "共计 " + total + '条数据'
       }],
       tooltip: {
@@ -49,7 +49,7 @@ export default class Attentiondata extends Component {
         type: 'slider',
         xAxisIndex: [0],
         start: 0,
-        end: 10,
+        end: 1,
       }],
       grid: [{
         left: '3%',
@@ -63,23 +63,23 @@ export default class Attentiondata extends Component {
       xAxis: [
         {
           type: 'category',
-          data: attentionxArr,
+          data: fansx,
           boundaryGap: false
         }
       ],
       yAxis: [
         {
           type: 'value',
-          data: attentionyArr
+          data: fansy
         }
       ],
       series: [
         {
-          name: '关注数',
+          name: '粉丝数',
           type: 'line',
-          data: attentionyArr
+          data: fansy
         }, {
-          name: '关注',
+          name: '粉丝数',
           type: 'pie',
           radius: ['25%', '50%'],
           avoidLabelOverlap: false,
@@ -120,8 +120,8 @@ export default class Attentiondata extends Component {
   render() {
     return (
       <section>
-        <h2>关注数关系</h2>
-        <div ref="attentionChart" className="charts" style={{width: "100%"}}></div>
+        <h2>粉丝数关系</h2>
+        <div ref="fansChart" className="charts" style={{width: "100%"}}></div>
       </section>
     )
   }

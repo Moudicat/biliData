@@ -9,7 +9,9 @@ import App from './app';
 import Homepage from './components/Homepage.jsx';
 import Sexdata from './components/Sexdata.jsx';
 import Attentiondata from './components/Attentiondata.jsx';
-// import Fansdata from './components/Fansdata.jsx';
+import Fansdata from './components/Fansdata.jsx';
+import Friendsdata from './components/Friendsdata.jsx';
+import Placedata from './components/Placedata.jsx';
 import NotFind from './components/NotFind.jsx';
 
 ReactDOM.render(
@@ -18,8 +20,9 @@ ReactDOM.render(
       <IndexRoute component={Homepage}/>
       <Route path="sex" component={Sexdata}/>
       <Route path="attention" component={Attentiondata}/>
-      {/*<Route path="fans" component={Fansdata}/>*/}
-      {/*<Route path="friends" component={Friendsdata}/>*/}
+      <Route path="fans" component={Fansdata}/>
+      <Route path="friends" component={Friendsdata}/>
+      <Route path="place" component={Placedata}/>
       <Route path="*" component={NotFind} />
     </Route>
   </Router>

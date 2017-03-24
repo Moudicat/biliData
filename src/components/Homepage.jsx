@@ -6,7 +6,7 @@ import React, {Component} from 'react';
 export default class Homepage extends Component {
   render() {
     return (
-      <div>这是主页</div>
+      <div>这是主页  一共5882224条数据</div>
     )
   }
 }

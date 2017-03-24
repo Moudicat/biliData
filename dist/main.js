@@ -30731,8 +30731,13 @@ var bilidata = {
   rank: [{ name: "10000", value: 5881820 }, { name: "31200", value: 118 }, { name: "20000", value: 91 }, { name: "25000", value: 83 }, { name: "31000", value: 45 }, { name: "32000", value: 28 }, { name: "30000", value: 15 }, { name: "31700", value: 8 }, { name: "31100", value: 5 }, { name: "31800", value: 4 }, { name: "5000", value: 3 }, { name: "31300", value: 2 }, { name: "0", value: 2 }],
   attentiony: [1706215, 552811, 362669, 278652, 228499, 195950, 170771, 151315, 135635, 122777, 111443, 102738, 94663, 86480, 80355, 74982, 70043, 65140, 60824, 56757, 53255, 50170, 46853, 44302, 41492, 39284, 36842, 34390, 33165, 31472, 29772, 28433, 26813, 25554, 24532, 23374, 22075, 21060, 19945, 19131, 18283, 17624, 16665, 15807, 15011, 14554, 13679, 13245, 12599, 12299, 11680, 11353, 10723, 10254, 9891, 9482, 9211, 8717, 8284, 8135, 7591, 7493, 7247, 6861, 6681, 6606, 6289, 6041, 5953, 5603, 5488, 5360, 5052, 4905, 4535, 4530, 4291, 4281, 4107, 4081, 3834, 3664, 3637, 3384, 3413, 3361, 3239, 3272, 3114, 2991, 2792, 2804, 2561, 2450, 2700, 2446, 2500, 2403, 2211, 2179, 2182, 2012, 1998, 1912, 1857, 1915, 1815, 1777, 1723, 1784, 1612, 1626, 1585, 1529, 1410, 1382, 1406, 1350, 1377, 1245, 1278, 1239, 1243, 1106, 1144, 1149, 1089, 1047, 1089, 975, 964, 906, 925, 893, 922, 873, 890, 917, 856, 764, 761, 779, 753, 789, 778, 716, 694, 680, 690, 626, 679, 611, 615, 611, 602, 580, 550, 578, 494, 527, 488, 500, 502, 512, 525, 494, 469, 439, 439, 424, 395, 471, 413, 398, 417, 386, 393, 412, 363, 360, 351, 356, 333, 359, 362, 328, 277, 321, 267, 329, 303, 296, 296, 276, 299, 269, 271, 254, 247, 259, 273, 211, 254, 245, 208, 214, 204, 219, 197, 231, 204, 214, 218, 201, 214, 197, 197, 206, 194, 180, 184, 189, 149, 179, 177, 146, 194, 162, 164, 176, 159, 173, 128, 145, 133, 119, 124, 145, 157, 127, 139, 120, 114, 117, 135, 124, 129, 127, 126, 105, 122, 113, 94, 123, 107, 123, 113, 82, 88, 104, 105, 118, 105, 97, 86, 101, 91, 97, 128, 117, 105, 83, 79, 82, 77, 72, 90, 88, 79, 103, 72, 77, 72, 90, 78, 75, 81, 74, 71, 75, 75, 58, 71, 80, 57, 63, 66, 55, 72, 97, 72, 51, 47, 57, 60, 57, 47, 53, 74, 62, 66, 54, 60, 69, 48, 60, 46, 58, 54, 58, 52, 50, 43, 49, 45, 53, 49, 52, 58, 49, 49, 48, 49, 54, 55, 52, 39, 41, 53, 39, 52, 40, 45, 33, 22, 26, 46, 44, 41, 44, 39, 38, 26, 32, 22, 34, 31, 22, 31, 32, 36, 39, 34, 25, 31, 27, 35, 32, 17, 38, 23, 34, 21, 19, 31, 29, 28, 21, 27, 27, 30, 34, 18, 32, 21, 22, 31, 33, 20, 16, 28, 24, 28, 22, 18, 24, 21, 16, 15, 27, 16, 21, 30, 28, 20, 25, 18, 15, 12, 21, 16, 18, 9, 23, 19, 13, 11, 17, 34, 16, 24, 17, 17, 15, 20, 23, 23, 14, 20, 20, 15, 26, 13, 23, 19, 17, 16, 13, 18, 12, 9, 18, 16, 25, 9, 18, 21, 13, 6, 23, 31, 13, 16, 11, 17, 5, 23, 7, 15, 19, 18, 12, 16, 10, 8, 17, 11, 8, 8, 9, 22, 12, 14, 14, 3, 14, 12, 12, 9, 21, 10, 19, 18, 8, 21, 13, 5, 5, 10, 10, 14, 14, 19, 11, 7, 11, 5, 9, 3, 13, 15, 20, 13, 10, 10, 9, 24, 5, 8, 10, 8, 7, 1, 7, 10, 11, 9, 6, 12, 11, 9, 12, 5, 7, 5, 8, 7, 4, 12, 8, 8, 7, 13, 8, 6, 8, 4, 4, 5, 11, 4, 4, 5, 3, 11, 7, 12, 8, 5, 3, 8, 9, 1, 5, 7, 11, 11, 7, 9, 6, 5, 6, 7, 16, 12, 7, 1, 12, 7, 10, 1, 6, 5, 5, 6, 7, 4, 2, 8, 1, 4, 4, 5, 6, 3, 4, 7, 2, 2, 5, 12, 6, 4, 1, 3, 8, 2, 4, 9, 2, 4, 1, 4, 3, 8, 4, 5, 2, 3, 4, 2, 7, 9, 8, 1, 2, 3, 6, 7, 2, 2, 8, 5, 1, 5, 4, 12, 6, 7, 7, 3, 6, 2, 4, 3, 1, 2, 3, 3, 6, 6, 8, 2, 3, 3, 3, 1, 1, 4, 8, 6, 5, 6, 2, 2, 7, 3, 3, 6, 1, 6, 7, 4, 2, 1, 3, 3, 4, 5, 2, 3, 4, 7, 5, 4, 5, 4, 6, 5, 5, 1, 3, 1, 3, 2, 3, 2, 1, 6, 2, 6, 9, 3, 6, 1, 3, 3, 7, 1, 6, 4, 4, 4, 2, 3, 3, 4, 1, 5, 2, 2, 2, 4, 3, 1, 1, 4, 2, 5, 4, 3, 3, 2, 5, 5, 5, 2, 1, 1, 3, 2, 2, 3, 2, 2, 4, 2, 2, 1, 2, 4, 5, 5, 2, 1, 3, 2, 3, 6, 2, 4, 3, 4, 2, 1, 2, 5, 2, 5, 2, 2, 3, 1, 4, 1, 3, 2, 1, 3, 3, 4, 3, 2, 3, 2, 2, 2, 2, 3, 3, 2, 1, 2, 2, 1, 1, 4, 1, 2, 2, 1, 1, 1, 2, 3, 1, 2, 2, 1, 1, 2, 3, 1, 5, 2, 2, 4, 1, 2, 1, 2, 1, 2, 4, 1, 3, 4, 1, 2, 3, 2, 1, 1, 1, 2, 5, 2, 1, 1, 1, 1, 2, 3, 3, 4, 1, 1, 4, 1, 1, 1, 2, 1, 1, 8, 2, 4, 1, 2, 1, 2, 2, 7, 2, 2, 1, 2, 2, 1, 1, 2, 1, 2, 1, 3, 2, 2, 2, 1, 3, 2, 2, 1, 1, 2, 3, 2, 1, 2, 2, 1, 4, 2, 2, 3, 2, 1, 4, 1, 1, 2, 4, 2, 2, 3, 1, 3, 1, 1, 1, 5, 1, 4, 1, 1, 1, 4, 2, 1, 2, 3, 6, 2, 5, 4, 1, 3, 5, 3, 7, 10, 2, 9, 11, 11, 17, 182, 17, 3, 2],
   attentionx: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119", "120", "121", "122", "123", "124", "125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "141", "142", "143", "144", "145", "146", "147", "148", "149", "150", "151", "152", "153", "154", "155", "156", "157", "158", "159", "160", "161", "162", "163", "164", "165", "166", "167", "168", "169", "170", "171", "172", "173", "174", "175", "176", "177", "178", "179", "180", "181", "182", "183", "184", "185", "186", "187", "188", "189", "190", "191", "192", "193", "194", "195", "196", "197", "198", "199", "200", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "211", "212", "213", "214", "215", "216", "217", "218", "219", "220", "221", "222", "223", "224", "225", "226", "227", "228", "229", "230", "231", "232", "233", "234", "235", "236", "237", "238", "239", "240", "241", "242", "243", "244", "245", "246", "247", "248", "249", "250", "251", "252", "253", "254", "255", "256", "257", "258", "259", "260", "261", "262", "263", "264", "265", "266", "267", "268", "269", "270", "271", "272", "273", "274", "275", "276", "277", "278", "279", "280", "281", "282", "283", "284", "285", "286", "287", "288", "289", "290", "291", "292", "293", "294", "295", "296", "297", "298", "299", "300", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "311", "312", "313", "314", "315", "316", "317", "318", "319", "320", "321", "322", "323", "324", "325", "326", "327", "328", "329", "330", "331", "332", "333", "334", "335", "336", "337", "338", "339", "340", "341", "342", "343", "344", "345", "346", "347", "348", "349", "350", "351", "352", "353", "354", "355", "356", "357", "358", "359", "360", "361", "362", "363", "364", "365", "366", "367", "368", "369", "370", "371", "372", "373", "374", "375", "376", "377", "378", "379", "380", "381", "382", "383", "384", "385", "386", "387", "388", "389", "390", "391", "392", "393", "394", "395", "396", "397", "398", "399", "400", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410", "411", "412", "413", "414", "415", "416", "417", "418", "419", "420", "421", "422", "423", "424", "425", "426", "427", "428", "429", "430", "431", "432", "433", "434", "435", "436", "437", "438", "439", "440", "441", "442", "443", "444", "445", "446", "447", "448", "449", "450", "451", "452", "453", "454", "455", "456", "457", "458", "459", "460", "461", "462", "463", "464", "465", "466", "467", "468", "469", "470", "471", "472", "473", "474", "475", "476", "477", "478", "479", "480", "481", "482", "483", "484", "485", "486", "487", "488", "489", "490", "491", "492", "493", "494", "495", "496", "497", "498", "499", "500", "501", "502", "503", "504", "505", "506", "507", "508", "509", "510", "511", "512", "513", "514", "515", "516", "517", "518", "519", "520", "521", "522", "523", "524", "525", "526", "527", "528", "529", "530", "531", "532", "533", "534", "535", "536", "537", "538", "539", "540", "541", "542", "543", "544", "545", "546", "547", "548", "549", "550", "551", "552", "553", "554", "555", "556", "557", "558", "559", "560", "561", "562", "563", "564", "565", "566", "567", "568", "569", "570", "571", "572", "573", "574", "575", "576", "577", "578", "579", "581", "582", "583", "584", "585", "586", "587", "588", "589", "590", "591", "592", "593", "594", "595", "596", "597", "598", "599", "600", "601", "602", "603", "604", "605", "606", "607", "608", "609", "610", "611", "612", "613", "614", "615", "616", "617", "618", "619", "620", "621", "622", "623", "624", "625", "626", "627", "628", "629", "630", "633", "634", "635", "636", "637", "638", "639", "640", "641", "642", "643", "644", "645", "646", "647", "648", "649", "650", "651", "652", "653", "654", "655", "656", "658", "659", "660", "661", "662", "664", "665", "666", "667", "668", "669", "670", "671", "672", "673", "674", "676", "677", "678", "679", "680", "681", "682", "683", "684", "685", "687", "688", "689", "690", "691", "692", "693", "694", "695", "696", "697", "699", "700", "701", "702", "703", "704", "705", "706", "707", "708", "709", "710", "711", "712", "713", "714", "715", "717", "718", "719", "720", "721", "722", "723", "724", "725", "726", "727", "728", "729", "731", "732", "733", "734", "735", "736", "737", "738", "739", "740", "741", "742", "743", "745", "747", "748", "749", "750", "751", "752", "754", "755", "756", "758", "760", "762", "764", "765", "766", "768", "769", "770", "771", "772", "773", "774", "776", "777", "778", "779", "780", "782", "783", "784", "785", "786", "787", "788", "789", "790", "791", "792", "794", "795", "796", "797", "798", "799", "802", "803", "804", "805", "806", "807", "808", "811", "813", "814", "815", "817", "818", "819", "820", "821", "823", "825", "826", "828", "829", "830", "831", "832", "833", "834", "835", "836", "840", "841", "842", "844", "845", "846", "847", "848", "850", "852", "853", "854", "855", "856", "857", "858", "860", "862", "864", "865", "866", "867", "868", "869", "871", "872", "874", "875", "876", "880", "881", "885", "886", "887", "888", "890", "891", "892", "893", "895", "898", "899", "900", "901", "904", "905", "906", "907", "908", "909", "911", "912", "913", "915", "916", "921", "922", "923", "924", "925", "926", "927", "928", "929", "930", "932", "934", "935", "938", "939", "940", "941", "942", "943", "944", "945", "946", "947", "948", "954", "956", "957", "959", "961", "962", "964", "965", "966", "967", "968", "969", "971", "972", "973", "974", "975", "976", "977", "978", "979", "980", "981", "982", "984", "985", "986", "987", "988", "989", "991", "992", "993", "994", "995", "996", "997", "998", "999", "1000", "1001", "1002", "1003", "11519"],
-  fans: [{ name: "0", value: 5136501 }, { name: "1", value: 393020 }, { name: "2", value: 98148 }, { name: "3", value: 44432 }, { name: "4", value: 26574 }, { name: "5", value: 18079 }, { name: "6", value: 13400 }, { name: "7", value: 10587 }, { name: "8", value: 8710 }, { name: "9", value: 7250 }, { name: "10", value: 6282 }, { name: "11", value: 5439 }, { name: "12", value: 4718 }, { name: "13", value: 4268 }, { name: "14", value: 3928 }, { name: "15", value: 3460 }, { name: "16", value: 2919 }, { name: "17", value: 2822 }, { name: "18", value: 2668 }, { name: "19", value: 2509 }, { name: "20", value: 2284 }, { name: "21", value: 2135 }, { name: "22", value: 1990 }, { name: "23", value: 1846 }, { name: "25", value: 1680 }, { name: "24", value: 1680 }, { name: "26", value: 1635 }, { name: "28", value: 1497 }, { name: "27", value: 1436 }, { name: "29", value: 1291 }, { name: "30", value: 1259 }, { name: "31", value: 1197 }, { name: "32", value: 1188 }, { name: "33", value: 1122 }, { name: "34", value: 1046 }, { name: "35", value: 1023 }, { name: "36", value: 940 }, { name: "37", value: 926 }, { name: "38", value: 890 }, { name: "39", value: 837 }, { name: "40", value: 786 }, { name: "42", value: 751 }, { name: "41", value: 742 }, { name: "44", value: 723 }, { name: "43", value: 707 }, { name: "45", value: 687 }, { name: "46", value: 656 }, { name: "48", value: 614 }, { name: "51", value: 580 }, { name: "50", value: 580 }, { name: "49", value: 573 }, { name: "47", value: 567 }, { name: "52", value: 541 }, { name: "53", value: 523 }, { name: "54", value: 517 }, { name: "55", value: 514 }, { name: "57", value: 492 }, { name: "63", value: 470 }, { name: "61", value: 468 }, { name: "59", value: 462 }, { name: "56", value: 460 }, { name: "60", value: 446 }, { name: "62", value: 439 }, { name: "58", value: 417 }, { name: "64", value: 412 }, { name: "67", value: 410 }, { name: "66", value: 390 }, { name: "69", value: 388 }, { name: "65", value: 377 }, { name: "71", value: 365 }, { name: "70", value: 352 }, { name: "68", value: 346 }, { name: "73", value: 344 }, { name: "74", value: 330 }, { name: "72", value: 320 }, { name: "77", value: 319 }, { name: "85", value: 312 }, { name: "75", value: 308 }, { name: "76", value: 301 }, { name: "86", value: 299 }, { name: "82", value: 290 }, { name: "78", value: 289 }, { name: "83", value: 286 }, { name: "81", value: 285 }, { name: "80", value: 284 }, { name: "89", value: 268 }, { name: "94", value: 264 }, { name: "79", value: 258 }, { name: "88", value: 253 }, { name: "87", value: 246 }, { name: "84", value: 243 }, { name: "90", value: 243 }, { name: "99", value: 239 }, { name: "92", value: 234 }, { name: "102", value: 230 }, { name: "103", value: 218 }, { name: "110", value: 216 }, { name: "91", value: 210 }, { name: "98", value: 210 }, { name: "95", value: 208 }, { name: "96", value: 207 }, { name: "93", value: 206 }, { name: "97", value: 203 }, { name: "104", value: 197 }, { name: "112", value: 194 }, { name: "108", value: 193 }, { name: "114", value: 190 }, { name: "106", value: 189 }, { name: "111", value: 177 }, { name: "100", value: 174 }, { name: "115", value: 172 }, { name: "109", value: 167 }, { name: "119", value: 165 }, { name: "117", value: 164 }, { name: "101", value: 163 }, { name: "118", value: 162 }, { name: "105", value: 161 }, { name: "113", value: 158 }, { name: "120", value: 154 }, { name: "116", value: 154 }, { name: "126", value: 151 }, { name: "121", value: 150 }, { name: "123", value: 149 }, { name: "132", value: 149 }, { name: "122", value: 148 }, { name: "129", value: 147 }, { name: "107", value: 146 }, { name: "127", value: 142 }, { name: "124", value: 140 }, { name: "134", value: 138 }, { name: "128", value: 137 }, { name: "141", value: 136 }, { name: "146", value: 134 }, { name: "125", value: 134 }, { name: "130", value: 133 }, { name: "137", value: 131 }, { name: "131", value: 130 }, { name: "142", value: 127 }, { name: "158", value: 125 }, { name: "138", value: 124 }, { name: "143", value: 124 }, { name: "133", value: 123 }, { name: "145", value: 121 }, { name: "159", value: 120 }, { name: "150", value: 119 }, { name: "152", value: 118 }, { name: "136", value: 118 }, { name: "140", value: 117 }, { name: "144", value: 117 }, { name: "154", value: 116 }, { name: "153", value: 116 }, { name: "135", value: 115 }, { name: "155", value: 115 }, { name: "139", value: 115 }, { name: "157", value: 114 }, { name: "160", value: 110 }, { name: "148", value: 108 }, { name: "151", value: 106 }, { name: "174", value: 106 }, { name: "156", value: 106 }, { name: "147", value: 103 }, { name: "164", value: 103 }, { name: "149", value: 101 }, { name: "162", value: 99 }, { name: "166", value: 98 }, { name: "179", value: 96 }, { name: "170", value: 95 }, { name: "172", value: 92 }, { name: "185", value: 92 }, { name: "184", value: 92 }, { name: "169", value: 91 }, { name: "182", value: 90 }, { name: "161", value: 88 }, { name: "180", value: 87 }, { name: "163", value: 86 }, { name: "176", value: 84 }, { name: "167", value: 83 }, { name: "168", value: 82 }, { name: "178", value: 82 }, { name: "183", value: 82 }, { name: "175", value: 82 }, { name: "173", value: 81 }, { name: "239", value: 80 }, { name: "197", value: 80 }, { name: "165", value: 79 }, { name: "199", value: 78 }, { name: "181", value: 78 }, { name: "189", value: 78 }, { name: "188", value: 78 }, { name: "206", value: 77 }, { name: "171", value: 76 }, { name: "201", value: 75 }, { name: "208", value: 75 }, { name: "193", value: 74 }, { name: "205", value: 74 }, { name: "213", value: 74 }, { name: "202", value: 73 }, { name: "196", value: 72 }, { name: "246", value: 71 }, { name: "243", value: 71 }, { name: "191", value: 70 }, { name: "224", value: 70 }, { name: "186", value: 69 }, { name: "235", value: 69 }, { name: "216", value: 69 }, { name: "177", value: 69 }, { name: "194", value: 69 }, { name: "211", value: 68 }, { name: "218", value: 68 }, { name: "209", value: 68 }, { name: "265", value: 67 }, { name: "204", value: 67 }, { name: "207", value: 66 }, { name: "192", value: 65 }, { name: "214", value: 65 }, { name: "200", value: 64 }, { name: "190", value: 64 }, { name: "212", value: 62 }, { name: "238", value: 61 }, { name: "210", value: 61 }, { name: "221", value: 60 }, { name: "222", value: 60 }, { name: "225", value: 59 }, { name: "187", value: 59 }, { name: "215", value: 59 }, { name: "217", value: 59 }, { name: "195", value: 58 }, { name: "229", value: 58 }, { name: "220", value: 58 }, { name: "242", value: 58 }, { name: "259", value: 58 }, { name: "203", value: 57 }, { name: "228", value: 56 }, { name: "227", value: 56 }, { name: "226", value: 56 }, { name: "232", value: 54 }, { name: "223", value: 54 }, { name: "267", value: 54 }, { name: "250", value: 54 }, { name: "249", value: 53 }, { name: "247", value: 53 }, { name: "231", value: 52 }, { name: "230", value: 52 }, { name: "252", value: 52 }, { name: "245", value: 52 }, { name: "255", value: 52 }, { name: "248", value: 52 }, { name: "283", value: 52 }, { name: "219", value: 51 }, { name: "262", value: 51 }, { name: "234", value: 51 }, { name: "263", value: 51 }, { name: "264", value: 51 }, { name: "198", value: 50 }, { name: "278", value: 50 }, { name: "266", value: 50 }, { name: "233", value: 50 }, { name: "274", value: 49 }, { name: "236", value: 49 }, { name: "282", value: 49 }, { name: "281", value: 49 }, { name: "304", value: 49 }, { name: "288", value: 48 }, { name: "275", value: 48 }, { name: "290", value: 48 }, { name: "291", value: 48 }, { name: "387", value: 48 }, { name: "302", value: 47 }, { name: "323", value: 47 }, { name: "240", value: 46 }, { name: "296", value: 46 }, { name: "289", value: 45 }, { name: "279", value: 45 }, { name: "257", value: 45 }, { name: "258", value: 45 }, { name: "237", value: 45 }, { name: "295", value: 44 }, { name: "273", value: 43 }, { name: "317", value: 43 }, { name: "339", value: 43 }, { name: "325", value: 43 }, { name: "306", value: 43 }, { name: "357", value: 42 }, { name: "256", value: 42 }, { name: "319", value: 42 }, { name: "260", value: 42 }, { name: "261", value: 42 }, { name: "254", value: 41 }, { name: "244", value: 41 }, { name: "377", value: 41 }, { name: "271", value: 41 }, { name: "270", value: 41 }, { name: "269", value: 41 }, { name: "308", value: 40 }, { name: "277", value: 40 }, { name: "285", value: 40 }, { name: "268", value: 40 }, { name: "354", value: 40 }, { name: "253", value: 40 }, { name: "309", value: 39 }, { name: "311", value: 39 }, { name: "353", value: 39 }, { name: "338", value: 38 }, { name: "272", value: 38 }, { name: "391", value: 38 }, { name: "299", value: 37 }, { name: "294", value: 37 }, { name: "287", value: 36 }, { name: "241", value: 36 }, { name: "378", value: 36 }, { name: "293", value: 36 }, { name: "366", value: 36 }, { name: "312", value: 36 }, { name: "326", value: 35 }, { name: "297", value: 35 }, { name: "334", value: 35 }, { name: "397", value: 35 }, { name: "373", value: 34 }, { name: "303", value: 34 }, { name: "305", value: 34 }, { name: "400", value: 34 }, { name: "348", value: 33 }, { name: "347", value: 33 }, { name: "340", value: 33 }, { name: "251", value: 33 }, { name: "363", value: 33 }, { name: "280", value: 33 }, { name: "328", value: 33 }, { name: "310", value: 33 }, { name: "361", value: 33 }, { name: "292", value: 32 }, { name: "333", value: 32 }, { name: "284", value: 32 }, { name: "320", value: 32 }, { name: "349", value: 32 }, { name: "300", value: 32 }, { name: "390", value: 31 }, { name: "276", value: 31 }, { name: "329", value: 31 }, { name: "380", value: 31 }, { name: "384", value: 30 }, { name: "350", value: 30 }, { name: "571", value: 30 }, { name: "419", value: 30 }, { name: "298", value: 30 }, { name: "463", value: 30 }, { name: "337", value: 30 }, { name: "444", value: 30 }, { name: "389", value: 30 }, { name: "402", value: 30 }, { name: "313", value: 29 }, { name: "322", value: 29 }, { name: "335", value: 29 }, { name: "672", value: 29 }, { name: "315", value: 29 }, { name: "376", value: 28 }, { name: "449", value: 28 }, { name: "448", value: 28 }, { name: "331", value: 28 }, { name: "465", value: 28 }, { name: "432", value: 28 }, { name: "388", value: 28 }, { name: "362", value: 28 }, { name: "344", value: 27 }, { name: "324", value: 27 }, { name: "382", value: 27 }, { name: "321", value: 27 }, { name: "399", value: 27 }, { name: "360", value: 27 }, { name: "316", value: 27 }, { name: "365", value: 27 }, { name: "394", value: 27 }, { name: "330", value: 27 }, { name: "396", value: 27 }, { name: "286", value: 26 }, { name: "301", value: 26 }, { name: "434", value: 26 }, { name: "650", value: 26 }, { name: "445", value: 26 }, { name: "433", value: 26 }, { name: "545", value: 26 }, { name: "495", value: 26 }, { name: "404", value: 26 }, { name: "327", value: 26 }, { name: "343", value: 26 }, { name: "370", value: 26 }, { name: "407", value: 26 }, { name: "381", value: 25 }, { name: "435", value: 25 }, { name: "342", value: 25 }, { name: "369", value: 25 }, { name: "367", value: 25 }, { name: "462", value: 24 }, { name: "345", value: 24 }, { name: "375", value: 24 }, { name: "314", value: 24 }, { name: "351", value: 24 }, { name: "447", value: 24 }, { name: "332", value: 24 }, { name: "318", value: 24 }, { name: "385", value: 24 }, { name: "408", value: 24 }, { name: "470", value: 24 }, { name: "478", value: 23 }, { name: "426", value: 23 }, { name: "307", value: 23 }, { name: "644", value: 23 }, { name: "490", value: 23 }, { name: "356", value: 23 }, { name: "374", value: 23 }, { name: "512", value: 23 }, { name: "352", value: 23 }, { name: "403", value: 23 }, { name: "371", value: 22 }, { name: "425", value: 22 }, { name: "413", value: 22 }, { name: "368", value: 22 }, { name: "424", value: 22 }, { name: "452", value: 22 }, { name: "359", value: 22 }, { name: "417", value: 22 }, { name: "372", value: 22 }, { name: "494", value: 22 }, { name: "438", value: 22 }, { name: "466", value: 22 }, { name: "341", value: 22 }, { name: "515", value: 22 }, { name: "595", value: 22 }, { name: "569", value: 22 }, { name: "499", value: 22 }, { name: "461", value: 22 }, { name: "430", value: 21 }, { name: "437", value: 21 }, { name: "346", value: 21 }, { name: "395", value: 21 }, { name: "355", value: 21 }, { name: "398", value: 21 }, { name: "451", value: 21 }, { name: "511", value: 21 }, { name: "572", value: 21 }, { name: "541", value: 21 }, { name: "498", value: 21 }, { name: "458", value: 20 }, { name: "406", value: 20 }, { name: "487", value: 20 }, { name: "420", value: 20 }, { name: "475", value: 20 }, { name: "460", value: 20 }, { name: "418", value: 20 }, { name: "364", value: 20 }, { name: "401", value: 20 }, { name: "519", value: 20 }, { name: "483", value: 20 }, { name: "415", value: 20 }, { name: "502", value: 20 }, { name: "386", value: 20 }, { name: "523", value: 19 }, { name: "411", value: 19 }, { name: "531", value: 19 }, { name: "414", value: 19 }, { name: "527", value: 19 }, { name: "577", value: 19 }, { name: "421", value: 19 }, { name: "525", value: 19 }, { name: "481", value: 19 }, { name: "488", value: 19 }, { name: "416", value: 19 }, { name: "500", value: 19 }, { name: "497", value: 19 }, { name: "555", value: 19 }, { name: "776", value: 19 }, { name: "440", value: 19 }, { name: "509", value: 19 }, { name: "501", value: 19 }, { name: "457", value: 19 }, { name: "491", value: 19 }, { name: "482", value: 19 }, { name: "493", value: 19 }, { name: "358", value: 19 }, { name: "428", value: 19 }, { name: "336", value: 19 }, { name: "538", value: 19 }, { name: "675", value: 18 }, { name: "588", value: 18 }, { name: "591", value: 18 }, { name: "412", value: 18 }, { name: "393", value: 18 }, { name: "596", value: 18 }, { name: "383", value: 18 }, { name: "443", value: 18 }, { name: "473", value: 18 }, { name: "436", value: 18 }, { name: "558", value: 18 }, { name: "546", value: 18 }, { name: "560", value: 18 }, { name: "504", value: 18 }, { name: "539", value: 18 }, { name: "471", value: 18 }, { name: "459", value: 18 }, { name: "441", value: 18 }, { name: "477", value: 18 }, { name: "405", value: 17 }, { name: "534", value: 17 }, { name: "516", value: 17 }, { name: "666", value: 17 }, { name: "517", value: 17 }, { name: "624", value: 17 }, { name: "453", value: 17 }, { name: "521", value: 17 }, { name: "496", value: 17 }, { name: "559", value: 17 }, { name: "777", value: 17 }, { name: "553", value: 17 }, { name: "535", value: 17 }, { name: "574", value: 16 }, { name: "549", value: 16 }, { name: "561", value: 16 }, { name: "548", value: 16 }, { name: "513", value: 16 }, { name: "532", value: 16 }, { name: "809", value: 16 }, { name: "524", value: 16 }, { name: "507", value: 16 }, { name: "670", value: 16 }, { name: "410", value: 16 }, { name: "658", value: 16 }, { name: "625", value: 16 }, { name: "623", value: 16 }, { name: "427", value: 16 }, { name: "429", value: 16 }, { name: "608", value: 16 }, { name: "467", value: 16 }, { name: "635", value: 16 }, { name: "485", value: 16 }, { name: "638", value: 16 }, { name: "442", value: 16 }, { name: "641", value: 16 }, { name: "611", value: 16 }, { name: "530", value: 15 }, { name: "575", value: 15 }, { name: "422", value: 15 }, { name: "652", value: 15 }, { name: "423", value: 15 }, { name: "472", value: 15 }, { name: "566", value: 15 }, { name: "579", value: 15 }, { name: "431", value: 15 }, { name: "547", value: 15 }, { name: "1057", value: 15 }, { name: "631", value: 15 }, { name: "745", value: 15 }, { name: "409", value: 15 }, { name: "581", value: 15 }, { name: "514", value: 15 }, { name: "489", value: 15 }, { name: "686", value: 15 }, { name: "609", value: 15 }, { name: "845", value: 15 }, { name: "586", value: 15 }, { name: "503", value: 15 }, { name: "905", value: 14 }, { name: "647", value: 14 }, { name: "537", value: 14 }, { name: "605", value: 14 }, { name: "456", value: 14 }, { name: "563", value: 14 }, { name: "508", value: 14 }, { name: "454", value: 14 }, { name: "540", value: 14 }, { name: "556", value: 14 }, { name: "468", value: 14 }, { name: "510", value: 14 }, { name: "392", value: 14 }, { name: "476", value: 14 }, { name: "655", value: 14 }, { name: "592", value: 14 }, { name: "446", value: 14 }, { name: "619", value: 14 }, { name: "518", value: 14 }, { name: "653", value: 14 }, { name: "694", value: 14 }, { name: "800", value: 14 }, { name: "570", value: 14 }, { name: "615", value: 14 }, { name: "578", value: 13 }, { name: "717", value: 13 }, { name: "557", value: 13 }, { name: "750", value: 13 }, { name: "637", value: 13 }, { name: "568", value: 13 }, { name: "602", value: 13 }, { name: "720", value: 13 }, { name: "649", value: 13 }, { name: "604", value: 13 }, { name: "562", value: 13 }, { name: "679", value: 13 }, { name: "626", value: 13 }, { name: "703", value: 13 }, { name: "587", value: 13 }, { name: "536", value: 13 }, { name: "754", value: 13 }, { name: "450", value: 13 }, { name: "920", value: 13 }, { name: "1061", value: 13 }, { name: "882", value: 13 }, { name: "520", value: 13 }, { name: "522", value: 13 }, { name: "789", value: 13 }, { name: "787", value: 13 }, { name: "600", value: 12 }, { name: "662", value: 12 }, { name: "665", value: 12 }, { name: "911", value: 12 }, { name: "601", value: 12 }, { name: "590", value: 12 }, { name: "898", value: 12 }, { name: "671", value: 12 }, { name: "930", value: 12 }, { name: "589", value: 12 }, { name: "875", value: 12 }, { name: "867", value: 12 }, { name: "585", value: 12 }, { name: "661", value: 12 }, { name: "1397", value: 12 }, { name: "606", value: 12 }, { name: "688", value: 12 }, { name: "439", value: 12 }, { name: "455", value: 12 }, { name: "636", value: 12 }, { name: "464", value: 12 }, { name: "634", value: 12 }, { name: "1046", value: 12 }, { name: "1038", value: 12 }, { name: "479", value: 12 }, { name: "654", value: 12 }, { name: "618", value: 12 }, { name: "484", value: 12 }, { name: "957", value: 12 }, { name: "657", value: 12 }, { name: "610", value: 12 }, { name: "660", value: 12 }, { name: "853", value: 12 }, { name: "642", value: 12 }, { name: "379", value: 12 }, { name: "782", value: 12 }, { name: "737", value: 12 }, { name: "805", value: 12 }, { name: "542", value: 12 }, { name: "528", value: 12 }, { name: "815", value: 12 }, { name: "734", value: 12 }, { name: "827", value: 12 }, { name: "704", value: 12 }, { name: "791", value: 12 }, { name: "580", value: 12 }, { name: "739", value: 12 }, { name: "744", value: 12 }, { name: "550", value: 12 }, { name: "700", value: 12 }, { name: "646", value: 11 }, { name: "614", value: 11 }, { name: "565", value: 11 }, { name: "962", value: 11 }, { name: "761", value: 11 }, { name: "480", value: 11 }, { name: "621", value: 11 }, { name: "786", value: 11 }, { name: "743", value: 11 }, { name: "1189", value: 11 }, { name: "543", value: 11 }, { name: "1113", value: 11 }, { name: "544", value: 11 }, { name: "474", value: 11 }, { name: "632", value: 11 }, { name: "651", value: 11 }, { name: "783", value: 11 }, { name: "1081", value: 11 }, { name: "1098", value: 11 }, { name: "733", value: 11 }, { name: "792", value: 11 }, { name: "951", value: 11 }, { name: "843", value: 11 }, { name: "696", value: 11 }, { name: "698", value: 11 }, { name: "682", value: 11 }, { name: "680", value: 11 }, { name: "874", value: 11 }, { name: "552", value: 11 }, { name: "885", value: 11 }, { name: "506", value: 11 }, { name: "886", value: 11 }, { name: "526", value: 11 }, { name: "576", value: 11 }, { name: "598", value: 11 }, { name: "705", value: 11 }, { name: "669", value: 11 }, { name: "714", value: 11 }, { name: "818", value: 11 }, { name: "1458", value: 11 }, { name: "814", value: 11 }, { name: "723", value: 11 }, { name: "573", value: 11 }, { name: "607", value: 11 }, { name: "725", value: 11 }, { name: "582", value: 11 }, { name: "492", value: 11 }, { name: "883", value: 11 }, { name: "627", value: 11 }, { name: "1045", value: 10 }, { name: "715", value: 10 }, { name: "1230", value: 10 }, { name: "678", value: 10 }, { name: "851", value: 10 }, { name: "852", value: 10 }, { name: "505", value: 10 }, { name: "935", value: 10 }, { name: "923", value: 10 }, { name: "643", value: 10 }, { name: "640", value: 10 }, { name: "1082", value: 10 }, { name: "639", value: 10 }, { name: "617", value: 10 }, { name: "892", value: 10 }, { name: "599", value: 10 }, { name: "597", value: 10 }, { name: "1020", value: 10 }, { name: "701", value: 10 }, { name: "1022", value: 10 }, { name: "730", value: 10 }, { name: "780", value: 10 }, { name: "779", value: 10 }, { name: "1134", value: 10 }, { name: "802", value: 10 }, { name: "752", value: 10 }, { name: "804", value: 10 }, { name: "811", value: 10 }, { name: "812", value: 10 }, { name: "1146", value: 10 }, { name: "907", value: 10 }, { name: "728", value: 10 }, { name: "727", value: 10 }, { name: "1034", value: 10 }, { name: "469", value: 9 }, { name: "1195", value: 9 }, { name: "982", value: 9 }, { name: "1292", value: 9 }, { name: "994", value: 9 }, { name: "999", value: 9 }, { name: "1263", value: 9 }, { name: "1141", value: 9 }, { name: "564", value: 9 }, { name: "908", value: 9 }, { name: "1233", value: 9 }, { name: "584", value: 9 }, { name: "1160", value: 9 }, { name: "1058", value: 9 }, { name: "902", value: 9 }, { name: "616", value: 9 }, { name: "794", value: 9 }, { name: "755", value: 9 }, { name: "732", value: 9 }, { name: "816", value: 9 }, { name: "724", value: 9 }, { name: "721", value: 9 }, { name: "716", value: 9 }, { name: "823", value: 9 }, { name: "828", value: 9 }, { name: "709", value: 9 }, { name: "697", value: 9 }, { name: "687", value: 9 }, { name: "681", value: 9 }, { name: "847", value: 9 }, { name: "848", value: 9 }, { name: "667", value: 9 }, { name: "663", value: 9 }, { name: "857", value: 9 }, { name: "1105", value: 9 }, { name: "862", value: 9 }, { name: "554", value: 9 }, { name: "1078", value: 9 }, { name: "1087", value: 9 }, { name: "1075", value: 9 }, { name: "684", value: 8 }, { name: "1339", value: 8 }, { name: "759", value: 8 }, { name: "877", value: 8 }, { name: "895", value: 8 }, { name: "692", value: 8 }, { name: "795", value: 8 }, { name: "689", value: 8 }, { name: "633", value: 8 }, { name: "685", value: 8 }, { name: "1689", value: 8 }, { name: "486", value: 8 }, { name: "1894", value: 8 }, { name: "1028", value: 8 }, { name: "893", value: 8 }, { name: "1373", value: 8 }, { name: "1101", value: 8 }, { name: "2587", value: 8 }, { name: "949", value: 8 }, { name: "1158", value: 8 }, { name: "1410", value: 8 }, { name: "1145", value: 8 }, { name: "854", value: 8 }, { name: "1142", value: 8 }, { name: "939", value: 8 }, { name: "630", value: 8 }, { name: "612", value: 8 }, { name: "912", value: 8 }, { name: "879", value: 8 }, { name: "738", value: 8 }, { name: "1767", value: 8 }, { name: "1242", value: 8 }, { name: "1241", value: 8 }, { name: "731", value: 8 }, { name: "810", value: 8 }, { name: "742", value: 8 }, { name: "1547", value: 8 }, { name: "820", value: 8 }, { name: "821", value: 8 }, { name: "808", value: 8 }, { name: "991", value: 8 }, { name: "831", value: 8 }, { name: "593", value: 8 }, { name: "749", value: 8 }, { name: "1217", value: 8 }, { name: "978", value: 8 }, { name: "622", value: 8 }, { name: "713", value: 8 }, { name: "711", value: 8 }, { name: "603", value: 8 }, { name: "629", value: 8 }, { name: "971", value: 8 }, { name: "830", value: 8 }, { name: "1199", value: 8 }, { name: "1250", value: 8 }, { name: "1462", value: 8 }, { name: "533", value: 8 }, { name: "648", value: 8 }, { name: "551", value: 8 }, { name: "567", value: 8 }, { name: "865", value: 8 }, { name: "1110", value: 8 }, { name: "774", value: 8 }, { name: "924", value: 8 }, { name: "928", value: 8 }, { name: "1117", value: 8 }, { name: "918", value: 8 }, { name: "529", value: 8 }, { name: "1059", value: 8 }, { name: "1345", value: 7 }, { name: "921", value: 7 }, { name: "1030", value: 7 }, { name: "961", value: 7 }, { name: "1633", value: 7 }, { name: "695", value: 7 }, { name: "841", value: 7 }, { name: "718", value: 7 }, { name: "693", value: 7 }, { name: "906", value: 7 }, { name: "746", value: 7 }, { name: "1099", value: 7 }, { name: "2077", value: 7 }, { name: "1182", value: 7 }, { name: "1522", value: 7 }, { name: "722", value: 7 }, { name: "919", value: 7 }, { name: "1127", value: 7 }, { name: "699", value: 7 }, { name: "797", value: 7 }, { name: "613", value: 7 }, { name: "896", value: 7 }, { name: "1644", value: 7 }, { name: "1024", value: 7 }, { name: "878", value: 7 }, { name: "1207", value: 7 }, { name: "1049", value: 7 }, { name: "829", value: 7 }, { name: "825", value: 7 }, { name: "869", value: 7 }, { name: "628", value: 7 }, { name: "1205", value: 7 }, { name: "824", value: 7 }, { name: "1298", value: 7 }, { name: "1201", value: 7 }, { name: "756", value: 7 }, { name: "863", value: 7 }, { name: "969", value: 7 }, { name: "785", value: 7 }, { name: "708", value: 7 }, { name: "822", value: 7 }, { name: "966", value: 7 }, { name: "702", value: 7 }, { name: "836", value: 7 }, { name: "1460", value: 7 }, { name: "1007", value: 7 }, { name: "1122", value: 7 }, { name: "884", value: 7 }, { name: "1013", value: 7 }, { name: "1405", value: 7 }, { name: "766", value: 7 }, { name: "1084", value: 7 }, { name: "1159", value: 7 }, { name: "781", value: 7 }, { name: "1546", value: 7 }, { name: "676", value: 7 }, { name: "1979", value: 7 }, { name: "1077", value: 7 }, { name: "1413", value: 7 }, { name: "1064", value: 7 }, { name: "2131", value: 7 }, { name: "1400", value: 7 }, { name: "1150", value: 7 }, { name: "1085", value: 7 }, { name: "1039", value: 7 }, { name: "1419", value: 7 }, { name: "790", value: 7 }, { name: "1047", value: 7 }, { name: "1011", value: 7 }, { name: "1042", value: 7 }, { name: "664", value: 7 }, { name: "936", value: 7 }, { name: "873", value: 7 }, { name: "677", value: 7 }, { name: "1211", value: 7 }, { name: "1163", value: 7 }, { name: "950", value: 7 }, { name: "997", value: 7 }, { name: "683", value: 7 }, { name: "1381", value: 7 }, { name: "1108", value: 7 }, { name: "860", value: 7 }, { name: "729", value: 7 }, { name: "1095", value: 7 }, { name: "1682", value: 7 }, { name: "1017", value: 7 }, { name: "1001", value: 7 }, { name: "1035", value: 7 }, { name: "1132", value: 7 }, { name: "1390", value: 7 }, { name: "1393", value: 7 }, { name: "1166", value: 7 }, { name: "1282", value: 6 }, { name: "1002", value: 6 }, { name: "2343", value: 6 }, { name: "864", value: 6 }, { name: "868", value: 6 }, { name: "917", value: 6 }, { name: "645", value: 6 }, { name: "998", value: 6 }, { name: "996", value: 6 }, { name: "1755", value: 6 }, { name: "988", value: 6 }, { name: "1005", value: 6 }, { name: "1623", value: 6 }, { name: "1265", value: 6 }, { name: "989", value: 6 }, { name: "1284", value: 6 }, { name: "985", value: 6 }, { name: "1268", value: 6 }, { name: "1630", value: 6 }, { name: "987", value: 6 }, { name: "1491", value: 6 }, { name: "2499", value: 6 }, { name: "2345", value: 6 }, { name: "1463", value: 6 }, { name: "659", value: 6 }, { name: "583", value: 6 }, { name: "952", value: 6 }, { name: "1684", value: 6 }, { name: "1384", value: 6 }, { name: "929", value: 6 }, { name: "1387", value: 6 }, { name: "1449", value: 6 }, { name: "1395", value: 6 }, { name: "1398", value: 6 }, { name: "1676", value: 6 }, { name: "942", value: 6 }, { name: "1407", value: 6 }, { name: "1675", value: 6 }, { name: "1673", value: 6 }, { name: "2149", value: 6 }, { name: "1668", value: 6 }, { name: "1417", value: 6 }, { name: "1418", value: 6 }, { name: "668", value: 6 }, { name: "1079", value: 6 }, { name: "1425", value: 6 }, { name: "1445", value: 6 }, { name: "871", value: 6 }, { name: "1088", value: 6 }, { name: "1313", value: 6 }, { name: "1357", value: 6 }, { name: "975", value: 6 }, { name: "973", value: 6 }, { name: "710", value: 6 }, { name: "1483", value: 6 }, { name: "1482", value: 6 }, { name: "2179", value: 6 }, { name: "1720", value: 6 }, { name: "1718", value: 6 }, { name: "656", value: 6 }, { name: "706", value: 6 }, { name: "904", value: 6 }, { name: "870", value: 6 }, { name: "964", value: 6 }, { name: "934", value: 6 }, { name: "1343", value: 6 }, { name: "838", value: 6 }, { name: "1347", value: 6 }, { name: "2353", value: 6 }, { name: "922", value: 6 }, { name: "1526", value: 6 }, { name: "914", value: 6 }, { name: "690", value: 6 }, { name: "1090", value: 6 }, { name: "955", value: 6 }, { name: "984", value: 6 }, { name: "1621", value: 6 }, { name: "763", value: 6 }, { name: "771", value: 6 }, { name: "2859", value: 6 }, { name: "1867", value: 6 }, { name: "1143", value: 6 }, { name: "769", value: 6 }, { name: "1153", value: 6 }, { name: "1162", value: 6 }, { name: "1036", value: 6 }, { name: "1168", value: 6 }, { name: "747", value: 6 }, { name: "891", value: 6 }, { name: "1130", value: 6 }, { name: "1179", value: 6 }, { name: "1184", value: 6 }, { name: "796", value: 6 }, { name: "758", value: 6 }, { name: "1191", value: 6 }, { name: "751", value: 6 }, { name: "798", value: 6 }, { name: "803", value: 6 }, { name: "1027", value: 6 }, { name: "1196", value: 6 }, { name: "772", value: 6 }, { name: "620", value: 6 }, { name: "1847", value: 6 }, { name: "889", value: 6 }, { name: "888", value: 6 }, { name: "784", value: 6 }, { name: "1111", value: 6 }, { name: "775", value: 6 }, { name: "1010", value: 6 }, { name: "1116", value: 6 }, { name: "916", value: 5 }, { name: "1690", value: 5 }, { name: "1641", value: 5 }, { name: "3837", value: 5 }, { name: "842", value: 5 }, { name: "1031", value: 5 }, { name: "2628", value: 5 }, { name: "1360", value: 5 }, { name: "1814", value: 5 }, { name: "3304", value: 5 }, { name: "1385", value: 5 }, { name: "2593", value: 5 }, { name: "1366", value: 5 }, { name: "4056", value: 5 }, { name: "1185", value: 5 }, { name: "1033", value: 5 }, { name: "1378", value: 5 }, { name: "1171", value: 5 }, { name: "1073", value: 5 }, { name: "1380", value: 5 }, { name: "691", value: 5 }, { name: "1855", value: 5 }, { name: "1634", value: 5 }, { name: "1680", value: 5 }, { name: "2910", value: 5 }, { name: "970", value: 5 }, { name: "799", value: 5 }, { name: "1327", value: 5 }, { name: "832", value: 5 }, { name: "707", value: 5 }, { name: "4190", value: 5 }, { name: "1840", value: 5 }, { name: "1553", value: 5 }, { name: "2207", value: 5 }, { name: "1051", value: 5 }, { name: "1495", value: 5 }, { name: "1029", value: 5 }, { name: "837", value: 5 }, { name: "3733", value: 5 }, { name: "778", value: 5 }, { name: "1344", value: 5 }, { name: "1188", value: 5 }, { name: "1903", value: 5 }, { name: "1350", value: 5 }, { name: "1186", value: 5 }, { name: "8416", value: 5 }, { name: "1165", value: 5 }, { name: "1167", value: 5 }, { name: "1467", value: 5 }, { name: "1119", value: 5 }, { name: "1426", value: 5 }, { name: "2136", value: 5 }, { name: "2230", value: 5 }, { name: "1431", value: 5 }, { name: "1140", value: 5 }, { name: "1080", value: 5 }, { name: "1436", value: 5 }, { name: "1866", value: 5 }, { name: "1137", value: 5 }, { name: "2493", value: 5 }, { name: "2146", value: 5 }, { name: "1043", value: 5 }, { name: "1450", value: 5 }, { name: "1649", value: 5 }, { name: "1044", value: 5 }, { name: "1616", value: 5 }, { name: "861", value: 5 }, { name: "1857", value: 5 }, { name: "925", value: 5 }, { name: "773", value: 5 }, { name: "788", value: 5 }, { name: "1421", value: 5 }, { name: "1040", value: 5 }, { name: "793", value: 5 }, { name: "1396", value: 5 }, { name: "2570", value: 5 }, { name: "948", value: 5 }, { name: "1399", value: 5 }, { name: "1835", value: 5 }, { name: "1884", value: 5 }, { name: "849", value: 5 }, { name: "945", value: 5 }, { name: "1048", value: 5 }, { name: "2301", value: 5 }, { name: "1821", value: 5 }, { name: "1550", value: 5 }, { name: "1156", value: 5 }, { name: "1409", value: 5 }, { name: "850", value: 5 }, { name: "673", value: 5 }, { name: "768", value: 5 }, { name: "1412", value: 5 }, { name: "1480", value: 5 }, { name: "1416", value: 5 }, { name: "1408", value: 5 }, { name: "1032", value: 5 }, { name: "1503", value: 5 }, { name: "736", value: 5 }, { name: "1581", value: 5 }, { name: "594", value: 5 }, { name: "2822", value: 5 }, { name: "741", value: 5 }, { name: "1535", value: 5 }, { name: "2788", value: 5 }, { name: "726", value: 5 }, { name: "1065", value: 5 }, { name: "1579", value: 5 }, { name: "977", value: 5 }, { name: "1257", value: 5 }, { name: "1023", value: 5 }, { name: "1093", value: 5 }, { name: "1577", value: 5 }, { name: "979", value: 5 }, { name: "1303", value: 5 }, { name: "980", value: 5 }, { name: "1932", value: 5 }, { name: "1295", value: 5 }, { name: "1299", value: 5 }, { name: "1545", value: 5 }, { name: "1578", value: 5 }, { name: "1015", value: 5 }, { name: "1222", value: 5 }, { name: "740", value: 5 }, { name: "1267", value: 5 }, { name: "1266", value: 5 }, { name: "1779", value: 5 }, { name: "1213", value: 5 }, { name: "753", value: 5 }, { name: "1993", value: 5 }, { name: "1539", value: 5 }, { name: "1283", value: 5 }, { name: "2833", value: 5 }, { name: "2318", value: 5 }, { name: "1206", value: 5 }, { name: "1275", value: 5 }, { name: "2323", value: 5 }, { name: "1229", value: 5 }, { name: "1097", value: 5 }, { name: "1246", value: 5 }, { name: "1956", value: 5 }, { name: "1231", value: 5 }, { name: "1228", value: 5 }, { name: "1941", value: 5 }, { name: "2897", value: 5 }, { name: "2142", value: 4 }, { name: "1238", value: 4 }, { name: "1278", value: 4 }, { name: "1443", value: 4 }, { name: "3022", value: 4 }, { name: "770", value: 4 }, { name: "1874", value: 4 }, { name: "1000", value: 4 }, { name: "1863", value: 4 }, { name: "1667", value: 4 }, { name: "890", value: 4 }, { name: "3019", value: 4 }, { name: "1131", value: 4 }, { name: "1448", value: 4 }, { name: "931", value: 4 }, { name: "1513", value: 4 }, { name: "13385", value: 4 }, { name: "1054", value: 4 }, { name: "1269", value: 4 }, { name: "933", value: 4 }, { name: "1780", value: 4 }, { name: "938", value: 4 }, { name: "937", value: 4 }, { name: "1607", value: 4 }, { name: "4521", value: 4 }, { name: "1754", value: 4 }, { name: "1066", value: 4 }, { name: "4022", value: 4 }, { name: "1433", value: 4 }, { name: "1139", value: 4 }, { name: "2783", value: 4 }, { name: "1452", value: 4 }, { name: "1091", value: 4 }, { name: "1434", value: 4 }, { name: "4623", value: 4 }, { name: "1441", value: 4 }, { name: "2132", value: 4 }, { name: "2498", value: 4 }, { name: "1420", value: 4 }, { name: "1752", value: 4 }, { name: "1663", value: 4 }, { name: "1136", value: 4 }, { name: "2376", value: 4 }, { name: "1204", value: 4 }, { name: "1611", value: 4 }, { name: "2407", value: 4 }, { name: "1836", value: 4 }, { name: "1006", value: 4 }, { name: "1253", value: 4 }, { name: "1506", value: 4 }, { name: "2419", value: 4 }, { name: "2416", value: 4 }, { name: "735", value: 4 }, { name: "2415", value: 4 }, { name: "1632", value: 4 }, { name: "1086", value: 4 }, { name: "1112", value: 4 }, { name: "1769", value: 4 }, { name: "866", value: 4 }, { name: "1496", value: 4 }, { name: "3735", value: 4 }, { name: "2266", value: 4 }, { name: "1052", value: 4 }, { name: "1570", value: 4 }, { name: "2205", value: 4 }, { name: "1504", value: 4 }, { name: "1625", value: 4 }, { name: "1109", value: 4 }, { name: "3217", value: 4 }, { name: "2208", value: 4 }, { name: "887", value: 4 }, { name: "1106", value: 4 }, { name: "1543", value: 4 }, { name: "2390", value: 4 }, { name: "1502", value: 4 }, { name: "1622", value: 4 }, { name: "1486", value: 4 }, { name: "3232", value: 4 }, { name: "872", value: 4 }, { name: "1125", value: 4 }, { name: "1016", value: 4 }, { name: "817", value: 4 }, { name: "1826", value: 4 }, { name: "2850", value: 4 }, { name: "2471", value: 4 }, { name: "2161", value: 4 }, { name: "3076", value: 4 }, { name: "1461", value: 4 }, { name: "1750", value: 4 }, { name: "5220", value: 4 }, { name: "1952", value: 4 }, { name: "1615", value: 4 }, { name: "6075", value: 4 }, { name: "2454", value: 4 }, { name: "1243", value: 4 }, { name: "3049", value: 4 }, { name: "1650", value: 4 }, { name: "1760", value: 4 }, { name: "1853", value: 4 }, { name: "2167", value: 4 }, { name: "4004", value: 4 }, { name: "1259", value: 4 }, { name: "1476", value: 4 }, { name: "1478", value: 4 }, { name: "2433", value: 4 }, { name: "5679", value: 4 }, { name: "3707", value: 4 }, { name: "2821", value: 4 }, { name: "1763", value: 4 }, { name: "3235", value: 4 }, { name: "1875", value: 4 }, { name: "1819", value: 4 }, { name: "1363", value: 4 }, { name: "2941", value: 4 }, { name: "2246", value: 4 }, { name: "1311", value: 4 }, { name: "2350", value: 4 }, { name: "1310", value: 4 }, { name: "2061", value: 4 }, { name: "2063", value: 4 }, { name: "2930", value: 4 }, { name: "1906", value: 4 }, { name: "2654", value: 4 }, { name: "1346", value: 4 }, { name: "2650", value: 4 }, { name: "2934", value: 4 }, { name: "2252", value: 4 }, { name: "1306", value: 4 }, { name: "1369", value: 4 }, { name: "2015", value: 4 }, { name: "1355", value: 4 }, { name: "2306", value: 4 }, { name: "748", value: 4 }, { name: "894", value: 4 }, { name: "1069", value: 4 }, { name: "1359", value: 4 }, { name: "2627", value: 4 }, { name: "983", value: 4 }, { name: "1180", value: 4 }, { name: "1100", value: 4 }, { name: "1933", value: 4 }, { name: "4270", value: 4 }, { name: "1192", value: 4 }, { name: "1312", value: 4 }, { name: "1554", value: 4 }, { name: "1062", value: 4 }, { name: "2899", value: 4 }, { name: "1071", value: 4 }, { name: "1322", value: 4 }, { name: "1203", value: 4 }, { name: "1799", value: 4 }, { name: "1324", value: 4 }, { name: "1200", value: 4 }, { name: "1317", value: 4 }, { name: "1325", value: 4 }, { name: "1316", value: 4 }, { name: "903", value: 4 }, { name: "1315", value: 4 }, { name: "974", value: 4 }, { name: "2036", value: 4 }, { name: "2037", value: 4 }, { name: "2683", value: 4 }, { name: "2038", value: 4 }, { name: "1912", value: 4 }, { name: "833", value: 4 }, { name: "1070", value: 4 }, { name: "1711", value: 4 }, { name: "1208", value: 4 }, { name: "2347", value: 4 }, { name: "1530", value: 4 }, { name: "2346", value: 4 }, { name: "976", value: 4 }, { name: "7443", value: 4 }, { name: "844", value: 4 }, { name: "1773", value: 4 }, { name: "1008", value: 4 }, { name: "1786", value: 4 }, { name: "2238", value: 4 }, { name: "3613", value: 4 }, { name: "993", value: 4 }, { name: "1677", value: 4 }, { name: "1290", value: 4 }, { name: "899", value: 4 }, { name: "3294", value: 4 }, { name: "1934", value: 4 }, { name: "2241", value: 4 }, { name: "1738", value: 4 }, { name: "1519", value: 4 }, { name: "1600", value: 4 }, { name: "1558", value: 4 }, { name: "764", value: 4 }, { name: "1289", value: 4 }, { name: "1037", value: 4 }, { name: "2239", value: 4 }, { name: "2003", value: 4 }, { name: "1286", value: 4 }, { name: "2111", value: 4 }, { name: "1604", value: 4 }, { name: "3618", value: 4 }, { name: "1285", value: 4 }, { name: "943", value: 4 }, { name: "1880", value: 4 }, { name: "1584", value: 4 }, { name: "719", value: 4 }, { name: "1549", value: 4 }, { name: "1154", value: 4 }, { name: "1559", value: 4 }, { name: "2541", value: 4 }, { name: "2954", value: 4 }, { name: "1886", value: 4 }, { name: "1688", value: 4 }, { name: "1377", value: 4 }, { name: "1060", value: 4 }, { name: "1174", value: 4 }, { name: "954", value: 4 }, { name: "1572", value: 4 }, { name: "1297", value: 4 }, { name: "4586", value: 4 }, { name: "2602", value: 4 }, { name: "909", value: 4 }, { name: "1178", value: 4 }, { name: "3591", value: 4 }, { name: "901", value: 4 }, { name: "1685", value: 4 }, { name: "2089", value: 4 }, { name: "1890", value: 4 }, { name: "2257", value: 4 }, { name: "8634", value: 4 }, { name: "4917", value: 4 }, { name: "2274", value: 3 }, { name: "2217", value: 3 }, { name: "876", value: 3 }, { name: "880", value: 3 }, { name: "1597", value: 3 }, { name: "3845", value: 3 }, { name: "1605", value: 3 }, { name: "2234", value: 3 }, { name: "2244", value: 3 }, { name: "2282", value: 3 }, { name: "1610", value: 3 }, { name: "1598", value: 3 }, { name: "2228", value: 3 }, { name: "3182", value: 3 }, { name: "881", value: 3 }, { name: "1580", value: 3 }, { name: "1619", value: 3 }, { name: "1588", value: 3 }, { name: "2265", value: 3 }, { name: "1573", value: 3 }, { name: "1592", value: 3 }, { name: "1587", value: 3 }, { name: "1053", value: 3 }, { name: "5700", value: 3 }, { name: "5015", value: 3 }, { name: "2204", value: 3 }, { name: "1794", value: 3 }, { name: "11358", value: 3 }, { name: "1936", value: 3 }, { name: "806", value: 3 }, { name: "1942", value: 3 }, { name: "1781", value: 3 }, { name: "1944", value: 3 }, { name: "1774", value: 3 }, { name: "4123", value: 3 }, { name: "1953", value: 3 }, { name: "7256", value: 3 }, { name: "1772", value: 3 }, { name: "1963", value: 3 }, { name: "813", value: 3 }, { name: "1764", value: 3 }, { name: "1971", value: 3 }, { name: "1972", value: 3 }, { name: "5858", value: 3 }, { name: "5162", value: 3 }, { name: "819", value: 3 }, { name: "1748", value: 3 }, { name: "1744", value: 3 }, { name: "1743", value: 3 }, { name: "2007", value: 3 }, { name: "1067", value: 3 }, { name: "3135", value: 3 }, { name: "2010", value: 3 }, { name: "1734", value: 3 }, { name: "1928", value: 3 }, { name: "1800", value: 3 }, { name: "1631", value: 3 }, { name: "4378", value: 3 }, { name: "3995", value: 3 }, { name: "1056", value: 3 }, { name: "3996", value: 3 }, { name: "1844", value: 3 }, { name: "1851", value: 3 }, { name: "4003", value: 3 }, { name: "8983", value: 3 }, { name: "1824", value: 3 }, { name: "1873", value: 3 }, { name: "767", value: 3 }, { name: "1818", value: 3 }, { name: "765", value: 3 }, { name: "1888", value: 3 }, { name: "1889", value: 3 }, { name: "762", value: 3 }, { name: "1895", value: 3 }, { name: "1896", value: 3 }, { name: "1900", value: 3 }, { name: "1813", value: 3 }, { name: "1810", value: 3 }, { name: "1807", value: 3 }, { name: "1908", value: 3 }, { name: "1909", value: 3 }, { name: "1805", value: 3 }, { name: "1804", value: 3 }, { name: "1802", value: 3 }, { name: "801", value: 3 }, { name: "1733", value: 3 }, { name: "1731", value: 3 }, { name: "826", value: 3 }, { name: "1726", value: 3 }, { name: "3178", value: 3 }, { name: "2113", value: 3 }, { name: "1670", value: 3 }, { name: "3919", value: 3 }, { name: "2126", value: 3 }, { name: "855", value: 3 }, { name: "2139", value: 3 }, { name: "856", value: 3 }, { name: "1662", value: 3 }, { name: "1660", value: 3 }, { name: "2151", value: 3 }, { name: "2153", value: 3 }, { name: "1656", value: 3 }, { name: "858", value: 3 }, { name: "2152", value: 3 }, { name: "2159", value: 3 }, { name: "2160", value: 3 }, { name: "1652", value: 3 }, { name: "2165", value: 3 }, { name: "2168", value: 3 }, { name: "2173", value: 3 }, { name: "2177", value: 3 }, { name: "2181", value: 3 }, { name: "2180", value: 3 }, { name: "5736", value: 3 }, { name: "1637", value: 3 }, { name: "1635", value: 3 }, { name: "2106", value: 3 }, { name: "2105", value: 3 }, { name: "1679", value: 3 }, { name: "1702", value: 3 }, { name: "1724", value: 3 }, { name: "6120", value: 3 }, { name: "2026", value: 3 }, { name: "1715", value: 3 }, { name: "6138", value: 3 }, { name: "1568", value: 3 }, { name: "834", value: 3 }, { name: "835", value: 3 }, { name: "3179", value: 3 }, { name: "1708", value: 3 }, { name: "2050", value: 3 }, { name: "4386", value: 3 }, { name: "2065", value: 3 }, { name: "3926", value: 3 }, { name: "2064", value: 3 }, { name: "2066", value: 3 }, { name: "840", value: 3 }, { name: "2070", value: 3 }, { name: "1695", value: 3 }, { name: "3933", value: 3 }, { name: "1694", value: 3 }, { name: "2083", value: 3 }, { name: "2085", value: 3 }, { name: "2093", value: 3 }, { name: "2092", value: 3 }, { name: "846", value: 3 }, { name: "6136", value: 3 }, { name: "1837", value: 3 }, { name: "4246", value: 3 }, { name: "1224", value: 3 }, { name: "2875", value: 3 }, { name: "1424", value: 3 }, { name: "3396", value: 3 }, { name: "940", value: 3 }, { name: "1414", value: 3 }, { name: "3626", value: 3 }, { name: "1019", value: 3 }, { name: "4495", value: 3 }, { name: "2538", value: 3 }, { name: "2540", value: 3 }, { name: "1232", value: 3 }, { name: "1234", value: 3 }, { name: "1018", value: 3 }, { name: "4220", value: 3 }, { name: "944", value: 3 }, { name: "2561", value: 3 }, { name: "946", value: 3 }, { name: "4104", value: 3 }, { name: "2846", value: 3 }, { name: "1014", value: 3 }, { name: "3423", value: 3 }, { name: "2837", value: 3 }, { name: "1247", value: 3 }, { name: "2828", value: 3 }, { name: "1379", value: 3 }, { name: "953", value: 3 }, { name: "3431", value: 3 }, { name: "3643", value: 3 }, { name: "3647", value: 3 }, { name: "1370", value: 3 }, { name: "3648", value: 3 }, { name: "2915", value: 3 }, { name: "1479", value: 3 }, { name: "1026", value: 3 }, { name: "2439", value: 3 }, { name: "2904", value: 3 }, { name: "1025", value: 3 }, { name: "3362", value: 3 }, { name: "1470", value: 3 }, { name: "2451", value: 3 }, { name: "1469", value: 3 }, { name: "4477", value: 3 }, { name: "2455", value: 3 }, { name: "1466", value: 3 }, { name: "926", value: 3 }, { name: "927", value: 3 }, { name: "1210", value: 3 }, { name: "1212", value: 3 }, { name: "1216", value: 3 }, { name: "1454", value: 3 }, { name: "3674", value: 3 }, { name: "2882", value: 3 }, { name: "2486", value: 3 }, { name: "2881", value: 3 }, { name: "1223", value: 3 }, { name: "2879", value: 3 }, { name: "1442", value: 3 }, { name: "2876", value: 3 }, { name: "1372", value: 3 }, { name: "1251", value: 3 }, { name: "1484", value: 3 }, { name: "1334", value: 3 }, { name: "1331", value: 3 }, { name: "1276", value: 3 }, { name: "1277", value: 3 }, { name: "1279", value: 3 }, { name: "6776", value: 3 }, { name: "1328", value: 3 }, { name: "2684", value: 3 }, { name: "2689", value: 3 }, { name: "2762", value: 3 }, { name: "995", value: 3 }, { name: "2693", value: 3 }, { name: "972", value: 3 }, { name: "2699", value: 3 }, { name: "1287", value: 3 }, { name: "1320", value: 3 }, { name: "1319", value: 3 }, { name: "2706", value: 3 }, { name: "1314", value: 3 }, { name: "1288", value: 3 }, { name: "992", value: 3 }, { name: "2717", value: 3 }, { name: "3472", value: 3 }, { name: "990", value: 3 }, { name: "5086", value: 3 }, { name: "3478", value: 3 }, { name: "3485", value: 3 }, { name: "1092", value: 3 }, { name: "2782", value: 3 }, { name: "965", value: 3 }, { name: "5467", value: 3 }, { name: "1336", value: 3 }, { name: "6712", value: 3 }, { name: "2618", value: 3 }, { name: "5349", value: 3 }, { name: "1255", value: 3 }, { name: "1362", value: 3 }, { name: "1361", value: 3 }, { name: "1256", value: 3 }, { name: "3568", value: 3 }, { name: "958", value: 3 }, { name: "2640", value: 3 }, { name: "3444", value: 3 }, { name: "1351", value: 3 }, { name: "2812", value: 3 }, { name: "960", value: 3 }, { name: "1260", value: 3 }, { name: "2647", value: 3 }, { name: "1004", value: 3 }, { name: "3554", value: 3 }, { name: "3555", value: 3 }, { name: "2665", value: 3 }, { name: "1264", value: 3 }, { name: "3450", value: 3 }, { name: "2795", value: 3 }, { name: "1341", value: 3 }, { name: "1567", value: 3 }, { name: "1271", value: 3 }, { name: "1337", value: 3 }, { name: "1481", value: 3 }, { name: "3670", value: 3 }, { name: "1301", value: 3 }, { name: "2380", value: 3 }, { name: "3768", value: 3 }, { name: "1511", value: 3 }, { name: "1124", value: 3 }, { name: "1123", value: 3 }, { name: "3288", value: 3 }, { name: "3245", value: 3 }, { name: "1161", value: 3 }, { name: "1169", value: 3 }, { name: "2327", value: 3 }, { name: "2973", value: 3 }, { name: "913", value: 3 }, { name: "3299", value: 3 }, { name: "915", value: 3 }, { name: "2383", value: 3 }, { name: "2382", value: 3 }, { name: "4046", value: 3 }, { name: "2385", value: 3 }, { name: "1118", value: 3 }, { name: "2391", value: 3 }, { name: "1104", value: 3 }, { name: "1540", value: 3 }, { name: "2986", value: 3 }, { name: "897", value: 3 }, { name: "1529", value: 3 }, { name: "2352", value: 3 }, { name: "2354", value: 3 }, { name: "2359", value: 3 }, { name: "1138", value: 3 }, { name: "1144", value: 3 }, { name: "1147", value: 3 }, { name: "1041", value: 3 }, { name: "1149", value: 3 }, { name: "1151", value: 3 }, { name: "3018", value: 3 }, { name: "2374", value: 3 }, { name: "7368", value: 3 }, { name: "1129", value: 3 }, { name: "2369", value: 3 }, { name: "4182", value: 3 }, { name: "6435", value: 3 }, { name: "2334", value: 3 }, { name: "1126", value: 3 }, { name: "900", value: 3 }, { name: "2372", value: 3 }, { name: "1176", value: 3 }, { name: "3243", value: 3 }, { name: "3103", value: 3 }, { name: "3736", value: 3 }, { name: "3073", value: 3 }, { name: "1490", value: 3 }, { name: "2305", value: 3 }, { name: "1183", value: 3 }, { name: "7024", value: 3 }, { name: "3312", value: 3 }, { name: "3319", value: 3 }, { name: "2308", value: 3 }, { name: "2410", value: 3 }, { name: "4321", value: 3 }, { name: "1493", value: 3 }, { name: "1187", value: 3 }, { name: "4404", value: 3 }, { name: "1190", value: 3 }, { name: "1114", value: 3 }, { name: "5143", value: 3 }, { name: "2956", value: 3 }, { name: "2293", value: 3 }, { name: "3082", value: 3 }, { name: "5275", value: 3 }, { name: "1194", value: 3 }, { name: "3728", value: 3 }, { name: "1497", value: 3 }, { name: "1551", value: 3 }, { name: "3206", value: 3 }, { name: "2298", value: 3 }, { name: "12505", value: 3 }, { name: "1115", value: 3 }, { name: "1758", value: 2 }, { name: "1296", value: 2 }, { name: "1135", value: 2 }, { name: "5922", value: 2 }, { name: "5226", value: 2 }, { name: "9299", value: 2 }, { name: "13394", value: 2 }, { name: "1262", value: 2 }, { name: "1003", value: 2 }, { name: "25703", value: 2 }, { name: "9933", value: 2 }, { name: "1759", value: 2 }, { name: "34078", value: 2 }, { name: "12210", value: 2 }, { name: "1825", value: 2 }, { name: "9323", value: 2 }, { name: "1834", value: 2 }, { name: "1828", value: 2 }, { name: "5216", value: 2 }, { name: "1050", value: 2 }, { name: "1749", value: 2 }, { name: "9478", value: 2 }, { name: "1120", value: 2 }, { name: "17387", value: 2 }, { name: "1121", value: 2 }, { name: "5161", value: 2 }, { name: "1102", value: 2 }, { name: "5380", value: 2 }, { name: "18128", value: 2 }, { name: "17491", value: 2 }, { name: "1745", value: 2 }, { name: "1094", value: 2 }, { name: "5842", value: 2 }, { name: "29780", value: 2 }, { name: "29959", value: 2 }, { name: "1274", value: 2 }, { name: "5223", value: 2 }, { name: "13408", value: 2 }, { name: "1273", value: 2 }, { name: "5215", value: 2 }, { name: "5370", value: 2 }, { name: "5163", value: 2 }, { name: "22212", value: 2 }, { name: "21528", value: 2 }, { name: "1198", value: 2 }, { name: "9193", value: 2 }, { name: "1227", value: 2 }, { name: "5908", value: 2 }, { name: "1300", value: 2 }, { name: "1220", value: 2 }, { name: "1181", value: 2 }, { name: "1790", value: 2 }, { name: "1221", value: 2 }, { name: "1789", value: 2 }, { name: "1177", value: 2 }, { name: "1816", value: 2 }, { name: "4016", value: 2 }, { name: "1225", value: 2 }, { name: "1175", value: 2 }, { name: "5131", value: 2 }, { name: "1784", value: 2 }, { name: "807", value: 2 }, { name: "1219", value: 2 }, { name: "21506", value: 2 }, { name: "1791", value: 2 }, { name: "25389", value: 2 }, { name: "4109", value: 2 }, { name: "1806", value: 2 }, { name: "5299", value: 2 }, { name: "83100", value: 2 }, { name: "38075", value: 2 }, { name: "9217", value: 2 }, { name: "4085", value: 2 }, { name: "1792", value: 2 }, { name: "1209", value: 2 }, { name: "5285", value: 2 }, { name: "5287", value: 2 }, { name: "5304", value: 2 }, { name: "49979", value: 2 }, { name: "5890", value: 2 }, { name: "1173", value: 2 }, { name: "9215", value: 2 }, { name: "5859", value: 2 }, { name: "1172", value: 2 }, { name: "9001", value: 2 }, { name: "5132", value: 2 }, { name: "13481", value: 2 }, { name: "5101", value: 2 }, { name: "79045", value: 2 }, { name: "1155", value: 2 }, { name: "4063", value: 2 }, { name: "9227", value: 2 }, { name: "1152", value: 2 }, { name: "1766", value: 2 }, { name: "32796", value: 2 }, { name: "1765", value: 2 }, { name: "1252", value: 2 }, { name: "4006", value: 2 }, { name: "5857", value: 2 }, { name: "1771", value: 2 }, { name: "1249", value: 2 }, { name: "5912", value: 2 }, { name: "5157", value: 2 }, { name: "5267", value: 2 }, { name: "79570", value: 2 }, { name: "5331", value: 2 }, { name: "4019", value: 2 }, { name: "1778", value: 2 }, { name: "1235", value: 2 }, { name: "5332", value: 2 }, { name: "4015", value: 2 }, { name: "5869", value: 2 }, { name: "1240", value: 2 }, { name: "1157", value: 2 }, { name: "1012", value: 2 }, { name: "1063", value: 2 }, { name: "5107", value: 2 }, { name: "21736", value: 2 }, { name: "1569", value: 2 }, { name: "9175", value: 2 }, { name: "1489", value: 2 }, { name: "4960", value: 2 }, { name: "1492", value: 2 }, { name: "26072", value: 2 }, { name: "58251", value: 2 }, { name: "1494", value: 2 }, { name: "1629", value: 2 }, { name: "5726", value: 2 }, { name: "1628", value: 2 }, { name: "4039", value: 2 }, { name: "1626", value: 2 }, { name: "13790", value: 2 }, { name: "1498", value: 2 }, { name: "1499", value: 2 }, { name: "34252", value: 2 }, { name: "1500", value: 2 }, { name: "13203", value: 2 }, { name: "5602", value: 2 }, { name: "13909", value: 2 }, { name: "9111", value: 2 }, { name: "4964", value: 2 }, { name: "1083", value: 2 }, { name: "1509", value: 2 }, { name: "9698", value: 2 }, { name: "1636", value: 2 }, { name: "1488", value: 2 }, { name: "1655", value: 2 }, { name: "1638", value: 2 }, { name: "5748", value: 2 }, { name: "859", value: 2 }, { name: "13222", value: 2 }, { name: "1456", value: 2 }, { name: "4052", value: 2 }, { name: "1651", value: 2 }, { name: "1473", value: 2 }, { name: "54891", value: 2 }, { name: "5569", value: 2 }, { name: "1648", value: 2 }, { name: "1647", value: 2 }, { name: "5018", value: 2 }, { name: "5572", value: 2 }, { name: "1646", value: 2 }, { name: "4957", value: 2 }, { name: "4053", value: 2 }, { name: "1645", value: 2 }, { name: "13770", value: 2 }, { name: "1838", value: 2 }, { name: "13932", value: 2 }, { name: "1487", value: 2 }, { name: "104024", value: 2 }, { name: "71149", value: 2 }, { name: "1510", value: 2 }, { name: "5710", value: 2 }, { name: "5707", value: 2 }, { name: "1609", value: 2 }, { name: "1585", value: 2 }, { name: "9088", value: 2 }, { name: "1582", value: 2 }, { name: "1541", value: 2 }, { name: "1542", value: 2 }, { name: "5637", value: 2 }, { name: "17956", value: 2 }, { name: "1544", value: 2 }, { name: "112189", value: 2 }, { name: "5672", value: 2 }, { name: "1548", value: 2 }, { name: "4043", value: 2 }, { name: "1576", value: 2 }, { name: "5668", value: 2 }, { name: "1552", value: 2 }, { name: "21369", value: 2 }, { name: "4988", value: 2 }, { name: "17461", value: 2 }, { name: "1562", value: 2 }, { name: "12235", value: 2 }, { name: "4105", value: 2 }, { name: "1563", value: 2 }, { name: "29561", value: 2 }, { name: "4973", value: 2 }, { name: "5632", value: 2 }, { name: "1537", value: 2 }, { name: "1521", value: 2 }, { name: "1514", value: 2 }, { name: "1515", value: 2 }, { name: "1516", value: 2 }, { name: "5004", value: 2 }, { name: "5007", value: 2 }, { name: "5615", value: 2 }, { name: "1518", value: 2 }, { name: "1602", value: 2 }, { name: "4040", value: 2 }, { name: "1520", value: 2 }, { name: "22068", value: 2 }, { name: "1536", value: 2 }, { name: "1089", value: 2 }, { name: "9241", value: 2 }, { name: "1594", value: 2 }, { name: "1527", value: 2 }, { name: "1528", value: 2 }, { name: "17254", value: 2 }, { name: "81896", value: 2 }, { name: "1589", value: 2 }, { name: "1534", value: 2 }, { name: "4999", value: 2 }, { name: "1453", value: 2 }, { name: "1451", value: 2 }, { name: "17201", value: 2 }, { name: "1333", value: 2 }, { name: "1338", value: 2 }, { name: "963", value: 2 }, { name: "41808", value: 2 }, { name: "9903", value: 2 }, { name: "8154", value: 2 }, { name: "9026", value: 2 }, { name: "1704", value: 2 }, { name: "22189", value: 2 }, { name: "1701", value: 2 }, { name: "1342", value: 2 }, { name: "5442", value: 2 }, { name: "21450", value: 2 }, { name: "1700", value: 2 }, { name: "839", value: 2 }, { name: "959", value: 2 }, { name: "1352", value: 2 }, { name: "21429", value: 2 }, { name: "1697", value: 2 }, { name: "1354", value: 2 }, { name: "1356", value: 2 }, { name: "1358", value: 2 }, { name: "1364", value: 2 }, { name: "1693", value: 2 }, { name: "1335", value: 2 }, { name: "967", value: 2 }, { name: "4055", value: 2 }, { name: "1330", value: 2 }, { name: "5073", value: 2 }, { name: "5406", value: 2 }, { name: "9497", value: 2 }, { name: "1309", value: 2 }, { name: "1728", value: 2 }, { name: "1727", value: 2 }, { name: "58317", value: 2 }, { name: "1725", value: 2 }, { name: "13607", value: 2 }, { name: "1723", value: 2 }, { name: "1721", value: 2 }, { name: "9162", value: 2 }, { name: "9161", value: 2 }, { name: "1719", value: 2 }, { name: "9167", value: 2 }, { name: "9905", value: 2 }, { name: "5422", value: 2 }, { name: "1326", value: 2 }, { name: "1714", value: 2 }, { name: "1329", value: 2 }, { name: "5427", value: 2 }, { name: "5424", value: 2 }, { name: "1713", value: 2 }, { name: "1365", value: 2 }, { name: "73631", value: 2 }, { name: "1072", value: 2 }, { name: "1368", value: 2 }, { name: "1076", value: 2 }, { name: "38291", value: 2 }, { name: "941", value: 2 }, { name: "1669", value: 2 }, { name: "30346", value: 2 }, { name: "1666", value: 2 }, { name: "5515", value: 2 }, { name: "1422", value: 2 }, { name: "4034", value: 2 }, { name: "1423", value: 2 }, { name: "21340", value: 2 }, { name: "5526", value: 2 }, { name: "13713", value: 2 }, { name: "1435", value: 2 }, { name: "1440", value: 2 }, { name: "1659", value: 2 }, { name: "932", value: 2 }, { name: "1658", value: 2 }, { name: "1446", value: 2 }, { name: "5173", value: 2 }, { name: "17838", value: 2 }, { name: "1657", value: 2 }, { name: "22131", value: 2 }, { name: "112318", value: 2 }, { name: "5036", value: 2 }, { name: "4945", value: 2 }, { name: "1389", value: 2 }, { name: "956", value: 2 }, { name: "1374", value: 2 }, { name: "4030", value: 2 }, { name: "1375", value: 2 }, { name: "1376", value: 2 }, { name: "5476", value: 2 }, { name: "1382", value: 2 }, { name: "1383", value: 2 }, { name: "1683", value: 2 }, { name: "1386", value: 2 }, { name: "1391", value: 2 }, { name: "5507", value: 2 }, { name: "5148", value: 2 }, { name: "5490", value: 2 }, { name: "1678", value: 2 }, { name: "9589", value: 2 }, { name: "1394", value: 2 }, { name: "5046", value: 2 }, { name: "9287", value: 2 }, { name: "5043", value: 2 }, { name: "1402", value: 2 }, { name: "5506", value: 2 }, { name: "1103", value: 2 }, { name: "7259", value: 2 }, { name: "1954", value: 2 }, { name: "2437", value: 2 }, { name: "7031", value: 2 }, { name: "2443", value: 2 }, { name: "4323", value: 2 }, { name: "3703", value: 2 }, { name: "2444", value: 2 }, { name: "7025", value: 2 }, { name: "16495", value: 2 }, { name: "3698", value: 2 }, { name: "81195", value: 2 }, { name: "3696", value: 2 }, { name: "2457", value: 2 }, { name: "2924", value: 2 }, { name: "149970", value: 2 }, { name: "56938", value: 2 }, { name: "2460", value: 2 }, { name: "2463", value: 2 }, { name: "2466", value: 2 }, { name: "3697", value: 2 }, { name: "2468", value: 2 }, { name: "4463", value: 2 }, { name: "14725", value: 2 }, { name: "3368", value: 2 }, { name: "2435", value: 2 }, { name: "6507", value: 2 }, { name: "2411", value: 2 }, { name: "7830", value: 2 }, { name: "10603", value: 2 }, { name: "2414", value: 2 }, { name: "24217", value: 2 }, { name: "31102", value: 2 }, { name: "2418", value: 2 }, { name: "19315", value: 2 }, { name: "2421", value: 2 }, { name: "2936", value: 2 }, { name: "8293", value: 2 }, { name: "2422", value: 2 }, { name: "3715", value: 2 }, { name: "2935", value: 2 }, { name: "7807", value: 2 }, { name: "16929", value: 2 }, { name: "2429", value: 2 }, { name: "6526", value: 2 }, { name: "3346", value: 2 }, { name: "2918", value: 2 }, { name: "7445", value: 2 }, { name: "3691", value: 2 }, { name: "2507", value: 2 }, { name: "2509", value: 2 }, { name: "3363", value: 2 }, { name: "3644", value: 2 }, { name: "3365", value: 2 }, { name: "11552", value: 2 }, { name: "10707", value: 2 }, { name: "19271", value: 2 }, { name: "6612", value: 2 }, { name: "2892", value: 2 }, { name: "2520", value: 2 }, { name: "7732", value: 2 }, { name: "2525", value: 2 }, { name: "64826", value: 2 }, { name: "3639", value: 2 }, { name: "4611", value: 2 }, { name: "2530", value: 2 }, { name: "20005", value: 2 }, { name: "2532", value: 2 }, { name: "3661", value: 2 }, { name: "4472", value: 2 }, { name: "2503", value: 2 }, { name: "3676", value: 2 }, { name: "4201", value: 2 }, { name: "14765", value: 2 }, { name: "2474", value: 2 }, { name: "3687", value: 2 }, { name: "27497", value: 2 }, { name: "3678", value: 2 }, { name: "3350", value: 2 }, { name: "35262", value: 2 }, { name: "7450", value: 2 }, { name: "2501", value: 2 }, { name: "2489", value: 2 }, { name: "56135", value: 2 }, { name: "4211", value: 2 }, { name: "2490", value: 2 }, { name: "41477", value: 2 }, { name: "2494", value: 2 }, { name: "8310", value: 2 }, { name: "3664", value: 2 }, { name: "12376", value: 2 }, { name: "15609", value: 2 }, { name: "2398", value: 2 }, { name: "3298", value: 2 }, { name: "3828", value: 2 }, { name: "12021", value: 2 }, { name: "8257", value: 2 }, { name: "3293", value: 2 }, { name: "2983", value: 2 }, { name: "10507", value: 2 }, { name: "2320", value: 2 }, { name: "2322", value: 2 }, { name: "3811", value: 2 }, { name: "11482", value: 2 }, { name: "67895", value: 2 }, { name: "2976", value: 2 }, { name: "2331", value: 2 }, { name: "2330", value: 2 }, { name: "4329", value: 2 }, { name: "2972", value: 2 }, { name: "2339", value: 2 }, { name: "3802", value: 2 }, { name: "2342", value: 2 }, { name: "4440", value: 2 }, { name: "6404", value: 2 }, { name: "2988", value: 2 }, { name: "4162", value: 2 }, { name: "3273", value: 2 }, { name: "7099", value: 2 }, { name: "2996", value: 2 }, { name: "3279", value: 2 }, { name: "2296", value: 2 }, { name: "3286", value: 2 }, { name: "2299", value: 2 }, { name: "2990", value: 2 }, { name: "3289", value: 2 }, { name: "2991", value: 2 }, { name: "2300", value: 2 }, { name: "6397", value: 2 }, { name: "17000", value: 2 }, { name: "2302", value: 2 }, { name: "2307", value: 2 }, { name: "6400", value: 2 }, { name: "3830", value: 2 }, { name: "6406", value: 2 }, { name: "4168", value: 2 }, { name: "7898", value: 2 }, { name: "10584", value: 2 }, { name: "15263", value: 2 }, { name: "11490", value: 2 }, { name: "4183", value: 2 }, { name: "2957", value: 2 }, { name: "4454", value: 2 }, { name: "2379", value: 2 }, { name: "3755", value: 2 }, { name: "2949", value: 2 }, { name: "37115", value: 2 }, { name: "61509", value: 2 }, { name: "6476", value: 2 }, { name: "18777", value: 2 }, { name: "3753", value: 2 }, { name: "2387", value: 2 }, { name: "4452", value: 2 }, { name: "6487", value: 2 }, { name: "10578", value: 2 }, { name: "2395", value: 2 }, { name: "7843", value: 2 }, { name: "4191", value: 2 }, { name: "6470", value: 2 }, { name: "2370", value: 2 }, { name: "2371", value: 2 }, { name: "2356", value: 2 }, { name: "6441", value: 2 }, { name: "2967", value: 2 }, { name: "4169", value: 2 }, { name: "2964", value: 2 }, { name: "10542", value: 2 }, { name: "3797", value: 2 }, { name: "11153", value: 2 }, { name: "8266", value: 2 }, { name: "3301", value: 2 }, { name: "3777", value: 2 }, { name: "11156", value: 2 }, { name: "4676", value: 2 }, { name: "2961", value: 2 }, { name: "92432", value: 2 }, { name: "8276", value: 2 }, { name: "4678", value: 2 }, { name: "14649", value: 2 }, { name: "2367", value: 2 }, { name: "18913", value: 2 }, { name: "2537", value: 2 }, { name: "3839", value: 2 }, { name: "2694", value: 2 }, { name: "7536", value: 2 }, { name: "6797", value: 2 }, { name: "23172", value: 2 }, { name: "2702", value: 2 }, { name: "6803", value: 2 }, { name: "27293", value: 2 }, { name: "2704", value: 2 }, { name: "2707", value: 2 }, { name: "114163", value: 2 }, { name: "2709", value: 2 }, { name: "6804", value: 2 }, { name: "3523", value: 2 }, { name: "2816", value: 2 }, { name: "4554", value: 2 }, { name: "2815", value: 2 }, { name: "4515", value: 2 }, { name: "6812", value: 2 }, { name: "2718", value: 2 }, { name: "11006", value: 2 }, { name: "6794", value: 2 }, { name: "8351", value: 2 }, { name: "4308", value: 2 }, { name: "10884", value: 2 }, { name: "15124", value: 2 }, { name: "27261", value: 2 }, { name: "2672", value: 2 }, { name: "3425", value: 2 }, { name: "7646", value: 2 }, { name: "14964", value: 2 }, { name: "2677", value: 2 }, { name: "3426", value: 2 }, { name: "19068", value: 2 }, { name: "11016", value: 2 }, { name: "7639", value: 2 }, { name: "3538", value: 2 }, { name: "4291", value: 2 }, { name: "2682", value: 2 }, { name: "3539", value: 2 }, { name: "12444", value: 2 }, { name: "3435", value: 2 }, { name: "2827", value: 2 }, { name: "2688", value: 2 }, { name: "3447", value: 2 }, { name: "10917", value: 2 }, { name: "31477", value: 2 }, { name: "6817", value: 2 }, { name: "8374", value: 2 }, { name: "3468", value: 2 }, { name: "2793", value: 2 }, { name: "3452", value: 2 }, { name: "2752", value: 2 }, { name: "28860", value: 2 }, { name: "2756", value: 2 }, { name: "4277", value: 2 }, { name: "3467", value: 2 }, { name: "4276", value: 2 }, { name: "3465", value: 2 }, { name: "20665", value: 2 }, { name: "4278", value: 2 }, { name: "39616", value: 2 }, { name: "12712", value: 2 }, { name: "3461", value: 2 }, { name: "12715", value: 2 }, { name: "2776", value: 2 }, { name: "24992", value: 2 }, { name: "27366", value: 2 }, { name: "4532", value: 2 }, { name: "23940", value: 2 }, { name: "11687", value: 2 }, { name: "2809", value: 2 }, { name: "3448", value: 2 }, { name: "2805", value: 2 }, { name: "52670", value: 2 }, { name: "12460", value: 2 }, { name: "6824", value: 2 }, { name: "2733", value: 2 }, { name: "11681", value: 2 }, { name: "2802", value: 2 }, { name: "3475", value: 2 }, { name: "3486", value: 2 }, { name: "3482", value: 2 }, { name: "2738", value: 2 }, { name: "2800", value: 2 }, { name: "2801", value: 2 }, { name: "121475", value: 2 }, { name: "2745", value: 2 }, { name: "6840", value: 2 }, { name: "14952", value: 2 }, { name: "6934", value: 2 }, { name: "118119", value: 2 }, { name: "3588", value: 2 }, { name: "32054", value: 2 }, { name: "2572", value: 2 }, { name: "2575", value: 2 }, { name: "3609", value: 2 }, { name: "3604", value: 2 }, { name: "2579", value: 2 }, { name: "4230", value: 2 }, { name: "2583", value: 2 }, { name: "3594", value: 2 }, { name: "31544", value: 2 }, { name: "3592", value: 2 }, { name: "11789", value: 2 }, { name: "3590", value: 2 }, { name: "2870", value: 2 }, { name: "2591", value: 2 }, { name: "6964", value: 2 }, { name: "3402", value: 2 }, { name: "2595", value: 2 }, { name: "2594", value: 2 }, { name: "3374", value: 2 }, { name: "2569", value: 2 }, { name: "3619", value: 2 }, { name: "2555", value: 2 }, { name: "4605", value: 2 }, { name: "97797", value: 2 }, { name: "3372", value: 2 }, { name: "2547", value: 2 }, { name: "10742", value: 2 }, { name: "43491", value: 2 }, { name: "2551", value: 2 }, { name: "4606", value: 2 }, { name: "2554", value: 2 }, { name: "384406", value: 2 }, { name: "3623", value: 2 }, { name: "4311", value: 2 }, { name: "2559", value: 2 }, { name: "12799", value: 2 }, { name: "2884", value: 2 }, { name: "27150", value: 2 }, { name: "14850", value: 2 }, { name: "2566", value: 2 }, { name: "6695", value: 2 }, { name: "2864", value: 2 }, { name: "40434", value: 2 }, { name: "3415", value: 2 }, { name: "7665", value: 2 }, { name: "55895", value: 2 }, { name: "10837", value: 2 }, { name: "3566", value: 2 }, { name: "2849", value: 2 }, { name: "39489", value: 2 }, { name: "2844", value: 2 }, { name: "2845", value: 2 }, { name: "10832", value: 2 }, { name: "314741", value: 2 }, { name: "11609", value: 2 }, { name: "3560", value: 2 }, { name: "6936", value: 2 }, { name: "3420", value: 2 }, { name: "3558", value: 2 }, { name: "2840", value: 2 }, { name: "2658", value: 2 }, { name: "2661", value: 2 }, { name: "2660", value: 2 }, { name: "2635", value: 2 }, { name: "2633", value: 2 }, { name: "2626", value: 2 }, { name: "2615", value: 2 }, { name: "2603", value: 2 }, { name: "89553", value: 2 }, { name: "6958", value: 2 }, { name: "154471", value: 2 }, { name: "2608", value: 2 }, { name: "4580", value: 2 }, { name: "2861", value: 2 }, { name: "2613", value: 2 }, { name: "2856", value: 2 }, { name: "3570", value: 2 }, { name: "2616", value: 2 }, { name: "7508", value: 2 }, { name: "2857", value: 2 }, { name: "4238", value: 2 }, { name: "6719", value: 2 }, { name: "12773", value: 2 }, { name: "19964", value: 2 }, { name: "3572", value: 2 }, { name: "26879", value: 2 }, { name: "16462", value: 2 }, { name: "6387", value: 2 }, { name: "1981", value: 2 }, { name: "2013", value: 2 }, { name: "2014", value: 2 }, { name: "79865", value: 2 }, { name: "2016", value: 2 }, { name: "4809", value: 2 }, { name: "3956", value: 2 }, { name: "2017", value: 2 }, { name: "14311", value: 2 }, { name: "2018", value: 2 }, { name: "3199", value: 2 }, { name: "712", value: 2 }, { name: "3200", value: 2 }, { name: "4805", value: 2 }, { name: "2022", value: 2 }, { name: "2023", value: 2 }, { name: "2027", value: 2 }, { name: "10223", value: 2 }, { name: "6124", value: 2 }, { name: "2032", value: 2 }, { name: "2012", value: 2 }, { name: "2011", value: 2 }, { name: "6106", value: 2 }, { name: "1999", value: 2 }, { name: "3099", value: 2 }, { name: "6083", value: 2 }, { name: "3965", value: 2 }, { name: "1989", value: 2 }, { name: "3195", value: 2 }, { name: "6090", value: 2 }, { name: "1995", value: 2 }, { name: "3962", value: 2 }, { name: "4392", value: 2 }, { name: "2008", value: 2 }, { name: "10196", value: 2 }, { name: "4812", value: 2 }, { name: "6097", value: 2 }, { name: "3095", value: 2 }, { name: "6103", value: 2 }, { name: "3961", value: 2 }, { name: "20740", value: 2 }, { name: "3092", value: 2 }, { name: "74471", value: 2 }, { name: "4399", value: 2 }, { name: "2035", value: 2 }, { name: "2097", value: 2 }, { name: "2081", value: 2 }, { name: "3213", value: 2 }, { name: "2082", value: 2 }, { name: "3216", value: 2 }, { name: "4134", value: 2 }, { name: "2086", value: 2 }, { name: "3066", value: 2 }, { name: "4356", value: 2 }, { name: "6195", value: 2 }, { name: "2072", value: 2 }, { name: "3062", value: 2 }, { name: "2096", value: 2 }, { name: "7322", value: 2 }, { name: "2102", value: 2 }, { name: "3228", value: 2 }, { name: "2107", value: 2 }, { name: "2108", value: 2 }, { name: "2112", value: 2 }, { name: "8885", value: 2 }, { name: "22756", value: 2 }, { name: "3205", value: 2 }, { name: "4402", value: 2 }, { name: "2039", value: 2 }, { name: "3954", value: 2 }, { name: "3078", value: 2 }, { name: "2043", value: 2 }, { name: "11267", value: 2 }, { name: "156401", value: 2 }, { name: "3947", value: 2 }, { name: "15361", value: 2 }, { name: "18442", value: 2 }, { name: "6165", value: 2 }, { name: "4794", value: 2 }, { name: "2055", value: 2 }, { name: "2054", value: 2 }, { name: "3937", value: 2 }, { name: "10255", value: 2 }, { name: "2062", value: 2 }, { name: "4360", value: 2 }, { name: "2069", value: 2 }, { name: "3098", value: 2 }, { name: "13018", value: 2 }, { name: "8865", value: 2 }, { name: "3967", value: 2 }, { name: "1897", value: 2 }, { name: "1899", value: 2 }, { name: "3137", value: 2 }, { name: "21235", value: 2 }, { name: "4858", value: 2 }, { name: "760", value: 2 }, { name: "3172", value: 2 }, { name: "1905", value: 2 }, { name: "4369", value: 2 }, { name: "757", value: 2 }, { name: "1910", value: 2 }, { name: "8945", value: 2 }, { name: "3177", value: 2 }, { name: "1915", value: 2 }, { name: "1916", value: 2 }, { name: "15413", value: 2 }, { name: "14201", value: 2 }, { name: "3120", value: 2 }, { name: "1923", value: 2 }, { name: "1892", value: 2 }, { name: "5973", value: 2 }, { name: "3142", value: 2 }, { name: "1858", value: 2 }, { name: "3162", value: 2 }, { name: "3993", value: 2 }, { name: "3155", value: 2 }, { name: "1849", value: 2 }, { name: "5945", value: 2 }, { name: "3152", value: 2 }, { name: "3151", value: 2 }, { name: "1852", value: 2 }, { name: "4870", value: 2 }, { name: "1877", value: 2 }, { name: "1861", value: 2 }, { name: "10050", value: 2 }, { name: "8476", value: 2 }, { name: "10063", value: 2 }, { name: "1870", value: 2 }, { name: "1872", value: 2 }, { name: "40027", value: 2 }, { name: "65850", value: 2 }, { name: "1924", value: 2 }, { name: "3991", value: 2 }, { name: "1926", value: 2 }, { name: "1969", value: 2 }, { name: "11383", value: 2 }, { name: "12579", value: 2 }, { name: "1961", value: 2 }, { name: "1962", value: 2 }, { name: "3189", value: 2 }, { name: "1964", value: 2 }, { name: "3102", value: 2 }, { name: "1968", value: 2 }, { name: "18361", value: 2 }, { name: "10150", value: 2 }, { name: "1970", value: 2 }, { name: "34723", value: 2 }, { name: "11291", value: 2 }, { name: "3966", value: 2 }, { name: "10160", value: 2 }, { name: "1974", value: 2 }, { name: "3191", value: 2 }, { name: "4831", value: 2 }, { name: "4832", value: 2 }, { name: "144034", value: 2 }, { name: "3119", value: 2 }, { name: "3113", value: 2 }, { name: "1930", value: 2 }, { name: "15402", value: 2 }, { name: "14218", value: 2 }, { name: "6031", value: 2 }, { name: "4841", value: 2 }, { name: "1937", value: 2 }, { name: "18329", value: 2 }, { name: "1939", value: 2 }, { name: "7205", value: 2 }, { name: "1950", value: 2 }, { name: "4371", value: 2 }, { name: "1943", value: 2 }, { name: "3983", value: 2 }, { name: "3980", value: 2 }, { name: "1946", value: 2 }, { name: "1948", value: 2 }, { name: "8929", value: 2 }, { name: "1949", value: 2 }, { name: "61724", value: 2 }, { name: "2785", value: 2 }, { name: "2114", value: 2 }, { name: "3894", value: 2 }, { name: "7990", value: 2 }, { name: "2256", value: 2 }, { name: "4747", value: 2 }, { name: "2188", value: 2 }, { name: "3004", value: 2 }, { name: "20282", value: 2 }, { name: "2191", value: 2 }, { name: "2193", value: 2 }, { name: "3007", value: 2 }, { name: "2251", value: 2 }, { name: "2195", value: 2 }, { name: "24827", value: 2 }, { name: "10387", value: 2 }, { name: "3890", value: 2 }, { name: "2198", value: 2 }, { name: "6280", value: 2 }, { name: "4346", value: 2 }, { name: "2170", value: 2 }, { name: "12941", value: 2 }, { name: "2174", value: 2 }, { name: "12040", value: 2 }, { name: "6275", value: 2 }, { name: "3855", value: 2 }, { name: "27574", value: 2 }, { name: "28735", value: 2 }, { name: "2240", value: 2 }, { name: "7345", value: 2 }, { name: "37207", value: 2 }, { name: "2261", value: 2 }, { name: "274365", value: 2 }, { name: "3269", value: 2 }, { name: "6276", value: 2 }, { name: "15312", value: 2 }, { name: "42037", value: 2 }, { name: "28725", value: 2 }, { name: "3006", value: 2 }, { name: "3011", value: 2 }, { name: "4426", value: 2 }, { name: "2245", value: 2 }, { name: "2224", value: 2 }, { name: "3860", value: 2 }, { name: "4149", value: 2 }, { name: "2243", value: 2 }, { name: "2227", value: 2 }, { name: "2226", value: 2 }, { name: "11451", value: 2 }, { name: "2231", value: 2 }, { name: "6330", value: 2 }, { name: "3260", value: 2 }, { name: "2235", value: 2 }, { name: "2237", value: 2 }, { name: "2236", value: 2 }, { name: "11201", value: 2 }, { name: "3017", value: 2 }, { name: "51380", value: 2 }, { name: "84205", value: 2 }, { name: "6310", value: 2 }, { name: "7984", value: 2 }, { name: "19634", value: 2 }, { name: "2116", value: 2 }, { name: "6305", value: 2 }, { name: "3024", value: 2 }, { name: "3023", value: 2 }, { name: "6309", value: 2 }, { name: "7114", value: 2 }, { name: "11450", value: 2 }, { name: "3888", value: 2 }, { name: "3879", value: 2 }, { name: "2220", value: 2 }, { name: "2247", value: 2 }, { name: "11209", value: 2 }, { name: "8245", value: 2 }, { name: "2263", value: 2 }, { name: "3003", value: 2 }, { name: "6234", value: 2 }, { name: "4415", value: 2 }, { name: "2134", value: 2 }, { name: "2137", value: 2 }, { name: "26861", value: 2 }, { name: "3236", value: 2 }, { name: "8810", value: 2 }, { name: "4754", value: 2 }, { name: "2128", value: 2 }, { name: "7944", value: 2 }, { name: "14429", value: 2 }, { name: "3910", value: 2 }, { name: "19631", value: 2 }, { name: "2268", value: 2 }, { name: "2141", value: 2 }, { name: "7147", value: 2 }, { name: "3230", value: 2 }, { name: "8007", value: 2 }, { name: "3056", value: 2 }, { name: "44866", value: 2 }, { name: "674", value: 2 }, { name: "7932", value: 2 }, { name: "6212", value: 2 }, { name: "2284", value: 2 }, { name: "17064", value: 2 }, { name: "2127", value: 2 }, { name: "3847", value: 2 }, { name: "6383", value: 2 }, { name: "3838", value: 2 }, { name: "2276", value: 2 }, { name: "7325", value: 2 }, { name: "29328", value: 2 }, { name: "4156", value: 2 }, { name: "10331", value: 2 }, { name: "3866", value: 2 }, { name: "2269", value: 2 }, { name: "30822", value: 2 }, { name: "3039", value: 2 }, { name: "2264", value: 2 }, { name: "10365", value: 2 }, { name: "2164", value: 2 }, { name: "6263", value: 2 }, { name: "2162", value: 2 }, { name: "3247", value: 2 }, { name: "12041", value: 2 }, { name: "7139", value: 2 }, { name: "103073", value: 2 }, { name: "3040", value: 2 }, { name: "2155", value: 2 }, { name: "28493", value: 2 }, { name: "252065", value: 2 }, { name: "8820", value: 2 }, { name: "2147", value: 2 }, { name: "2148", value: 2 }, { name: "3906", value: 2 }, { name: "3238", value: 2 }, { name: "8383", value: 1 }, { name: "4446", value: 1 }, { name: "57583", value: 1 }, { name: "4286", value: 1 }, { name: "4387", value: 1 }, { name: "123246", value: 1 }, { name: "4287", value: 1 }, { name: "20884", value: 1 }, { name: "12570", value: 1 }, { name: "4374", value: 1 }, { name: "336261", value: 1 }, { name: "4511", value: 1 }, { name: "49476", value: 1 }, { name: "21477", value: 1 }, { name: "8370", value: 1 }, { name: "32996", value: 1 }, { name: "5099", value: 1 }, { name: "4098", value: 1 }, { name: "16562", value: 1 }, { name: "1055", value: 1 }, { name: "4442", value: 1 }, { name: "8438", value: 1 }, { name: "4432", value: 1 }, { name: "13281", value: 1 }, { name: "16808", value: 1 }, { name: "4375", value: 1 }, { name: "4377", value: 1 }, { name: "53569", value: 1 }, { name: "8623", value: 1 }, { name: "33029", value: 1 }, { name: "16660", value: 1 }, { name: "8484", value: 1 }, { name: "4428", value: 1 }, { name: "17430", value: 1 }, { name: "16724", value: 1 }, { name: "37212", value: 1 }, { name: "37900", value: 1 }, { name: "8539", value: 1 }, { name: "24757", value: 1 }, { name: "12530", value: 1 }, { name: "12640", value: 1 }, { name: "49177", value: 1 }, { name: "8403", value: 1 }, { name: "5117", value: 1 }, { name: "8577", value: 1 }, { name: "41339", value: 1 }, { name: "8516", value: 1 }, { name: "12649", value: 1 }, { name: "46056", value: 1 }, { name: "74030", value: 1 }, { name: "4487", value: 1 }, { name: "4484", value: 1 }, { name: "20877", value: 1 }, { name: "8463", value: 1 }, { name: "61746", value: 1 }, { name: "8445", value: 1 }, { name: "4303", value: 1 }, { name: "13306", value: 1 }, { name: "20489", value: 1 }, { name: "12493", value: 1 }, { name: "20858", value: 1 }, { name: "4316", value: 1 }, { name: "9195", value: 1 }, { name: "4101", value: 1 }, { name: "4313", value: 1 }, { name: "4410", value: 1 }, { name: "12507", value: 1 }, { name: "5123", value: 1 }, { name: "4106", value: 1 }, { name: "12549", value: 1 }, { name: "8414", value: 1 }, { name: "20692", value: 1 }, { name: "8568", value: 1 }, { name: "12666", value: 1 }, { name: "5121", value: 1 }, { name: "4406", value: 1 }, { name: "12665", value: 1 }, { name: "13328", value: 1 }, { name: "5140", value: 1 }, { name: "20701", value: 1 }, { name: "4482", value: 1 }, { name: "8204", value: 1 }, { name: "8495", value: 1 }, { name: "4393", value: 1 }, { name: "5145", value: 1 }, { name: "4448", value: 1 }, { name: "4500", value: 1 }, { name: "20843", value: 1 }, { name: "1009", value: 1 }, { name: "4294", value: 1 }, { name: "12531", value: 1 }, { name: "20893", value: 1 }, { name: "94427", value: 1 }, { name: "8391", value: 1 }, { name: "4451", value: 1 }, { name: "20776", value: 1 }, { name: "4504", value: 1 }, { name: "255086", value: 1 }, { name: "5151", value: 1 }, { name: "28901", value: 1 }, { name: "4505", value: 1 }, { name: "8521", value: 1 }, { name: "24902", value: 1 }, { name: "4388", value: 1 }, { name: "4328", value: 1 }, { name: "5115", value: 1 }, { name: "28868", value: 1 }, { name: "12481", value: 1 }, { name: "25610", value: 1 }, { name: "24778", value: 1 }, { name: "5125", value: 1 }, { name: "65752", value: 1 }, { name: "24809", value: 1 }, { name: "41201", value: 1 }, { name: "12623", value: 1 }, { name: "49503", value: 1 }, { name: "4364", value: 1 }, { name: "4331", value: 1 }, { name: "4292", value: 1 }, { name: "4497", value: 1 }, { name: "49431", value: 1 }, { name: "4389", value: 1 }, { name: "8501", value: 1 }, { name: "8971", value: 1 }, { name: "54270", value: 1 }, { name: "4743", value: 1 }, { name: "12939", value: 1 }, { name: "8847", value: 1 }, { name: "4962", value: 1 }, { name: "8845", value: 1 }, { name: "25221", value: 1 }, { name: "29321", value: 1 }, { name: "4741", value: 1 }, { name: "8833", value: 1 }, { name: "37506", value: 1 }, { name: "4145", value: 1 }, { name: "9056", value: 1 }, { name: "12930", value: 1 }, { name: "4965", value: 1 }, { name: "143475", value: 1 }, { name: "4732", value: 1 }, { name: "4148", value: 1 }, { name: "4144", value: 1 }, { name: "4959", value: 1 }, { name: "17012", value: 1 }, { name: "25432", value: 1 }, { name: "25259", value: 1 }, { name: "4772", value: 1 }, { name: "12960", value: 1 }, { name: "4775", value: 1 }, { name: "21339", value: 1 }, { name: "8227", value: 1 }, { name: "8237", value: 1 }, { name: "12332", value: 1 }, { name: "4141", value: 1 }, { name: "17045", value: 1 }, { name: "693193", value: 1 }, { name: "4954", value: 1 }, { name: "4143", value: 1 }, { name: "4758", value: 1 }, { name: "8234", value: 1 }, { name: "13147", value: 1 }, { name: "4970", value: 1 }, { name: "4968", value: 1 }, { name: "241859", value: 1 }, { name: "9092", value: 1 }, { name: "4704", value: 1 }, { name: "4987", value: 1 }, { name: "4984", value: 1 }, { name: "25197", value: 1 }, { name: "4985", value: 1 }, { name: "8261", value: 1 }, { name: "29265", value: 1 }, { name: "4160", value: 1 }, { name: "8806", value: 1 }, { name: "4696", value: 1 }, { name: "4167", value: 1 }, { name: "4698", value: 1 }, { name: "12880", value: 1 }, { name: "86654", value: 1 }, { name: "4170", value: 1 }, { name: "20547", value: 1 }, { name: "9084", value: 1 }, { name: "17279", value: 1 }, { name: "8200", value: 1 }, { name: "611166", value: 1 }, { name: "4729", value: 1 }, { name: "9064", value: 1 }, { name: "66381", value: 1 }, { name: "12348", value: 1 }, { name: "57956", value: 1 }, { name: "4975", value: 1 }, { name: "57962", value: 1 }, { name: "12914", value: 1 }, { name: "17002", value: 1 }, { name: "4721", value: 1 }, { name: "21370", value: 1 }, { name: "4979", value: 1 }, { name: "12905", value: 1 }, { name: "4977", value: 1 }, { name: "8207", value: 1 }, { name: "4705", value: 1 }, { name: "4941", value: 1 }, { name: "4132", value: 1 }, { name: "8876", value: 1 }, { name: "4903", value: 1 }, { name: "13045", value: 1 }, { name: "4849", value: 1 }, { name: "8997", value: 1 }, { name: "82649", value: 1 }, { name: "4845", value: 1 }, { name: "139346", value: 1 }, { name: "13037", value: 1 }, { name: "4843", value: 1 }, { name: "17149", value: 1 }, { name: "77873", value: 1 }, { name: "54077", value: 1 }, { name: "8940", value: 1 }, { name: "13102", value: 1 }, { name: "4905", value: 1 }, { name: "13029", value: 1 }, { name: "12317", value: 1 }, { name: "4854", value: 1 }, { name: "8985", value: 1 }, { name: "4135", value: 1 }, { name: "54043", value: 1 }, { name: "73777", value: 1 }, { name: "41755", value: 1 }, { name: "41732", value: 1 }, { name: "33559", value: 1 }, { name: "8963", value: 1 }, { name: "8982", value: 1 }, { name: "4865", value: 1 }, { name: "4866", value: 1 }, { name: "8210", value: 1 }, { name: "4114", value: 1 }, { name: "13049", value: 1 }, { name: "21237", value: 1 }, { name: "8954", value: 1 }, { name: "8989", value: 1 }, { name: "8957", value: 1 }, { name: "13084", value: 1 }, { name: "25377", value: 1 }, { name: "4834", value: 1 }, { name: "4908", value: 1 }, { name: "8893", value: 1 }, { name: "4806", value: 1 }, { name: "21193", value: 1 }, { name: "4930", value: 1 }, { name: "4125", value: 1 }, { name: "360623", value: 1 }, { name: "9024", value: 1 }, { name: "12326", value: 1 }, { name: "295088", value: 1 }, { name: "78584", value: 1 }, { name: "4790", value: 1 }, { name: "4786", value: 1 }, { name: "21313", value: 1 }, { name: "53930", value: 1 }, { name: "13130", value: 1 }, { name: "8875", value: 1 }, { name: "4777", value: 1 }, { name: "49884", value: 1 }, { name: "4110", value: 1 }, { name: "29382", value: 1 }, { name: "21187", value: 1 }, { name: "9003", value: 1 }, { name: "4828", value: 1 }, { name: "4825", value: 1 }, { name: "4912", value: 1 }, { name: "4913", value: 1 }, { name: "4124", value: 1 }, { name: "4819", value: 1 }, { name: "13001", value: 1 }, { name: "9009", value: 1 }, { name: "4815", value: 1 }, { name: "17213", value: 1 }, { name: "8905", value: 1 }, { name: "4811", value: 1 }, { name: "17203", value: 1 }, { name: "4921", value: 1 }, { name: "4689", value: 1 }, { name: "4998", value: 1 }, { name: "16450", value: 1 }, { name: "41941", value: 1 }, { name: "65986", value: 1 }, { name: "82377", value: 1 }, { name: "5053", value: 1 }, { name: "8666", value: 1 }, { name: "4575", value: 1 }, { name: "16853", value: 1 }, { name: "12762", value: 1 }, { name: "4569", value: 1 }, { name: "4582", value: 1 }, { name: "29143", value: 1 }, { name: "25044", value: 1 }, { name: "21448", value: 1 }, { name: "4565", value: 1 }, { name: "155865", value: 1 }, { name: "50139", value: 1 }, { name: "4567", value: 1 }, { name: "9146", value: 1 }, { name: "8673", value: 1 }, { name: "4597", value: 1 }, { name: "4234", value: 1 }, { name: "4599", value: 1 }, { name: "33251", value: 1 }, { name: "20623", value: 1 }, { name: "8205", value: 1 }, { name: "12416", value: 1 }, { name: "25531", value: 1 }, { name: "401705", value: 1 }, { name: "16867", value: 1 }, { name: "5054", value: 1 }, { name: "8686", value: 1 }, { name: "598685", value: 1 }, { name: "12430", value: 1 }, { name: "4235", value: 1 }, { name: "4581", value: 1 }, { name: "49662", value: 1 }, { name: "8328", value: 1 }, { name: "8657", value: 1 }, { name: "5063", value: 1 }, { name: "9154", value: 1 }, { name: "4537", value: 1 }, { name: "4551", value: 1 }, { name: "4261", value: 1 }, { name: "37334", value: 1 }, { name: "4266", value: 1 }, { name: "16548", value: 1 }, { name: "8635", value: 1 }, { name: "986", value: 1 }, { name: "4536", value: 1 }, { name: "4245", value: 1 }, { name: "4274", value: 1 }, { name: "4275", value: 1 }, { name: "4529", value: 1 }, { name: "29116", value: 1 }, { name: "4528", value: 1 }, { name: "8629", value: 1 }, { name: "33185", value: 1 }, { name: "9174", value: 1 }, { name: "8355", value: 1 }, { name: "4263", value: 1 }, { name: "16832", value: 1 }, { name: "8662", value: 1 }, { name: "968", value: 1 }, { name: "4562", value: 1 }, { name: "4557", value: 1 }, { name: "8651", value: 1 }, { name: "5067", value: 1 }, { name: "20932", value: 1 }, { name: "49621", value: 1 }, { name: "8345", value: 1 }, { name: "12747", value: 1 }, { name: "41432", value: 1 }, { name: "4253", value: 1 }, { name: "12452", value: 1 }, { name: "8652", value: 1 }, { name: "8358", value: 1 }, { name: "4596", value: 1 }, { name: "947", value: 1 }, { name: "8779", value: 1 }, { name: "4189", value: 1 }, { name: "36937", value: 1 }, { name: "4664", value: 1 }, { name: "8755", value: 1 }, { name: "16958", value: 1 }, { name: "45605", value: 1 }, { name: "8756", value: 1 }, { name: "5013", value: 1 }, { name: "4194", value: 1 }, { name: "5009", value: 1 }, { name: "57909", value: 1 }, { name: "8739", value: 1 }, { name: "20589", value: 1 }, { name: "209918", value: 1 }, { name: "41520", value: 1 }, { name: "5019", value: 1 }, { name: "9118", value: 1 }, { name: "16948", value: 1 }, { name: "4187", value: 1 }, { name: "4221", value: 1 }, { name: "29255", value: 1 }, { name: "4687", value: 1 }, { name: "78442", value: 1 }, { name: "5002", value: 1 }, { name: "41567", value: 1 }, { name: "8782", value: 1 }, { name: "4680", value: 1 }, { name: "4172", value: 1 }, { name: "4173", value: 1 }, { name: "12857", value: 1 }, { name: "4679", value: 1 }, { name: "910", value: 1 }, { name: "36888", value: 1 }, { name: "5010", value: 1 }, { name: "4672", value: 1 }, { name: "5008", value: 1 }, { name: "41026", value: 1 }, { name: "4643", value: 1 }, { name: "9119", value: 1 }, { name: "70147", value: 1 }, { name: "5038", value: 1 }, { name: "41059", value: 1 }, { name: "5033", value: 1 }, { name: "12800", value: 1 }, { name: "4614", value: 1 }, { name: "12412", value: 1 }, { name: "4217", value: 1 }, { name: "4610", value: 1 }, { name: "4223", value: 1 }, { name: "5020", value: 1 }, { name: "33724", value: 1 }, { name: "12792", value: 1 }, { name: "5039", value: 1 }, { name: "62385", value: 1 }, { name: "20597", value: 1 }, { name: "8701", value: 1 }, { name: "5040", value: 1 }, { name: "5035", value: 1 }, { name: "8306", value: 1 }, { name: "29189", value: 1 }, { name: "4872", value: 1 }, { name: "4203", value: 1 }, { name: "5021", value: 1 }, { name: "4637", value: 1 }, { name: "69710", value: 1 }, { name: "25516", value: 1 }, { name: "16484", value: 1 }, { name: "5027", value: 1 }, { name: "4207", value: 1 }, { name: "21023", value: 1 }, { name: "4210", value: 1 }, { name: "4626", value: 1 }, { name: "4214", value: 1 }, { name: "33718", value: 1 }, { name: "8713", value: 1 }, { name: "4215", value: 1 }, { name: "127895", value: 1 }, { name: "204700", value: 1 }, { name: "369813", value: 1 }, { name: "2893", value: 1 }, { name: "7111", value: 1 }, { name: "11206", value: 1 }, { name: "3010", value: 1 }, { name: "27599", value: 1 }, { name: "3005", value: 1 }, { name: "43945", value: 1 }, { name: "11199", value: 1 }, { name: "134136", value: 1 }, { name: "19376", value: 1 }, { name: "15295", value: 1 }, { name: "7095", value: 1 }, { name: "2997", value: 1 }, { name: "2994", value: 1 }, { name: "7088", value: 1 }, { name: "2995", value: 1 }, { name: "43941", value: 1 }, { name: "11178", value: 1 }, { name: "31649", value: 1 }, { name: "2984", value: 1 }, { name: "23468", value: 1 }, { name: "2982", value: 1 }, { name: "72581", value: 1 }, { name: "2981", value: 1 }, { name: "68583", value: 1 }, { name: "11202", value: 1 }, { name: "7108", value: 1 }, { name: "3041", value: 1 }, { name: "31743", value: 1 }, { name: "3054", value: 1 }, { name: "3048", value: 1 }, { name: "19425", value: 1 }, { name: "31720", value: 1 }, { name: "3046", value: 1 }, { name: "3047", value: 1 }, { name: "3044", value: 1 }, { name: "15330", value: 1 }, { name: "7143", value: 1 }, { name: "3038", value: 1 }, { name: "3020", value: 1 }, { name: "15325", value: 1 }, { name: "15327", value: 1 }, { name: "11218", value: 1 }, { name: "3029", value: 1 }, { name: "15315", value: 1 }, { name: "19418", value: 1 }, { name: "11222", value: 1 }, { name: "15316", value: 1 }, { name: "3026", value: 1 }, { name: "35779", value: 1 }, { name: "2978", value: 1 }, { name: "7072", value: 1 }, { name: "2975", value: 1 }, { name: "2914", value: 1 }, { name: "2928", value: 1 }, { name: "2929", value: 1 }, { name: "125773", value: 1 }, { name: "11113", value: 1 }, { name: "11118", value: 1 }, { name: "109407", value: 1 }, { name: "2920", value: 1 }, { name: "11117", value: 1 }, { name: "7012", value: 1 }, { name: "11105", value: 1 }, { name: "2911", value: 1 }, { name: "7030", value: 1 }, { name: "2908", value: 1 }, { name: "68474", value: 1 }, { name: "2906", value: 1 }, { name: "7000", value: 1 }, { name: "23378", value: 1 }, { name: "7003", value: 1 }, { name: "2905", value: 1 }, { name: "2896", value: 1 }, { name: "2894", value: 1 }, { name: "60243", value: 1 }, { name: "35685", value: 1 }, { name: "11134", value: 1 }, { name: "7069", value: 1 }, { name: "60308", value: 1 }, { name: "15257", value: 1 }, { name: "2970", value: 1 }, { name: "7065", value: 1 }, { name: "11164", value: 1 }, { name: "2962", value: 1 }, { name: "2963", value: 1 }, { name: "7058", value: 1 }, { name: "2958", value: 1 }, { name: "2959", value: 1 }, { name: "187351", value: 1 }, { name: "2952", value: 1 }, { name: "11130", value: 1 }, { name: "2948", value: 1 }, { name: "11137", value: 1 }, { name: "2946", value: 1 }, { name: "11143", value: 1 }, { name: "2947", value: 1 }, { name: "7042", value: 1 }, { name: "2944", value: 1 }, { name: "2945", value: 1 }, { name: "297745", value: 1 }, { name: "2942", value: 1 }, { name: "3059", value: 1 }, { name: "11254", value: 1 }, { name: "11249", value: 1 }, { name: "7277", value: 1 }, { name: "3198", value: 1 }, { name: "3196", value: 1 }, { name: "11384", value: 1 }, { name: "191526", value: 1 }, { name: "3192", value: 1 }, { name: "11389", value: 1 }, { name: "19582", value: 1 }, { name: "3190", value: 1 }, { name: "7285", value: 1 }, { name: "3183", value: 1 }, { name: "7268", value: 1 }, { name: "3204", value: 1 }, { name: "15456", value: 1 }, { name: "48241", value: 1 }, { name: "11360", value: 1 }, { name: "27753", value: 1 }, { name: "3171", value: 1 }, { name: "7266", value: 1 }, { name: "7254", value: 1 }, { name: "15442", value: 1 }, { name: "3157", value: 1 }, { name: "3153", value: 1 }, { name: "7298", value: 1 }, { name: "3207", value: 1 }, { name: "3147", value: 1 }, { name: "3231", value: 1 }, { name: "3251", value: 1 }, { name: "11444", value: 1 }, { name: "3244", value: 1 }, { name: "3242", value: 1 }, { name: "7336", value: 1 }, { name: "44223", value: 1 }, { name: "7338", value: 1 }, { name: "3241", value: 1 }, { name: "7335", value: 1 }, { name: "11430", value: 1 }, { name: "23701", value: 1 }, { name: "3211", value: 1 }, { name: "3229", value: 1 }, { name: "11417", value: 1 }, { name: "31892", value: 1 }, { name: "11423", value: 1 }, { name: "179407", value: 1 }, { name: "3222", value: 1 }, { name: "3220", value: 1 }, { name: "3221", value: 1 }, { name: "3214", value: 1 }, { name: "3210", value: 1 }, { name: "7247", value: 1 }, { name: "31813", value: 1 }, { name: "15346", value: 1 }, { name: "3081", value: 1 }, { name: "3094", value: 1 }, { name: "7189", value: 1 }, { name: "3090", value: 1 }, { name: "27676", value: 1 }, { name: "3088", value: 1 }, { name: "7187", value: 1 }, { name: "3087", value: 1 }, { name: "11272", value: 1 }, { name: "3085", value: 1 }, { name: "3083", value: 1 }, { name: "3077", value: 1 }, { name: "3097", value: 1 }, { name: "3074", value: 1 }, { name: "3075", value: 1 }, { name: "7169", value: 1 }, { name: "7171", value: 1 }, { name: "3070", value: 1 }, { name: "31729", value: 1 }, { name: "3067", value: 1 }, { name: "3065", value: 1 }, { name: "7158", value: 1 }, { name: "3060", value: 1 }, { name: "130088", value: 1 }, { name: "7195", value: 1 }, { name: "7243", value: 1 }, { name: "7217", value: 1 }, { name: "7238", value: 1 }, { name: "7232", value: 1 }, { name: "11335", value: 1 }, { name: "7234", value: 1 }, { name: "35886", value: 1 }, { name: "3132", value: 1 }, { name: "7231", value: 1 }, { name: "3133", value: 1 }, { name: "3126", value: 1 }, { name: "11312", value: 1 }, { name: "3116", value: 1 }, { name: "3096", value: 1 }, { name: "11308", value: 1 }, { name: "15407", value: 1 }, { name: "3108", value: 1 }, { name: "138343", value: 1 }, { name: "11303", value: 1 }, { name: "3107", value: 1 }, { name: "11300", value: 1 }, { name: "3104", value: 1 }, { name: "3100", value: 1 }, { name: "3101", value: 1 }, { name: "2895", value: 1 }, { name: "23367", value: 1 }, { name: "3253", value: 1 }, { name: "15180", value: 1 }, { name: "2669", value: 1 }, { name: "68173", value: 1 }, { name: "2667", value: 1 }, { name: "14958", value: 1 }, { name: "27236", value: 1 }, { name: "2662", value: 1 }, { name: "27240", value: 1 }, { name: "2656", value: 1 }, { name: "2657", value: 1 }, { name: "39500", value: 1 }, { name: "2652", value: 1 }, { name: "2651", value: 1 }, { name: "2649", value: 1 }, { name: "6742", value: 1 }, { name: "2645", value: 1 }, { name: "64077", value: 1 }, { name: "10836", value: 1 }, { name: "2641", value: 1 }, { name: "6735", value: 1 }, { name: "2631", value: 1 }, { name: "10820", value: 1 }, { name: "19017", value: 1 }, { name: "2625", value: 1 }, { name: "2670", value: 1 }, { name: "14966", value: 1 }, { name: "2675", value: 1 }, { name: "84652", value: 1 }, { name: "2716", value: 1 }, { name: "2715", value: 1 }, { name: "2712", value: 1 }, { name: "6811", value: 1 }, { name: "10896", value: 1 }, { name: "10897", value: 1 }, { name: "297503", value: 1 }, { name: "2700", value: 1 }, { name: "129716", value: 1 }, { name: "6793", value: 1 }, { name: "2692", value: 1 }, { name: "2674", value: 1 }, { name: "2690", value: 1 }, { name: "6787", value: 1 }, { name: "2686", value: 1 }, { name: "6780", value: 1 }, { name: "6783", value: 1 }, { name: "2681", value: 1 }, { name: "2678", value: 1 }, { name: "6772", value: 1 }, { name: "6773", value: 1 }, { name: "2676", value: 1 }, { name: "195168", value: 1 }, { name: "2622", value: 1 }, { name: "2619", value: 1 }, { name: "10744", value: 1 }, { name: "6671", value: 1 }, { name: "23047", value: 1 }, { name: "6666", value: 1 }, { name: "2568", value: 1 }, { name: "68134", value: 1 }, { name: "2567", value: 1 }, { name: "6663", value: 1 }, { name: "10758", value: 1 }, { name: "2562", value: 1 }, { name: "2558", value: 1 }, { name: "18933", value: 1 }, { name: "6673", value: 1 }, { name: "2553", value: 1 }, { name: "2546", value: 1 }, { name: "6641", value: 1 }, { name: "2542", value: 1 }, { name: "2543", value: 1 }, { name: "6639", value: 1 }, { name: "27110", value: 1 }, { name: "2535", value: 1 }, { name: "2533", value: 1 }, { name: "2531", value: 1 }, { name: "2574", value: 1 }, { name: "18970", value: 1 }, { name: "23089", value: 1 }, { name: "23087", value: 1 }, { name: "2617", value: 1 }, { name: "2610", value: 1 }, { name: "19003", value: 1 }, { name: "10807", value: 1 }, { name: "6702", value: 1 }, { name: "2604", value: 1 }, { name: "191095", value: 1 }, { name: "2600", value: 1 }, { name: "2599", value: 1 }, { name: "6694", value: 1 }, { name: "2597", value: 1 }, { name: "162395", value: 1 }, { name: "6688", value: 1 }, { name: "2592", value: 1 }, { name: "6691", value: 1 }, { name: "2590", value: 1 }, { name: "31249", value: 1 }, { name: "2588", value: 1 }, { name: "14877", value: 1 }, { name: "2584", value: 1 }, { name: "18961", value: 1 }, { name: "47617", value: 1 }, { name: "2719", value: 1 }, { name: "2721", value: 1 }, { name: "6819", value: 1 }, { name: "39711", value: 1 }, { name: "19218", value: 1 }, { name: "6938", value: 1 }, { name: "19231", value: 1 }, { name: "2839", value: 1 }, { name: "76598", value: 1 }, { name: "11031", value: 1 }, { name: "694849", value: 1 }, { name: "2832", value: 1 }, { name: "2830", value: 1 }, { name: "15114", value: 1 }, { name: "6920", value: 1 }, { name: "6946", value: 1 }, { name: "19202", value: 1 }, { name: "23296", value: 1 }, { name: "2824", value: 1 }, { name: "19212", value: 1 }, { name: "2820", value: 1 }, { name: "2818", value: 1 }, { name: "31501", value: 1 }, { name: "2819", value: 1 }, { name: "15097", value: 1 }, { name: "15098", value: 1 }, { name: "2842", value: 1 }, { name: "27432", value: 1 }, { name: "2807", value: 1 }, { name: "2880", value: 1 }, { name: "2891", value: 1 }, { name: "31557", value: 1 }, { name: "23361", value: 1 }, { name: "2888", value: 1 }, { name: "6980", value: 1 }, { name: "15168", value: 1 }, { name: "2887", value: 1 }, { name: "6977", value: 1 }, { name: "11076", value: 1 }, { name: "6978", value: 1 }, { name: "2878", value: 1 }, { name: "11053", value: 1 }, { name: "11064", value: 1 }, { name: "27440", value: 1 }, { name: "2872", value: 1 }, { name: "6971", value: 1 }, { name: "6965", value: 1 }, { name: "11056", value: 1 }, { name: "2869", value: 1 }, { name: "2866", value: 1 }, { name: "6956", value: 1 }, { name: "2863", value: 1 }, { name: "2811", value: 1 }, { name: "2804", value: 1 }, { name: "2722", value: 1 }, { name: "6834", value: 1 }, { name: "2751", value: 1 }, { name: "2748", value: 1 }, { name: "10936", value: 1 }, { name: "2749", value: 1 }, { name: "2744", value: 1 }, { name: "2742", value: 1 }, { name: "6836", value: 1 }, { name: "113282", value: 1 }, { name: "6832", value: 1 }, { name: "19128", value: 1 }, { name: "2736", value: 1 }, { name: "6844", value: 1 }, { name: "35488", value: 1 }, { name: "2737", value: 1 }, { name: "2734", value: 1 }, { name: "187125", value: 1 }, { name: "10923", value: 1 }, { name: "2729", value: 1 }, { name: "10914", value: 1 }, { name: "23214", value: 1 }, { name: "2724", value: 1 }, { name: "15012", value: 1 }, { name: "10938", value: 1 }, { name: "2753", value: 1 }, { name: "2803", value: 1 }, { name: "2774", value: 1 }, { name: "15083", value: 1 }, { name: "2794", value: 1 }, { name: "2791", value: 1 }, { name: "6887", value: 1 }, { name: "2789", value: 1 }, { name: "10980", value: 1 }, { name: "6883", value: 1 }, { name: "15067", value: 1 }, { name: "15070", value: 1 }, { name: "2777", value: 1 }, { name: "2775", value: 1 }, { name: "19145", value: 1 }, { name: "2770", value: 1 }, { name: "15048", value: 1 }, { name: "15049", value: 1 }, { name: "2765", value: 1 }, { name: "2763", value: 1 }, { name: "2760", value: 1 }, { name: "6859", value: 1 }, { name: "2758", value: 1 }, { name: "43734", value: 1 }, { name: "256700", value: 1 }, { name: "11441", value: 1 }, { name: "3252", value: 1 }, { name: "2529", value: 1 }, { name: "3641", value: 1 }, { name: "3799", value: 1 }, { name: "3796", value: 1 }, { name: "3794", value: 1 }, { name: "7888", value: 1 }, { name: "7890", value: 1 }, { name: "3792", value: 1 }, { name: "3791", value: 1 }, { name: "7887", value: 1 }, { name: "77551", value: 1 }, { name: "52958", value: 1 }, { name: "11971", value: 1 }, { name: "20173", value: 1 }, { name: "3781", value: 1 }, { name: "3779", value: 1 }, { name: "3774", value: 1 }, { name: "253638", value: 1 }, { name: "11966", value: 1 }, { name: "7866", value: 1 }, { name: "3769", value: 1 }, { name: "3766", value: 1 }, { name: "7861", value: 1 }, { name: "7857", value: 1 }, { name: "7849", value: 1 }, { name: "3798", value: 1 }, { name: "7897", value: 1 }, { name: "16091", value: 1 }, { name: "3827", value: 1 }, { name: "7947", value: 1 }, { name: "24332", value: 1 }, { name: "3844", value: 1 }, { name: "3840", value: 1 }, { name: "52964", value: 1 }, { name: "16124", value: 1 }, { name: "3834", value: 1 }, { name: "20222", value: 1 }, { name: "7924", value: 1 }, { name: "3831", value: 1 }, { name: "3824", value: 1 }, { name: "3804", value: 1 }, { name: "3822", value: 1 }, { name: "3823", value: 1 }, { name: "3820", value: 1 }, { name: "3818", value: 1 }, { name: "3816", value: 1 }, { name: "441906", value: 1 }, { name: "3808", value: 1 }, { name: "7907", value: 1 }, { name: "16088", value: 1 }, { name: "3807", value: 1 }, { name: "32421", value: 1 }, { name: "11948", value: 1 }, { name: "3752", value: 1 }, { name: "134679", value: 1 }, { name: "3686", value: 1 }, { name: "3685", value: 1 }, { name: "3683", value: 1 }, { name: "7777", value: 1 }, { name: "32336", value: 1 }, { name: "11867", value: 1 }, { name: "11865", value: 1 }, { name: "114286", value: 1 }, { name: "3672", value: 1 }, { name: "3671", value: 1 }, { name: "3668", value: 1 }, { name: "7790", value: 1 }, { name: "11856", value: 1 }, { name: "7760", value: 1 }, { name: "3665", value: 1 }, { name: "3662", value: 1 }, { name: "3663", value: 1 }, { name: "44636", value: 1 }, { name: "3649", value: 1 }, { name: "7743", value: 1 }, { name: "7737", value: 1 }, { name: "20019", value: 1 }, { name: "3688", value: 1 }, { name: "28258", value: 1 }, { name: "3751", value: 1 }, { name: "16002", value: 1 }, { name: "32428", value: 1 }, { name: "3746", value: 1 }, { name: "11943", value: 1 }, { name: "458365", value: 1 }, { name: "3742", value: 1 }, { name: "3741", value: 1 }, { name: "3734", value: 1 }, { name: "3731", value: 1 }, { name: "3725", value: 1 }, { name: "3723", value: 1 }, { name: "32395", value: 1 }, { name: "15987", value: 1 }, { name: "16003", value: 1 }, { name: "3713", value: 1 }, { name: "7804", value: 1 }, { name: "7806", value: 1 }, { name: "3704", value: 1 }, { name: "3702", value: 1 }, { name: "7796", value: 1 }, { name: "36454", value: 1 }, { name: "7797", value: 1 }, { name: "15986", value: 1 }, { name: "3851", value: 1 }, { name: "57098", value: 1 }, { name: "7953", value: 1 }, { name: "8088", value: 1 }, { name: "8112", value: 1 }, { name: "16311", value: 1 }, { name: "4014", value: 1 }, { name: "44984", value: 1 }, { name: "8105", value: 1 }, { name: "4008", value: 1 }, { name: "4002", value: 1 }, { name: "4001", value: 1 }, { name: "3998", value: 1 }, { name: "16284", value: 1 }, { name: "3992", value: 1 }, { name: "36779", value: 1 }, { name: "12178", value: 1 }, { name: "8085", value: 1 }, { name: "3989", value: 1 }, { name: "3987", value: 1 }, { name: "3985", value: 1 }, { name: "3982", value: 1 }, { name: "12169", value: 1 }, { name: "3978", value: 1 }, { name: "3975", value: 1 }, { name: "32650", value: 1 }, { name: "12211", value: 1 }, { name: "8130", value: 1 }, { name: "3969", value: 1 }, { name: "4067", value: 1 }, { name: "12275", value: 1 }, { name: "4082", value: 1 }, { name: "81878", value: 1 }, { name: "12264", value: 1 }, { name: "4072", value: 1 }, { name: "4073", value: 1 }, { name: "4070", value: 1 }, { name: "16352", value: 1 }, { name: "4069", value: 1 }, { name: "12262", value: 1 }, { name: "4064", value: 1 }, { name: "4038", value: 1 }, { name: "4062", value: 1 }, { name: "8152", value: 1 }, { name: "12252", value: 1 }, { name: "36808", value: 1 }, { name: "45005", value: 1 }, { name: "4054", value: 1 }, { name: "12246", value: 1 }, { name: "155524", value: 1 }, { name: "8141", value: 1 }, { name: "28609", value: 1 }, { name: "3968", value: 1 }, { name: "3964", value: 1 }, { name: "3861", value: 1 }, { name: "3897", value: 1 }, { name: "32588", value: 1 }, { name: "8000", value: 1 }, { name: "8002", value: 1 }, { name: "12101", value: 1 }, { name: "3902", value: 1 }, { name: "3903", value: 1 }, { name: "36655", value: 1 }, { name: "48938", value: 1 }, { name: "3898", value: 1 }, { name: "12092", value: 1 }, { name: "7985", value: 1 }, { name: "12099", value: 1 }, { name: "3886", value: 1 }, { name: "3887", value: 1 }, { name: "3881", value: 1 }, { name: "3876", value: 1 }, { name: "3877", value: 1 }, { name: "3874", value: 1 }, { name: "28461", value: 1 }, { name: "3873", value: 1 }, { name: "3871", value: 1 }, { name: "3864", value: 1 }, { name: "24398", value: 1 }, { name: "3915", value: 1 }, { name: "102221", value: 1 }, { name: "8026", value: 1 }, { name: "12157", value: 1 }, { name: "3953", value: 1 }, { name: "3950", value: 1 }, { name: "3949", value: 1 }, { name: "3943", value: 1 }, { name: "3939", value: 1 }, { name: "40781", value: 1 }, { name: "3930", value: 1 }, { name: "8025", value: 1 }, { name: "20307", value: 1 }, { name: "3928", value: 1 }, { name: "8008", value: 1 }, { name: "8027", value: 1 }, { name: "48975", value: 1 }, { name: "421786", value: 1 }, { name: "36678", value: 1 }, { name: "8016", value: 1 }, { name: "28509", value: 1 }, { name: "8019", value: 1 }, { name: "8012", value: 1 }, { name: "8014", value: 1 }, { name: "3916", value: 1 }, { name: "7738", value: 1 }, { name: "3632", value: 1 }, { name: "11443", value: 1 }, { name: "7724", value: 1 }, { name: "7507", value: 1 }, { name: "64851", value: 1 }, { name: "3398", value: 1 }, { name: "3399", value: 1 }, { name: "23880", value: 1 }, { name: "7488", value: 1 }, { name: "3395", value: 1 }, { name: "40274", value: 1 }, { name: "3393", value: 1 }, { name: "3388", value: 1 }, { name: "11570", value: 1 }, { name: "3380", value: 1 }, { name: "19773", value: 1 }, { name: "3381", value: 1 }, { name: "15670", value: 1 }, { name: "7470", value: 1 }, { name: "3370", value: 1 }, { name: "7466", value: 1 }, { name: "3369", value: 1 }, { name: "3366", value: 1 }, { name: "3367", value: 1 }, { name: "7452", value: 1 }, { name: "3356", value: 1 }, { name: "3408", value: 1 }, { name: "7504", value: 1 }, { name: "15698", value: 1 }, { name: "11627", value: 1 }, { name: "3451", value: 1 }, { name: "19827", value: 1 }, { name: "3446", value: 1 }, { name: "15728", value: 1 }, { name: "126283", value: 1 }, { name: "7543", value: 1 }, { name: "3442", value: 1 }, { name: "7537", value: 1 }, { name: "85337", value: 1 }, { name: "7533", value: 1 }, { name: "3436", value: 1 }, { name: "3412", value: 1 }, { name: "3430", value: 1 }, { name: "77123", value: 1 }, { name: "7527", value: 1 }, { name: "11623", value: 1 }, { name: "19816", value: 1 }, { name: "15704", value: 1 }, { name: "3418", value: 1 }, { name: "23889", value: 1 }, { name: "3417", value: 1 }, { name: "7509", value: 1 }, { name: "15642", value: 1 }, { name: "191814", value: 1 }, { name: "3355", value: 1 }, { name: "11468", value: 1 }, { name: "3303", value: 1 }, { name: "23784", value: 1 }, { name: "27885", value: 1 }, { name: "3292", value: 1 }, { name: "31963", value: 1 }, { name: "3285", value: 1 }, { name: "7378", value: 1 }, { name: "36032", value: 1 }, { name: "3277", value: 1 }, { name: "23744", value: 1 }, { name: "150656", value: 1 }, { name: "36088", value: 1 }, { name: "11469", value: 1 }, { name: "7364", value: 1 }, { name: "19660", value: 1 }, { name: "3268", value: 1 }, { name: "3265", value: 1 }, { name: "11448", value: 1 }, { name: "3261", value: 1 }, { name: "3258", value: 1 }, { name: "113804", value: 1 }, { name: "19647", value: 1 }, { name: "48383", value: 1 }, { name: "3306", value: 1 }, { name: "27927", value: 1 }, { name: "7435", value: 1 }, { name: "15647", value: 1 }, { name: "7451", value: 1 }, { name: "3353", value: 1 }, { name: "3351", value: 1 }, { name: "3347", value: 1 }, { name: "7436", value: 1 }, { name: "3340", value: 1 }, { name: "3339", value: 1 }, { name: "7434", value: 1 }, { name: "3336", value: 1 }, { name: "15617", value: 1 }, { name: "3309", value: 1 }, { name: "3329", value: 1 }, { name: "3322", value: 1 }, { name: "11517", value: 1 }, { name: "3321", value: 1 }, { name: "7413", value: 1 }, { name: "113857", value: 1 }, { name: "19706", value: 1 }, { name: "3314", value: 1 }, { name: "3313", value: 1 }, { name: "3308", value: 1 }, { name: "7544", value: 1 }, { name: "73055", value: 1 }, { name: "3455", value: 1 }, { name: "19951", value: 1 }, { name: "56806", value: 1 }, { name: "3581", value: 1 }, { name: "77276", value: 1 }, { name: "3577", value: 1 }, { name: "19953", value: 1 }, { name: "3575", value: 1 }, { name: "15861", value: 1 }, { name: "28130", value: 1 }, { name: "15852", value: 1 }, { name: "122320", value: 1 }, { name: "3559", value: 1 }, { name: "24074", value: 1 }, { name: "3557", value: 1 }, { name: "175537", value: 1 }, { name: "388444", value: 1 }, { name: "7651", value: 1 }, { name: "7644", value: 1 }, { name: "3548", value: 1 }, { name: "3546", value: 1 }, { name: "15824", value: 1 }, { name: "3543", value: 1 }, { name: "3541", value: 1 }, { name: "3584", value: 1 }, { name: "11779", value: 1 }, { name: "3534", value: 1 }, { name: "7714", value: 1 }, { name: "15912", value: 1 }, { name: "28194", value: 1 }, { name: "28192", value: 1 }, { name: "7727", value: 1 }, { name: "32292", value: 1 }, { name: "7721", value: 1 }, { name: "3622", value: 1 }, { name: "7718", value: 1 }, { name: "3621", value: 1 }, { name: "24105", value: 1 }, { name: "3610", value: 1 }, { name: "32265", value: 1 }, { name: "28182", value: 1 }, { name: "24080", value: 1 }, { name: "11798", value: 1 }, { name: "3600", value: 1 }, { name: "32287", value: 1 }, { name: "7699", value: 1 }, { name: "3601", value: 1 }, { name: "122418", value: 1 }, { name: "24076", value: 1 }, { name: "11778", value: 1 }, { name: "3537", value: 1 }, { name: "40413", value: 1 }, { name: "3454", value: 1 }, { name: "11659", value: 1 }, { name: "28076", value: 1 }, { name: "3488", value: 1 }, { name: "3487", value: 1 }, { name: "3483", value: 1 }, { name: "11677", value: 1 }, { name: "3476", value: 1 }, { name: "56718", value: 1 }, { name: "3477", value: 1 }, { name: "52631", value: 1 }, { name: "3471", value: 1 }, { name: "3469", value: 1 }, { name: "3490", value: 1 }, { name: "36247", value: 1 }, { name: "3463", value: 1 }, { name: "7558", value: 1 }, { name: "3460", value: 1 }, { name: "7559", value: 1 }, { name: "3458", value: 1 }, { name: "7552", value: 1 }, { name: "28047", value: 1 }, { name: "11652", value: 1 }, { name: "3457", value: 1 }, { name: "3491", value: 1 }, { name: "3492", value: 1 }, { name: "11720", value: 1 }, { name: "3520", value: 1 }, { name: "19908", value: 1 }, { name: "7624", value: 1 }, { name: "3531", value: 1 }, { name: "3528", value: 1 }, { name: "3529", value: 1 }, { name: "44496", value: 1 }, { name: "7622", value: 1 }, { name: "11712", value: 1 }, { name: "3525", value: 1 }, { name: "19915", value: 1 }, { name: "3519", value: 1 }, { name: "3497", value: 1 }, { name: "3517", value: 1 }, { name: "7609", value: 1 }, { name: "28084", value: 1 }, { name: "3513", value: 1 }, { name: "19899", value: 1 }, { name: "3502", value: 1 }, { name: "3500", value: 1 }, { name: "7599", value: 1 }, { name: "7593", value: 1 }, { name: "7594", value: 1 }, { name: "2528", value: 1 }, { name: "6620", value: 1 }, { name: "21544", value: 1 }, { name: "54746", value: 1 }, { name: "22065", value: 1 }, { name: "1590", value: 1 }, { name: "5687", value: 1 }, { name: "9783", value: 1 }, { name: "13876", value: 1 }, { name: "1586", value: 1 }, { name: "1583", value: 1 }, { name: "103965", value: 1 }, { name: "8185", value: 1 }, { name: "5676", value: 1 }, { name: "5674", value: 1 }, { name: "1575", value: 1 }, { name: "13857", value: 1 }, { name: "13859", value: 1 }, { name: "1571", value: 1 }, { name: "5665", value: 1 }, { name: "13860", value: 1 }, { name: "5664", value: 1 }, { name: "1566", value: 1 }, { name: "5663", value: 1 }, { name: "1565", value: 1 }, { name: "1564", value: 1 }, { name: "13850", value: 1 }, { name: "1595", value: 1 }, { name: "5694", value: 1 }, { name: "13881", value: 1 }, { name: "34373", value: 1 }, { name: "321260", value: 1 }, { name: "5740", value: 1 }, { name: "67150", value: 1 }, { name: "5743", value: 1 }, { name: "1642", value: 1 }, { name: "1639", value: 1 }, { name: "5735", value: 1 }, { name: "5729", value: 1 }, { name: "9819", value: 1 }, { name: "1627", value: 1 }, { name: "1620", value: 1 }, { name: "1601", value: 1 }, { name: "42560", value: 1 }, { name: "5713", value: 1 }, { name: "1618", value: 1 }, { name: "5715", value: 1 }, { name: "1614", value: 1 }, { name: "1612", value: 1 }, { name: "5705", value: 1 }, { name: "9804", value: 1 }, { name: "17998", value: 1 }, { name: "5697", value: 1 }, { name: "9752", value: 1 }, { name: "5657", value: 1 }, { name: "1561", value: 1 }, { name: "1507", value: 1 }, { name: "21991", value: 1 }, { name: "17893", value: 1 }, { name: "9710", value: 1 }, { name: "5608", value: 1 }, { name: "5611", value: 1 }, { name: "42492", value: 1 }, { name: "1512", value: 1 }, { name: "5607", value: 1 }, { name: "87503", value: 1 }, { name: "1508", value: 1 }, { name: "1505", value: 1 }, { name: "5618", value: 1 }, { name: "5597", value: 1 }, { name: "1501", value: 1 }, { name: "26065", value: 1 }, { name: "9695", value: 1 }, { name: "17885", value: 1 }, { name: "243111", value: 1 }, { name: "1485", value: 1 }, { name: "5573", value: 1 }, { name: "1477", value: 1 }, { name: "1475", value: 1 }, { name: "1517", value: 1 }, { name: "1524", value: 1 }, { name: "5653", value: 1 }, { name: "13837", value: 1 }, { name: "17949", value: 1 }, { name: "1557", value: 1 }, { name: "13843", value: 1 }, { name: "30237", value: 1 }, { name: "13845", value: 1 }, { name: "1555", value: 1 }, { name: "112167", value: 1 }, { name: "5650", value: 1 }, { name: "83492", value: 1 }, { name: "17924", value: 1 }, { name: "13826", value: 1 }, { name: "1525", value: 1 }, { name: "13828", value: 1 }, { name: "1538", value: 1 }, { name: "5635", value: 1 }, { name: "9723", value: 1 }, { name: "30193", value: 1 }, { name: "1533", value: 1 }, { name: "1532", value: 1 }, { name: "1531", value: 1 }, { name: "13822", value: 1 }, { name: "42466", value: 1 }, { name: "18044", value: 1 }, { name: "1653", value: 1 }, { name: "5751", value: 1 }, { name: "9946", value: 1 }, { name: "108230", value: 1 }, { name: "1776", value: 1 }, { name: "1775", value: 1 }, { name: "5868", value: 1 }, { name: "14058", value: 1 }, { name: "1770", value: 1 }, { name: "100057", value: 1 }, { name: "5866", value: 1 }, { name: "5863", value: 1 }, { name: "1761", value: 1 }, { name: "59074", value: 1 }, { name: "1782", value: 1 }, { name: "1757", value: 1 }, { name: "1756", value: 1 }, { name: "26326", value: 1 }, { name: "1753", value: 1 }, { name: "5847", value: 1 }, { name: "1747", value: 1 }, { name: "1746", value: 1 }, { name: "5843", value: 1 }, { name: "1740", value: 1 }, { name: "1737", value: 1 }, { name: "18170", value: 1 }, { name: "14065", value: 1 }, { name: "1735", value: 1 }, { name: "14092", value: 1 }, { name: "50946", value: 1 }, { name: "1817", value: 1 }, { name: "14110", value: 1 }, { name: "22303", value: 1 }, { name: "1811", value: 1 }, { name: "5905", value: 1 }, { name: "1808", value: 1 }, { name: "9995", value: 1 }, { name: "9994", value: 1 }, { name: "1803", value: 1 }, { name: "1801", value: 1 }, { name: "9971", value: 1 }, { name: "18191", value: 1 }, { name: "1798", value: 1 }, { name: "1796", value: 1 }, { name: "14085", value: 1 }, { name: "9988", value: 1 }, { name: "5884", value: 1 }, { name: "1788", value: 1 }, { name: "579555", value: 1 }, { name: "1785", value: 1 }, { name: "22269", value: 1 }, { name: "1736", value: 1 }, { name: "5829", value: 1 }, { name: "42594", value: 1 }, { name: "34457", value: 1 }, { name: "1691", value: 1 }, { name: "5787", value: 1 }, { name: "415315", value: 1 }, { name: "5781", value: 1 }, { name: "18072", value: 1 }, { name: "5775", value: 1 }, { name: "9865", value: 1 }, { name: "26241", value: 1 }, { name: "13965", value: 1 }, { name: "5768", value: 1 }, { name: "1672", value: 1 }, { name: "5788", value: 1 }, { name: "1671", value: 1 }, { name: "9856", value: 1 }, { name: "5763", value: 1 }, { name: "1665", value: 1 }, { name: "5762", value: 1 }, { name: "5757", value: 1 }, { name: "13945", value: 1 }, { name: "5756", value: 1 }, { name: "5755", value: 1 }, { name: "50799", value: 1 }, { name: "13981", value: 1 }, { name: "1696", value: 1 }, { name: "34517", value: 1 }, { name: "5811", value: 1 }, { name: "5831", value: 1 }, { name: "1730", value: 1 }, { name: "5820", value: 1 }, { name: "5823", value: 1 }, { name: "5817", value: 1 }, { name: "26295", value: 1 }, { name: "5818", value: 1 }, { name: "1717", value: 1 }, { name: "18107", value: 1 }, { name: "14007", value: 1 }, { name: "5810", value: 1 }, { name: "9893", value: 1 }, { name: "1710", value: 1 }, { name: "54967", value: 1 }, { name: "1709", value: 1 }, { name: "5806", value: 1 }, { name: "9896", value: 1 }, { name: "34490", value: 1 }, { name: "1706", value: 1 }, { name: "5798", value: 1 }, { name: "9894", value: 1 }, { name: "13988", value: 1 }, { name: "38355", value: 1 }, { name: "1472", value: 1 }, { name: "5918", value: 1 }, { name: "5564", value: 1 }, { name: "246938", value: 1 }, { name: "1248", value: 1 }, { name: "5340", value: 1 }, { name: "5343", value: 1 }, { name: "1245", value: 1 }, { name: "1244", value: 1 }, { name: "9439", value: 1 }, { name: "13533", value: 1 }, { name: "9437", value: 1 }, { name: "1239", value: 1 }, { name: "160921", value: 1 }, { name: "13523", value: 1 }, { name: "1236", value: 1 }, { name: "9430", value: 1 }, { name: "214183", value: 1 }, { name: "5327", value: 1 }, { name: "1226", value: 1 }, { name: "5318", value: 1 }, { name: "115962", value: 1 }, { name: "1215", value: 1 }, { name: "1214", value: 1 }, { name: "5311", value: 1 }, { name: "156917", value: 1 }, { name: "38128", value: 1 }, { name: "5350", value: 1 }, { name: "5348", value: 1 }, { name: "13564", value: 1 }, { name: "5391", value: 1 }, { name: "9487", value: 1 }, { name: "1291", value: 1 }, { name: "5385", value: 1 }, { name: "5387", value: 1 }, { name: "9473", value: 1 }, { name: "9479", value: 1 }, { name: "9477", value: 1 }, { name: "1280", value: 1 }, { name: "54497", value: 1 }, { name: "197786", value: 1 }, { name: "1254", value: 1 }, { name: "1272", value: 1 }, { name: "1270", value: 1 }, { name: "38119", value: 1 }, { name: "5366", value: 1 }, { name: "70865", value: 1 }, { name: "5357", value: 1 }, { name: "1261", value: 1 }, { name: "152743", value: 1 }, { name: "5352", value: 1 }, { name: "42226", value: 1 }, { name: "9394", value: 1 }, { name: "5297", value: 1 }, { name: "70803", value: 1 }, { name: "5191", value: 1 }, { name: "115795", value: 1 }, { name: "1128", value: 1 }, { name: "5208", value: 1 }, { name: "1107", value: 1 }, { name: "5200", value: 1 }, { name: "29791", value: 1 }, { name: "5196", value: 1 }, { name: "21572", value: 1 }, { name: "9289", value: 1 }, { name: "13376", value: 1 }, { name: "21577", value: 1 }, { name: "5234", value: 1 }, { name: "25677", value: 1 }, { name: "37970", value: 1 }, { name: "17458", value: 1 }, { name: "13375", value: 1 }, { name: "9265", value: 1 }, { name: "1074", value: 1 }, { name: "13367", value: 1 }, { name: "50224", value: 1 }, { name: "21545", value: 1 }, { name: "5153", value: 1 }, { name: "1133", value: 1 }, { name: "5233", value: 1 }, { name: "1197", value: 1 }, { name: "5269", value: 1 }, { name: "25760", value: 1 }, { name: "5289", value: 1 }, { name: "13487", value: 1 }, { name: "1193", value: 1 }, { name: "38071", value: 1 }, { name: "5281", value: 1 }, { name: "9382", value: 1 }, { name: "5276", value: 1 }, { name: "5279", value: 1 }, { name: "21654", value: 1 }, { name: "9363", value: 1 }, { name: "5242", value: 1 }, { name: "9367", value: 1 }, { name: "1170", value: 1 }, { name: "1164", value: 1 }, { name: "9359", value: 1 }, { name: "5254", value: 1 }, { name: "5251", value: 1 }, { name: "13446", value: 1 }, { name: "70751", value: 1 }, { name: "1148", value: 1 }, { name: "123968", value: 1 }, { name: "9483", value: 1 }, { name: "5394", value: 1 }, { name: "9492", value: 1 }, { name: "17780", value: 1 }, { name: "1427", value: 1 }, { name: "1415", value: 1 }, { name: "9602", value: 1 }, { name: "1411", value: 1 }, { name: "42389", value: 1 }, { name: "13703", value: 1 }, { name: "9605", value: 1 }, { name: "5501", value: 1 }, { name: "1406", value: 1 }, { name: "21876", value: 1 }, { name: "5496", value: 1 }, { name: "83387", value: 1 }, { name: "5499", value: 1 }, { name: "5498", value: 1 }, { name: "17791", value: 1 }, { name: "5493", value: 1 }, { name: "13680", value: 1 }, { name: "5495", value: 1 }, { name: "5494", value: 1 }, { name: "30048", value: 1 }, { name: "1388", value: 1 }, { name: "17760", value: 1 }, { name: "9623", value: 1 }, { name: "5527", value: 1 }, { name: "38258", value: 1 }, { name: "9640", value: 1 }, { name: "9656", value: 1 }, { name: "5561", value: 1 }, { name: "1465", value: 1 }, { name: "5562", value: 1 }, { name: "5558", value: 1 }, { name: "5555", value: 1 }, { name: "1457", value: 1 }, { name: "26044", value: 1 }, { name: "1455", value: 1 }, { name: "169468", value: 1 }, { name: "5545", value: 1 }, { name: "54668", value: 1 }, { name: "9646", value: 1 }, { name: "1447", value: 1 }, { name: "9634", value: 1 }, { name: "5537", value: 1 }, { name: "9637", value: 1 }, { name: "5539", value: 1 }, { name: "9624", value: 1 }, { name: "5528", value: 1 }, { name: "13726", value: 1 }, { name: "1432", value: 1 }, { name: "9568", value: 1 }, { name: "5474", value: 1 }, { name: "5395", value: 1 }, { name: "5410", value: 1 }, { name: "9513", value: 1 }, { name: "5417", value: 1 }, { name: "21793", value: 1 }, { name: "124182", value: 1 }, { name: "1321", value: 1 }, { name: "1318", value: 1 }, { name: "5414", value: 1 }, { name: "5409", value: 1 }, { name: "25902", value: 1 }, { name: "13606", value: 1 }, { name: "111914", value: 1 }, { name: "38207", value: 1 }, { name: "1308", value: 1 }, { name: "5400", value: 1 }, { name: "9500", value: 1 }, { name: "5402", value: 1 }, { name: "1302", value: 1 }, { name: "42242", value: 1 }, { name: "21791", value: 1 }, { name: "5393", value: 1 }, { name: "17690", value: 1 }, { name: "5392", value: 1 }, { name: "5423", value: 1 }, { name: "17721", value: 1 }, { name: "9562", value: 1 }, { name: "1348", value: 1 }, { name: "17746", value: 1 }, { name: "13663", value: 1 }, { name: "9565", value: 1 }, { name: "21853", value: 1 }, { name: "1367", value: 1 }, { name: "5451", value: 1 }, { name: "1353", value: 1 }, { name: "5450", value: 1 }, { name: "9539", value: 1 }, { name: "1349", value: 1 }, { name: "5441", value: 1 }, { name: "5425", value: 1 }, { name: "9542", value: 1 }, { name: "13627", value: 1 }, { name: "5438", value: 1 }, { name: "62754", value: 1 }, { name: "5432", value: 1 }, { name: "30004", value: 1 }, { name: "17727", value: 1 }, { name: "25915", value: 1 }, { name: "1332", value: 1 }, { name: "9520", value: 1 }, { name: "18194", value: 1 }, { name: "5919", value: 1 }, { name: "2524", value: 1 }, { name: "6271", value: 1 }, { name: "10490", value: 1 }, { name: "67805", value: 1 }, { name: "10494", value: 1 }, { name: "137402", value: 1 }, { name: "2294", value: 1 }, { name: "10480", value: 1 }, { name: "14580", value: 1 }, { name: "2290", value: 1 }, { name: "2291", value: 1 }, { name: "2288", value: 1 }, { name: "2287", value: 1 }, { name: "26851", value: 1 }, { name: "6378", value: 1 }, { name: "2280", value: 1 }, { name: "2278", value: 1 }, { name: "2279", value: 1 }, { name: "2277", value: 1 }, { name: "2275", value: 1 }, { name: "10468", value: 1 }, { name: "10469", value: 1 }, { name: "2273", value: 1 }, { name: "67777", value: 1 }, { name: "2271", value: 1 }, { name: "10496", value: 1 }, { name: "2311", value: 1 }, { name: "18703", value: 1 }, { name: "6422", value: 1 }, { name: "6443", value: 1 }, { name: "2340", value: 1 }, { name: "2341", value: 1 }, { name: "6433", value: 1 }, { name: "158034", value: 1 }, { name: "2335", value: 1 }, { name: "2332", value: 1 }, { name: "2329", value: 1 }, { name: "6420", value: 1 }, { name: "14608", value: 1 }, { name: "2324", value: 1 }, { name: "2310", value: 1 }, { name: "39174", value: 1 }, { name: "2325", value: 1 }, { name: "6416", value: 1 }, { name: "14602", value: 1 }, { name: "6415", value: 1 }, { name: "2314", value: 1 }, { name: "10511", value: 1 }, { name: "2315", value: 1 }, { name: "10508", value: 1 }, { name: "2313", value: 1 }, { name: "22736", value: 1 }, { name: "30933", value: 1 }, { name: "2262", value: 1 }, { name: "6285", value: 1 }, { name: "2212", value: 1 }, { name: "14499", value: 1 }, { name: "10401", value: 1 }, { name: "2206", value: 1 }, { name: "18576", value: 1 }, { name: "2201", value: 1 }, { name: "14480", value: 1 }, { name: "2196", value: 1 }, { name: "6289", value: 1 }, { name: "2192", value: 1 }, { name: "6287", value: 1 }, { name: "22691", value: 1 }, { name: "2189", value: 1 }, { name: "2186", value: 1 }, { name: "2184", value: 1 }, { name: "2185", value: 1 }, { name: "2182", value: 1 }, { name: "2183", value: 1 }, { name: "6278", value: 1 }, { name: "6279", value: 1 }, { name: "10373", value: 1 }, { name: "10362", value: 1 }, { name: "2215", value: 1 }, { name: "2219", value: 1 }, { name: "141458", value: 1 }, { name: "47313", value: 1 }, { name: "2258", value: 1 }, { name: "2259", value: 1 }, { name: "2254", value: 1 }, { name: "6350", value: 1 }, { name: "2253", value: 1 }, { name: "2250", value: 1 }, { name: "10447", value: 1 }, { name: "2248", value: 1 }, { name: "2249", value: 1 }, { name: "35031", value: 1 }, { name: "145539", value: 1 }, { name: "2218", value: 1 }, { name: "878958", value: 1 }, { name: "18632", value: 1 }, { name: "6338", value: 1 }, { name: "2229", value: 1 }, { name: "6322", value: 1 }, { name: "2222", value: 1 }, { name: "2223", value: 1 }, { name: "6318", value: 1 }, { name: "18596", value: 1 }, { name: "2221", value: 1 }, { name: "18720", value: 1 }, { name: "2344", value: 1 }, { name: "59700", value: 1 }, { name: "14756", value: 1 }, { name: "424319", value: 1 }, { name: "59824", value: 1 }, { name: "2476", value: 1 }, { name: "6575", value: 1 }, { name: "10665", value: 1 }, { name: "2475", value: 1 }, { name: "39355", value: 1 }, { name: "6571", value: 1 }, { name: "18863", value: 1 }, { name: "2469", value: 1 }, { name: "2461", value: 1 }, { name: "10673", value: 1 }, { name: "10655", value: 1 }, { name: "2450", value: 1 }, { name: "10644", value: 1 }, { name: "55690", value: 1 }, { name: "2447", value: 1 }, { name: "2442", value: 1 }, { name: "6539", value: 1 }, { name: "2441", value: 1 }, { name: "2430", value: 1 }, { name: "2431", value: 1 }, { name: "14774", value: 1 }, { name: "6583", value: 1 }, { name: "186657", value: 1 }, { name: "6602", value: 1 }, { name: "6618", value: 1 }, { name: "6619", value: 1 }, { name: "2519", value: 1 }, { name: "6613", value: 1 }, { name: "2517", value: 1 }, { name: "2512", value: 1 }, { name: "2510", value: 1 }, { name: "10699", value: 1 }, { name: "2508", value: 1 }, { name: "10702", value: 1 }, { name: "2505", value: 1 }, { name: "59819", value: 1 }, { name: "6598", value: 1 }, { name: "2500", value: 1 }, { name: "55770", value: 1 }, { name: "2496", value: 1 }, { name: "2495", value: 1 }, { name: "2492", value: 1 }, { name: "10680", value: 1 }, { name: "6585", value: 1 }, { name: "2488", value: 1 }, { name: "6580", value: 1 }, { name: "6520", value: 1 }, { name: "6522", value: 1 }, { name: "14637", value: 1 }, { name: "2365", value: 1 }, { name: "6479", value: 1 }, { name: "2378", value: 1 }, { name: "18755", value: 1 }, { name: "14670", value: 1 }, { name: "92517", value: 1 }, { name: "6475", value: 1 }, { name: "2368", value: 1 }, { name: "2366", value: 1 }, { name: "6462", value: 1 }, { name: "2364", value: 1 }, { name: "14651", value: 1 }, { name: "43352", value: 1 }, { name: "10553", value: 1 }, { name: "2362", value: 1 }, { name: "2360", value: 1 }, { name: "10557", value: 1 }, { name: "2358", value: 1 }, { name: "2355", value: 1 }, { name: "6449", value: 1 }, { name: "6444", value: 1 }, { name: "2349", value: 1 }, { name: "14636", value: 1 }, { name: "6478", value: 1 }, { name: "6481", value: 1 }, { name: "10621", value: 1 }, { name: "10592", value: 1 }, { name: "6523", value: 1 }, { name: "6516", value: 1 }, { name: "2423", value: 1 }, { name: "6518", value: 1 }, { name: "2420", value: 1 }, { name: "10613", value: 1 }, { name: "2417", value: 1 }, { name: "2412", value: 1 }, { name: "10606", value: 1 }, { name: "6500", value: 1 }, { name: "2400", value: 1 }, { name: "14677", value: 1 }, { name: "10597", value: 1 }, { name: "2401", value: 1 }, { name: "92493", value: 1 }, { name: "6494", value: 1 }, { name: "2397", value: 1 }, { name: "14683", value: 1 }, { name: "2394", value: 1 }, { name: "10591", value: 1 }, { name: "2393", value: 1 }, { name: "10579", value: 1 }, { name: "2175", value: 1 }, { name: "2171", value: 1 }, { name: "1822", value: 1 }, { name: "2163", value: 1 }, { name: "6043", value: 1 }, { name: "1945", value: 1 }, { name: "1940", value: 1 }, { name: "14226", value: 1 }, { name: "14229", value: 1 }, { name: "6035", value: 1 }, { name: "1935", value: 1 }, { name: "34718", value: 1 }, { name: "10121", value: 1 }, { name: "38814", value: 1 }, { name: "34716", value: 1 }, { name: "38809", value: 1 }, { name: "10125", value: 1 }, { name: "6020", value: 1 }, { name: "18317", value: 1 }, { name: "6023", value: 1 }, { name: "1925", value: 1 }, { name: "14211", value: 1 }, { name: "1920", value: 1 }, { name: "10107", value: 1 }, { name: "1918", value: 1 }, { name: "1917", value: 1 }, { name: "1913", value: 1 }, { name: "18322", value: 1 }, { name: "1947", value: 1 }, { name: "6046", value: 1 }, { name: "34727", value: 1 }, { name: "14278", value: 1 }, { name: "6082", value: 1 }, { name: "1984", value: 1 }, { name: "1983", value: 1 }, { name: "1982", value: 1 }, { name: "6076", value: 1 }, { name: "14266", value: 1 }, { name: "1977", value: 1 }, { name: "1976", value: 1 }, { name: "22461", value: 1 }, { name: "104326", value: 1 }, { name: "18327", value: 1 }, { name: "6065", value: 1 }, { name: "6060", value: 1 }, { name: "10153", value: 1 }, { name: "288551", value: 1 }, { name: "1958", value: 1 }, { name: "1957", value: 1 }, { name: "1955", value: 1 }, { name: "59324", value: 1 }, { name: "6050", value: 1 }, { name: "1951", value: 1 }, { name: "1911", value: 1 }, { name: "6004", value: 1 }, { name: "18301", value: 1 }, { name: "1841", value: 1 }, { name: "104206", value: 1 }, { name: "5944", value: 1 }, { name: "5947", value: 1 }, { name: "5946", value: 1 }, { name: "50989", value: 1 }, { name: "10032", value: 1 }, { name: "5937", value: 1 }, { name: "104193", value: 1 }, { name: "1842", value: 1 }, { name: "5939", value: 1 }, { name: "5933", value: 1 }, { name: "5954", value: 1 }, { name: "42808", value: 1 }, { name: "10024", value: 1 }, { name: "10030", value: 1 }, { name: "1833", value: 1 }, { name: "5930", value: 1 }, { name: "5925", value: 1 }, { name: "1829", value: 1 }, { name: "14115", value: 1 }, { name: "1827", value: 1 }, { name: "1823", value: 1 }, { name: "10041", value: 1 }, { name: "5958", value: 1 }, { name: "10096", value: 1 }, { name: "1883", value: 1 }, { name: "6003", value: 1 }, { name: "1902", value: 1 }, { name: "5999", value: 1 }, { name: "1901", value: 1 }, { name: "30563", value: 1 }, { name: "14179", value: 1 }, { name: "10081", value: 1 }, { name: "104301", value: 1 }, { name: "5983", value: 1 }, { name: "1885", value: 1 }, { name: "5979", value: 1 }, { name: "202532", value: 1 }, { name: "1879", value: 1 }, { name: "5975", value: 1 }, { name: "1876", value: 1 }, { name: "10071", value: 1 }, { name: "5970", value: 1 }, { name: "1871", value: 1 }, { name: "22341", value: 1 }, { name: "1864", value: 1 }, { name: "38740", value: 1 }, { name: "5956", value: 1 }, { name: "1985", value: 1 }, { name: "6080", value: 1 }, { name: "10176", value: 1 }, { name: "10286", value: 1 }, { name: "10296", value: 1 }, { name: "2109", value: 1 }, { name: "6202", value: 1 }, { name: "22591", value: 1 }, { name: "2101", value: 1 }, { name: "2098", value: 1 }, { name: "14389", value: 1 }, { name: "14391", value: 1 }, { name: "43045", value: 1 }, { name: "2095", value: 1 }, { name: "178301", value: 1 }, { name: "2117", value: 1 }, { name: "2088", value: 1 }, { name: "14383", value: 1 }, { name: "2087", value: 1 }, { name: "6181", value: 1 }, { name: "6182", value: 1 }, { name: "2084", value: 1 }, { name: "2080", value: 1 }, { name: "2079", value: 1 }, { name: "10267", value: 1 }, { name: "2076", value: 1 }, { name: "14406", value: 1 }, { name: "10307", value: 1 }, { name: "92215", value: 1 }, { name: "2138", value: 1 }, { name: "2158", value: 1 }, { name: "2156", value: 1 }, { name: "10350", value: 1 }, { name: "2154", value: 1 }, { name: "14447", value: 1 }, { name: "6251", value: 1 }, { name: "10342", value: 1 }, { name: "6241", value: 1 }, { name: "2145", value: 1 }, { name: "120923", value: 1 }, { name: "30804", value: 1 }, { name: "2119", value: 1 }, { name: "10333", value: 1 }, { name: "6228", value: 1 }, { name: "2135", value: 1 }, { name: "6225", value: 1 }, { name: "2129", value: 1 }, { name: "6220", value: 1 }, { name: "2125", value: 1 }, { name: "2123", value: 1 }, { name: "6218", value: 1 }, { name: "2121", value: 1 }, { name: "2074", value: 1 }, { name: "2075", value: 1 }, { name: "1990", value: 1 }, { name: "10204", value: 1 }, { name: "2021", value: 1 }, { name: "2020", value: 1 }, { name: "10208", value: 1 }, { name: "6113", value: 1 }, { name: "100307", value: 1 }, { name: "6112", value: 1 }, { name: "10213", value: 1 }, { name: "14310", value: 1 }, { name: "6114", value: 1 }, { name: "22480", value: 1 }, { name: "10195", value: 1 }, { name: "6127", value: 1 }, { name: "6100", value: 1 }, { name: "2005", value: 1 }, { name: "2002", value: 1 }, { name: "2000", value: 1 }, { name: "38850", value: 1 }, { name: "1998", value: 1 }, { name: "6094", value: 1 }, { name: "18369", value: 1 }, { name: "1991", value: 1 }, { name: "6085", value: 1 }, { name: "2024", value: 1 }, { name: "2030", value: 1 }, { name: "22547", value: 1 }, { name: "2045", value: 1 }, { name: "2071", value: 1 }, { name: "2068", value: 1 }, { name: "141396", value: 1 }, { name: "2058", value: 1 }, { name: "2057", value: 1 }, { name: "2052", value: 1 }, { name: "6151", value: 1 }, { name: "2048", value: 1 }, { name: "2049", value: 1 }, { name: "2046", value: 1 }, { name: "10233", value: 1 }, { name: "6125", value: 1 }, { name: "2044", value: 1 }, { name: "10239", value: 1 }, { name: "2042", value: 1 }, { name: "6139", value: 1 }, { name: "2040", value: 1 }, { name: "10227", value: 1 }, { name: "6134", value: 1 }, { name: "6129", value: 1 }, { name: "10230", value: 1 }, { name: "6130", value: 1 }, { name: "38460", value: 1 }],
-  frends: [{ name: "0", value: 1706215 }, { name: "1", value: 552811 }, { name: "2", value: 362669 }, { name: "3", value: 278652 }, { name: "4", value: 228499 }, { name: "5", value: 195950 }, { name: "6", value: 170771 }, { name: "7", value: 151315 }, { name: "8", value: 135635 }, { name: "9", value: 122777 }, { name: "10", value: 111443 }, { name: "11", value: 102738 }, { name: "12", value: 94663 }, { name: "13", value: 86480 }, { name: "14", value: 80355 }, { name: "15", value: 74982 }, { name: "16", value: 70043 }, { name: "17", value: 65140 }, { name: "18", value: 60824 }, { name: "19", value: 56757 }, { name: "20", value: 53255 }, { name: "21", value: 50170 }, { name: "22", value: 46853 }, { name: "23", value: 44302 }, { name: "24", value: 41492 }, { name: "25", value: 39284 }, { name: "26", value: 36842 }, { name: "27", value: 34390 }, { name: "28", value: 33165 }, { name: "29", value: 31472 }, { name: "30", value: 29772 }, { name: "31", value: 28433 }, { name: "32", value: 26813 }, { name: "33", value: 25554 }, { name: "34", value: 24532 }, { name: "35", value: 23374 }, { name: "36", value: 22075 }, { name: "37", value: 21060 }, { name: "38", value: 19945 }, { name: "39", value: 19131 }, { name: "40", value: 18283 }, { name: "41", value: 17624 }, { name: "42", value: 16665 }, { name: "43", value: 15807 }, { name: "44", value: 15011 }, { name: "45", value: 14554 }, { name: "46", value: 13679 }, { name: "47", value: 13245 }, { name: "48", value: 12599 }, { name: "49", value: 12299 }, { name: "50", value: 11680 }, { name: "51", value: 11353 }, { name: "52", value: 10723 }, { name: "53", value: 10254 }, { name: "54", value: 9891 }, { name: "55", value: 9482 }, { name: "56", value: 9211 }, { name: "57", value: 8717 }, { name: "58", value: 8284 }, { name: "59", value: 8135 }, { name: "60", value: 7591 }, { name: "61", value: 7493 }, { name: "62", value: 7247 }, { name: "63", value: 6861 }, { name: "64", value: 6681 }, { name: "65", value: 6606 }, { name: "66", value: 6289 }, { name: "67", value: 6041 }, { name: "68", value: 5953 }, { name: "69", value: 5603 }, { name: "70", value: 5488 }, { name: "71", value: 5360 }, { name: "72", value: 5052 }, { name: "73", value: 4905 }, { name: "74", value: 4535 }, { name: "75", value: 4530 }, { name: "76", value: 4291 }, { name: "77", value: 4281 }, { name: "78", value: 4107 }, { name: "79", value: 4081 }, { name: "80", value: 3834 }, { name: "81", value: 3664 }, { name: "82", value: 3637 }, { name: "84", value: 3413 }, { name: "83", value: 3384 }, { name: "85", value: 3361 }, { name: "87", value: 3272 }, { name: "86", value: 3239 }, { name: "88", value: 3114 }, { name: "89", value: 2991 }, { name: "91", value: 2804 }, { name: "90", value: 2792 }, { name: "94", value: 2700 }, { name: "92", value: 2561 }, { name: "96", value: 2500 }, { name: "93", value: 2450 }, { name: "95", value: 2446 }, { name: "97", value: 2403 }, { name: "98", value: 2211 }, { name: "100", value: 2182 }, { name: "99", value: 2179 }, { name: "101", value: 2012 }, { name: "102", value: 1998 }, { name: "105", value: 1915 }, { name: "103", value: 1912 }, { name: "104", value: 1857 }, { name: "106", value: 1815 }, { name: "109", value: 1784 }, { name: "107", value: 1777 }, { name: "108", value: 1723 }, { name: "111", value: 1626 }, { name: "110", value: 1612 }, { name: "112", value: 1585 }, { name: "113", value: 1529 }, { name: "114", value: 1410 }, { name: "116", value: 1406 }, { name: "115", value: 1382 }, { name: "118", value: 1377 }, { name: "117", value: 1350 }, { name: "120", value: 1278 }, { name: "119", value: 1245 }, { name: "122", value: 1243 }, { name: "121", value: 1239 }, { name: "125", value: 1149 }, { name: "124", value: 1144 }, { name: "123", value: 1106 }, { name: "126", value: 1089 }, { name: "128", value: 1089 }, { name: "127", value: 1047 }, { name: "129", value: 975 }, { name: "130", value: 964 }, { name: "132", value: 925 }, { name: "134", value: 922 }, { name: "137", value: 917 }, { name: "131", value: 906 }, { name: "133", value: 893 }, { name: "136", value: 890 }, { name: "135", value: 873 }, { name: "138", value: 856 }, { name: "143", value: 789 }, { name: "141", value: 779 }, { name: "144", value: 778 }, { name: "139", value: 764 }, { name: "140", value: 761 }, { name: "142", value: 753 }, { name: "145", value: 716 }, { name: "146", value: 694 }, { name: "148", value: 690 }, { name: "147", value: 680 }, { name: "150", value: 679 }, { name: "149", value: 626 }, { name: "152", value: 615 }, { name: "151", value: 611 }, { name: "153", value: 611 }, { name: "154", value: 602 }, { name: "155", value: 580 }, { name: "157", value: 578 }, { name: "156", value: 550 }, { name: "159", value: 527 }, { name: "164", value: 525 }, { name: "163", value: 512 }, { name: "162", value: 502 }, { name: "161", value: 500 }, { name: "158", value: 494 }, { name: "165", value: 494 }, { name: "160", value: 488 }, { name: "171", value: 471 }, { name: "166", value: 469 }, { name: "168", value: 439 }, { name: "167", value: 439 }, { name: "169", value: 424 }, { name: "174", value: 417 }, { name: "172", value: 413 }, { name: "177", value: 412 }, { name: "173", value: 398 }, { name: "170", value: 395 }, { name: "176", value: 393 }, { name: "175", value: 386 }, { name: "178", value: 363 }, { name: "184", value: 362 }, { name: "179", value: 360 }, { name: "183", value: 359 }, { name: "181", value: 356 }, { name: "180", value: 351 }, { name: "182", value: 333 }, { name: "189", value: 329 }, { name: "185", value: 328 }, { name: "187", value: 321 }, { name: "190", value: 303 }, { name: "194", value: 299 }, { name: "191", value: 296 }, { name: "192", value: 296 }, { name: "186", value: 277 }, { name: "193", value: 276 }, { name: "200", value: 273 }, { name: "196", value: 271 }, { name: "195", value: 269 }, { name: "188", value: 267 }, { name: "199", value: 259 }, { name: "197", value: 254 }, { name: "202", value: 254 }, { name: "198", value: 247 }, { name: "203", value: 245 }, { name: "209", value: 231 }, { name: "207", value: 219 }, { name: "212", value: 218 }, { name: "205", value: 214 }, { name: "211", value: 214 }, { name: "214", value: 214 }, { name: "201", value: 211 }, { name: "204", value: 208 }, { name: "217", value: 206 }, { name: "210", value: 204 }, { name: "206", value: 204 }, { name: "213", value: 201 }, { name: "216", value: 197 }, { name: "208", value: 197 }, { name: "215", value: 197 }, { name: "218", value: 194 }, { name: "226", value: 194 }, { name: "221", value: 189 }, { name: "220", value: 184 }, { name: "1001", value: 182 }, { name: "219", value: 180 }, { name: "223", value: 179 }, { name: "224", value: 177 }, { name: "229", value: 176 }, { name: "231", value: 173 }, { name: "228", value: 164 }, { name: "227", value: 162 }, { name: "230", value: 159 }, { name: "238", value: 157 }, { name: "222", value: 149 }, { name: "225", value: 146 }, { name: "233", value: 145 }, { name: "237", value: 145 }, { name: "240", value: 139 }, { name: "244", value: 135 }, { name: "234", value: 133 }, { name: "246", value: 129 }, { name: "268", value: 128 }, { name: "232", value: 128 }, { name: "247", value: 127 }, { name: "239", value: 127 }, { name: "248", value: 126 }, { name: "236", value: 124 }, { name: "245", value: 124 }, { name: "255", value: 123 }, { name: "253", value: 123 }, { name: "250", value: 122 }, { name: "241", value: 120 }, { name: "235", value: 119 }, { name: "261", value: 118 }, { name: "269", value: 117 }, { name: "243", value: 117 }, { name: "242", value: 114 }, { name: "251", value: 113 }, { name: "256", value: 113 }, { name: "254", value: 107 }, { name: "249", value: 105 }, { name: "262", value: 105 }, { name: "270", value: 105 }, { name: "260", value: 105 }, { name: "259", value: 104 }, { name: "279", value: 103 }, { name: "265", value: 101 }, { name: "299", value: 97 }, { name: "263", value: 97 }, { name: "267", value: 97 }, { name: "252", value: 94 }, { name: "266", value: 91 }, { name: "276", value: 90 }, { name: "283", value: 90 }, { name: "277", value: 88 }, { name: "258", value: 88 }, { name: "264", value: 86 }, { name: "271", value: 83 }, { name: "257", value: 82 }, { name: "273", value: 82 }, { name: "286", value: 81 }, { name: "293", value: 80 }, { name: "272", value: 79 }, { name: "278", value: 79 }, { name: "284", value: 78 }, { name: "274", value: 77 }, { name: "281", value: 77 }, { name: "290", value: 75 }, { name: "289", value: 75 }, { name: "285", value: 75 }, { name: "287", value: 74 }, { name: "308", value: 74 }, { name: "298", value: 72 }, { name: "282", value: 72 }, { name: "300", value: 72 }, { name: "275", value: 72 }, { name: "280", value: 72 }, { name: "288", value: 71 }, { name: "292", value: 71 }, { name: "313", value: 69 }, { name: "296", value: 66 }, { name: "310", value: 66 }, { name: "295", value: 63 }, { name: "309", value: 62 }, { name: "315", value: 60 }, { name: "304", value: 60 }, { name: "312", value: 60 }, { name: "328", value: 58 }, { name: "319", value: 58 }, { name: "317", value: 58 }, { name: "291", value: 58 }, { name: "294", value: 57 }, { name: "303", value: 57 }, { name: "305", value: 57 }, { name: "297", value: 55 }, { name: "334", value: 55 }, { name: "333", value: 54 }, { name: "318", value: 54 }, { name: "311", value: 54 }, { name: "325", value: 53 }, { name: "338", value: 53 }, { name: "307", value: 53 }, { name: "340", value: 52 }, { name: "327", value: 52 }, { name: "320", value: 52 }, { name: "335", value: 52 }, { name: "301", value: 51 }, { name: "321", value: 50 }, { name: "326", value: 49 }, { name: "323", value: 49 }, { name: "329", value: 49 }, { name: "332", value: 49 }, { name: "330", value: 49 }, { name: "331", value: 48 }, { name: "314", value: 48 }, { name: "302", value: 47 }, { name: "306", value: 47 }, { name: "346", value: 46 }, { name: "316", value: 46 }, { name: "342", value: 45 }, { name: "324", value: 45 }, { name: "349", value: 44 }, { name: "347", value: 44 }, { name: "322", value: 43 }, { name: "348", value: 41 }, { name: "337", value: 41 }, { name: "341", value: 40 }, { name: "339", value: 39 }, { name: "361", value: 39 }, { name: "350", value: 39 }, { name: "336", value: 39 }, { name: "351", value: 38 }, { name: "369", value: 38 }, { name: "360", value: 36 }, { name: "366", value: 35 }, { name: "355", value: 34 }, { name: "418", value: 34 }, { name: "381", value: 34 }, { name: "362", value: 34 }, { name: "371", value: 34 }, { name: "343", value: 33 }, { name: "387", value: 33 }, { name: "359", value: 32 }, { name: "383", value: 32 }, { name: "353", value: 32 }, { name: "367", value: 32 }, { name: "374", value: 31 }, { name: "364", value: 31 }, { name: "356", value: 31 }, { name: "358", value: 31 }, { name: "386", value: 31 }, { name: "450", value: 31 }, { name: "402", value: 30 }, { name: "380", value: 30 }, { name: "375", value: 29 }, { name: "376", value: 28 }, { name: "390", value: 28 }, { name: "392", value: 28 }, { name: "403", value: 28 }, { name: "379", value: 27 }, { name: "378", value: 27 }, { name: "399", value: 27 }, { name: "365", value: 27 }, { name: "431", value: 26 }, { name: "352", value: 26 }, { name: "345", value: 26 }, { name: "405", value: 25 }, { name: "443", value: 25 }, { name: "363", value: 25 }, { name: "506", value: 24 }, { name: "395", value: 24 }, { name: "391", value: 24 }, { name: "420", value: 24 }, { name: "370", value: 23 }, { name: "413", value: 23 }, { name: "425", value: 23 }, { name: "449", value: 23 }, { name: "433", value: 23 }, { name: "426", value: 23 }, { name: "456", value: 23 }, { name: "470", value: 22 }, { name: "393", value: 22 }, { name: "344", value: 22 }, { name: "357", value: 22 }, { name: "385", value: 22 }, { name: "354", value: 22 }, { name: "384", value: 21 }, { name: "484", value: 21 }, { name: "377", value: 21 }, { name: "479", value: 21 }, { name: "446", value: 21 }, { name: "396", value: 21 }, { name: "409", value: 21 }, { name: "401", value: 21 }, { name: "372", value: 21 }, { name: "428", value: 20 }, { name: "388", value: 20 }, { name: "501", value: 20 }, { name: "404", value: 20 }, { name: "429", value: 20 }, { name: "424", value: 20 }, { name: "414", value: 19 }, { name: "373", value: 19 }, { name: "492", value: 19 }, { name: "481", value: 19 }, { name: "434", value: 19 }, { name: "459", value: 19 }, { name: "482", value: 18 }, { name: "445", value: 18 }, { name: "394", value: 18 }, { name: "441", value: 18 }, { name: "438", value: 18 }, { name: "406", value: 18 }, { name: "382", value: 18 }, { name: "460", value: 18 }, { name: "411", value: 18 }, { name: "435", value: 17 }, { name: "1000", value: 17 }, { name: "368", value: 17 }, { name: "465", value: 17 }, { name: "422", value: 17 }, { name: "454", value: 17 }, { name: "421", value: 17 }, { name: "417", value: 17 }, { name: "1002", value: 17 }, { name: "462", value: 16 }, { name: "419", value: 16 }, { name: "400", value: 16 }, { name: "452", value: 16 }, { name: "389", value: 16 }, { name: "442", value: 16 }, { name: "436", value: 16 }, { name: "410", value: 16 }, { name: "563", value: 16 }, { name: "397", value: 16 }, { name: "500", value: 15 }, { name: "458", value: 15 }, { name: "430", value: 15 }, { name: "407", value: 15 }, { name: "398", value: 15 }, { name: "423", value: 15 }, { name: "427", value: 14 }, { name: "490", value: 14 }, { name: "491", value: 14 }, { name: "472", value: 14 }, { name: "473", value: 14 }, { name: "475", value: 14 }, { name: "502", value: 13 }, { name: "532", value: 13 }, { name: "451", value: 13 }, { name: "415", value: 13 }, { name: "499", value: 13 }, { name: "485", value: 13 }, { name: "437", value: 13 }, { name: "447", value: 13 }, { name: "432", value: 13 }, { name: "439", value: 12 }, { name: "546", value: 12 }, { name: "564", value: 12 }, { name: "518", value: 12 }, { name: "521", value: 12 }, { name: "591", value: 12 }, { name: "528", value: 12 }, { name: "476", value: 12 }, { name: "471", value: 12 }, { name: "408", value: 12 }, { name: "567", value: 12 }, { name: "627", value: 12 }, { name: "461", value: 12 }, { name: "477", value: 12 }, { name: "493", value: 11 }, { name: "539", value: 11 }, { name: "519", value: 11 }, { name: "544", value: 11 }, { name: "515", value: 11 }, { name: "495", value: 11 }, { name: "466", value: 11 }, { name: "998", value: 11 }, { name: "555", value: 11 }, { name: "556", value: 11 }, { name: "416", value: 11 }, { name: "453", value: 11 }, { name: "999", value: 11 }, { name: "569", value: 10 }, { name: "995", value: 10 }, { name: "509", value: 10 }, { name: "514", value: 10 }, { name: "463", value: 10 }, { name: "504", value: 10 }, { name: "480", value: 10 }, { name: "503", value: 10 }, { name: "488", value: 10 }, { name: "489", value: 10 }, { name: "699", value: 9 }, { name: "497", value: 9 }, { name: "613", value: 9 }, { name: "478", value: 9 }, { name: "599", value: 9 }, { name: "997", value: 9 }, { name: "412", value: 9 }, { name: "520", value: 9 }, { name: "558", value: 9 }, { name: "444", value: 9 }, { name: "440", value: 9 }, { name: "551", value: 9 }, { name: "505", value: 9 }, { name: "516", value: 9 }, { name: "469", value: 9 }, { name: "464", value: 8 }, { name: "535", value: 8 }, { name: "508", value: 8 }, { name: "644", value: 8 }, { name: "533", value: 8 }, { name: "530", value: 8 }, { name: "529", value: 8 }, { name: "547", value: 8 }, { name: "525", value: 8 }, { name: "550", value: 8 }, { name: "622", value: 8 }, { name: "652", value: 8 }, { name: "510", value: 8 }, { name: "614", value: 8 }, { name: "578", value: 8 }, { name: "892", value: 8 }, { name: "467", value: 8 }, { name: "468", value: 8 }, { name: "605", value: 8 }, { name: "596", value: 8 }, { name: "483", value: 8 }, { name: "630", value: 7 }, { name: "575", value: 7 }, { name: "587", value: 7 }, { name: "545", value: 7 }, { name: "562", value: 7 }, { name: "565", value: 7 }, { name: "905", value: 7 }, { name: "554", value: 7 }, { name: "557", value: 7 }, { name: "619", value: 7 }, { name: "568", value: 7 }, { name: "629", value: 7 }, { name: "612", value: 7 }, { name: "513", value: 7 }, { name: "526", value: 7 }, { name: "678", value: 7 }, { name: "494", value: 7 }, { name: "666", value: 7 }, { name: "523", value: 7 }, { name: "705", value: 7 }, { name: "531", value: 7 }, { name: "994", value: 7 }, { name: "457", value: 7 }, { name: "659", value: 7 }, { name: "511", value: 7 }, { name: "707", value: 6 }, { name: "683", value: 6 }, { name: "592", value: 6 }, { name: "701", value: 6 }, { name: "697", value: 6 }, { name: "695", value: 6 }, { name: "653", value: 6 }, { name: "618", value: 6 }, { name: "655", value: 6 }, { name: "765", value: 6 }, { name: "628", value: 6 }, { name: "665", value: 6 }, { name: "662", value: 6 }, { name: "634", value: 6 }, { name: "642", value: 6 }, { name: "643", value: 6 }, { name: "584", value: 6 }, { name: "448", value: 6 }, { name: "559", value: 6 }, { name: "571", value: 6 }, { name: "985", value: 6 }, { name: "534", value: 6 }, { name: "574", value: 6 }, { name: "517", value: 6 }, { name: "561", value: 6 }, { name: "754", value: 5 }, { name: "684", value: 5 }, { name: "507", value: 5 }, { name: "717", value: 5 }, { name: "538", value: 5 }, { name: "681", value: 5 }, { name: "522", value: 5 }, { name: "560", value: 5 }, { name: "864", value: 5 }, { name: "679", value: 5 }, { name: "755", value: 5 }, { name: "553", value: 5 }, { name: "623", value: 5 }, { name: "625", value: 5 }, { name: "987", value: 5 }, { name: "548", value: 5 }, { name: "833", value: 5 }, { name: "673", value: 5 }, { name: "685", value: 5 }, { name: "777", value: 5 }, { name: "607", value: 5 }, { name: "733", value: 5 }, { name: "654", value: 5 }, { name: "583", value: 5 }, { name: "727", value: 5 }, { name: "973", value: 5 }, { name: "590", value: 5 }, { name: "573", value: 5 }, { name: "774", value: 5 }, { name: "455", value: 5 }, { name: "486", value: 5 }, { name: "572", value: 5 }, { name: "487", value: 5 }, { name: "734", value: 5 }, { name: "496", value: 5 }, { name: "735", value: 5 }, { name: "992", value: 5 }, { name: "524", value: 5 }, { name: "542", value: 5 }, { name: "667", value: 4 }, { name: "527", value: 4 }, { name: "783", value: 4 }, { name: "536", value: 4 }, { name: "975", value: 4 }, { name: "682", value: 4 }, { name: "770", value: 4 }, { name: "672", value: 4 }, { name: "768", value: 4 }, { name: "677", value: 4 }, { name: "680", value: 4 }, { name: "752", value: 4 }, { name: "747", value: 4 }, { name: "728", value: 4 }, { name: "708", value: 4 }, { name: "709", value: 4 }, { name: "710", value: 4 }, { name: "725", value: 4 }, { name: "714", value: 4 }, { name: "537", value: 4 }, { name: "721", value: 4 }, { name: "651", value: 4 }, { name: "852", value: 4 }, { name: "875", value: 4 }, { name: "881", value: 4 }, { name: "790", value: 4 }, { name: "895", value: 4 }, { name: "979", value: 4 }, { name: "606", value: 4 }, { name: "603", value: 4 }, { name: "601", value: 4 }, { name: "598", value: 4 }, { name: "944", value: 4 }, { name: "956", value: 4 }, { name: "593", value: 4 }, { name: "962", value: 4 }, { name: "586", value: 4 }, { name: "576", value: 4 }, { name: "582", value: 4 }, { name: "581", value: 4 }, { name: "626", value: 4 }, { name: "610", value: 4 }, { name: "988", value: 4 }, { name: "636", value: 4 }, { name: "540", value: 4 }, { name: "811", value: 4 }, { name: "836", value: 4 }, { name: "847", value: 4 }, { name: "541", value: 4 }, { name: "788", value: 3 }, { name: "968", value: 3 }, { name: "789", value: 3 }, { name: "780", value: 3 }, { name: "993", value: 3 }, { name: "794", value: 3 }, { name: "802", value: 3 }, { name: "785", value: 3 }, { name: "729", value: 3 }, { name: "722", value: 3 }, { name: "947", value: 3 }, { name: "791", value: 3 }, { name: "966", value: 3 }, { name: "928", value: 3 }, { name: "938", value: 3 }, { name: "855", value: 3 }, { name: "739", value: 3 }, { name: "742", value: 3 }, { name: "821", value: 3 }, { name: "923", value: 3 }, { name: "831", value: 3 }, { name: "760", value: 3 }, { name: "764", value: 3 }, { name: "984", value: 3 }, { name: "769", value: 3 }, { name: "850", value: 3 }, { name: "874", value: 3 }, { name: "872", value: 3 }, { name: "991", value: 3 }, { name: "799", value: 3 }, { name: "731", value: 3 }, { name: "670", value: 3 }, { name: "595", value: 3 }, { name: "690", value: 3 }, { name: "688", value: 3 }, { name: "676", value: 3 }, { name: "671", value: 3 }, { name: "604", value: 3 }, { name: "661", value: 3 }, { name: "660", value: 3 }, { name: "609", value: 3 }, { name: "617", value: 3 }, { name: "648", value: 3 }, { name: "647", value: 3 }, { name: "646", value: 3 }, { name: "633", value: 3 }, { name: "637", value: 3 }, { name: "640", value: 3 }, { name: "692", value: 3 }, { name: "641", value: 3 }, { name: "700", value: 3 }, { name: "543", value: 3 }, { name: "474", value: 3 }, { name: "704", value: 3 }, { name: "713", value: 3 }, { name: "712", value: 3 }, { name: "1003", value: 3 }, { name: "703", value: 3 }, { name: "498", value: 3 }, { name: "585", value: 3 }, { name: "549", value: 3 }, { name: "616", value: 2 }, { name: "621", value: 2 }, { name: "888", value: 2 }, { name: "611", value: 2 }, { name: "893", value: 2 }, { name: "871", value: 2 }, { name: "865", value: 2 }, { name: "986", value: 2 }, { name: "620", value: 2 }, { name: "965", value: 2 }, { name: "862", value: 2 }, { name: "856", value: 2 }, { name: "854", value: 2 }, { name: "719", value: 2 }, { name: "846", value: 2 }, { name: "844", value: 2 }, { name: "841", value: 2 }, { name: "835", value: 2 }, { name: "834", value: 2 }, { name: "639", value: 2 }, { name: "996", value: 2 }, { name: "830", value: 2 }, { name: "826", value: 2 }, { name: "899", value: 2 }, { name: "904", value: 2 }, { name: "901", value: 2 }, { name: "930", value: 2 }, { name: "589", value: 2 }, { name: "961", value: 2 }, { name: "948", value: 2 }, { name: "588", value: 2 }, { name: "946", value: 2 }, { name: "945", value: 2 }, { name: "597", value: 2 }, { name: "942", value: 2 }, { name: "941", value: 2 }, { name: "939", value: 2 }, { name: "577", value: 2 }, { name: "600", value: 2 }, { name: "935", value: 2 }, { name: "929", value: 2 }, { name: "964", value: 2 }, { name: "926", value: 2 }, { name: "980", value: 2 }, { name: "925", value: 2 }, { name: "924", value: 2 }, { name: "982", value: 2 }, { name: "825", value: 2 }, { name: "921", value: 2 }, { name: "915", value: 2 }, { name: "911", value: 2 }, { name: "909", value: 2 }, { name: "907", value: 2 }, { name: "906", value: 2 }, { name: "608", value: 2 }, { name: "718", value: 2 }, { name: "635", value: 2 }, { name: "11519", value: 2 }, { name: "798", value: 2 }, { name: "796", value: 2 }, { name: "795", value: 2 }, { name: "792", value: 2 }, { name: "740", value: 2 }, { name: "741", value: 2 }, { name: "656", value: 2 }, { name: "658", value: 2 }, { name: "786", value: 2 }, { name: "693", value: 2 }, { name: "743", value: 2 }, { name: "745", value: 2 }, { name: "748", value: 2 }, { name: "749", value: 2 }, { name: "779", value: 2 }, { name: "778", value: 2 }, { name: "668", value: 2 }, { name: "776", value: 2 }, { name: "751", value: 2 }, { name: "820", value: 2 }, { name: "773", value: 2 }, { name: "691", value: 2 }, { name: "771", value: 2 }, { name: "674", value: 2 }, { name: "766", value: 2 }, { name: "756", value: 2 }, { name: "797", value: 2 }, { name: "736", value: 2 }, { name: "762", value: 2 }, { name: "645", value: 2 }, { name: "696", value: 2 }, { name: "806", value: 2 }, { name: "805", value: 2 }, { name: "711", value: 2 }, { name: "726", value: 2 }, { name: "814", value: 2 }, { name: "815", value: 2 }, { name: "732", value: 2 }, { name: "803", value: 2 }, { name: "720", value: 2 }, { name: "512", value: 1 }, { name: "940", value: 1 }, { name: "689", value: 1 }, { name: "724", value: 1 }, { name: "750", value: 1 }, { name: "723", value: 1 }, { name: "943", value: 1 }, { name: "715", value: 1 }, { name: "706", value: 1 }, { name: "934", value: 1 }, { name: "552", value: 1 }, { name: "932", value: 1 }, { name: "989", value: 1 }, { name: "974", value: 1 }, { name: "566", value: 1 }, { name: "702", value: 1 }, { name: "579", value: 1 }, { name: "972", value: 1 }, { name: "971", value: 1 }, { name: "969", value: 1 }, { name: "976", value: 1 }, { name: "758", value: 1 }, { name: "967", value: 1 }, { name: "737", value: 1 }, { name: "738", value: 1 }, { name: "694", value: 1 }, { name: "977", value: 1 }, { name: "978", value: 1 }, { name: "959", value: 1 }, { name: "570", value: 1 }, { name: "957", value: 1 }, { name: "594", value: 1 }, { name: "954", value: 1 }, { name: "981", value: 1 }, { name: "823", value: 1 }, { name: "602", value: 1 }, { name: "808", value: 1 }, { name: "867", value: 1 }, { name: "866", value: 1 }, { name: "860", value: 1 }, { name: "858", value: 1 }, { name: "857", value: 1 }, { name: "624", value: 1 }, { name: "804", value: 1 }, { name: "853", value: 1 }, { name: "848", value: 1 }, { name: "807", value: 1 }, { name: "845", value: 1 }, { name: "927", value: 1 }, { name: "842", value: 1 }, { name: "813", value: 1 }, { name: "840", value: 1 }, { name: "638", value: 1 }, { name: "817", value: 1 }, { name: "832", value: 1 }, { name: "818", value: 1 }, { name: "819", value: 1 }, { name: "829", value: 1 }, { name: "828", value: 1 }, { name: "868", value: 1 }, { name: "869", value: 1 }, { name: "649", value: 1 }, { name: "650", value: 1 }, { name: "687", value: 1 }, { name: "922", value: 1 }, { name: "772", value: 1 }, { name: "916", value: 1 }, { name: "912", value: 1 }, { name: "669", value: 1 }, { name: "908", value: 1 }, { name: "664", value: 1 }, { name: "782", value: 1 }, { name: "900", value: 1 }, { name: "784", value: 1 }, { name: "898", value: 1 }, { name: "787", value: 1 }, { name: "891", value: 1 }, { name: "890", value: 1 }, { name: "887", value: 1 }, { name: "886", value: 1 }, { name: "885", value: 1 }, { name: "615", value: 1 }, { name: "880", value: 1 }, { name: "876", value: 1 }, { name: "913", value: 1 }]
+  fansx: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119", "120", "121", "122", "123", "124", "125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "141", "142", "143", "144", "145", "146", "147", "148", "149", "150", "151", "152", "153", "154", "155", "156", "157", "158", "159", "160", "161", "162", "163", "164", "165", "166", "167", "168", "169", "170", "171", "172", "173", "174", "175", "176", "177", "178", "179", "180", "181", "182", "183", "184", "185", "186", "187", "188", "189", "190", "191", "192", "193", "194", "195", "196", "197", "198", "199", "200", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "211", "212", "213", "214", "215", "216", "217", "218", "219", "220", "221", "222", "223", "224", "225", "226", "227", "228", "229", "230", "231", "232", "233", "234", "235", "236", "237", "238", "239", "240", "241", "242", "243", "244", "245", "246", "247", "248", "249", "250", "251", "252", "253", "254", "255", "256", "257", "258", "259", "260", "261", "262", "263", "264", "265", "266", "267", "268", "269", "270", "271", "272", "273", "274", "275", "276", "277", "278", "279", "280", "281", "282", "283", "284", "285", "286", "287", "288", "289", "290", "291", "292", "293", "294", "295", "296", "297", "298", "299", "300", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "311", "312", "313", "314", "315", "316", "317", "318", "319", "320", "321", "322", "323", "324", "325", "326", "327", "328", "329", "330", "331", "332", "333", "334", "335", "336", "337", "338", "339", "340", "341", "342", "343", "344", "345", "346", "347", "348", "349", "350", "351", "352", "353", "354", "355", "356", "357", "358", "359", "360", "361", "362", "363", "364", "365", "366", "367", "368", "369", "370", "371", "372", "373", "374", "375", "376", "377", "378", "379", "380", "381", "382", "383", "384", "385", "386", "387", "388", "389", "390", "391", "392", "393", "394", "395", "396", "397", "398", "399", "400", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410", "411", "412", "413", "414", "415", "416", "417", "418", "419", "420", "421", "422", "423", "424", "425", "426", "427", "428", "429", "430", "431", "432", "433", "434", "435", "436", "437", "438", "439", "440", "441", "442", "443", "444", "445", "446", "447", "448", "449", "450", "451", "452", "453", "454", "455", "456", "457", "458", "459", "460", "461", "462", "463", "464", "465", "466", "467", "468", "469", "470", "471", "472", "473", "474", "475", "476", "477", "478", "479", "480", "481", "482", "483", "484", "485", "486", "487", "488", "489", "490", "491", "492", "493", "494", "495", "496", "497", "498", "499", "500", "501", "502", "503", "504", "505", "506", "507", "508", "509", "510", "511", "512", "513", "514", "515", "516", "517", "518", "519", "520", "521", "522", "523", "524", "525", "526", "527", "528", "529", "530", "531", "532", "533", "534", "535", "536", "537", "538", "539", "540", "541", "542", "543", "544", "545", "546", "547", "548", "549", "550", "551", "552", "553", "554", "555", "556", "557", "558", "559", "560", "561", "562", "563", "564", "565", "566", "567", "568", "569", "570", "571", "572", "573", "574", "575", "576", "577", "578", "579", "580", "581", "582", "583", "584", "585", "586", "587", "588", "589", "590", "591", "592", "593", "594", "595", "596", "597", "598", "599", "600", "601", "602", "603", "604", "605", "606", "607", "608", "609", "610", "611", "612", "613", "614", "615", "616", "617", "618", "619", "620", "621", "622", "623", "624", "625", "626", "627", "628", "629", "630", "631", "632", "633", "634", "635", "636", "637", "638", "639", "640", "641", "642", "643", "644", "645", "646", "647", "648", "649", "650", "651", "652", "653", "654", "655", "656", "657", "658", "659", "660", "661", "662", "663", "664", "665", "666", "667", "668", "669", "670", "671", "672", "673", "674", "675", "676", "677", "678", "679", "680", "681", "682", "683", "684", "685", "686", "687", "688", "689", "690", "691", "692", "693", "694", "695", "696", "697", "698", "699", "700", "701", "702", "703", "704", "705", "706", "707", "708", "709", "710", "711", "712", "713", "714", "715", "716", "717", "718", "719", "720", "721", "722", "723", "724", "725", "726", "727", "728", "729", "730", "731", "732", "733", "734", "735", "736", "737", "738", "739", "740", "741", "742", "743", "744", "745", "746", "747", "748", "749", "750", "751", "752", "753", "754", "755", "756", "757", "758", "759", "760", "761", "762", "763", "764", "765", "766", "767", "768", "769", "770", "771", "772", "773", "774", "775", "776", "777", "778", "779", "780", "781", "782", "783", "784", "785", "786", "787", "788", "789", "790", "791", "792", "793", "794", "795", "796", "797", "798", "799", "800", "801", "802", "803", "804", "805", "806", "807", "808", "809", "810", "811", "812", "813", "814", "815", "816", "817", "818", "819", "820", "821", "822", "823", "824", "825", "826", "827", "828", "829", "830", "831", "832", "833", "834", "835", "836", "837", "838", "839", "840", "841", "842", "843", "844", "845", "846", "847", "848", "849", "850", "851", "852", "853", "854", "855", "856", "857", "858", "859", "860", "861", "862", "863", "864", "865", "866", "867", "868", "869", "870", "871", "872", "873", "874", "875", "876", "877", "878", "879", "880", "881", "882", "883", "884", "885", "886", "887", "888", "889", "890", "891", "892", "893", "894", "895", "896", "897", "898", "899", "900", "901", "902", "903", "904", "905", "906", "907", "908", "909", "910", "911", "912", "913", "914", "915", "916", "917", "918", "919", "920", "921", "922", "923", "924", "925", "926", "927", "928", "929", "930", "931", "932", "933", "934", "935", "936", "937", "938", "939", "940", "941", "942", "943", "944", "945", "946", "947", "948", "949", "950", "951", "952", "953", "954", "955", "956", "957", "958", "959", "960", "961", "962", "963", "964", "965", "966", "967", "968", "969", "970", "971", "972", "973", "974", "975", "976", "977", "978", "979", "980", "982", "983", "984", "985", "986", "987", "988", "989", "990", "991", "992", "993", "994", "995", "996", "997", "998", "999", "1000", "1001", "1002", "1003", "1004", "1005", "1006", "1007", "1008", "1009", "1010", "1011", "1012", "1013", "1014", "1015", "1016", "1017", "1018", "1019", "1020", "1022", "1023", "1024", "1025", "1026", "1027", "1028", "1029", "1030", "1031", "1032", "1033", "1034", "1035", "1036", "1037", "1038", "1039", "1040", "1041", "1042", "1043", "1044", "1045", "1046", "1047", "1048", "1049", "1050", "1051", "1052", "1053", "1054", "1055", "1056", "1057", "1058", "1059", "1060", "1061", "1062", "1063", "1064", "1065", "1066", "1067", "1069", "1070", "1071", "1072", "1073", "1074", "1075", "1076", "1077", "1078", "1079", "1080", "1081", "1082", "1083", "1084", "1085", "1086", "1087", "1088", "1089", "1090", "1091", "1092", "1093", "1094", "1095", "1097", "1098", "1099", "1100", "1101", "1102", "1103", "1104", "1105", "1106", "1107", "1108", "1109", "1110", "1111", "1112", "1113", "1114", "1115", "1116", "1117", "1118", "1119", "1120", "1121", "1122", "1123", "1124", "1125", "1126", "1127", "1128", "1129", "1130", "1131", "1132", "1133", "1134", "1135", "1136", "1137", "1138", "1139", "1140", "1141", "1142", "1143", "1144", "1145", "1146", "1147", "1148", "1149", "1150", "1151", "1152", "1153", "1154", "1155", "1156", "1157", "1158", "1159", "1160", "1161", "1162", "1163", "1164", "1165", "1166", "1167", "1168", "1169", "1170", "1171", "1172", "1173", "1174", "1175", "1176", "1177", "1178", "1179", "1180", "1181", "1182", "1183", "1184", "1185", "1186", "1187", "1188", "1189", "1190", "1191", "1192", "1193", "1194", "1195", "1196", "1197", "1198", "1199", "1200", "1201", "1203", "1204", "1205", "1206", "1207", "1208", "1209", "1210", "1211", "1212", "1213", "1214", "1215", "1216", "1217", "1219", "1220", "1221", "1222", "1223", "1224", "1225", "1226", "1227", "1228", "1229", "1230", "1231", "1232", "1233", "1234", "1235", "1236", "1238", "1239", "1240", "1241", "1242", "1243", "1244", "1245", "1246", "1247", "1248", "1249", "1250", "1251", "1252", "1253", "1254", "1255", "1256", "1257", "1259", "1260", "1261", "1262", "1263", "1264", "1265", "1266", "1267", "1268", "1269", "1270", "1271", "1272", "1273", "1274", "1275", "1276", "1277", "1278", "1279", "1280", "1282", "1283", "1284", "1285", "1286", "1287", "1288", "1289", "1290", "1291", "1292", "1295", "1296", "1297", "1298", "1299", "1300", "1301", "1302", "1303", "1306", "1308", "1309", "1310", "1311", "1312", "1313", "1314", "1315", "1316", "1317", "1318", "1319", "1320", "1321", "1322", "1324", "1325", "1326", "1327", "1328", "1329", "1330", "1331", "1332", "1333", "1334", "1335", "1336", "1337", "1338", "1339", "1341", "1342", "1343", "1344", "1345", "1346", "1347", "1348", "1349", "1350", "1351", "1352", "1353", "1354", "1355", "1356", "1357", "1358", "1359", "1360", "1361", "1362", "1363", "1364", "1365", "1366", "1367", "1368", "1369", "1370", "1372", "1373", "1374", "1375", "1376", "1377", "1378", "1379", "1380", "1381", "1382", "1383", "1384", "1385", "1386", "1387", "1388", "1389", "1390", "1391", "1393", "1394", "1395", "1396", "1397", "1398", "1399", "1400", "1402", "1405", "1406", "1407", "1408", "1409", "1410", "1411", "1412", "1413", "1414", "1415", "1416", "1417", "1418", "1419", "1420", "1421", "1422", "1423", "1424", "1425", "1426", "1427", "1431", "1432", "1433", "1434", "1435", "1436", "1440", "1441", "1442", "1443", "1445", "1446", "1447", "1448", "1449", "1450", "1451", "1452", "1453", "1454", "1455", "1456", "1457", "1458", "1460", "1461", "1462", "1463", "1465", "1466", "1467", "1469", "1470", "1472", "1473", "1475", "1476", "1477", "1478", "1479", "1480", "1481", "1482", "1483", "1484", "1485", "1486", "1487", "1488", "1489", "1490", "1491", "1492", "1493", "1494", "1495", "1496", "1497", "1498", "1499", "1500", "1501", "1502", "1503", "1504", "1505", "1506", "1507", "1508", "1509", "1510", "1511", "1512", "1513", "1514", "1515", "1516", "1517", "1518", "1519", "1520", "1521", "1522", "1524", "1525", "1526", "1527", "1528", "1529", "1530", "1531", "1532", "1533", "1534", "1535", "1536", "1537", "1538", "1539", "1540", "1541", "1542", "1543", "1544", "1545", "1546", "1547", "1548", "1549", "1550", "1551", "1552", "1553", "1554", "1555", "1557", "1558", "1559", "1561", "1562", "1563", "1564", "1565", "1566", "1567", "1568", "1569", "1570", "1571", "1572", "1573", "1575", "1576", "1577", "1578", "1579", "1580", "1581", "1582", "1583", "1584", "1585", "1586", "1587", "1588", "1589", "1590", "1592", "1594", "1595", "1597", "1598", "1600", "1601", "1602", "1604", "1605", "1607", "1609", "1610", "1611", "1612", "1614", "1615", "1616", "1618", "1619", "1620", "1621", "1622", "1623", "1625", "1626", "1627", "1628", "1629", "1630", "1631", "1632", "1633", "1634", "1635", "1636", "1637", "1638", "1639", "1641", "1642", "1644", "1645", "1646", "1647", "1648", "1649", "1650", "1651", "1652", "1653", "1655", "1656", "1657", "1658", "1659", "1660", "1662", "1663", "1665", "1666", "1667", "1668", "1669", "1670", "1671", "1672", "1673", "1675", "1676", "1677", "1678", "1679", "1680", "1682", "1683", "1684", "1685", "1688", "1689", "1690", "1691", "1693", "1694", "1695", "1696", "1697", "1700", "1701", "1702", "1704", "1706", "1708", "1709", "1710", "1711", "1713", "1714", "1715", "1717", "1718", "1719", "1720", "1721", "1723", "1724", "1725", "1726", "1727", "1728", "1730", "1731", "1733", "1734", "1735", "1736", "1737", "1738", "1740", "1743", "1744", "1745", "1746", "1747", "1748", "1749", "1750", "1752", "1753", "1754", "1755", "1756", "1757", "1758", "1759", "1760", "1761", "1763", "1764", "1765", "1766", "1767", "1769", "1770", "1771", "1772", "1773", "1774", "1775", "1776", "1778", "1779", "1780", "1781", "1782", "1784", "1785", "1786", "1788", "1789", "1790", "1791", "1792", "1794", "1796", "1798", "1799", "1800", "1801", "1802", "1803", "1804", "1805", "1806", "1807", "1808", "1810", "1811", "1813", "1814", "1816", "1817", "1818", "1819", "1821", "1822", "1823", "1824", "1825", "1826", "1827", "1828", "1829", "1833", "1834", "1835", "1836", "1837", "1838", "1840", "1841", "1842", "1844", "1847", "1849", "1851", "1852", "1853", "1855", "1857", "1858", "1861", "1863", "1864", "1866", "1867", "1870", "1871", "1872", "1873", "1874", "1875", "1876", "1877", "1879", "1880", "1883", "1884", "1885", "1886", "1888", "1889", "1890", "1892", "1894", "1895", "1896", "1897", "1899", "1900", "1901", "1902", "1903", "1905", "1906", "1908", "1909", "1910", "1911", "1912", "1913", "1915", "1916", "1917", "1918", "1920", "1923", "1924", "1925", "1926", "1928", "1930", "1932", "1933", "1934", "1935", "1936", "1937", "1939", "1940", "1941", "1942", "1943", "1944", "1945", "1946", "1947", "1948", "1949", "1950", "1951", "1952", "1953", "1954", "1955", "1956", "1957", "1958", "1961", "1962", "1963", "1964", "1968", "1969", "1970", "1971", "1972", "1974", "1976", "1977", "1979", "1981", "1982", "1983", "1984", "1985", "1989", "1990", "1991", "1993", "1995", "1998", "1999", "2000", "2002", "2003", "2005", "2007", "2008", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2020", "2021", "2022", "2023", "2024", "2026", "2027", "2030", "2032", "2035", "2036", "2037", "2038", "2039", "2040", "2042", "2043", "2044", "2045", "2046", "2048", "2049", "2050", "2052", "2054", "2055", "2057", "2058", "2061", "2062", "2063", "2064", "2065", "2066", "2068", "2069", "2070", "2071", "2072", "2074", "2075", "2076", "2077", "2079", "2080", "2081", "2082", "2083", "2084", "2085", "2086", "2087", "2088", "2089", "2092", "2093", "2095", "2096", "2097", "2098", "2101", "2102", "2105", "2106", "2107", "2108", "2109", "2111", "2112", "2113", "2114", "2116", "2117", "2119", "2121", "2123", "2125", "2126", "2127", "2128", "2129", "2131", "2132", "2134", "2135", "2136", "2137", "2138", "2139", "2141", "2142", "2145", "2146", "2147", "2148", "2149", "2151", "2152", "2153", "2154", "2155", "2156", "2158", "2159", "2160", "2161", "2162", "2163", "2164", "2165", "2167", "2168", "2170", "2171", "2173", "2174", "2175", "2177", "2179", "2180", "2181", "2182", "2183", "2184", "2185", "2186", "2188", "2189", "2191", "2192", "2193", "2195", "2196", "2198", "2201", "2204", "2205", "2206", "2207", "2208", "2212", "2215", "2217", "2218", "2219", "2220", "2221", "2222", "2223", "2224", "2226", "2227", "2228", "2229", "2230", "2231", "2234", "2235", "2236", "2237", "2238", "2239", "2240", "2241", "2243", "2244", "2245", "2246", "2247", "2248", "2249", "2250", "2251", "2252", "2253", "2254", "2256", "2257", "2258", "2259", "2261", "2262", "2263", "2264", "2265", "2266", "2268", "2269", "2271", "2273", "2274", "2275", "2276", "2277", "2278", "2279", "2280", "2282", "2284", "2287", "2288", "2290", "2291", "2293", "2294", "2296", "2298", "2299", "2300", "2301", "2302", "2305", "2306", "2307", "2308", "2310", "2311", "2313", "2314", "2315", "2318", "2320", "2322", "2323", "2324", "2325", "2327", "2329", "2330", "2331", "2332", "2334", "2335", "2339", "2340", "2341", "2342", "2343", "2344", "2345", "2346", "2347", "2349", "2350", "2352", "2353", "2354", "2355", "2356", "2358", "2359", "2360", "2362", "2364", "2365", "2366", "2367", "2368", "2369", "2370", "2371", "2372", "2374", "2376", "2378", "2379", "2380", "2382", "2383", "2385", "2387", "2390", "2391", "2393", "2394", "2395", "2397", "2398", "2400", "2401", "2407", "2410", "2411", "2412", "2414", "2415", "2416", "2417", "2418", "2419", "2420", "2421", "2422", "2423", "2429", "2430", "2431", "2433", "2435", "2437", "2439", "2441", "2442", "2443", "2444", "2447", "2450", "2451", "2454", "2455", "2457", "2460", "2461", "2463", "2466", "2468", "2469", "2471", "2474", "2475", "2476", "2486", "2488", "2489", "2490", "2492", "2493", "2494", "2495", "2496", "2498", "2499", "2500", "2501", "2503", "2505", "2507", "2508", "2509", "2510", "2512", "2517", "2519", "2520", "2524", "2525", "2528", "2529", "2530", "2531", "2532", "2533", "2535", "2537", "2538", "2540", "2541", "2542", "2543", "2546", "2547", "2551", "2553", "2554", "2555", "2558", "2559", "2561", "2562", "2566", "2567", "2568", "2569", "2570", "2572", "2574", "2575", "2579", "2583", "2584", "2587", "2588", "2590", "2591", "2592", "2593", "2594", "2595", "2597", "2599", "2600", "2602", "2603", "2604", "2608", "2610", "2613", "2615", "2616", "2617", "2618", "2619", "2622", "2625", "2626", "2627", "2628", "2631", "2633", "2635", "2640", "2641", "2645", "2647", "2649", "2650", "2651", "2652", "2654", "2656", "2657", "2658", "2660", "2661", "2662", "2665", "2667", "2669", "2670", "2672", "2674", "2675", "2676", "2677", "2678", "2681", "2682", "2683", "2684", "2686", "2688", "2689", "2690", "2692", "2693", "2694", "2699", "2700", "2702", "2704", "2706", "2707", "2709", "2712", "2715", "2716", "2717", "2718", "2719", "2721", "2722", "2724", "2729", "2733", "2734", "2736", "2737", "2738", "2742", "2744", "2745", "2748", "2749", "2751", "2752", "2753", "2756", "2758", "2760", "2762", "2763", "2765", "2770", "2774", "2775", "2776", "2777", "2782", "2783", "2785", "2788", "2789", "2791", "2793", "2794", "2795", "2800", "2801", "2802", "2803", "2804", "2805", "2807", "2809", "2811", "2812", "2815", "2816", "2818", "2819", "2820", "2821", "2822", "2824", "2827", "2828", "2830", "2832", "2833", "2837", "2839", "2840", "2842", "2844", "2845", "2846", "2849", "2850", "2856", "2857", "2859", "2861", "2863", "2864", "2866", "2869", "2870", "2872", "2875", "2876", "2878", "2879", "2880", "2881", "2882", "2884", "2887", "2888", "2891", "2892", "2893", "2894", "2895", "2896", "2897", "2899", "2904", "2905", "2906", "2908", "2910", "2911", "2914", "2915", "2918", "2920", "2924", "2928", "2929", "2930", "2934", "2935", "2936", "2941", "2942", "2944", "2945", "2946", "2947", "2948", "2949", "2952", "2954", "2956", "2957", "2958", "2959", "2961", "2962", "2963", "2964", "2967", "2970", "2972", "2973", "2975", "2976", "2978", "2981", "2982", "2983", "2984", "2986", "2988", "2990", "2991", "2994", "2995", "2996", "2997", "3003", "3004", "3005", "3006", "3007", "3010", "3011", "3017", "3018", "3019", "3020", "3022", "3023", "3024", "3026", "3029", "3038", "3039", "3040", "3041", "3044", "3046", "3047", "3048", "3049", "3054", "3056", "3059", "3060", "3062", "3065", "3066", "3067", "3070", "3073", "3074", "3075", "3076", "3077", "3078", "3081", "3082", "3083", "3085", "3087", "3088", "3090", "3092", "3094", "3095", "3096", "3097", "3098", "3099", "3100", "3101", "3102", "3103", "3104", "3107", "3108", "3113", "3116", "3119", "3120", "3126", "3132", "3133", "3135", "3137", "3142", "3147", "3151", "3152", "3153", "3155", "3157", "3162", "3171", "3172", "3177", "3178", "3179", "3182", "3183", "3189", "3190", "3191", "3192", "3195", "3196", "3198", "3199", "3200", "3204", "3205", "3206", "3207", "3210", "3211", "3213", "3214", "3216", "3217", "3220", "3221", "3222", "3228", "3229", "3230", "3231", "3232", "3235", "3236", "3238", "3241", "3242", "3243", "3244", "3245", "3247", "3251", "3252", "3253", "3258", "3260", "3261", "3265", "3268", "3269", "3273", "3277", "3279", "3285", "3286", "3288", "3289", "3292", "3293", "3294", "3298", "3299", "3301", "3303", "3304", "3306", "3308", "3309", "3312", "3313", "3314", "3319", "3321", "3322", "3329", "3336", "3339", "3340", "3346", "3347", "3350", "3351", "3353", "3355", "3356", "3362", "3363", "3365", "3366", "3367", "3368", "3369", "3370", "3372", "3374", "3380", "3381", "3388", "3393", "3395", "3396", "3398", "3399", "3402", "3408", "3412", "3415", "3417", "3418", "3420", "3423", "3425", "3426", "3430", "3431", "3435", "3436", "3442", "3444", "3446", "3447", "3448", "3450", "3451", "3452", "3454", "3455", "3457", "3458", "3460", "3461", "3463", "3465", "3467", "3468", "3469", "3471", "3472", "3475", "3476", "3477", "3478", "3482", "3483", "3485", "3486", "3487", "3488", "3490", "3491", "3492", "3497", "3500", "3502", "3513", "3517", "3519", "3520", "3523", "3525", "3528", "3529", "3531", "3534", "3537", "3538", "3539", "3541", "3543", "3546", "3548", "3554", "3555", "3557", "3558", "3559", "3560", "3566", "3568", "3570", "3572", "3575", "3577", "3581", "3584", "3588", "3590", "3591", "3592", "3594", "3600", "3601", "3604", "3609", "3610", "3613", "3618", "3619", "3621", "3622", "3623", "3626", "3632", "3639", "3641", "3643", "3644", "3647", "3648", "3649", "3661", "3662", "3663", "3664", "3665", "3668", "3670", "3671", "3672", "3674", "3676", "3678", "3683", "3685", "3686", "3687", "3688", "3691", "3696", "3697", "3698", "3702", "3703", "3704", "3707", "3713", "3715", "3723", "3725", "3728", "3731", "3733", "3734", "3735", "3736", "3741", "3742", "3746", "3751", "3752", "3753", "3755", "3766", "3768", "3769", "3774", "3777", "3779", "3781", "3791", "3792", "3794", "3796", "3797", "3798", "3799", "3802", "3804", "3807", "3808", "3811", "3816", "3818", "3820", "3822", "3823", "3824", "3827", "3828", "3830", "3831", "3834", "3837", "3838", "3839", "3840", "3844", "3845", "3847", "3851", "3855", "3860", "3861", "3864", "3866", "3871", "3873", "3874", "3876", "3877", "3879", "3881", "3886", "3887", "3888", "3890", "3894", "3897", "3898", "3902", "3903", "3906", "3910", "3915", "3916", "3919", "3926", "3928", "3930", "3933", "3937", "3939", "3943", "3947", "3949", "3950", "3953", "3954", "3956", "3961", "3962", "3964", "3965", "3966", "3967", "3968", "3969", "3975", "3978", "3980", "3982", "3983", "3985", "3987", "3989", "3991", "3992", "3993", "3995", "3996", "3998", "4001", "4002", "4003", "4004", "4006", "4008", "4014", "4015", "4016", "4019", "4022", "4030", "4034", "4038", "4039", "4040", "4043", "4046", "4052", "4053", "4054", "4055", "4056", "4062", "4063", "4064", "4067", "4069", "4070", "4072", "4073", "4082", "4085", "4098", "4101", "4104", "4105", "4106", "4109", "4110", "4114", "4123", "4124", "4125", "4132", "4134", "4135", "4141", "4143", "4144", "4145", "4148", "4149", "4156", "4160", "4162", "4167", "4168", "4169", "4170", "4172", "4173", "4182", "4183", "4187", "4189", "4190", "4191", "4194", "4201", "4203", "4207", "4210", "4211", "4214", "4215", "4217", "4220", "4221", "4223", "4230", "4234", "4235", "4238", "4245", "4246", "4253", "4261", "4263", "4266", "4270", "4274", "4275", "4276", "4277", "4278", "4286", "4287", "4291", "4292", "4294", "4303", "4308", "4311", "4313", "4316", "4321", "4323", "4328", "4329", "4331", "4346", "4356", "4360", "4364", "4369", "4371", "4374", "4375", "4377", "4378", "4386", "4387", "4388", "4389", "4392", "4393", "4399", "4402", "4404", "4406", "4410", "4415", "4426", "4428", "4432", "4440", "4442", "4446", "4448", "4451", "4452", "4454", "4463", "4472", "4477", "4482", "4484", "4487", "4495", "4497", "4500", "4504", "4505", "4511", "4515", "4521", "4528", "4529", "4532", "4536", "4537", "4551", "4554", "4557", "4562", "4565", "4567", "4569", "4575", "4580", "4581", "4582", "4586", "4596", "4597", "4599", "4605", "4606", "4610", "4611", "4614", "4623", "4626", "4637", "4643", "4664", "4672", "4676", "4678", "4679", "4680", "4687", "4689", "4696", "4698", "4704", "4705", "4721", "4729", "4732", "4741", "4743", "4747", "4754", "4758", "4772", "4775", "4777", "4786", "4790", "4794", "4805", "4806", "4809", "4811", "4812", "4815", "4819", "4825", "4828", "4831", "4832", "4834", "4841", "4843", "4845", "4849", "4854", "4858", "4865", "4866", "4870", "4872", "4903", "4905", "4908", "4912", "4913", "4917", "4921", "4930", "4941", "4945", "4954", "4957", "4959", "4960", "4962", "4964", "4965", "4968", "4970", "4973", "4975", "4977", "4979", "4984", "4985", "4987", "4988", "4998", "4999", "5002", "5004", "5007", "5008", "5009", "5010", "5013", "5015", "5018", "5019", "5020", "5021", "5027", "5033", "5035", "5036", "5038", "5039", "5040", "5043", "5046", "5053", "5054", "5063", "5067", "5073", "5086", "5099", "5101", "5107", "5115", "5117", "5121", "5123", "5125", "5131", "5132", "5140", "5143", "5145", "5148", "5151", "5153", "5157", "5161", "5162", "5163", "5173", "5191", "5196", "5200", "5208", "5215", "5216", "5220", "5223", "5226", "5233", "5234", "5242", "5251", "5254", "5267", "5269", "5275", "5276", "5279", "5281", "5285", "5287", "5289", "5297", "5299", "5304", "5311", "5318", "5327", "5331", "5332", "5340", "5343", "5348", "5349", "5350", "5352", "5357", "5366", "5370", "5380", "5385", "5387", "5391", "5392", "5393", "5394", "5395", "5400", "5402", "5406", "5409", "5410", "5414", "5417", "5422", "5423", "5424", "5425", "5427", "5432", "5438", "5441", "5442", "5450", "5451", "5467", "5474", "5476", "5490", "5493", "5494", "5495", "5496", "5498", "5499", "5501", "5506", "5507", "5515", "5526", "5527", "5528", "5537", "5539", "5545", "5555", "5558", "5561", "5562", "5564", "5569", "5572", "5573", "5597", "5602", "5607", "5608", "5611", "5615", "5618", "5632", "5635", "5637", "5650", "5653", "5657", "5663", "5664", "5665", "5668", "5672", "5674", "5676", "5679", "5687", "5694", "5697", "5700", "5705", "5707", "5710", "5713", "5715", "5726", "5729", "5735", "5736", "5740", "5743", "5748", "5751", "5755", "5756", "5757", "5762", "5763", "5768", "5775", "5781", "5787", "5788", "5798", "5806", "5810", "5811", "5817", "5818", "5820", "5823", "5829", "5831", "5842", "5843", "5847", "5857", "5858", "5859", "5863", "5866", "5868", "5869", "5884", "5890", "5905", "5908", "5912", "5918", "5919", "5922", "5925", "5930", "5933", "5937", "5939", "5944", "5945", "5946", "5947", "5954", "5956", "5958", "5970", "5973", "5975", "5979", "5983", "5999", "6003", "6004", "6020", "6023", "6031", "6035", "6043", "6046", "6050", "6060", "6065", "6075", "6076", "6080", "6082", "6083", "6085", "6090", "6094", "6097", "6100", "6103", "6106", "6112", "6113", "6114", "6120", "6124", "6125", "6127", "6129", "6130", "6134", "6136", "6138", "6139", "6151", "6165", "6181", "6182", "6195", "6202", "6212", "6218", "6220", "6225", "6228", "6234", "6241", "6251", "6263", "6271", "6275", "6276", "6278", "6279", "6280", "6285", "6287", "6289", "6305", "6309", "6310", "6318", "6322", "6330", "6338", "6350", "6378", "6383", "6387", "6397", "6400", "6404", "6406", "6415", "6416", "6420", "6422", "6433", "6435", "6441", "6443", "6444", "6449", "6462", "6470", "6475", "6476", "6478", "6479", "6481", "6487", "6494", "6500", "6507", "6516", "6518", "6520", "6522", "6523", "6526", "6539", "6571", "6575", "6580", "6583", "6585", "6598", "6602", "6612", "6613", "6618", "6619", "6620", "6639", "6641", "6663", "6666", "6671", "6673", "6688", "6691", "6694", "6695", "6702", "6712", "6719", "6735", "6742", "6772", "6773", "6776", "6780", "6783", "6787", "6793", "6794", "6797", "6803", "6804", "6811", "6812", "6817", "6819", "6824", "6832", "6834", "6836", "6840", "6844", "6859", "6883", "6887", "6920", "6934", "6936", "6938", "6946", "6956", "6958", "6964", "6965", "6971", "6977", "6978", "6980", "7000", "7003", "7012", "7024", "7025", "7030", "7031", "7042", "7058", "7065", "7069", "7072", "7088", "7095", "7099", "7108", "7111", "7114", "7139", "7143", "7147", "7158", "7169", "7171", "7187", "7189", "7195", "7205", "7217", "7231", "7232", "7234", "7238", "7243", "7247", "7254", "7256", "7259", "7266", "7268", "7277", "7285", "7298", "7322", "7325", "7335", "7336", "7338", "7345", "7364", "7368", "7378", "7413", "7434", "7435", "7436", "7443", "7445", "7450", "7451", "7452", "7466", "7470", "7488", "7504", "7507", "7508", "7509", "7527", "7533", "7536", "7537", "7543", "7544", "7552", "7558", "7559", "7593", "7594", "7599", "7609", "7622", "7624", "7639", "7644", "7646", "7651", "7665", "7699", "7714", "7718", "7721", "7724", "7727", "7732", "7737", "7738", "7743", "7760", "7777", "7790", "7796", "7797", "7804", "7806", "7807", "7830", "7843", "7849", "7857", "7861", "7866", "7887", "7888", "7890", "7897", "7898", "7907", "7924", "7932", "7944", "7947", "7953", "7984", "7985", "7990", "8000", "8002", "8007", "8008", "8012", "8014", "8016", "8019", "8025", "8026", "8027", "8085", "8088", "8105", "8112", "8130", "8141", "8152", "8154", "8185", "8200", "8204", "8205", "8207", "8210", "8227", "8234", "8237", "8245", "8257", "8261", "8266", "8276", "8293", "8306", "8310", "8328", "8345", "8351", "8355", "8358", "8370", "8374", "8383", "8391", "8403", "8414", "8416", "8438", "8445", "8463", "8476", "8484", "8495", "8501", "8516", "8521", "8539", "8568", "8577", "8623", "8629", "8634", "8635", "8651", "8652", "8657", "8662", "8666", "8673", "8686", "8701", "8713", "8739", "8755", "8756", "8779", "8782", "8806", "8810", "8820", "8833", "8845", "8847", "8865", "8875", "8876", "8885", "8893", "8905", "8929", "8940", "8945", "8954", "8957", "8963", "8971", "8982", "8983", "8985", "8989", "8997", "9001", "9003", "9009", "9024", "9026", "9056", "9064", "9084", "9088", "9092", "9111", "9118", "9119", "9146", "9154", "9161", "9162", "9167", "9174", "9175", "9193", "9195", "9215", "9217", "9227", "9241", "9265", "9287", "9289", "9299", "9323", "9359", "9363", "9367", "9382", "9394", "9430", "9437", "9439", "9473", "9477", "9478", "9479", "9483", "9487", "9492", "9497", "9500", "9513", "9520", "9539", "9542", "9562", "9565", "9568", "9589", "9602", "9605", "9623", "9624", "9634", "9637", "9640", "9646", "9656", "9695", "9698", "9710", "9723", "9752", "9783", "9804", "9819", "9856", "9865", "9893", "9894", "9896", "9903", "9905", "9933", "9946", "9971", "9988", "9994", "9995", "10024", "10030", "10032", "10041", "10050", "10063", "10071", "10081", "10096", "10107", "10121", "10125", "10150", "10153", "10160", "10176", "10195", "10196", "10204", "10208", "10213", "10223", "10227", "10230", "10233", "10239", "10255", "10267", "10286", "10296", "10307", "10331", "10333", "10342", "10350", "10362", "10365", "10373", "10387", "10401", "10447", "10468", "10469", "10480", "10490", "10494", "10496", "10507", "10508", "10511", "10542", "10553", "10557", "10578", "10579", "10584", "10591", "10592", "10597", "10603", "10606", "10613", "10621", "10644", "10655", "10665", "10673", "10680", "10699", "10702", "10707", "10742", "10744", "10758", "10807", "10820", "10832", "10836", "10837", "10884", "10896", "10897", "10914", "10917", "10923", "10936", "10938", "10980", "11006", "11016", "11031", "11053", "11056", "11064", "11076", "11105", "11113", "11117", "11118", "11130", "11134", "11137", "11143", "11153", "11156", "11164", "11178", "11199", "11201", "11202", "11206", "11209", "11218", "11222", "11249", "11254", "11267", "11272", "11291", "11300", "11303", "11308", "11312", "11335", "11358", "11360", "11383", "11384", "11389", "11417", "11423", "11430", "11441", "11443", "11444", "11448", "11450", "11451", "11468", "11469", "11482", "11490", "11517", "11552", "11570", "11609", "11623", "11627", "11652", "11659", "11677", "11681", "11687", "11712", "11720", "11778", "11779", "11789", "11798", "11856", "11865", "11867", "11943", "11948", "11966", "11971", "12021", "12040", "12041", "12092", "12099", "12101", "12157", "12169", "12178", "12210", "12211", "12235", "12246", "12252", "12262", "12264", "12275", "12317", "12326", "12332", "12348", "12376", "12412", "12416", "12430", "12444", "12452", "12460", "12481", "12493", "12505", "12507", "12530", "12531", "12549", "12570", "12579", "12623", "12640", "12649", "12665", "12666", "12712", "12715", "12747", "12762", "12773", "12792", "12799", "12800", "12857", "12880", "12905", "12914", "12930", "12939", "12941", "12960", "13001", "13018", "13029", "13037", "13045", "13049", "13084", "13102", "13130", "13147", "13203", "13222", "13281", "13306", "13328", "13367", "13375", "13376", "13385", "13394", "13408", "13446", "13481", "13487", "13523", "13533", "13564", "13606", "13607", "13627", "13663", "13680", "13703", "13713", "13726", "13770", "13790", "13822", "13826", "13828", "13837", "13843", "13845", "13850", "13857", "13859", "13860", "13876", "13881", "13909", "13932", "13945", "13965", "13981", "13988", "14007", "14058", "14065", "14085", "14092", "14110", "14115", "14179", "14201", "14211", "14218", "14226", "14229", "14266", "14278", "14310", "14311", "14383", "14389", "14391", "14406", "14429", "14447", "14480", "14499", "14580", "14602", "14608", "14636", "14637", "14649", "14651", "14670", "14677", "14683", "14725", "14756", "14765", "14774", "14850", "14877", "14952", "14958", "14964", "14966", "15012", "15048", "15049", "15067", "15070", "15083", "15097", "15098", "15114", "15124", "15168", "15180", "15257", "15263", "15295", "15312", "15315", "15316", "15325", "15327", "15330", "15346", "15361", "15402", "15407", "15413", "15442", "15456", "15609", "15617", "15642", "15647", "15670", "15698", "15704", "15728", "15824", "15852", "15861", "15912", "15986", "15987", "16002", "16003", "16088", "16091", "16124", "16284", "16311", "16352", "16450", "16462", "16484", "16495", "16548", "16562", "16660", "16724", "16808", "16832", "16853", "16867", "16929", "16948", "16958", "17000", "17002", "17012", "17045", "17064", "17149", "17201", "17203", "17213", "17254", "17279", "17387", "17430", "17458", "17461", "17491", "17690", "17721", "17727", "17746", "17760", "17780", "17791", "17838", "17885", "17893", "17924", "17949", "17956", "17998", "18044", "18072", "18107", "18128", "18170", "18191", "18194", "18301", "18317", "18322", "18327", "18329", "18361", "18369", "18442", "18576", "18596", "18632", "18703", "18720", "18755", "18777", "18863", "18913", "18933", "18961", "18970", "19003", "19017", "19068", "19128", "19145", "19202", "19212", "19218", "19231", "19271", "19315", "19376", "19418", "19425", "19582", "19631", "19634", "19647", "19660", "19706", "19773", "19816", "19827", "19899", "19908", "19915", "19951", "19953", "19964", "20005", "20019", "20173", "20222", "20282", "20307", "20489", "20547", "20589", "20597", "20623", "20665", "20692", "20701", "20740", "20776", "20843", "20858", "20877", "20884", "20893", "20932", "21023", "21187", "21193", "21235", "21237", "21313", "21339", "21340", "21369", "21370", "21429", "21448", "21450", "21477", "21506", "21528", "21544", "21545", "21572", "21577", "21654", "21736", "21791", "21793", "21853", "21876", "21991", "22065", "22068", "22131", "22189", "22212", "22269", "22303", "22341", "22461", "22480", "22547", "22591", "22691", "22736", "22756", "23047", "23087", "23089", "23172", "23214", "23296", "23361", "23367", "23378", "23468", "23701", "23744", "23784", "23880", "23889", "23940", "24074", "24076", "24080", "24105", "24217", "24332", "24398", "24757", "24778", "24809", "24827", "24902", "24992", "25044", "25197", "25221", "25259", "25377", "25389", "25432", "25516", "25531", "25610", "25677", "25703", "25760", "25902", "25915", "26044", "26065", "26072", "26241", "26295", "26326", "26851", "26861", "26879", "27110", "27150", "27236", "27240", "27261", "27293", "27366", "27432", "27440", "27497", "27574", "27599", "27676", "27753", "27885", "27927", "28047", "28076", "28084", "28130", "28182", "28192", "28194", "28258", "28461", "28493", "28509", "28609", "28725", "28735", "28860", "28868", "28901", "29116", "29143", "29189", "29255", "29265", "29321", "29328", "29382", "29561", "29780", "29791", "29959", "30004", "30048", "30193", "30237", "30346", "30563", "30804", "30822", "30933", "31102", "31249", "31477", "31501", "31544", "31557", "31649", "31720", "31729", "31743", "31813", "31892", "31963", "32054", "32265", "32287", "32292", "32336", "32395", "32421", "32428", "32588", "32650", "32796", "32996", "33029", "33185", "33251", "33559", "33718", "33724", "34078", "34252", "34373", "34457", "34490", "34517", "34716", "34718", "34723", "34727", "35031", "35262", "35488", "35685", "35779", "35886", "36032", "36088", "36247", "36454", "36655", "36678", "36779", "36808", "36888", "36937", "37115", "37207", "37212", "37334", "37506", "37900", "37970", "38071", "38075", "38119", "38128", "38207", "38258", "38291", "38355", "38460", "38740", "38809", "38814", "38850", "39174", "39355", "39489", "39500", "39616", "39711", "40027", "40274", "40413", "40434", "40781", "41026", "41059", "41201", "41339", "41432", "41477", "41520", "41567", "41732", "41755", "41808", "41941", "42037", "42226", "42242", "42389", "42466", "42492", "42560", "42594", "42808", "43045", "43352", "43491", "43734", "43941", "43945", "44223", "44496", "44636", "44866", "44984", "45005", "45605", "46056", "47313", "47617", "48241", "48383", "48938", "48975", "49177", "49431", "49476", "49503", "49621", "49662", "49884", "49979", "50139", "50224", "50799", "50946", "50989", "51380", "52631", "52670", "52958", "52964", "53569", "53930", "54043", "54077", "54270", "54497", "54668", "54746", "54891", "54967", "55690", "55770", "55895", "56135", "56718", "56806", "56938", "57098", "57583", "57909", "57956", "57962", "58251", "58317", "59074", "59324", "59700", "59819", "59824", "60243", "60308", "61509", "61724", "61746", "62385", "62754", "64077", "64826", "64851", "65752", "65850", "65986", "66381", "67150", "67777", "67805", "67895", "68134", "68173", "68474", "68583", "69710", "70147", "70751", "70803", "70865", "71149", "72581", "73055", "73631", "73777", "74030", "74471", "76598", "77123", "77276", "77551", "77873", "78442", "78584", "79045", "79570", "79865", "81195", "81878", "81896", "82377", "82649", "83100", "83387", "83492", "84205", "84652", "85337", "86654", "87503", "89553", "92215", "92432", "92493", "92517", "94427", "97797", "100057", "100307", "102221", "103073", "103965", "104024", "104193", "104206", "104301", "104326", "108230", "109407", "111914", "112167", "112189", "112318", "113282", "113804", "113857", "114163", "114286", "115795", "115962", "118119", "120923", "121475", "122320", "122418", "123246", "123968", "124182", "125773", "126283", "127895", "129716", "130088", "134136", "134679", "137402", "138343", "139346", "141396", "141458", "143475", "144034", "145539", "149970", "150656", "152743", "154471", "155524", "155865", "156401", "156917", "158034", "160921", "162395", "169468", "175537", "178301", "179407", "186657", "187125", "187351", "191095", "191526", "191814", "195168", "197786", "202532", "204700", "209918", "214183", "241859", "243111", "246938", "252065", "253638", "255086", "256700", "274365", "288551", "295088", "297503", "297745", "314741", "321260", "336261", "360623", "369813", "384406", "388444", "401705", "415315", "421786", "424319", "441906", "458365", "579555", "598685", "611166", "693193", "694849", "878958"],
+  fansy: [5136501, 393020, 98148, 44432, 26574, 18079, 13400, 10587, 8710, 7250, 6282, 5439, 4718, 4268, 3928, 3460, 2919, 2822, 2668, 2509, 2284, 2135, 1990, 1846, 1680, 1680, 1635, 1436, 1497, 1291, 1259, 1197, 1188, 1122, 1046, 1023, 940, 926, 890, 837, 786, 742, 751, 707, 723, 687, 656, 567, 614, 573, 580, 580, 541, 523, 517, 514, 460, 492, 417, 462, 446, 468, 439, 470, 412, 377, 390, 410, 346, 388, 352, 365, 320, 344, 330, 308, 301, 319, 289, 258, 284, 285, 290, 286, 243, 312, 299, 246, 253, 268, 243, 210, 234, 206, 264, 208, 207, 203, 210, 239, 174, 163, 230, 218, 197, 161, 189, 146, 193, 167, 216, 177, 194, 158, 190, 172, 154, 164, 162, 165, 154, 150, 148, 149, 140, 134, 151, 142, 137, 147, 133, 130, 149, 123, 138, 115, 118, 131, 124, 115, 117, 136, 127, 124, 117, 121, 134, 103, 108, 101, 119, 106, 118, 116, 116, 115, 106, 114, 125, 120, 110, 88, 99, 86, 103, 79, 98, 83, 82, 91, 95, 76, 92, 81, 106, 82, 84, 69, 82, 96, 87, 78, 90, 82, 92, 92, 69, 59, 78, 78, 64, 70, 65, 74, 69, 58, 72, 80, 50, 78, 64, 75, 73, 57, 67, 74, 77, 66, 75, 68, 61, 68, 62, 74, 65, 59, 69, 59, 68, 51, 58, 60, 60, 54, 70, 59, 56, 56, 56, 58, 52, 52, 54, 50, 51, 69, 49, 45, 61, 80, 46, 36, 58, 71, 41, 52, 71, 53, 52, 53, 54, 33, 52, 40, 41, 52, 42, 45, 45, 58, 42, 42, 51, 51, 51, 67, 50, 54, 40, 41, 41, 41, 38, 43, 49, 48, 31, 40, 50, 45, 33, 49, 49, 52, 32, 40, 26, 36, 48, 45, 48, 48, 32, 36, 37, 44, 46, 35, 30, 37, 32, 26, 47, 34, 49, 34, 43, 23, 40, 39, 33, 39, 36, 29, 24, 29, 27, 43, 24, 42, 32, 27, 29, 47, 27, 43, 35, 26, 33, 31, 27, 28, 24, 32, 35, 29, 19, 30, 38, 43, 33, 22, 25, 26, 27, 24, 21, 33, 33, 32, 30, 24, 23, 39, 40, 21, 23, 42, 19, 22, 27, 33, 28, 33, 20, 27, 36, 25, 22, 25, 26, 22, 22, 34, 23, 24, 28, 41, 36, 12, 31, 25, 27, 18, 30, 24, 20, 48, 28, 30, 31, 38, 14, 18, 27, 21, 27, 35, 21, 27, 34, 20, 30, 23, 26, 17, 20, 26, 24, 15, 16, 19, 18, 22, 19, 20, 19, 22, 20, 30, 20, 19, 15, 15, 22, 22, 23, 16, 19, 16, 21, 15, 28, 26, 26, 25, 18, 21, 22, 12, 19, 18, 16, 18, 30, 26, 14, 24, 28, 28, 13, 21, 22, 17, 14, 12, 14, 19, 20, 18, 20, 22, 24, 30, 12, 28, 22, 16, 14, 9, 24, 18, 15, 18, 11, 20, 14, 18, 23, 12, 11, 19, 19, 20, 12, 16, 8, 20, 19, 15, 23, 19, 11, 19, 22, 26, 17, 19, 21, 22, 19, 19, 20, 15, 18, 10, 11, 16, 14, 19, 14, 21, 23, 16, 15, 22, 17, 17, 14, 20, 13, 17, 13, 19, 16, 19, 11, 19, 12, 8, 15, 19, 16, 8, 17, 17, 13, 14, 19, 18, 14, 21, 12, 11, 11, 26, 18, 15, 16, 16, 12, 8, 11, 17, 9, 19, 14, 13, 18, 17, 18, 16, 13, 14, 9, 11, 15, 8, 13, 22, 14, 30, 21, 11, 16, 15, 11, 19, 13, 15, 12, 15, 11, 6, 9, 12, 15, 13, 18, 12, 12, 18, 14, 8, 5, 22, 18, 10, 11, 10, 12, 12, 13, 8, 13, 14, 12, 11, 16, 15, 12, 16, 8, 7, 11, 14, 9, 10, 12, 14, 6, 11, 8, 16, 17, 16, 13, 11, 7, 8, 8, 15, 11, 8, 12, 16, 12, 13, 16, 10, 10, 16, 12, 10, 23, 6, 11, 14, 8, 13, 26, 11, 15, 14, 12, 14, 6, 12, 16, 6, 12, 12, 12, 9, 7, 12, 17, 9, 6, 11, 16, 12, 29, 5, 2, 18, 7, 7, 10, 13, 11, 9, 11, 7, 8, 8, 15, 9, 12, 8, 6, 5, 8, 7, 14, 7, 11, 9, 11, 7, 12, 10, 7, 13, 12, 11, 6, 5, 7, 9, 6, 8, 2, 8, 11, 10, 9, 13, 7, 4, 13, 9, 7, 11, 9, 11, 5, 10, 10, 7, 10, 8, 9, 11, 12, 4, 5, 12, 8, 12, 5, 5, 8, 11, 12, 15, 7, 6, 4, 8, 13, 6, 10, 5, 13, 9, 7, 2, 6, 8, 2, 11, 3, 6, 4, 3, 7, 3, 5, 6, 4, 6, 6, 5, 8, 6, 19, 17, 5, 10, 10, 7, 12, 11, 6, 7, 11, 13, 5, 13, 7, 12, 11, 5, 9, 8, 6, 7, 6, 5, 14, 3, 10, 6, 10, 12, 3, 2, 8, 16, 8, 10, 10, 3, 11, 12, 9, 4, 11, 3, 8, 8, 7, 9, 7, 7, 3, 12, 9, 7, 8, 8, 5, 4, 3, 3, 7, 5, 6, 2, 3, 7, 5, 11, 4, 15, 3, 9, 9, 5, 5, 10, 10, 12, 8, 3, 3, 9, 3, 2, 7, 5, 9, 7, 6, 8, 4, 12, 6, 7, 6, 6, 4, 7, 11, 12, 3, 8, 7, 8, 3, 3, 13, 11, 7, 11, 11, 4, 6, 6, 4, 6, 10, 8, 4, 8, 7, 3, 12, 4, 3, 4, 9, 4, 6, 14, 7, 10, 9, 4, 1, 12, 8, 3, 6, 3, 5, 6, 8, 7, 13, 7, 6, 10, 8, 5, 3, 3, 8, 6, 12, 4, 2, 4, 6, 10, 7, 4, 4, 8, 3, 2, 6, 4, 3, 5, 3, 1, 5, 8, 7, 11, 6, 3, 4, 6, 2, 12, 3, 2, 3, 7, 11, 2, 6, 3, 7, 2, 1, 7, 5, 8, 3, 6, 4, 6, 4, 5, 8, 5, 5, 9, 4, 6, 6, 1, 6, 6, 6, 3, 8, 3, 4, 9, 3, 6, 7, 6, 9, 4, 7, 6, 2, 3, 6, 4, 7, 4, 1, 6, 7, 2, 7, 3, 5, 4, 7, 3, 3, 10, 10, 5, 7, 3, 3, 6, 8, 5, 7, 5, 5, 5, 10, 7, 6, 4, 12, 7, 5, 3, 7, 5, 5, 10, 12, 7, 5, 7, 2, 5, 4, 3, 4, 1, 3, 15, 9, 8, 4, 13, 4, 2, 7, 5, 4, 3, 4, 4, 4, 2, 5, 1, 9, 2, 7, 9, 6, 5, 11, 10, 2, 7, 7, 4, 9, 6, 2, 6, 4, 3, 5, 2, 7, 5, 11, 7, 4, 8, 2, 2, 3, 9, 4, 1, 7, 4, 8, 6, 4, 11, 3, 3, 6, 8, 3, 5, 2, 2, 7, 3, 3, 4, 3, 7, 1, 3, 6, 4, 7, 1, 10, 2, 4, 5, 3, 4, 5, 9, 8, 6, 3, 8, 10, 3, 1, 3, 7, 3, 2, 6, 4, 2, 5, 2, 8, 7, 9, 3, 6, 7, 1, 5, 7, 5, 6, 3, 1, 5, 2, 2, 4, 2, 3, 2, 4, 6, 4, 2, 7, 3, 6, 5, 5, 3, 5, 11, 3, 6, 4, 1, 3, 9, 6, 1, 2, 8, 4, 7, 4, 4, 7, 5, 7, 4, 2, 3, 7, 3, 5, 1, 1, 3, 8, 2, 2, 2, 5, 3, 3, 2, 1, 2, 5, 5, 10, 5, 3, 9, 3, 2, 1, 4, 1, 2, 8, 8, 4, 1, 1, 5, 3, 1, 2, 8, 3, 2, 4, 1, 3, 3, 5, 4, 3, 1, 2, 9, 3, 6, 5, 5, 6, 4, 1, 3, 1, 2, 2, 5, 3, 3, 4, 3, 1, 6, 5, 6, 4, 4, 3, 3, 4, 4, 1, 9, 5, 2, 4, 7, 5, 2, 3, 1, 5, 4, 1, 2, 4, 4, 4, 6, 3, 4, 4, 4, 1, 3, 3, 1, 4, 4, 4, 2, 5, 3, 2, 2, 3, 1, 2, 3, 2, 3, 3, 2, 8, 3, 2, 6, 5, 7, 4, 6, 1, 1, 5, 3, 2, 1, 2, 4, 2, 6, 2, 4, 5, 3, 3, 4, 2, 2, 5, 1, 2, 4, 3, 3, 8, 2, 2, 2, 4, 5, 3, 5, 7, 2, 2, 6, 5, 2, 6, 1, 2, 7, 2, 7, 2, 6, 5, 12, 6, 5, 7, 2, 7, 1, 6, 5, 5, 8, 1, 5, 7, 3, 1, 5, 6, 6, 7, 4, 5, 2, 2, 3, 6, 5, 1, 5, 1, 4, 4, 2, 5, 2, 4, 3, 4, 6, 2, 1, 4, 6, 5, 2, 4, 2, 3, 1, 2, 1, 11, 7, 4, 8, 6, 1, 3, 5, 3, 3, 1, 2, 1, 4, 1, 4, 3, 5, 3, 6, 6, 3, 1, 4, 2, 2, 2, 3, 6, 2, 3, 2, 5, 4, 3, 2, 2, 2, 1, 4, 5, 4, 1, 4, 1, 1, 2, 2, 3, 1, 4, 2, 2, 2, 1, 2, 4, 2, 2, 7, 1, 1, 6, 2, 2, 3, 4, 1, 1, 1, 2, 5, 2, 2, 1, 5, 3, 2, 2, 4, 2, 5, 7, 8, 2, 4, 5, 3, 2, 5, 4, 1, 1, 4, 4, 1, 2, 2, 1, 1, 1, 3, 3, 2, 4, 1, 4, 3, 1, 2, 5, 5, 5, 3, 5, 2, 1, 4, 2, 1, 3, 3, 2, 1, 3, 2, 1, 3, 3, 4, 1, 2, 4, 3, 4, 2, 3, 4, 1, 1, 4, 5, 1, 3, 1, 6, 4, 6, 4, 2, 1, 2, 2, 6, 3, 4, 7, 5, 3, 2, 3, 2, 1, 5, 1, 7, 2, 2, 2, 2, 5, 4, 2, 3, 1, 2, 3, 2, 2, 2, 3, 3, 4, 1, 2, 4, 6, 2, 3, 1, 1, 6, 6, 6, 4, 2, 3, 5, 7, 2, 6, 4, 4, 8, 5, 1, 2, 3, 3, 1, 2, 2, 2, 3, 2, 1, 3, 1, 1, 4, 2, 2, 3, 1, 6, 2, 6, 2, 2, 3, 2, 3, 2, 2, 1, 3, 3, 3, 1, 1, 1, 4, 1, 3, 3, 2, 1, 1, 3, 2, 4, 4, 1, 4, 6, 1, 1, 2, 2, 4, 1, 4, 3, 2, 2, 8, 4, 1, 2, 3, 4, 3, 1, 1, 2, 5, 4, 3, 1, 2, 1, 4, 1, 2, 2, 2, 2, 3, 1, 1, 4, 3, 1, 3, 1, 3, 3, 2, 3, 1, 3, 1, 3, 5, 2, 1, 3, 4, 5, 1, 1, 3, 2, 4, 1, 2, 1, 1, 2, 5, 4, 3, 2, 5, 1, 1, 3, 6, 2, 3, 2, 4, 5, 5, 2, 2, 4, 1, 5, 6, 2, 1, 2, 3, 4, 4, 1, 2, 1, 4, 1, 5, 1, 4, 3, 3, 4, 2, 8, 3, 3, 2, 2, 3, 1, 1, 5, 2, 4, 3, 3, 2, 1, 4, 1, 2, 2, 1, 1, 1, 2, 2, 1, 2, 3, 2, 5, 4, 4, 1, 3, 2, 2, 1, 5, 3, 2, 3, 1, 2, 1, 2, 2, 2, 1, 4, 3, 2, 1, 5, 1, 1, 2, 2, 3, 2, 2, 2, 2, 3, 3, 2, 1, 1, 7, 2, 1, 1, 1, 1, 2, 1, 1, 5, 2, 1, 2, 1, 1, 4, 1, 3, 2, 3, 2, 2, 2, 2, 4, 2, 2, 2, 1, 1, 2, 2, 1, 3, 2, 1, 2, 2, 4, 4, 4, 2, 1, 1, 2, 1, 1, 1, 1, 1, 3, 1, 2, 2, 1, 1, 4, 2, 4, 3, 3, 3, 1, 2, 3, 1, 2, 1, 1, 1, 7, 1, 1, 2, 2, 3, 1, 3, 2, 1, 1, 4, 3, 3, 1, 2, 2, 1, 1, 2, 3, 3, 2, 2, 1, 4, 2, 3, 2, 2, 1, 1, 1, 1, 1, 3, 2, 2, 1, 7, 4, 2, 1, 5, 2, 1, 3, 2, 4, 1, 5, 2, 2, 6, 3, 3, 3, 1, 2, 1, 1, 3, 3, 4, 2, 1, 2, 3, 4, 3, 2, 1, 3, 2, 1, 3, 6, 3, 3, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 3, 4, 1, 5, 4, 1, 1, 3, 1, 1, 2, 1, 1, 1, 2, 2, 2, 3, 1, 5, 2, 3, 2, 2, 2, 4, 4, 2, 4, 2, 3, 2, 4, 2, 1, 1, 1, 2, 4, 1, 1, 2, 4, 1, 1, 2, 1, 2, 2, 3, 4, 2, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 3, 1, 2, 3, 2, 2, 5, 2, 3, 4, 2, 3, 1, 1, 1, 1, 1, 5, 2, 2, 5, 1, 1, 3, 1, 2, 2, 1, 3, 1, 2, 1, 1, 2, 6, 1, 6, 4, 4, 1, 4, 3, 6, 3, 1, 2, 1, 3, 1, 1, 1, 1, 1, 2, 1, 3, 2, 2, 3, 3, 4, 1, 2, 3, 3, 3, 3, 2, 4, 3, 1, 1, 2, 1, 2, 1, 1, 4, 3, 2, 1, 2, 4, 4, 1, 2, 4, 1, 2, 2, 1, 2, 1, 1, 4, 2, 2, 3, 1, 1, 2, 2, 1, 1, 3, 4, 3, 2, 2, 1, 2, 2, 2, 1, 4, 2, 1, 1, 3, 1, 2, 2, 1, 5, 2, 1, 1, 4, 6, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 1, 2, 3, 3, 4, 1, 1, 1, 2, 2, 1, 2, 2, 1, 2, 3, 1, 2, 1, 1, 2, 5, 2, 1, 2, 2, 2, 1, 8, 1, 1, 2, 1, 5, 2, 2, 1, 1, 1, 4, 2, 1, 2, 1, 2, 2, 2, 1, 3, 1, 1, 1, 2, 4, 5, 1, 2, 2, 3, 1, 1, 3, 1, 4, 1, 1, 4, 1, 1, 2, 2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 4, 3, 1, 2, 3, 1, 1, 3, 2, 3, 1, 2, 2, 3, 2, 2, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 2, 1, 3, 4, 2, 5, 1, 1, 2, 1, 3, 2, 2, 2, 1, 1, 2, 1, 2, 1, 3, 2, 2, 1, 1, 1, 4, 5, 1, 2, 3, 1, 1, 5, 3, 1, 2, 1, 2, 2, 3, 2, 4, 2, 2, 6, 2, 1, 2, 1, 1, 2, 1, 3, 3, 1, 3, 1, 3, 3, 2, 1, 1, 1, 2, 1, 1, 1, 1, 5, 4, 3, 1, 1, 1, 5, 1, 1, 3, 2, 1, 2, 1, 1, 4, 4, 2, 2, 4, 1, 1, 1, 1, 1, 1, 2, 1, 4, 3, 2, 1, 1, 2, 1, 1, 2, 2, 1, 2, 3, 1, 2, 1, 1, 1, 2, 1, 3, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 2, 2, 3, 4, 1, 4, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 2, 1, 2, 1, 1, 3, 1, 1, 4, 1, 2, 1, 3, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 2, 3, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 3, 2, 2, 1, 2, 2, 1, 2, 1, 2, 1, 2, 2, 3, 3, 3, 1, 2, 1, 2, 1, 2, 1, 1, 2, 2, 1, 2, 3, 1, 1, 1, 2, 1, 2, 4, 1, 1, 1, 2, 1, 2, 1, 4, 4, 2, 2, 1, 1, 3, 1, 3, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 2, 3, 2, 1, 2, 4, 2, 3, 2, 1, 5, 1, 1, 1, 3, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 3, 2, 2, 1, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3, 1, 1, 2, 1, 1, 2, 1, 1, 2, 3, 2, 2, 1, 3, 2, 1, 1, 3, 1, 2, 2, 3, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 3, 2, 1, 1, 3, 2, 1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 3, 3, 1, 2, 1, 2, 2, 3, 2, 2, 1, 1, 1, 1, 2, 2, 4, 2, 2, 1, 1, 2, 2, 1, 4, 4, 2, 1, 1, 2, 3, 1, 2, 1, 3, 2, 3, 3, 1, 2, 1, 1, 2, 1, 1, 3, 1, 1, 3, 2, 2, 1, 1, 1, 2, 1, 2, 2, 2, 2, 1, 2, 1, 4, 1, 2, 1, 1, 3, 1, 5, 1, 4, 3, 1, 1, 1, 1, 1, 2, 2, 1, 3, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 5, 2, 2, 1, 1, 3, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 3, 3, 1, 1, 3, 2, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 2, 3, 3, 1, 1, 1, 3, 4, 2, 1, 1, 2, 2, 2, 4, 2, 2, 1, 2, 2, 2, 3, 2, 2, 1, 2, 5, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 3, 2, 1, 2, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 2, 2, 1, 1, 1, 3, 2, 1, 1, 5, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 2, 1, 1, 2, 1, 3, 1, 1, 1, 1, 4, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 3, 2, 1, 2, 1, 2, 2, 2, 1, 2, 2, 1, 1, 1, 3, 3, 1, 1, 1, 2, 1, 2, 2, 3, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 2, 3, 1, 1, 1, 3, 1, 1, 1, 1, 1, 2, 4, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 4, 1, 1, 1, 2, 2, 1, 2, 1, 4, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 3, 1, 2, 2, 1, 1, 1, 1, 1, 2, 2, 1, 3, 1, 2, 1, 1, 2, 2, 3, 2, 2, 1, 1, 1, 1, 2, 2, 4, 2, 2, 1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 3, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 4, 1, 1, 1, 3, 1, 2, 2, 1, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 3, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 3, 3, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 4, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 5, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 4, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+  friendsx: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119", "120", "121", "122", "123", "124", "125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "141", "142", "143", "144", "145", "146", "147", "148", "149", "150", "151", "152", "153", "154", "155", "156", "157", "158", "159", "160", "161", "162", "163", "164", "165", "166", "167", "168", "169", "170", "171", "172", "173", "174", "175", "176", "177", "178", "179", "180", "181", "182", "183", "184", "185", "186", "187", "188", "189", "190", "191", "192", "193", "194", "195", "196", "197", "198", "199", "200", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "211", "212", "213", "214", "215", "216", "217", "218", "219", "220", "221", "222", "223", "224", "225", "226", "227", "228", "229", "230", "231", "232", "233", "234", "235", "236", "237", "238", "239", "240", "241", "242", "243", "244", "245", "246", "247", "248", "249", "250", "251", "252", "253", "254", "255", "256", "257", "258", "259", "260", "261", "262", "263", "264", "265", "266", "267", "268", "269", "270", "271", "272", "273", "274", "275", "276", "277", "278", "279", "280", "281", "282", "283", "284", "285", "286", "287", "288", "289", "290", "291", "292", "293", "294", "295", "296", "297", "298", "299", "300", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "311", "312", "313", "314", "315", "316", "317", "318", "319", "320", "321", "322", "323", "324", "325", "326", "327", "328", "329", "330", "331", "332", "333", "334", "335", "336", "337", "338", "339", "340", "341", "342", "343", "344", "345", "346", "347", "348", "349", "350", "351", "352", "353", "354", "355", "356", "357", "358", "359", "360", "361", "362", "363", "364", "365", "366", "367", "368", "369", "370", "371", "372", "373", "374", "375", "376", "377", "378", "379", "380", "381", "382", "383", "384", "385", "386", "387", "388", "389", "390", "391", "392", "393", "394", "395", "396", "397", "398", "399", "400", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410", "411", "412", "413", "414", "415", "416", "417", "418", "419", "420", "421", "422", "423", "424", "425", "426", "427", "428", "429", "430", "431", "432", "433", "434", "435", "436", "437", "438", "439", "440", "441", "442", "443", "444", "445", "446", "447", "448", "449", "450", "451", "452", "453", "454", "455", "456", "457", "458", "459", "460", "461", "462", "463", "464", "465", "466", "467", "468", "469", "470", "471", "472", "473", "474", "475", "476", "477", "478", "479", "480", "481", "482", "483", "484", "485", "486", "487", "488", "489", "490", "491", "492", "493", "494", "495", "496", "497", "498", "499", "500", "501", "502", "503", "504", "505", "506", "507", "508", "509", "510", "511", "512", "513", "514", "515", "516", "517", "518", "519", "520", "521", "522", "523", "524", "525", "526", "527", "528", "529", "530", "531", "532", "533", "534", "535", "536", "537", "538", "539", "540", "541", "542", "543", "544", "545", "546", "547", "548", "549", "550", "551", "552", "553", "554", "555", "556", "557", "558", "559", "560", "561", "562", "563", "564", "565", "566", "567", "568", "569", "570", "571", "572", "573", "574", "575", "576", "577", "578", "579", "581", "582", "583", "584", "585", "586", "587", "588", "589", "590", "591", "592", "593", "594", "595", "596", "597", "598", "599", "600", "601", "602", "603", "604", "605", "606", "607", "608", "609", "610", "611", "612", "613", "614", "615", "616", "617", "618", "619", "620", "621", "622", "623", "624", "625", "626", "627", "628", "629", "630", "633", "634", "635", "636", "637", "638", "639", "640", "641", "642", "643", "644", "645", "646", "647", "648", "649", "650", "651", "652", "653", "654", "655", "656", "658", "659", "660", "661", "662", "664", "665", "666", "667", "668", "669", "670", "671", "672", "673", "674", "676", "677", "678", "679", "680", "681", "682", "683", "684", "685", "687", "688", "689", "690", "691", "692", "693", "694", "695", "696", "697", "699", "700", "701", "702", "703", "704", "705", "706", "707", "708", "709", "710", "711", "712", "713", "714", "715", "717", "718", "719", "720", "721", "722", "723", "724", "725", "726", "727", "728", "729", "731", "732", "733", "734", "735", "736", "737", "738", "739", "740", "741", "742", "743", "745", "747", "748", "749", "750", "751", "752", "754", "755", "756", "758", "760", "762", "764", "765", "766", "768", "769", "770", "771", "772", "773", "774", "776", "777", "778", "779", "780", "782", "783", "784", "785", "786", "787", "788", "789", "790", "791", "792", "794", "795", "796", "797", "798", "799", "802", "803", "804", "805", "806", "807", "808", "811", "813", "814", "815", "817", "818", "819", "820", "821", "823", "825", "826", "828", "829", "830", "831", "832", "833", "834", "835", "836", "840", "841", "842", "844", "845", "846", "847", "848", "850", "852", "853", "854", "855", "856", "857", "858", "860", "862", "864", "865", "866", "867", "868", "869", "871", "872", "874", "875", "876", "880", "881", "885", "886", "887", "888", "890", "891", "892", "893", "895", "898", "899", "900", "901", "904", "905", "906", "907", "908", "909", "911", "912", "913", "915", "916", "921", "922", "923", "924", "925", "926", "927", "928", "929", "930", "932", "934", "935", "938", "939", "940", "941", "942", "943", "944", "945", "946", "947", "948", "954", "956", "957", "959", "961", "962", "964", "965", "966", "967", "968", "969", "971", "972", "973", "974", "975", "976", "977", "978", "979", "980", "981", "982", "984", "985", "986", "987", "988", "989", "991", "992", "993", "994", "995", "996", "997", "998", "999", "1000", "1001", "1002", "1003", "11519"],
+  friendsy: [1706215, 552811, 362669, 278652, 228499, 195950, 170771, 151315, 135635, 122777, 111443, 102738, 94663, 86480, 80355, 74982, 70043, 65140, 60824, 56757, 53255, 50170, 46853, 44302, 41492, 39284, 36842, 34390, 33165, 31472, 29772, 28433, 26813, 25554, 24532, 23374, 22075, 21060, 19945, 19131, 18283, 17624, 16665, 15807, 15011, 14554, 13679, 13245, 12599, 12299, 11680, 11353, 10723, 10254, 9891, 9482, 9211, 8717, 8284, 8135, 7591, 7493, 7247, 6861, 6681, 6606, 6289, 6041, 5953, 5603, 5488, 5360, 5052, 4905, 4535, 4530, 4291, 4281, 4107, 4081, 3834, 3664, 3637, 3384, 3413, 3361, 3239, 3272, 3114, 2991, 2792, 2804, 2561, 2450, 2700, 2446, 2500, 2403, 2211, 2179, 2182, 2012, 1998, 1912, 1857, 1915, 1815, 1777, 1723, 1784, 1612, 1626, 1585, 1529, 1410, 1382, 1406, 1350, 1377, 1245, 1278, 1239, 1243, 1106, 1144, 1149, 1089, 1047, 1089, 975, 964, 906, 925, 893, 922, 873, 890, 917, 856, 764, 761, 779, 753, 789, 778, 716, 694, 680, 690, 626, 679, 611, 615, 611, 602, 580, 550, 578, 494, 527, 488, 500, 502, 512, 525, 494, 469, 439, 439, 424, 395, 471, 413, 398, 417, 386, 393, 412, 363, 360, 351, 356, 333, 359, 362, 328, 277, 321, 267, 329, 303, 296, 296, 276, 299, 269, 271, 254, 247, 259, 273, 211, 254, 245, 208, 214, 204, 219, 197, 231, 204, 214, 218, 201, 214, 197, 197, 206, 194, 180, 184, 189, 149, 179, 177, 146, 194, 162, 164, 176, 159, 173, 128, 145, 133, 119, 124, 145, 157, 127, 139, 120, 114, 117, 135, 124, 129, 127, 126, 105, 122, 113, 94, 123, 107, 123, 113, 82, 88, 104, 105, 118, 105, 97, 86, 101, 91, 97, 128, 117, 105, 83, 79, 82, 77, 72, 90, 88, 79, 103, 72, 77, 72, 90, 78, 75, 81, 74, 71, 75, 75, 58, 71, 80, 57, 63, 66, 55, 72, 97, 72, 51, 47, 57, 60, 57, 47, 53, 74, 62, 66, 54, 60, 69, 48, 60, 46, 58, 54, 58, 52, 50, 43, 49, 45, 53, 49, 52, 58, 49, 49, 48, 49, 54, 55, 52, 39, 41, 53, 39, 52, 40, 45, 33, 22, 26, 46, 44, 41, 44, 39, 38, 26, 32, 22, 34, 31, 22, 31, 32, 36, 39, 34, 25, 31, 27, 35, 32, 17, 38, 23, 34, 21, 19, 31, 29, 28, 21, 27, 27, 30, 34, 18, 32, 21, 22, 31, 33, 20, 16, 28, 24, 28, 22, 18, 24, 21, 16, 15, 27, 16, 21, 30, 28, 20, 25, 18, 15, 12, 21, 16, 18, 9, 23, 19, 13, 11, 17, 34, 16, 24, 17, 17, 15, 20, 23, 23, 14, 20, 20, 15, 26, 13, 23, 19, 17, 16, 13, 18, 12, 9, 18, 16, 25, 9, 18, 21, 13, 6, 23, 31, 13, 16, 11, 17, 5, 23, 7, 15, 19, 18, 12, 16, 10, 8, 17, 11, 8, 8, 9, 22, 12, 14, 14, 3, 14, 12, 12, 9, 21, 10, 19, 18, 8, 21, 13, 5, 5, 10, 10, 14, 14, 19, 11, 7, 11, 5, 9, 3, 13, 15, 20, 13, 10, 10, 9, 24, 5, 8, 10, 8, 7, 1, 7, 10, 11, 9, 6, 12, 11, 9, 12, 5, 7, 5, 8, 7, 4, 12, 8, 8, 7, 13, 8, 6, 8, 4, 4, 5, 11, 4, 4, 5, 3, 11, 7, 12, 8, 5, 3, 8, 9, 1, 5, 7, 11, 11, 7, 9, 6, 5, 6, 7, 16, 12, 7, 1, 12, 7, 10, 1, 6, 5, 5, 6, 7, 4, 2, 8, 1, 4, 4, 5, 6, 3, 4, 7, 2, 2, 5, 12, 6, 4, 1, 3, 8, 2, 4, 9, 2, 4, 1, 4, 3, 8, 4, 5, 2, 3, 4, 2, 7, 9, 8, 1, 2, 3, 6, 7, 2, 2, 8, 5, 1, 5, 4, 12, 6, 7, 7, 3, 6, 2, 4, 3, 1, 2, 3, 3, 6, 6, 8, 2, 3, 3, 3, 1, 1, 4, 8, 6, 5, 6, 2, 2, 7, 3, 3, 6, 1, 6, 7, 4, 2, 1, 3, 3, 4, 5, 2, 3, 4, 7, 5, 4, 5, 4, 6, 5, 5, 1, 3, 1, 3, 2, 3, 2, 1, 6, 2, 6, 9, 3, 6, 1, 3, 3, 7, 1, 6, 4, 4, 4, 2, 3, 3, 4, 1, 5, 2, 2, 2, 4, 3, 1, 1, 4, 2, 5, 4, 3, 3, 2, 5, 5, 5, 2, 1, 1, 3, 2, 2, 3, 2, 2, 4, 2, 2, 1, 2, 4, 5, 5, 2, 1, 3, 2, 3, 6, 2, 4, 3, 4, 2, 1, 2, 5, 2, 5, 2, 2, 3, 1, 4, 1, 3, 2, 1, 3, 3, 4, 3, 2, 3, 2, 2, 2, 2, 3, 3, 2, 1, 2, 2, 1, 1, 4, 1, 2, 2, 1, 1, 1, 2, 3, 1, 2, 2, 1, 1, 2, 3, 1, 5, 2, 2, 4, 1, 2, 1, 2, 1, 2, 4, 1, 3, 4, 1, 2, 3, 2, 1, 1, 1, 2, 5, 2, 1, 1, 1, 1, 2, 3, 3, 4, 1, 1, 4, 1, 1, 1, 2, 1, 1, 8, 2, 4, 1, 2, 1, 2, 2, 7, 2, 2, 1, 2, 2, 1, 1, 2, 1, 2, 1, 3, 2, 2, 2, 1, 3, 2, 2, 1, 1, 2, 3, 2, 1, 2, 2, 1, 4, 2, 2, 3, 2, 1, 4, 1, 1, 2, 4, 2, 2, 3, 1, 3, 1, 1, 1, 5, 1, 4, 1, 1, 1, 4, 2, 1, 2, 3, 6, 2, 5, 4, 1, 3, 5, 3, 7, 10, 2, 9, 11, 11, 17, 182, 17, 3, 2],
+  place: [{ "name": "广东", "value": 109530 }, { "name": "四川", "value": 46416 }, { "name": "湖北", "value": 35008 }, { "name": "浙江", "value": 67212 }, { "name": "江苏", "value": 78431 }, { "name": "上海", "value": 72515 }, { "name": "北京", "value": 51538 }, { "name": "福建", "value": 32823 }, { "name": "陕西", "value": 14355 }, { "name": "湖南", "value": 22037 }, { "name": "河南", "value": 22448 }, { "name": "广西", "value": 22258 }, { "name": "香港", "value": 6435 }, { "name": "黑龙江", "value": 13583 }, { "name": "辽宁", "value": 21035 }, { "name": "山东", "value": 32248 }, { "name": "安徽", "value": 20623 }, { "name": "重庆", "value": 22249 }, { "name": "江西", "value": 15674 }, { "name": "云南", "value": 10755 }, { "name": "台湾", "value": 4101 }, { "name": "吉林", "value": 8894 }, { "name": "河北", "value": 16488 }, { "name": "贵州", "value": 7723 }, { "name": "天津", "value": 14055 }, { "name": "山西", "value": 7868 }, { "name": "新疆", "value": 4481 }, { "name": "海南", "value": 3720 }, { "name": "甘肃", "value": 3132 }, { "name": "内蒙古", "value": 5522 }, { "name": "澳门", "value": 1110 }, { "name": "宁夏", "value": 1556 }, { "name": "青海", "value": 729 }, { "name": "西藏", "value": 309 }],
+  placex: ["广东", "四川", "湖北", "浙江", "江苏", "上海", "北京", "福建", "陕西", "湖南", "河南", "广西", "香港", "黑龙江", "辽宁", "山东", "安徽", "重庆", "江西", "云南", "台湾", "吉林", "河北", "贵州", "天津", "山西", "新疆", "海南", "甘肃", "内蒙古", "澳门", "宁夏", "青海", "西藏"],
+  placey: [109530, 46416, 35008, 67212, 78431, 72515, 51538, 32823, 14355, 22037, 22448, 22258, 6435, 13583, 21035, 32248, 20623, 22249, 15674, 10755, 4101, 8894, 16488, 7723, 14055, 7868, 4481, 3720, 3132, 5522, 1110, 1556, 729, 309]
 };
 
 exports.default = bilidata;
@@ -30911,7 +30916,7 @@ var Attentiondata = function (_Component) {
       chart.setOption({
         title: [{
           text: "用户关注数统计",
-          subtext: "共计 " + total
+          subtext: "共计 " + total + '条数据'
         }],
         tooltip: {
           trigger: 'axis',
@@ -30996,7 +31001,7 @@ var Attentiondata = function (_Component) {
           null,
           '\u5173\u6CE8\u6570\u5173\u7CFB'
         ),
-        _react2.default.createElement('div', { ref: 'attentionChart', className: 'charts', style: { width: "100%", height: "440px" } })
+        _react2.default.createElement('div', { ref: 'attentionChart', className: 'charts', style: { width: "100%" } })
       );
     }
   }]);
@@ -31049,7 +31054,7 @@ var Homepage = function (_Component) {
       return _react2.default.createElement(
         'div',
         null,
-        '\u8FD9\u662F\u4E3B\u9875'
+        '\u8FD9\u662F\u4E3B\u9875  \u4E00\u51715882224\u6761\u6570\u636E'
       );
     }
   }]);
@@ -31186,7 +31191,7 @@ var Sexdata = function (_Component) {
         color: colorList,
         title: [{
           text: "用户性别比例",
-          subtext: "共计 " + total
+          subtext: "共计 " + total + '条数据'
         }],
         tooltip: {},
         grid: [{
@@ -31260,7 +31265,7 @@ var Sexdata = function (_Component) {
           null,
           '\u6027\u522B\u6570\u636E'
         ),
-        _react2.default.createElement('div', { ref: 'sexChart', className: 'charts', style: { width: "100%", height: "400px" } })
+        _react2.default.createElement('div', { ref: 'sexChart', className: 'charts', style: { width: "100%" } })
       );
     }
   }]);
@@ -67248,15 +67253,24 @@ var _Attentiondata = __webpack_require__(226);
 
 var _Attentiondata2 = _interopRequireDefault(_Attentiondata);
 
+var _Fansdata = __webpack_require__(562);
+
+var _Fansdata2 = _interopRequireDefault(_Fansdata);
+
+var _Friendsdata = __webpack_require__(563);
+
+var _Friendsdata2 = _interopRequireDefault(_Friendsdata);
+
+var _Placedata = __webpack_require__(576);
+
+var _Placedata2 = _interopRequireDefault(_Placedata);
+
 var _NotFind = __webpack_require__(228);
 
 var _NotFind2 = _interopRequireDefault(_NotFind);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-/**
- * Created by Moudi on 2017/3/23.
- */
 _reactDom2.default.render(_react2.default.createElement(
   _reactRouter.Router,
   { history: _reactRouter.hashHistory },
@@ -67266,10 +67280,14 @@ _reactDom2.default.render(_react2.default.createElement(
     _react2.default.createElement(_reactRouter.IndexRoute, { component: _Homepage2.default }),
     _react2.default.createElement(_reactRouter.Route, { path: 'sex', component: _Sexdata2.default }),
     _react2.default.createElement(_reactRouter.Route, { path: 'attention', component: _Attentiondata2.default }),
+    _react2.default.createElement(_reactRouter.Route, { path: 'fans', component: _Fansdata2.default }),
+    _react2.default.createElement(_reactRouter.Route, { path: 'friends', component: _Friendsdata2.default }),
+    _react2.default.createElement(_reactRouter.Route, { path: 'place', component: _Placedata2.default }),
     _react2.default.createElement(_reactRouter.Route, { path: '*', component: _NotFind2.default })
   )
-), document.getElementById('app'));
-// import Fansdata from './components/Fansdata.jsx';
+), document.getElementById('app')); /**
+                                     * Created by Moudi on 2017/3/23.
+                                     */
 
 /***/ }),
 /* 538 */
@@ -69991,6 +70009,7693 @@ function getStore(zr) {
 __webpack_require__(8).registerAction({ type: 'takeGlobalCursor', event: 'globalCursorTaken', update: 'update' }, function () {});
 
 module.exports = interactionMutex;
+
+/***/ }),
+/* 562 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(4);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _echarts = __webpack_require__(8);
+
+var _echarts2 = _interopRequireDefault(_echarts);
+
+__webpack_require__(299);
+
+__webpack_require__(165);
+
+__webpack_require__(163);
+
+__webpack_require__(164);
+
+__webpack_require__(550);
+
+var _data = __webpack_require__(222);
+
+var _data2 = _interopRequireDefault(_data);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; } /**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Created by Moudi on 2017/3/23.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                */
+
+
+var Fansdata = function (_Component) {
+  _inherits(Fansdata, _Component);
+
+  function Fansdata() {
+    _classCallCheck(this, Fansdata);
+
+    return _possibleConstructorReturn(this, (Fansdata.__proto__ || Object.getPrototypeOf(Fansdata)).apply(this, arguments));
+  }
+
+  _createClass(Fansdata, [{
+    key: 'chartInit',
+    value: function chartInit() {
+      var chart = _echarts2.default.init(this.refs.fansChart);
+      var fansx = _data2.default.fansx,
+          fansy = _data2.default.fansy;
+
+      var total = 0;
+      var sortArr = [];
+      var count = 0;
+
+      fansy.forEach(function (item, index) {
+        total += item;
+        if (fansx[index] > 10) {
+          count += item;
+        } else {
+          var o = {
+            name: fansx[index],
+            value: item
+          };
+          sortArr.push(o);
+        }
+      });
+      sortArr.push({
+        name: '10+',
+        value: count
+      });
+      chart.setOption({
+        title: [{
+          text: "用户粉丝数统计",
+          subtext: "共计 " + total + '条数据'
+        }],
+        tooltip: {
+          trigger: 'axis',
+          formatter: '{a}: {b} 共有{c}人'
+        },
+        dataZoom: [{
+          show: true,
+          type: 'slider',
+          xAxisIndex: [0],
+          start: 0,
+          end: 1
+        }],
+        grid: [{
+          left: '3%',
+          bottom: '10%',
+          right: '3%',
+          containLabel: true
+        }, {
+          right: '5%',
+          top: '4%'
+        }],
+        xAxis: [{
+          type: 'category',
+          data: fansx,
+          boundaryGap: false
+        }],
+        yAxis: [{
+          type: 'value',
+          data: fansy
+        }],
+        series: [{
+          name: '粉丝数',
+          type: 'line',
+          data: fansy
+        }, {
+          name: '粉丝数',
+          type: 'pie',
+          radius: ['25%', '50%'],
+          avoidLabelOverlap: false,
+          label: {
+            normal: {
+              show: false,
+              position: 'center',
+              formatter: '{b}: {d}%'
+            },
+            emphasis: {
+              show: true,
+              textStyle: {
+                fontSize: '18',
+                fontWeight: '700'
+              }
+            }
+          },
+          labelLine: {
+            normal: {
+              show: false
+            }
+          },
+          center: ['85%', '30%'],
+          data: sortArr
+        }]
+      });
+    }
+  }, {
+    key: 'componentDidMount',
+    value: function componentDidMount() {
+      this.chartInit();
+    }
+  }, {
+    key: 'componentDidUpdate',
+    value: function componentDidUpdate() {
+      this.chartInit();
+    }
+  }, {
+    key: 'render',
+    value: function render() {
+      return _react2.default.createElement(
+        'section',
+        null,
+        _react2.default.createElement(
+          'h2',
+          null,
+          '\u7C89\u4E1D\u6570\u5173\u7CFB'
+        ),
+        _react2.default.createElement('div', { ref: 'fansChart', className: 'charts', style: { width: "100%" } })
+      );
+    }
+  }]);
+
+  return Fansdata;
+}(_react.Component);
+
+exports.default = Fansdata;
+
+/***/ }),
+/* 563 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(4);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _echarts = __webpack_require__(8);
+
+var _echarts2 = _interopRequireDefault(_echarts);
+
+__webpack_require__(299);
+
+__webpack_require__(165);
+
+__webpack_require__(163);
+
+__webpack_require__(164);
+
+__webpack_require__(550);
+
+var _data = __webpack_require__(222);
+
+var _data2 = _interopRequireDefault(_data);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; } /**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Created by Moudi on 2017/3/23.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                */
+
+
+var Friendsdata = function (_Component) {
+  _inherits(Friendsdata, _Component);
+
+  function Friendsdata() {
+    _classCallCheck(this, Friendsdata);
+
+    return _possibleConstructorReturn(this, (Friendsdata.__proto__ || Object.getPrototypeOf(Friendsdata)).apply(this, arguments));
+  }
+
+  _createClass(Friendsdata, [{
+    key: 'chartInit',
+    value: function chartInit() {
+      var chart = _echarts2.default.init(this.refs.friendsChart);
+      var friendsx = _data2.default.friendsx;
+      var friendsy = _data2.default.friendsy;
+
+      var total = 0;
+      var sortArr = [];
+      var count = 0;
+      friendsy.forEach(function (item, index) {
+        total += item;
+        if (friendsx[index] > 12) {
+          count += item;
+        } else {
+          var o = {
+            name: friendsx[index],
+            value: item
+          };
+          sortArr.push(o);
+        }
+      });
+      sortArr.push({
+        name: '其他',
+        value: count
+      });
+      chart.setOption({
+        title: [{
+          text: "用户好友数统计",
+          subtext: "共计 " + total + '条数据'
+        }],
+        tooltip: {
+          trigger: 'axis',
+          formatter: '{a}: {b} 共有{c}人'
+        },
+        dataZoom: [{
+          show: true,
+          type: 'slider',
+          xAxisIndex: [0],
+          start: 0,
+          end: 10
+        }],
+        grid: [{
+          left: '3%',
+          bottom: '10%',
+          right: '3%',
+          containLabel: true
+        }, {
+          right: '5%',
+          top: '4%'
+        }],
+        xAxis: [{
+          type: 'category',
+          data: friendsx,
+          boundaryGap: false
+        }],
+        yAxis: [{
+          type: 'value',
+          data: friendsy
+        }],
+        series: [{
+          name: '好友数',
+          type: 'line',
+          data: friendsy
+        }, {
+          name: '好友数',
+          type: 'pie',
+          radius: ['25%', '50%'],
+          avoidLabelOverlap: false,
+          label: {
+            normal: {
+              show: false,
+              position: 'center',
+              formatter: '{b}: {d}%'
+            },
+            emphasis: {
+              show: true,
+              textStyle: {
+                fontSize: '18',
+                fontWeight: '700'
+              }
+            }
+          },
+          labelLine: {
+            normal: {
+              show: false
+            }
+          },
+          center: ['85%', '30%'],
+          data: sortArr
+        }]
+      });
+    }
+  }, {
+    key: 'componentDidMount',
+    value: function componentDidMount() {
+      this.chartInit();
+    }
+  }, {
+    key: 'componentDidUpdate',
+    value: function componentDidUpdate() {
+      this.chartInit();
+    }
+  }, {
+    key: 'render',
+    value: function render() {
+      return _react2.default.createElement(
+        'section',
+        null,
+        _react2.default.createElement(
+          'h2',
+          null,
+          '\u597D\u53CB\u6570\u5173\u7CFB'
+        ),
+        _react2.default.createElement('div', { ref: 'friendsChart', className: 'charts', style: { width: "100%" } })
+      );
+    }
+  }]);
+
+  return Friendsdata;
+}(_react.Component);
+
+exports.default = Friendsdata;
+
+/***/ }),
+/* 564 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Visual mapping.
+ */
+
+var zrUtil = __webpack_require__(1);
+var zrColor = __webpack_require__(68);
+var linearMap = __webpack_require__(12).linearMap;
+var each = zrUtil.each;
+var isObject = zrUtil.isObject;
+
+var CATEGORY_DEFAULT_VISUAL_INDEX = -1;
+
+/**
+ * @param {Object} option
+ * @param {string} [option.type] See visualHandlers.
+ * @param {string} [option.mappingMethod] 'linear' or 'piecewise' or 'category' or 'fixed'
+ * @param {Array.<number>=} [option.dataExtent] [minExtent, maxExtent],
+ *                                              required when mappingMethod is 'linear'
+ * @param {Array.<Object>=} [option.pieceList] [
+ *                                             {value: someValue},
+ *                                             {interval: [min1, max1], visual: {...}},
+ *                                             {interval: [min2, max2]}
+ *                                             ],
+ *                                            required when mappingMethod is 'piecewise'.
+ *                                            Visual for only each piece can be specified.
+ * @param {Array.<string|Object>=} [option.categories] ['cate1', 'cate2']
+ *                                            required when mappingMethod is 'category'.
+ *                                            If no option.categories, categories is set
+ *                                            as [0, 1, 2, ...].
+ * @param {boolean} [option.loop=false] Whether loop mapping when mappingMethod is 'category'.
+ * @param {(Array|Object|*)} [option.visual]  Visual data.
+ *                                            when mappingMethod is 'category',
+ *                                            visual data can be array or object
+ *                                            (like: {cate1: '#222', none: '#fff'})
+ *                                            or primary types (which represents
+ *                                            defualt category visual), otherwise visual
+ *                                            can be array or primary (which will be
+ *                                            normalized to array).
+ *
+ */
+var VisualMapping = function VisualMapping(option) {
+    var mappingMethod = option.mappingMethod;
+    var visualType = option.type;
+
+    /**
+     * @readOnly
+     * @type {Object}
+     */
+    var thisOption = this.option = zrUtil.clone(option);
+
+    /**
+     * @readOnly
+     * @type {string}
+     */
+    this.type = visualType;
+
+    /**
+     * @readOnly
+     * @type {string}
+     */
+    this.mappingMethod = mappingMethod;
+
+    /**
+     * @private
+     * @type {Function}
+     */
+    this._normalizeData = normalizers[mappingMethod];
+
+    var visualHandler = visualHandlers[visualType];
+
+    /**
+     * @public
+     * @type {Function}
+     */
+    this.applyVisual = visualHandler.applyVisual;
+
+    /**
+     * @public
+     * @type {Function}
+     */
+    this.getColorMapper = visualHandler.getColorMapper;
+
+    /**
+     * @private
+     * @type {Function}
+     */
+    this._doMap = visualHandler._doMap[mappingMethod];
+
+    if (mappingMethod === 'piecewise') {
+        normalizeVisualRange(thisOption);
+        preprocessForPiecewise(thisOption);
+    } else if (mappingMethod === 'category') {
+        thisOption.categories ? preprocessForSpecifiedCategory(thisOption)
+        // categories is ordinal when thisOption.categories not specified,
+        // which need no more preprocess except normalize visual.
+        : normalizeVisualRange(thisOption, true);
+    } else {
+        // mappingMethod === 'linear' or 'fixed'
+        zrUtil.assert(mappingMethod !== 'linear' || thisOption.dataExtent);
+        normalizeVisualRange(thisOption);
+    }
+};
+
+VisualMapping.prototype = {
+
+    constructor: VisualMapping,
+
+    mapValueToVisual: function mapValueToVisual(value) {
+        var normalized = this._normalizeData(value);
+        return this._doMap(normalized, value);
+    },
+
+    getNormalizer: function getNormalizer() {
+        return zrUtil.bind(this._normalizeData, this);
+    }
+};
+
+var visualHandlers = VisualMapping.visualHandlers = {
+
+    color: {
+
+        applyVisual: makeApplyVisual('color'),
+
+        /**
+         * Create a mapper function
+         * @return {Function}
+         */
+        getColorMapper: function getColorMapper() {
+            var thisOption = this.option;
+            var parsedVisual = zrUtil.map(thisOption.visual, zrColor.parse);
+
+            return zrUtil.bind(thisOption.mappingMethod === 'category' ? function (value, isNormalized) {
+                !isNormalized && (value = this._normalizeData(value));
+                return doMapCategory.call(this, value);
+            } : function (value, isNormalized, out) {
+                // If output rgb array
+                // which will be much faster and useful in pixel manipulation
+                var returnRGBArray = !!out;
+                !isNormalized && (value = this._normalizeData(value));
+                out = zrColor.fastMapToColor(value, parsedVisual, out);
+                return returnRGBArray ? out : zrUtil.stringify(out, 'rgba');
+            }, this);
+        },
+
+        _doMap: {
+            linear: function linear(normalized) {
+                return zrColor.mapToColor(normalized, this.option.visual);
+            },
+            category: doMapCategory,
+            piecewise: function piecewise(normalized, value) {
+                var result = getSpecifiedVisual.call(this, value);
+                if (result == null) {
+                    result = zrColor.mapToColor(normalized, this.option.visual);
+                }
+                return result;
+            },
+            fixed: doMapFixed
+        }
+    },
+
+    colorHue: makePartialColorVisualHandler(function (color, value) {
+        return zrColor.modifyHSL(color, value);
+    }),
+
+    colorSaturation: makePartialColorVisualHandler(function (color, value) {
+        return zrColor.modifyHSL(color, null, value);
+    }),
+
+    colorLightness: makePartialColorVisualHandler(function (color, value) {
+        return zrColor.modifyHSL(color, null, null, value);
+    }),
+
+    colorAlpha: makePartialColorVisualHandler(function (color, value) {
+        return zrColor.modifyAlpha(color, value);
+    }),
+
+    opacity: {
+        applyVisual: makeApplyVisual('opacity'),
+        _doMap: makeDoMap([0, 1])
+    },
+
+    symbol: {
+        applyVisual: function applyVisual(value, getter, setter) {
+            var symbolCfg = this.mapValueToVisual(value);
+            if (zrUtil.isString(symbolCfg)) {
+                setter('symbol', symbolCfg);
+            } else if (isObject(symbolCfg)) {
+                for (var name in symbolCfg) {
+                    if (symbolCfg.hasOwnProperty(name)) {
+                        setter(name, symbolCfg[name]);
+                    }
+                }
+            }
+        },
+        _doMap: {
+            linear: doMapToArray,
+            category: doMapCategory,
+            piecewise: function piecewise(normalized, value) {
+                var result = getSpecifiedVisual.call(this, value);
+                if (result == null) {
+                    result = doMapToArray.call(this, normalized);
+                }
+                return result;
+            },
+            fixed: doMapFixed
+        }
+    },
+
+    symbolSize: {
+        applyVisual: makeApplyVisual('symbolSize'),
+        _doMap: makeDoMap([0, 1])
+    }
+};
+
+function preprocessForPiecewise(thisOption) {
+    var pieceList = thisOption.pieceList;
+    thisOption.hasSpecialVisual = false;
+
+    zrUtil.each(pieceList, function (piece, index) {
+        piece.originIndex = index;
+        // piece.visual is "result visual value" but not
+        // a visual range, so it does not need to be normalized.
+        if (piece.visual != null) {
+            thisOption.hasSpecialVisual = true;
+        }
+    });
+}
+
+function preprocessForSpecifiedCategory(thisOption) {
+    // Hash categories.
+    var categories = thisOption.categories;
+    var visual = thisOption.visual;
+
+    var categoryMap = thisOption.categoryMap = {};
+    each(categories, function (cate, index) {
+        categoryMap[cate] = index;
+    });
+
+    // Process visual map input.
+    if (!zrUtil.isArray(visual)) {
+        var visualArr = [];
+
+        if (zrUtil.isObject(visual)) {
+            each(visual, function (v, cate) {
+                var index = categoryMap[cate];
+                visualArr[index != null ? index : CATEGORY_DEFAULT_VISUAL_INDEX] = v;
+            });
+        } else {
+            // Is primary type, represents default visual.
+            visualArr[CATEGORY_DEFAULT_VISUAL_INDEX] = visual;
+        }
+
+        visual = thisOption.visual = visualArr;
+    }
+
+    // Remove categories that has no visual,
+    // then we can mapping them to CATEGORY_DEFAULT_VISUAL_INDEX.
+    for (var i = categories.length - 1; i >= 0; i--) {
+        if (visual[i] == null) {
+            delete categoryMap[categories[i]];
+            categories.pop();
+        }
+    }
+}
+
+function normalizeVisualRange(thisOption, isCategory) {
+    var visual = thisOption.visual;
+    var visualArr = [];
+
+    if (zrUtil.isObject(visual)) {
+        each(visual, function (v) {
+            visualArr.push(v);
+        });
+    } else if (visual != null) {
+        visualArr.push(visual);
+    }
+
+    var doNotNeedPair = { color: 1, symbol: 1 };
+
+    if (!isCategory && visualArr.length === 1 && !doNotNeedPair.hasOwnProperty(thisOption.type)) {
+        // Do not care visualArr.length === 0, which is illegal.
+        visualArr[1] = visualArr[0];
+    }
+
+    thisOption.visual = visualArr;
+}
+
+function makePartialColorVisualHandler(applyValue) {
+    return {
+        applyVisual: function applyVisual(value, getter, setter) {
+            value = this.mapValueToVisual(value);
+            // Must not be array value
+            setter('color', applyValue(getter('color'), value));
+        },
+        _doMap: makeDoMap([0, 1])
+    };
+}
+
+function doMapToArray(normalized) {
+    var visual = this.option.visual;
+    return visual[Math.round(linearMap(normalized, [0, 1], [0, visual.length - 1], true))] || {};
+}
+
+function makeApplyVisual(visualType) {
+    return function (value, getter, setter) {
+        setter(visualType, this.mapValueToVisual(value));
+    };
+}
+
+function doMapCategory(normalized) {
+    var visual = this.option.visual;
+    return visual[this.option.loop && normalized !== CATEGORY_DEFAULT_VISUAL_INDEX ? normalized % visual.length : normalized];
+}
+
+function doMapFixed() {
+    return this.option.visual[0];
+}
+
+function makeDoMap(sourceExtent) {
+    return {
+        linear: function linear(normalized) {
+            return linearMap(normalized, sourceExtent, this.option.visual, true);
+        },
+        category: doMapCategory,
+        piecewise: function piecewise(normalized, value) {
+            var result = getSpecifiedVisual.call(this, value);
+            if (result == null) {
+                result = linearMap(normalized, sourceExtent, this.option.visual, true);
+            }
+            return result;
+        },
+        fixed: doMapFixed
+    };
+}
+
+function getSpecifiedVisual(value) {
+    var thisOption = this.option;
+    var pieceList = thisOption.pieceList;
+    if (thisOption.hasSpecialVisual) {
+        var pieceIndex = VisualMapping.findPieceIndex(value, pieceList);
+        var piece = pieceList[pieceIndex];
+        if (piece && piece.visual) {
+            return piece.visual[this.type];
+        }
+    }
+}
+
+/**
+ * Normalizers by mapping methods.
+ */
+var normalizers = {
+
+    linear: function linear(value) {
+        return linearMap(value, this.option.dataExtent, [0, 1], true);
+    },
+
+    piecewise: function piecewise(value) {
+        var pieceList = this.option.pieceList;
+        var pieceIndex = VisualMapping.findPieceIndex(value, pieceList, true);
+        if (pieceIndex != null) {
+            return linearMap(pieceIndex, [0, pieceList.length - 1], [0, 1], true);
+        }
+    },
+
+    category: function category(value) {
+        var index = this.option.categories ? this.option.categoryMap[value] : value; // ordinal
+        return index == null ? CATEGORY_DEFAULT_VISUAL_INDEX : index;
+    },
+
+    fixed: zrUtil.noop
+};
+
+/**
+ * List available visual types.
+ *
+ * @public
+ * @return {Array.<string>}
+ */
+VisualMapping.listVisualTypes = function () {
+    var visualTypes = [];
+    zrUtil.each(visualHandlers, function (handler, key) {
+        visualTypes.push(key);
+    });
+    return visualTypes;
+};
+
+/**
+ * @public
+ */
+VisualMapping.addVisualHandler = function (name, handler) {
+    visualHandlers[name] = handler;
+};
+
+/**
+ * @public
+ */
+VisualMapping.isValidType = function (visualType) {
+    return visualHandlers.hasOwnProperty(visualType);
+};
+
+/**
+ * Convinent method.
+ * Visual can be Object or Array or primary type.
+ *
+ * @public
+ */
+VisualMapping.eachVisual = function (visual, callback, context) {
+    if (zrUtil.isObject(visual)) {
+        zrUtil.each(visual, callback, context);
+    } else {
+        callback.call(context, visual);
+    }
+};
+
+VisualMapping.mapVisual = function (visual, callback, context) {
+    var isPrimary;
+    var newVisual = zrUtil.isArray(visual) ? [] : zrUtil.isObject(visual) ? {} : (isPrimary = true, null);
+
+    VisualMapping.eachVisual(visual, function (v, key) {
+        var newVal = callback.call(context, v, key);
+        isPrimary ? newVisual = newVal : newVisual[key] = newVal;
+    });
+    return newVisual;
+};
+
+/**
+ * @public
+ * @param {Object} obj
+ * @return {Oject} new object containers visual values.
+ *                 If no visuals, return null.
+ */
+VisualMapping.retrieveVisuals = function (obj) {
+    var ret = {};
+    var hasVisual;
+
+    obj && each(visualHandlers, function (h, visualType) {
+        if (obj.hasOwnProperty(visualType)) {
+            ret[visualType] = obj[visualType];
+            hasVisual = true;
+        }
+    });
+
+    return hasVisual ? ret : null;
+};
+
+/**
+ * Give order to visual types, considering colorSaturation, colorAlpha depends on color.
+ *
+ * @public
+ * @param {(Object|Array)} visualTypes If Object, like: {color: ..., colorSaturation: ...}
+ *                                     IF Array, like: ['color', 'symbol', 'colorSaturation']
+ * @return {Array.<string>} Sorted visual types.
+ */
+VisualMapping.prepareVisualTypes = function (visualTypes) {
+    if (isObject(visualTypes)) {
+        var types = [];
+        each(visualTypes, function (item, type) {
+            types.push(type);
+        });
+        visualTypes = types;
+    } else if (zrUtil.isArray(visualTypes)) {
+        visualTypes = visualTypes.slice();
+    } else {
+        return [];
+    }
+
+    visualTypes.sort(function (type1, type2) {
+        // color should be front of colorSaturation, colorAlpha, ...
+        // symbol and symbolSize do not matter.
+        return type2 === 'color' && type1 !== 'color' && type1.indexOf('color') === 0 ? 1 : -1;
+    });
+
+    return visualTypes;
+};
+
+/**
+ * 'color', 'colorSaturation', 'colorAlpha', ... are depends on 'color'.
+ * Other visuals are only depends on themself.
+ *
+ * @public
+ * @param {string} visualType1
+ * @param {string} visualType2
+ * @return {boolean}
+ */
+VisualMapping.dependsOn = function (visualType1, visualType2) {
+    return visualType2 === 'color' ? !!(visualType1 && visualType1.indexOf(visualType2) === 0) : visualType1 === visualType2;
+};
+
+/**
+ * @param {number} value
+ * @param {Array.<Object>} pieceList [{value: ..., interval: [min, max]}, ...]
+ *                         Always from small to big.
+ * @param {boolean} [findClosestWhenOutside=false]
+ * @return {number} index
+ */
+VisualMapping.findPieceIndex = function (value, pieceList, findClosestWhenOutside) {
+    var possibleI;
+    var abs = Infinity;
+
+    // value has the higher priority.
+    for (var i = 0, len = pieceList.length; i < len; i++) {
+        var pieceValue = pieceList[i].value;
+        if (pieceValue != null) {
+            if (pieceValue === value) {
+                return i;
+            }
+            findClosestWhenOutside && updatePossible(pieceValue, i);
+        }
+    }
+
+    for (var i = 0, len = pieceList.length; i < len; i++) {
+        var piece = pieceList[i];
+        var interval = piece.interval;
+        var close = piece.close;
+
+        if (interval) {
+            if (interval[0] === -Infinity) {
+                if (littleThan(close[1], value, interval[1])) {
+                    return i;
+                }
+            } else if (interval[1] === Infinity) {
+                if (littleThan(close[0], interval[0], value)) {
+                    return i;
+                }
+            } else if (littleThan(close[0], interval[0], value) && littleThan(close[1], value, interval[1])) {
+                return i;
+            }
+            findClosestWhenOutside && updatePossible(interval[0], i);
+            findClosestWhenOutside && updatePossible(interval[1], i);
+        }
+    }
+
+    if (findClosestWhenOutside) {
+        return value === Infinity ? pieceList.length - 1 : value === -Infinity ? 0 : possibleI;
+    }
+
+    function updatePossible(val, index) {
+        var newAbs = Math.abs(val - value);
+        if (newAbs < abs) {
+            abs = newAbs;
+            possibleI = index;
+        }
+    }
+};
+
+function littleThan(close, a, b) {
+    return close ? a <= b : a < b;
+}
+
+module.exports = VisualMapping;
+
+/***/ }),
+/* 565 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Controller visual map model
+ */
+
+var echarts = __webpack_require__(8);
+var zrUtil = __webpack_require__(1);
+var env = __webpack_require__(24);
+var visualDefault = __webpack_require__(574);
+var VisualMapping = __webpack_require__(564);
+var visualSolution = __webpack_require__(575);
+var mapVisual = VisualMapping.mapVisual;
+var modelUtil = __webpack_require__(21);
+var eachVisual = VisualMapping.eachVisual;
+var numberUtil = __webpack_require__(12);
+var isArray = zrUtil.isArray;
+var each = zrUtil.each;
+var asc = numberUtil.asc;
+var linearMap = numberUtil.linearMap;
+var noop = zrUtil.noop;
+
+var DEFAULT_COLOR = ['#f6efa6', '#d88273', '#bf444c'];
+
+var VisualMapModel = echarts.extendComponentModel({
+
+    type: 'visualMap',
+
+    dependencies: ['series'],
+
+    /**
+     * @readOnly
+     * @type {Array.<string>}
+     */
+    stateList: ['inRange', 'outOfRange'],
+
+    /**
+     * @readOnly
+     * @type {Array.<string>}
+     */
+    replacableOptionKeys: ['inRange', 'outOfRange', 'target', 'controller', 'color'],
+
+    /**
+     * [lowerBound, upperBound]
+     *
+     * @readOnly
+     * @type {Array.<number>}
+     */
+    dataBound: [-Infinity, Infinity],
+
+    /**
+     * @readOnly
+     * @type {string|Object}
+     */
+    layoutMode: { type: 'box', ignoreSize: true },
+
+    /**
+     * @protected
+     */
+    defaultOption: {
+        show: true,
+
+        zlevel: 0,
+        z: 4,
+
+        seriesIndex: null, // 所控制的series indices，默认所有有value的series.
+
+        // set min: 0, max: 200, only for campatible with ec2.
+        // In fact min max should not have default value.
+        min: 0, // min value, must specified if pieces is not specified.
+        max: 200, // max value, must specified if pieces is not specified.
+
+        dimension: null,
+        inRange: null, // 'color', 'colorHue', 'colorSaturation', 'colorLightness', 'colorAlpha',
+        // 'symbol', 'symbolSize'
+        outOfRange: null, // 'color', 'colorHue', 'colorSaturation',
+        // 'colorLightness', 'colorAlpha',
+        // 'symbol', 'symbolSize'
+
+        left: 0, // 'center' ¦ 'left' ¦ 'right' ¦ {number} (px)
+        right: null, // The same as left.
+        top: null, // 'top' ¦ 'bottom' ¦ 'center' ¦ {number} (px)
+        bottom: 0, // The same as top.
+
+        itemWidth: null,
+        itemHeight: null,
+        inverse: false,
+        orient: 'vertical', // 'horizontal' ¦ 'vertical'
+
+        backgroundColor: 'rgba(0,0,0,0)',
+        borderColor: '#ccc', // 值域边框颜色
+        contentColor: '#5793f3',
+        inactiveColor: '#aaa',
+        borderWidth: 0, // 值域边框线宽，单位px，默认为0（无边框）
+        padding: 5, // 值域内边距，单位px，默认各方向内边距为5，
+        // 接受数组分别设定上右下左边距，同css
+        textGap: 10, //
+        precision: 0, // 小数精度，默认为0，无小数点
+        color: null, //颜色（deprecated，兼容ec2，顺序同pieces，不同于inRange/outOfRange）
+
+        formatter: null,
+        text: null, // 文本，如['高', '低']，兼容ec2，text[0]对应高值，text[1]对应低值
+        textStyle: {
+            color: '#333' // 值域文字颜色
+        }
+    },
+
+    /**
+     * @protected
+     */
+    init: function init(option, parentModel, ecModel) {
+
+        /**
+         * @private
+         * @type {Array.<number>}
+         */
+        this._dataExtent;
+
+        /**
+         * @readOnly
+         */
+        this.targetVisuals = {};
+
+        /**
+         * @readOnly
+         */
+        this.controllerVisuals = {};
+
+        /**
+         * @readOnly
+         */
+        this.textStyleModel;
+
+        /**
+         * [width, height]
+         * @readOnly
+         * @type {Array.<number>}
+         */
+        this.itemSize;
+
+        this.mergeDefaultAndTheme(option, ecModel);
+    },
+
+    /**
+     * @protected
+     */
+    optionUpdated: function optionUpdated(newOption, isInit) {
+        var thisOption = this.option;
+
+        // FIXME
+        // necessary?
+        // Disable realtime view update if canvas is not supported.
+        if (!env.canvasSupported) {
+            thisOption.realtime = false;
+        }
+
+        !isInit && visualSolution.replaceVisualOption(thisOption, newOption, this.replacableOptionKeys);
+
+        this.textStyleModel = this.getModel('textStyle');
+
+        this.resetItemSize();
+
+        this.completeVisualOption();
+    },
+
+    /**
+     * @protected
+     */
+    resetVisual: function resetVisual(supplementVisualOption) {
+        var stateList = this.stateList;
+        supplementVisualOption = zrUtil.bind(supplementVisualOption, this);
+
+        this.controllerVisuals = visualSolution.createVisualMappings(this.option.controller, stateList, supplementVisualOption);
+        this.targetVisuals = visualSolution.createVisualMappings(this.option.target, stateList, supplementVisualOption);
+    },
+
+    /**
+     * @protected
+     */
+    resetTargetSeries: function resetTargetSeries() {
+        var thisOption = this.option;
+        var allSeriesIndex = thisOption.seriesIndex == null;
+        thisOption.seriesIndex = allSeriesIndex ? [] : modelUtil.normalizeToArray(thisOption.seriesIndex);
+
+        allSeriesIndex && this.ecModel.eachSeries(function (seriesModel, index) {
+            thisOption.seriesIndex.push(index);
+        });
+    },
+
+    /**
+     * @public
+     */
+    eachTargetSeries: function eachTargetSeries(callback, context) {
+        zrUtil.each(this.option.seriesIndex, function (seriesIndex) {
+            callback.call(context, this.ecModel.getSeriesByIndex(seriesIndex));
+        }, this);
+    },
+
+    /**
+     * @pubilc
+     */
+    isTargetSeries: function isTargetSeries(seriesModel) {
+        var is = false;
+        this.eachTargetSeries(function (model) {
+            model === seriesModel && (is = true);
+        });
+        return is;
+    },
+
+    /**
+     * @example
+     * this.formatValueText(someVal); // format single numeric value to text.
+     * this.formatValueText(someVal, true); // format single category value to text.
+     * this.formatValueText([min, max]); // format numeric min-max to text.
+     * this.formatValueText([this.dataBound[0], max]); // using data lower bound.
+     * this.formatValueText([min, this.dataBound[1]]); // using data upper bound.
+     *
+     * @param {number|Array.<number>} value Real value, or this.dataBound[0 or 1].
+     * @param {boolean} [isCategory=false] Only available when value is number.
+     * @param {Array.<string>} edgeSymbols Open-close symbol when value is interval.
+     * @return {string}
+     * @protected
+     */
+    formatValueText: function formatValueText(value, isCategory, edgeSymbols) {
+        var option = this.option;
+        var precision = option.precision;
+        var dataBound = this.dataBound;
+        var formatter = option.formatter;
+        var isMinMax;
+        var textValue;
+        edgeSymbols = edgeSymbols || ['<', '>'];
+
+        if (zrUtil.isArray(value)) {
+            value = value.slice();
+            isMinMax = true;
+        }
+
+        textValue = isCategory ? value : isMinMax ? [toFixed(value[0]), toFixed(value[1])] : toFixed(value);
+
+        if (zrUtil.isString(formatter)) {
+            return formatter.replace('{value}', isMinMax ? textValue[0] : textValue).replace('{value2}', isMinMax ? textValue[1] : textValue);
+        } else if (zrUtil.isFunction(formatter)) {
+            return isMinMax ? formatter(value[0], value[1]) : formatter(value);
+        }
+
+        if (isMinMax) {
+            if (value[0] === dataBound[0]) {
+                return edgeSymbols[0] + ' ' + textValue[1];
+            } else if (value[1] === dataBound[1]) {
+                return edgeSymbols[1] + ' ' + textValue[0];
+            } else {
+                return textValue[0] + ' - ' + textValue[1];
+            }
+        } else {
+            // Format single value (includes category case).
+            return textValue;
+        }
+
+        function toFixed(val) {
+            return val === dataBound[0] ? 'min' : val === dataBound[1] ? 'max' : (+val).toFixed(precision);
+        }
+    },
+
+    /**
+     * @protected
+     */
+    resetExtent: function resetExtent() {
+        var thisOption = this.option;
+
+        // Can not calculate data extent by data here.
+        // Because series and data may be modified in processing stage.
+        // So we do not support the feature "auto min/max".
+
+        var extent = asc([thisOption.min, thisOption.max]);
+
+        this._dataExtent = extent;
+    },
+
+    /**
+     * @public
+     * @param {module:echarts/data/List} list
+     * @return {string} Concrete dimention. If return null/undefined,
+     *                  no dimension used.
+     */
+    getDataDimension: function getDataDimension(list) {
+        var optDim = this.option.dimension;
+        return optDim != null ? optDim : list.dimensions.length - 1;
+    },
+
+    /**
+     * @public
+     * @override
+     */
+    getExtent: function getExtent() {
+        return this._dataExtent.slice();
+    },
+
+    /**
+     * @protected
+     */
+    completeVisualOption: function completeVisualOption() {
+        var thisOption = this.option;
+        var base = { inRange: thisOption.inRange, outOfRange: thisOption.outOfRange };
+
+        var target = thisOption.target || (thisOption.target = {});
+        var controller = thisOption.controller || (thisOption.controller = {});
+
+        zrUtil.merge(target, base); // Do not override
+        zrUtil.merge(controller, base); // Do not override
+
+        var isCategory = this.isCategory();
+
+        completeSingle.call(this, target);
+        completeSingle.call(this, controller);
+        completeInactive.call(this, target, 'inRange', 'outOfRange');
+        // completeInactive.call(this, target, 'outOfRange', 'inRange');
+        completeController.call(this, controller);
+
+        function completeSingle(base) {
+            // Compatible with ec2 dataRange.color.
+            // The mapping order of dataRange.color is: [high value, ..., low value]
+            // whereas inRange.color and outOfRange.color is [low value, ..., high value]
+            // Notice: ec2 has no inverse.
+            if (isArray(thisOption.color)
+            // If there has been inRange: {symbol: ...}, adding color is a mistake.
+            // So adding color only when no inRange defined.
+            && !base.inRange) {
+                base.inRange = { color: thisOption.color.slice().reverse() };
+            }
+
+            // Compatible with previous logic, always give a defautl color, otherwise
+            // simple config with no inRange and outOfRange will not work.
+            // Originally we use visualMap.color as the default color, but setOption at
+            // the second time the default color will be erased. So we change to use
+            // constant DEFAULT_COLOR.
+            // If user do not want the defualt color, set inRange: {color: null}.
+            base.inRange = base.inRange || { color: DEFAULT_COLOR };
+
+            // If using shortcut like: {inRange: 'symbol'}, complete default value.
+            each(this.stateList, function (state) {
+                var visualType = base[state];
+
+                if (zrUtil.isString(visualType)) {
+                    var defa = visualDefault.get(visualType, 'active', isCategory);
+                    if (defa) {
+                        base[state] = {};
+                        base[state][visualType] = defa;
+                    } else {
+                        // Mark as not specified.
+                        delete base[state];
+                    }
+                }
+            }, this);
+        }
+
+        function completeInactive(base, stateExist, stateAbsent) {
+            var optExist = base[stateExist];
+            var optAbsent = base[stateAbsent];
+
+            if (optExist && !optAbsent) {
+                optAbsent = base[stateAbsent] = {};
+                each(optExist, function (visualData, visualType) {
+                    if (!VisualMapping.isValidType(visualType)) {
+                        return;
+                    }
+
+                    var defa = visualDefault.get(visualType, 'inactive', isCategory);
+
+                    if (defa != null) {
+                        optAbsent[visualType] = defa;
+
+                        // Compatibable with ec2:
+                        // Only inactive color to rgba(0,0,0,0) can not
+                        // make label transparent, so use opacity also.
+                        if (visualType === 'color' && !optAbsent.hasOwnProperty('opacity') && !optAbsent.hasOwnProperty('colorAlpha')) {
+                            optAbsent.opacity = [0, 0];
+                        }
+                    }
+                });
+            }
+        }
+
+        function completeController(controller) {
+            var symbolExists = (controller.inRange || {}).symbol || (controller.outOfRange || {}).symbol;
+            var symbolSizeExists = (controller.inRange || {}).symbolSize || (controller.outOfRange || {}).symbolSize;
+            var inactiveColor = this.get('inactiveColor');
+
+            each(this.stateList, function (state) {
+
+                var itemSize = this.itemSize;
+                var visuals = controller[state];
+
+                // Set inactive color for controller if no other color
+                // attr (like colorAlpha) specified.
+                if (!visuals) {
+                    visuals = controller[state] = {
+                        color: isCategory ? inactiveColor : [inactiveColor]
+                    };
+                }
+
+                // Consistent symbol and symbolSize if not specified.
+                if (visuals.symbol == null) {
+                    visuals.symbol = symbolExists && zrUtil.clone(symbolExists) || (isCategory ? 'roundRect' : ['roundRect']);
+                }
+                if (visuals.symbolSize == null) {
+                    visuals.symbolSize = symbolSizeExists && zrUtil.clone(symbolSizeExists) || (isCategory ? itemSize[0] : [itemSize[0], itemSize[0]]);
+                }
+
+                // Filter square and none.
+                visuals.symbol = mapVisual(visuals.symbol, function (symbol) {
+                    return symbol === 'none' || symbol === 'square' ? 'roundRect' : symbol;
+                });
+
+                // Normalize symbolSize
+                var symbolSize = visuals.symbolSize;
+
+                if (symbolSize != null) {
+                    var max = -Infinity;
+                    // symbolSize can be object when categories defined.
+                    eachVisual(symbolSize, function (value) {
+                        value > max && (max = value);
+                    });
+                    visuals.symbolSize = mapVisual(symbolSize, function (value) {
+                        return linearMap(value, [0, max], [0, itemSize[0]], true);
+                    });
+                }
+            }, this);
+        }
+    },
+
+    /**
+     * @protected
+     */
+    resetItemSize: function resetItemSize() {
+        this.itemSize = [parseFloat(this.get('itemWidth')), parseFloat(this.get('itemHeight'))];
+    },
+
+    /**
+     * @public
+     */
+    isCategory: function isCategory() {
+        return !!this.option.categories;
+    },
+
+    /**
+     * @public
+     * @abstract
+     */
+    setSelected: noop,
+
+    /**
+     * @public
+     * @abstract
+     * @param {*|module:echarts/data/List} valueOrData
+     * @param {number} dataIndex
+     * @return {string} state See this.stateList
+     */
+    getValueState: noop,
+
+    /**
+     * FIXME
+     * Do not publish to thirt-part-dev temporarily
+     * util the interface is stable. (Should it return
+     * a function but not visual meta?)
+     *
+     * @pubilc
+     * @abstract
+     * @param {Function} getColorVisual
+     *        params: value, valueState
+     *        return: color
+     * @return {Object} visualMeta
+     *        should includes {stops, outerColors}
+     *        outerColor means [colorBeyondMinValue, colorBeyondMaxValue]
+     */
+    getVisualMeta: noop
+
+});
+
+module.exports = VisualMapModel;
+
+/***/ }),
+/* 566 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+var graphic = __webpack_require__(9);
+var formatUtil = __webpack_require__(20);
+var layout = __webpack_require__(48);
+var echarts = __webpack_require__(8);
+var VisualMapping = __webpack_require__(564);
+
+module.exports = echarts.extendComponentView({
+
+    type: 'visualMap',
+
+    /**
+     * @readOnly
+     * @type {Object}
+     */
+    autoPositionValues: { left: 1, right: 1, top: 1, bottom: 1 },
+
+    init: function init(ecModel, api) {
+        /**
+         * @readOnly
+         * @type {module:echarts/model/Global}
+         */
+        this.ecModel = ecModel;
+
+        /**
+         * @readOnly
+         * @type {module:echarts/ExtensionAPI}
+         */
+        this.api = api;
+
+        /**
+         * @readOnly
+         * @type {module:echarts/component/visualMap/visualMapModel}
+         */
+        this.visualMapModel;
+    },
+
+    /**
+     * @protected
+     */
+    render: function render(visualMapModel, ecModel, api, payload) {
+        this.visualMapModel = visualMapModel;
+
+        if (visualMapModel.get('show') === false) {
+            this.group.removeAll();
+            return;
+        }
+
+        this.doRender.apply(this, arguments);
+    },
+
+    /**
+     * @protected
+     */
+    renderBackground: function renderBackground(group) {
+        var visualMapModel = this.visualMapModel;
+        var padding = formatUtil.normalizeCssArray(visualMapModel.get('padding') || 0);
+        var rect = group.getBoundingRect();
+
+        group.add(new graphic.Rect({
+            z2: -1, // Lay background rect on the lowest layer.
+            silent: true,
+            shape: {
+                x: rect.x - padding[3],
+                y: rect.y - padding[0],
+                width: rect.width + padding[3] + padding[1],
+                height: rect.height + padding[0] + padding[2]
+            },
+            style: {
+                fill: visualMapModel.get('backgroundColor'),
+                stroke: visualMapModel.get('borderColor'),
+                lineWidth: visualMapModel.get('borderWidth')
+            }
+        }));
+    },
+
+    /**
+     * @protected
+     * @param {number} targetValue can be Infinity or -Infinity
+     * @param {string=} visualCluster Only can be 'color' 'opacity' 'symbol' 'symbolSize'
+     * @param {Object} [opts]
+     * @param {string=} [opts.forceState] Specify state, instead of using getValueState method.
+     * @param {string=} [opts.convertOpacityToAlpha=false] For color gradient in controller widget.
+     * @return {*} Visual value.
+     */
+    getControllerVisual: function getControllerVisual(targetValue, visualCluster, opts) {
+        opts = opts || {};
+
+        var forceState = opts.forceState;
+        var visualMapModel = this.visualMapModel;
+        var visualObj = {};
+
+        // Default values.
+        if (visualCluster === 'symbol') {
+            visualObj.symbol = visualMapModel.get('itemSymbol');
+        }
+        if (visualCluster === 'color') {
+            var defaultColor = visualMapModel.get('contentColor');
+            visualObj.color = defaultColor;
+        }
+
+        function getter(key) {
+            return visualObj[key];
+        }
+
+        function setter(key, value) {
+            visualObj[key] = value;
+        }
+
+        var mappings = visualMapModel.controllerVisuals[forceState || visualMapModel.getValueState(targetValue)];
+        var visualTypes = VisualMapping.prepareVisualTypes(mappings);
+
+        zrUtil.each(visualTypes, function (type) {
+            var visualMapping = mappings[type];
+            if (opts.convertOpacityToAlpha && type === 'opacity') {
+                type = 'colorAlpha';
+                visualMapping = mappings.__alphaForOpacity;
+            }
+            if (VisualMapping.dependsOn(type, visualCluster)) {
+                visualMapping && visualMapping.applyVisual(targetValue, getter, setter);
+            }
+        });
+
+        return visualObj[visualCluster];
+    },
+
+    /**
+     * @protected
+     */
+    positionGroup: function positionGroup(group) {
+        var model = this.visualMapModel;
+        var api = this.api;
+
+        layout.positionElement(group, model.getBoxLayoutParams(), { width: api.getWidth(), height: api.getHeight() });
+    },
+
+    /**
+     * @protected
+     * @abstract
+     */
+    doRender: zrUtil.noop
+
+});
+
+/***/ }),
+/* 567 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+var layout = __webpack_require__(48);
+
+var helper = {
+
+    /**
+     * @param {module:echarts/component/visualMap/VisualMapModel} visualMapModel\
+     * @param {module:echarts/ExtensionAPI} api
+     * @param {Array.<number>} itemSize always [short, long]
+     * @return {string} 'left' or 'right' or 'top' or 'bottom'
+     */
+    getItemAlign: function getItemAlign(visualMapModel, api, itemSize) {
+        var modelOption = visualMapModel.option;
+        var itemAlign = modelOption.align;
+
+        if (itemAlign != null && itemAlign !== 'auto') {
+            return itemAlign;
+        }
+
+        // Auto decision align.
+        var ecSize = { width: api.getWidth(), height: api.getHeight() };
+        var realIndex = modelOption.orient === 'horizontal' ? 1 : 0;
+
+        var paramsSet = [['left', 'right', 'width'], ['top', 'bottom', 'height']];
+        var reals = paramsSet[realIndex];
+        var fakeValue = [0, null, 10];
+
+        var layoutInput = {};
+        for (var i = 0; i < 3; i++) {
+            layoutInput[paramsSet[1 - realIndex][i]] = fakeValue[i];
+            layoutInput[reals[i]] = i === 2 ? itemSize[0] : modelOption[reals[i]];
+        }
+
+        var rParam = [['x', 'width', 3], ['y', 'height', 0]][realIndex];
+        var rect = layout.getLayoutRect(layoutInput, ecSize, modelOption.padding);
+
+        return reals[(rect.margin[rParam[2]] || 0) + rect[rParam[0]] + rect[rParam[1]] * 0.5 < ecSize[rParam[1]] * 0.5 ? 0 : 1];
+    },
+
+    /**
+     * Prepare dataIndex for outside usage, where dataIndex means rawIndex, and
+     * dataIndexInside means filtered index.
+     */
+    convertDataIndex: function convertDataIndex(batch) {
+        zrUtil.each(batch || [], function (batchItem) {
+            if (batch.dataIndex != null) {
+                batch.dataIndexInside = batch.dataIndex;
+                batch.dataIndex = null;
+            }
+        });
+        return batch;
+    }
+
+};
+
+module.exports = helper;
+
+/***/ }),
+/* 568 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file VisualMap preprocessor
+ */
+
+var zrUtil = __webpack_require__(1);
+var each = zrUtil.each;
+
+module.exports = function (option) {
+    var visualMap = option && option.visualMap;
+
+    if (!zrUtil.isArray(visualMap)) {
+        visualMap = visualMap ? [visualMap] : [];
+    }
+
+    each(visualMap, function (opt) {
+        if (!opt) {
+            return;
+        }
+
+        // rename splitList to pieces
+        if (has(opt, 'splitList') && !has(opt, 'pieces')) {
+            opt.pieces = opt.splitList;
+            delete opt.splitList;
+        }
+
+        var pieces = opt.pieces;
+        if (pieces && zrUtil.isArray(pieces)) {
+            each(pieces, function (piece) {
+                if (zrUtil.isObject(piece)) {
+                    if (has(piece, 'start') && !has(piece, 'min')) {
+                        piece.min = piece.start;
+                    }
+                    if (has(piece, 'end') && !has(piece, 'max')) {
+                        piece.max = piece.end;
+                    }
+                }
+            });
+        }
+    });
+};
+
+function has(obj, name) {
+    return obj && obj.hasOwnProperty && obj.hasOwnProperty(name);
+}
+
+/***/ }),
+/* 569 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+__webpack_require__(38).registerSubTypeDefaulter('visualMap', function (option) {
+    // Compatible with ec2, when splitNumber === 0, continuous visualMap will be used.
+    return !option.categories && (!(option.pieces ? option.pieces.length > 0 : option.splitNumber > 0) || option.calculable) ? 'continuous' : 'piecewise';
+});
+
+/***/ }),
+/* 570 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Data range visual coding.
+ */
+
+var echarts = __webpack_require__(8);
+var visualSolution = __webpack_require__(575);
+var VisualMapping = __webpack_require__(564);
+var zrUtil = __webpack_require__(1);
+
+echarts.registerVisual(echarts.PRIORITY.VISUAL.COMPONENT, function (ecModel) {
+    ecModel.eachComponent('visualMap', function (visualMapModel) {
+        processSingleVisualMap(visualMapModel, ecModel);
+    });
+
+    prepareVisualMeta(ecModel);
+});
+
+function processSingleVisualMap(visualMapModel, ecModel) {
+    visualMapModel.eachTargetSeries(function (seriesModel) {
+        var data = seriesModel.getData();
+
+        visualSolution.applyVisual(visualMapModel.stateList, visualMapModel.targetVisuals, data, visualMapModel.getValueState, visualMapModel, visualMapModel.getDataDimension(data));
+    });
+}
+
+// Only support color.
+function prepareVisualMeta(ecModel) {
+    ecModel.eachSeries(function (seriesModel) {
+        var data = seriesModel.getData();
+        var visualMetaList = [];
+
+        ecModel.eachComponent('visualMap', function (visualMapModel) {
+            if (visualMapModel.isTargetSeries(seriesModel)) {
+                var visualMeta = visualMapModel.getVisualMeta(zrUtil.bind(getColorVisual, null, seriesModel, visualMapModel)) || { stops: [], outerColors: [] };
+                visualMeta.dimension = visualMapModel.getDataDimension(data);
+                visualMetaList.push(visualMeta);
+            }
+        });
+
+        // console.log(JSON.stringify(visualMetaList.map(a => a.stops)));
+        seriesModel.getData().setVisual('visualMeta', visualMetaList);
+    });
+}
+
+// FIXME
+// performance and export for heatmap?
+// value can be Infinity or -Infinity
+function getColorVisual(seriesModel, visualMapModel, value, valueState) {
+    var mappings = visualMapModel.targetVisuals[valueState];
+    var visualTypes = VisualMapping.prepareVisualTypes(mappings);
+    var resultVisual = {
+        color: seriesModel.getData().getVisual('color') // default color.
+    };
+
+    for (var i = 0, len = visualTypes.length; i < len; i++) {
+        var type = visualTypes[i];
+        var mapping = mappings[type === 'opacity' ? '__alphaForOpacity' : type];
+        mapping && mapping.applyVisual(value, getVisual, setVisual);
+    }
+
+    return resultVisual.color;
+
+    function getVisual(key) {
+        return resultVisual[key];
+    }
+
+    function setVisual(key, value) {
+        resultVisual[key] = value;
+    }
+}
+
+/***/ }),
+/* 571 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Data range action
+ */
+
+var echarts = __webpack_require__(8);
+
+var actionInfo = {
+    type: 'selectDataRange',
+    event: 'dataRangeSelected',
+    // FIXME use updateView appears wrong
+    update: 'update'
+};
+
+echarts.registerAction(actionInfo, function (payload, ecModel) {
+
+    ecModel.eachComponent({ mainType: 'visualMap', query: payload }, function (model) {
+        model.setSelected(payload.selected);
+    });
+});
+
+/***/ }),
+/* 572 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @module echarts/coord/geo/Region
+ */
+
+var polygonContain = __webpack_require__(600);
+
+var BoundingRect = __webpack_require__(27);
+
+var bbox = __webpack_require__(511);
+var vec2 = __webpack_require__(15);
+
+/**
+ * @param {string} name
+ * @param {Array} contours
+ * @param {Array.<number>} cp
+ */
+function Region(name, contours, cp) {
+
+    /**
+     * @type {string}
+     * @readOnly
+     */
+    this.name = name;
+
+    /**
+     * @type {Array.<Array>}
+     * @readOnly
+     */
+    this.contours = contours;
+
+    if (!cp) {
+        var rect = this.getBoundingRect();
+        cp = [rect.x + rect.width / 2, rect.y + rect.height / 2];
+    } else {
+        cp = [cp[0], cp[1]];
+    }
+    /**
+     * @type {Array.<number>}
+     */
+    this.center = cp;
+}
+
+Region.prototype = {
+
+    constructor: Region,
+
+    /**
+     * @return {module:zrender/core/BoundingRect}
+     */
+    getBoundingRect: function getBoundingRect() {
+        var rect = this._rect;
+        if (rect) {
+            return rect;
+        }
+
+        var MAX_NUMBER = Number.MAX_VALUE;
+        var min = [MAX_NUMBER, MAX_NUMBER];
+        var max = [-MAX_NUMBER, -MAX_NUMBER];
+        var min2 = [];
+        var max2 = [];
+        var contours = this.contours;
+        for (var i = 0; i < contours.length; i++) {
+            bbox.fromPoints(contours[i], min2, max2);
+            vec2.min(min, min, min2);
+            vec2.max(max, max, max2);
+        }
+        // No data
+        if (i === 0) {
+            min[0] = min[1] = max[0] = max[1] = 0;
+        }
+
+        return this._rect = new BoundingRect(min[0], min[1], max[0] - min[0], max[1] - min[1]);
+    },
+
+    /**
+     * @param {<Array.<number>} coord
+     * @return {boolean}
+     */
+    contain: function contain(coord) {
+        var rect = this.getBoundingRect();
+        var contours = this.contours;
+        if (rect.contain(coord[0], coord[1])) {
+            for (var i = 0, len = contours.length; i < len; i++) {
+                if (polygonContain.contain(contours[i], coord[0], coord[1])) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    },
+
+    transformTo: function transformTo(x, y, width, height) {
+        var rect = this.getBoundingRect();
+        var aspect = rect.width / rect.height;
+        if (!width) {
+            width = aspect * height;
+        } else if (!height) {
+            height = width / aspect;
+        }
+        var target = new BoundingRect(x, y, width, height);
+        var transform = rect.calculateTransform(target);
+        var contours = this.contours;
+        for (var i = 0; i < contours.length; i++) {
+            for (var p = 0; p < contours[i].length; p++) {
+                vec2.applyTransform(contours[i][p], contours[i][p], transform);
+            }
+        }
+        rect = this._rect;
+        rect.copy(target);
+        // Update center
+        this.center = [rect.x + rect.width / 2, rect.y + rect.height / 2];
+    }
+};
+
+module.exports = Region;
+
+/***/ }),
+/* 573 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var Geo = __webpack_require__(595);
+
+var layout = __webpack_require__(48);
+var zrUtil = __webpack_require__(1);
+var numberUtil = __webpack_require__(12);
+
+var mapDataStores = {};
+
+/**
+ * Resize method bound to the geo
+ * @param {module:echarts/coord/geo/GeoModel|module:echarts/chart/map/MapModel} geoModel
+ * @param {module:echarts/ExtensionAPI} api
+ */
+function resizeGeo(geoModel, api) {
+    var rect = this.getBoundingRect();
+
+    var boxLayoutOption;
+
+    var center = geoModel.get('layoutCenter');
+    var size = geoModel.get('layoutSize');
+
+    var viewWidth = api.getWidth();
+    var viewHeight = api.getHeight();
+
+    var aspectScale = geoModel.get('aspectScale') || 0.75;
+    var aspect = rect.width / rect.height * aspectScale;
+
+    var useCenterAndSize = false;
+    if (center && size) {
+        center = [numberUtil.parsePercent(center[0], viewWidth), numberUtil.parsePercent(center[1], viewHeight)];
+        size = numberUtil.parsePercent(size, Math.min(viewWidth, viewHeight));
+
+        if (!isNaN(center[0]) && !isNaN(center[1]) && !isNaN(size)) {
+            useCenterAndSize = true;
+        } else {
+            if (__DEV__) {
+                console.warn('Given layoutCenter or layoutSize data are invalid. Use left/top/width/height instead.');
+            }
+        }
+    }
+
+    var viewRect;
+    if (useCenterAndSize) {
+        var viewRect = {};
+        if (aspect > 1) {
+            // Width is same with size
+            viewRect.width = size;
+            viewRect.height = size / aspect;
+        } else {
+            viewRect.height = size;
+            viewRect.width = size * aspect;
+        }
+        viewRect.y = center[1] - viewRect.height / 2;
+        viewRect.x = center[0] - viewRect.width / 2;
+    } else {
+        // Use left/top/width/height
+        boxLayoutOption = geoModel.getBoxLayoutParams();
+
+        // 0.75 rate
+        boxLayoutOption.aspect = aspect;
+
+        viewRect = layout.getLayoutRect(boxLayoutOption, {
+            width: viewWidth,
+            height: viewHeight
+        });
+    }
+
+    this.setViewRect(viewRect.x, viewRect.y, viewRect.width, viewRect.height);
+
+    this.setCenter(geoModel.get('center'));
+    this.setZoom(geoModel.get('zoom'));
+}
+
+/**
+ * @param {module:echarts/coord/Geo} geo
+ * @param {module:echarts/model/Model} model
+ * @inner
+ */
+function setGeoCoords(geo, model) {
+    zrUtil.each(model.get('geoCoord'), function (geoCoord, name) {
+        geo.addGeoCoord(name, geoCoord);
+    });
+}
+
+if (__DEV__) {
+    var mapNotExistsError = function mapNotExistsError(name) {
+        console.error('Map ' + name + ' not exists. You can download map file on http://echarts.baidu.com/download-map.html');
+    };
+}
+
+var geoCreator = {
+
+    // For deciding which dimensions to use when creating list data
+    dimensions: Geo.prototype.dimensions,
+
+    create: function create(ecModel, api) {
+        var geoList = [];
+
+        // FIXME Create each time may be slow
+        ecModel.eachComponent('geo', function (geoModel, idx) {
+            var name = geoModel.get('map');
+            var mapData = mapDataStores[name];
+            if (__DEV__) {
+                if (!mapData) {
+                    mapNotExistsError(name);
+                }
+            }
+            var geo = new Geo(name + idx, name, mapData && mapData.geoJson, mapData && mapData.specialAreas, geoModel.get('nameMap'));
+            geo.zoomLimit = geoModel.get('scaleLimit');
+            geoList.push(geo);
+
+            setGeoCoords(geo, geoModel);
+
+            geoModel.coordinateSystem = geo;
+            geo.model = geoModel;
+
+            // Inject resize method
+            geo.resize = resizeGeo;
+
+            geo.resize(geoModel, api);
+        });
+
+        ecModel.eachSeries(function (seriesModel) {
+            var coordSys = seriesModel.get('coordinateSystem');
+            if (coordSys === 'geo') {
+                var geoIndex = seriesModel.get('geoIndex') || 0;
+                seriesModel.coordinateSystem = geoList[geoIndex];
+            }
+        });
+
+        // If has map series
+        var mapModelGroupBySeries = {};
+
+        ecModel.eachSeriesByType('map', function (seriesModel) {
+            if (!seriesModel.getHostGeoModel()) {
+                var mapType = seriesModel.getMapType();
+                mapModelGroupBySeries[mapType] = mapModelGroupBySeries[mapType] || [];
+                mapModelGroupBySeries[mapType].push(seriesModel);
+            }
+        });
+
+        zrUtil.each(mapModelGroupBySeries, function (mapSeries, mapType) {
+            var mapData = mapDataStores[mapType];
+            if (__DEV__) {
+                if (!mapData) {
+                    mapNotExistsError(mapSeries[0].get('map'));
+                }
+            }
+
+            var nameMapList = zrUtil.map(mapSeries, function (singleMapSeries) {
+                return singleMapSeries.get('nameMap');
+            });
+            var geo = new Geo(mapType, mapType, mapData && mapData.geoJson, mapData && mapData.specialAreas, zrUtil.mergeAll(nameMapList));
+            geo.zoomLimit = zrUtil.retrieve.apply(null, zrUtil.map(mapSeries, function (singleMapSeries) {
+                return singleMapSeries.get('scaleLimit');
+            }));
+            geoList.push(geo);
+
+            // Inject resize method
+            geo.resize = resizeGeo;
+
+            geo.resize(mapSeries[0], api);
+
+            zrUtil.each(mapSeries, function (singleMapSeries) {
+                singleMapSeries.coordinateSystem = geo;
+
+                setGeoCoords(geo, singleMapSeries);
+            });
+        });
+
+        return geoList;
+    },
+
+    /**
+     * @param {string} mapName
+     * @param {Object|string} geoJson
+     * @param {Object} [specialAreas]
+     *
+     * @example
+     *     $.get('USA.json', function (geoJson) {
+     *         echarts.registerMap('USA', geoJson);
+     *         // Or
+     *         echarts.registerMap('USA', {
+     *             geoJson: geoJson,
+     *             specialAreas: {}
+     *         })
+     *     });
+     */
+    registerMap: function registerMap(mapName, geoJson, specialAreas) {
+        if (geoJson.geoJson && !geoJson.features) {
+            specialAreas = geoJson.specialAreas;
+            geoJson = geoJson.geoJson;
+        }
+        if (typeof geoJson === 'string') {
+            geoJson = typeof JSON !== 'undefined' && JSON.parse ? JSON.parse(geoJson) : new Function('return (' + geoJson + ');')();
+        }
+        mapDataStores[mapName] = {
+            geoJson: geoJson,
+            specialAreas: specialAreas
+        };
+    },
+
+    /**
+     * @param {string} mapName
+     * @return {Object}
+     */
+    getMap: function getMap(mapName) {
+        return mapDataStores[mapName];
+    },
+
+    /**
+     * Fill given regions array
+     * @param  {Array.<Object>} originRegionArr
+     * @param  {string} mapName
+     * @return {Array}
+     */
+    getFilledRegions: function getFilledRegions(originRegionArr, mapName) {
+        // Not use the original
+        var regionsArr = (originRegionArr || []).slice();
+
+        var map = geoCreator.getMap(mapName);
+        var geoJson = map && map.geoJson;
+        if (!geoJson) {
+            if (__DEV__) {
+                mapNotExistsError(mapName);
+            }
+            return originRegionArr;
+        }
+
+        var dataNameMap = {};
+        var features = geoJson.features;
+        for (var i = 0; i < regionsArr.length; i++) {
+            dataNameMap[regionsArr[i].name] = regionsArr[i];
+        }
+
+        for (var i = 0; i < features.length; i++) {
+            var name = features[i].properties.name;
+            if (!dataNameMap[name]) {
+                regionsArr.push({
+                    name: name
+                });
+            }
+        }
+        return regionsArr;
+    }
+};
+
+// Inject methods into echarts
+var echarts = __webpack_require__(8);
+
+echarts.registerMap = geoCreator.registerMap;
+
+echarts.getMap = geoCreator.getMap;
+
+// TODO
+echarts.loadMap = function () {};
+
+echarts.registerCoordinateSystem('geo', geoCreator);
+
+module.exports = geoCreator;
+
+/***/ }),
+/* 574 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Visual mapping.
+ */
+
+var zrUtil = __webpack_require__(1);
+
+var visualDefault = {
+
+    /**
+     * @public
+     */
+    get: function get(visualType, key, isCategory) {
+        var value = zrUtil.clone((defaultOption[visualType] || {})[key]);
+
+        return isCategory ? zrUtil.isArray(value) ? value[value.length - 1] : value : value;
+    }
+
+};
+
+var defaultOption = {
+
+    color: {
+        active: ['#006edd', '#e0ffff'],
+        inactive: ['rgba(0,0,0,0)']
+    },
+
+    colorHue: {
+        active: [0, 360],
+        inactive: [0, 0]
+    },
+
+    colorSaturation: {
+        active: [0.3, 1],
+        inactive: [0, 0]
+    },
+
+    colorLightness: {
+        active: [0.9, 0.5],
+        inactive: [0, 0]
+    },
+
+    colorAlpha: {
+        active: [0.3, 1],
+        inactive: [0, 0]
+    },
+
+    opacity: {
+        active: [0.3, 1],
+        inactive: [0, 0]
+    },
+
+    symbol: {
+        active: ['circle', 'roundRect', 'diamond'],
+        inactive: ['none']
+    },
+
+    symbolSize: {
+        active: [10, 50],
+        inactive: [0, 0]
+    }
+};
+
+module.exports = visualDefault;
+
+/***/ }),
+/* 575 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Visual solution, for consistent option specification.
+ */
+
+var zrUtil = __webpack_require__(1);
+var VisualMapping = __webpack_require__(564);
+var each = zrUtil.each;
+
+function hasKeys(obj) {
+    if (obj) {
+        for (var name in obj) {
+            if (obj.hasOwnProperty(name)) {
+                return true;
+            }
+        }
+    }
+}
+
+var visualSolution = {
+
+    /**
+     * @param {Object} option
+     * @param {Array.<string>} stateList
+     * @param {Function} [supplementVisualOption]
+     * @return {Object} visualMappings <state, <visualType, module:echarts/visual/VisualMapping>>
+     */
+    createVisualMappings: function createVisualMappings(option, stateList, supplementVisualOption) {
+        var visualMappings = {};
+
+        each(stateList, function (state) {
+            var mappings = visualMappings[state] = createMappings();
+
+            each(option[state], function (visualData, visualType) {
+                if (!VisualMapping.isValidType(visualType)) {
+                    return;
+                }
+                var mappingOption = {
+                    type: visualType,
+                    visual: visualData
+                };
+                supplementVisualOption && supplementVisualOption(mappingOption, state);
+                mappings[visualType] = new VisualMapping(mappingOption);
+
+                // Prepare a alpha for opacity, for some case that opacity
+                // is not supported, such as rendering using gradient color.
+                if (visualType === 'opacity') {
+                    mappingOption = zrUtil.clone(mappingOption);
+                    mappingOption.type = 'colorAlpha';
+                    mappings.__hidden.__alphaForOpacity = new VisualMapping(mappingOption);
+                }
+            });
+        });
+
+        return visualMappings;
+
+        function createMappings() {
+            var Creater = function Creater() {};
+            // Make sure hidden fields will not be visited by
+            // object iteration (with hasOwnProperty checking).
+            Creater.prototype.__hidden = Creater.prototype;
+            var obj = new Creater();
+            return obj;
+        }
+    },
+
+    /**
+     * @param {Object} thisOption
+     * @param {Object} newOption
+     * @param {Array.<string>} keys
+     */
+    replaceVisualOption: function replaceVisualOption(thisOption, newOption, keys) {
+        // Visual attributes merge is not supported, otherwise it
+        // brings overcomplicated merge logic. See #2853. So if
+        // newOption has anyone of these keys, all of these keys
+        // will be reset. Otherwise, all keys remain.
+        var has;
+        zrUtil.each(keys, function (key) {
+            if (newOption.hasOwnProperty(key) && hasKeys(newOption[key])) {
+                has = true;
+            }
+        });
+        has && zrUtil.each(keys, function (key) {
+            if (newOption.hasOwnProperty(key) && hasKeys(newOption[key])) {
+                thisOption[key] = zrUtil.clone(newOption[key]);
+            } else {
+                delete thisOption[key];
+            }
+        });
+    },
+
+    /**
+     * @param {Array.<string>} stateList
+     * @param {Object} visualMappings <state, Object.<visualType, module:echarts/visual/VisualMapping>>
+     * @param {module:echarts/data/List} list
+     * @param {Function} getValueState param: valueOrIndex, return: state.
+     * @param {object} [scope] Scope for getValueState
+     * @param {string} [dimension] Concrete dimension, if used.
+     */
+    applyVisual: function applyVisual(stateList, visualMappings, data, getValueState, scope, dimension) {
+        var visualTypesMap = {};
+        zrUtil.each(stateList, function (state) {
+            var visualTypes = VisualMapping.prepareVisualTypes(visualMappings[state]);
+            visualTypesMap[state] = visualTypes;
+        });
+
+        var dataIndex;
+
+        function getVisual(key) {
+            return data.getItemVisual(dataIndex, key);
+        }
+
+        function setVisual(key, value) {
+            data.setItemVisual(dataIndex, key, value);
+        }
+
+        if (dimension == null) {
+            data.each(eachItem, true);
+        } else {
+            data.each([dimension], eachItem, true);
+        }
+
+        function eachItem(valueOrIndex, index) {
+            dataIndex = dimension == null ? valueOrIndex : index;
+
+            var rawDataItem = data.getRawDataItem(dataIndex);
+            // Consider performance
+            if (rawDataItem && rawDataItem.visualMap === false) {
+                return;
+            }
+
+            var valueState = getValueState.call(scope, valueOrIndex);
+            var mappings = visualMappings[valueState];
+            var visualTypes = visualTypesMap[valueState];
+
+            for (var i = 0, len = visualTypes.length; i < len; i++) {
+                var type = visualTypes[i];
+                mappings[type] && mappings[type].applyVisual(valueOrIndex, getVisual, setVisual);
+            }
+        }
+    }
+};
+
+module.exports = visualSolution;
+
+/***/ }),
+/* 576 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(4);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _echarts = __webpack_require__(8);
+
+var _echarts2 = _interopRequireDefault(_echarts);
+
+__webpack_require__(165);
+
+__webpack_require__(163);
+
+__webpack_require__(164);
+
+__webpack_require__(579);
+
+__webpack_require__(587);
+
+__webpack_require__(603);
+
+var _data = __webpack_require__(222);
+
+var _data2 = _interopRequireDefault(_data);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; } /**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * Created by Moudi on 2017/3/24.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                */
+
+
+var Placedata = function (_Component) {
+  _inherits(Placedata, _Component);
+
+  function Placedata() {
+    _classCallCheck(this, Placedata);
+
+    return _possibleConstructorReturn(this, (Placedata.__proto__ || Object.getPrototypeOf(Placedata)).apply(this, arguments));
+  }
+
+  _createClass(Placedata, [{
+    key: 'chartInit',
+    value: function chartInit() {
+      var chart = _echarts2.default.init(this.refs.placeChart);
+      chart.showLoading('default', {
+        text: '加载中...',
+        maskColor: '#fafafa'
+      });
+      var place = _data2.default.place;
+
+      var total = 0;
+      place.forEach(function (item) {
+        total += item.value;
+      });
+      var options = {
+        title: [{
+          text: "用户地域分布图",
+          subtext: "共计 " + total + '条数据',
+          left: 'center'
+        }],
+        tooltip: {
+          trigger: 'item'
+        },
+        visualMap: {
+          min: 100,
+          max: 110000,
+          text: ['多', '少'],
+          calculable: true,
+          inRange: {
+            color: ['#a3bbf8', '#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027', '#a50026']
+          }
+        },
+        series: [{
+          name: '用户地域分布',
+          type: 'map',
+          mapType: 'china',
+          roam: true,
+          center: [75.97, 41.71],
+          data: place,
+          label: {
+            normal: {
+              show: true
+            },
+            emphasis: {
+              show: true
+            }
+          }
+        }]
+      };
+      var xhr = new XMLHttpRequest();
+      xhr.open('get', './dist/data/china.json');
+      xhr.send();
+      xhr.onload = function () {
+        _echarts2.default.registerMap('china', JSON.parse(xhr.responseText));
+        chart.setOption(options);
+        chart.hideLoading();
+      };
+    }
+  }, {
+    key: 'componentDidMount',
+    value: function componentDidMount() {
+      this.chartInit();
+    }
+  }, {
+    key: 'componentDidUpdate',
+    value: function componentDidUpdate() {
+      this.chartInit();
+    }
+  }, {
+    key: 'render',
+    value: function render() {
+      return _react2.default.createElement(
+        'section',
+        null,
+        _react2.default.createElement(
+          'h2',
+          null,
+          '\u5730\u57DF\u5173\u7CFB'
+        ),
+        _react2.default.createElement('div', { ref: 'placeChart', className: 'charts', style: { width: "100%" } })
+      );
+    }
+  }]);
+
+  return Placedata;
+}(_react.Component);
+
+exports.default = Placedata;
+
+/***/ }),
+/* 577 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+var roamHelper = __webpack_require__(578);
+
+var echarts = __webpack_require__(8);
+
+/**
+ * @payload
+ * @property {string} [componentType=series]
+ * @property {number} [dx]
+ * @property {number} [dy]
+ * @property {number} [zoom]
+ * @property {number} [originX]
+ * @property {number} [originY]
+ */
+echarts.registerAction({
+    type: 'geoRoam',
+    event: 'geoRoam',
+    update: 'updateLayout'
+}, function (payload, ecModel) {
+    var componentType = payload.componentType || 'series';
+
+    ecModel.eachComponent({ mainType: componentType, query: payload }, function (componentModel) {
+        var geo = componentModel.coordinateSystem;
+        if (geo.type !== 'geo') {
+            return;
+        }
+
+        var res = roamHelper.updateCenterAndZoom(geo, payload, componentModel.get('scaleLimit'));
+
+        componentModel.setCenter && componentModel.setCenter(res.center);
+
+        componentModel.setZoom && componentModel.setZoom(res.zoom);
+
+        // All map series with same `map` use the same geo coordinate system
+        // So the center and zoom must be in sync. Include the series not selected by legend
+        if (componentType === 'series') {
+            zrUtil.each(componentModel.seriesGroup, function (seriesModel) {
+                seriesModel.setCenter(res.center);
+                seriesModel.setZoom(res.zoom);
+            });
+        }
+    });
+});
+
+/***/ }),
+/* 578 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var roamHelper = {};
+
+/**
+ * @param {module:echarts/coord/View} view
+ * @param {Object} payload
+ * @param {Object} [zoomLimit]
+ */
+roamHelper.updateCenterAndZoom = function (view, payload, zoomLimit) {
+    var previousZoom = view.getZoom();
+    var center = view.getCenter();
+    var zoom = payload.zoom;
+
+    var point = view.dataToPoint(center);
+
+    if (payload.dx != null && payload.dy != null) {
+        point[0] -= payload.dx;
+        point[1] -= payload.dy;
+
+        var center = view.pointToData(point);
+        view.setCenter(center);
+    }
+    if (zoom != null) {
+        if (zoomLimit) {
+            var zoomMin = zoomLimit.min || 0;
+            var zoomMax = zoomLimit.max || Infinity;
+            zoom = Math.max(Math.min(previousZoom * zoom, zoomMax), zoomMin) / previousZoom;
+        }
+
+        // Zoom on given point(originX, originY)
+        view.scale[0] *= zoom;
+        view.scale[1] *= zoom;
+        var position = view.position;
+        var fixX = (payload.originX - position[0]) * (zoom - 1);
+        var fixY = (payload.originY - position[1]) * (zoom - 1);
+
+        position[0] -= fixX;
+        position[1] -= fixY;
+
+        view.updateTransform();
+        // Get the new center
+        var center = view.pointToData(point);
+        view.setCenter(center);
+        view.setZoom(zoom * previousZoom);
+    }
+
+    return {
+        center: view.getCenter(),
+        zoom: view.getZoom()
+    };
+};
+
+module.exports = roamHelper;
+
+/***/ }),
+/* 579 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var echarts = __webpack_require__(8);
+var PRIORITY = echarts.PRIORITY;
+
+__webpack_require__(580);
+
+__webpack_require__(581);
+
+__webpack_require__(577);
+
+__webpack_require__(573);
+
+echarts.registerLayout(__webpack_require__(584));
+
+echarts.registerVisual(__webpack_require__(585));
+
+echarts.registerProcessor(PRIORITY.PROCESSOR.STATISTIC, __webpack_require__(583));
+
+echarts.registerPreprocessor(__webpack_require__(582));
+
+__webpack_require__(291)('map', [{
+    type: 'mapToggleSelect',
+    event: 'mapselectchanged',
+    method: 'toggleSelected'
+}, {
+    type: 'mapSelect',
+    event: 'mapselected',
+    method: 'select'
+}, {
+    type: 'mapUnSelect',
+    event: 'mapunselected',
+    method: 'unSelect'
+}]);
+
+/***/ }),
+/* 580 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var List = __webpack_require__(107);
+var SeriesModel = __webpack_require__(108);
+var zrUtil = __webpack_require__(1);
+var completeDimensions = __webpack_require__(168);
+
+var formatUtil = __webpack_require__(20);
+var encodeHTML = formatUtil.encodeHTML;
+var addCommas = formatUtil.addCommas;
+
+var dataSelectableMixin = __webpack_require__(313);
+
+var geoCreator = __webpack_require__(573);
+
+var MapSeries = SeriesModel.extend({
+
+    type: 'series.map',
+
+    dependencies: ['geo'],
+
+    layoutMode: 'box',
+
+    /**
+     * Only first map series of same mapType will drawMap
+     * @type {boolean}
+     */
+    needsDrawMap: false,
+
+    /**
+     * Group of all map series with same mapType
+     * @type {boolean}
+     */
+    seriesGroup: [],
+
+    init: function init(option) {
+
+        option = this._fillOption(option, this.getMapType());
+        this.option = option;
+
+        MapSeries.superApply(this, 'init', arguments);
+
+        this.updateSelectedMap(option.data);
+    },
+
+    getInitialData: function getInitialData(option) {
+        var dimensions = completeDimensions(['value'], option.data || []);
+
+        var list = new List(dimensions, this);
+
+        list.initData(option.data);
+
+        return list;
+    },
+
+    mergeOption: function mergeOption(newOption) {
+        if (newOption.data) {
+            newOption = this._fillOption(newOption, this.getMapType());
+        }
+
+        MapSeries.superCall(this, 'mergeOption', newOption);
+
+        this.updateSelectedMap(this.option.data);
+    },
+
+    /**
+     * If no host geo model, return null, which means using a
+     * inner exclusive geo model.
+     */
+    getHostGeoModel: function getHostGeoModel() {
+        var geoIndex = this.option.geoIndex;
+        return geoIndex != null ? this.dependentModels.geo[geoIndex] : null;
+    },
+
+    getMapType: function getMapType() {
+        return (this.getHostGeoModel() || this).option.map;
+    },
+
+    _fillOption: function _fillOption(option, mapName) {
+        // Shallow clone
+        option = zrUtil.extend({}, option);
+
+        option.data = geoCreator.getFilledRegions(option.data, mapName);
+
+        return option;
+    },
+
+    getRawValue: function getRawValue(dataIndex) {
+        // Use value stored in data instead because it is calculated from multiple series
+        // FIXME Provide all value of multiple series ?
+        return this.getData().get('value', dataIndex);
+    },
+
+    /**
+     * Get model of region
+     * @param  {string} name
+     * @return {module:echarts/model/Model}
+     */
+    getRegionModel: function getRegionModel(regionName) {
+        var data = this.getData();
+        return data.getItemModel(data.indexOfName(regionName));
+    },
+
+    /**
+     * Map tooltip formatter
+     *
+     * @param {number} dataIndex
+     */
+    formatTooltip: function formatTooltip(dataIndex) {
+        // FIXME orignalData and data is a bit confusing
+        var data = this.getData();
+        var formattedValue = addCommas(this.getRawValue(dataIndex));
+        var name = data.getName(dataIndex);
+
+        var seriesGroup = this.seriesGroup;
+        var seriesNames = [];
+        for (var i = 0; i < seriesGroup.length; i++) {
+            var otherIndex = seriesGroup[i].originalData.indexOfName(name);
+            if (!isNaN(seriesGroup[i].originalData.get('value', otherIndex))) {
+                seriesNames.push(encodeHTML(seriesGroup[i].name));
+            }
+        }
+
+        return seriesNames.join(', ') + '<br />' + encodeHTML(name + ' : ' + formattedValue);
+    },
+
+    /**
+     * @implement
+     */
+    getTooltipPosition: function getTooltipPosition(dataIndex) {
+        if (dataIndex != null) {
+            var name = this.getData().getName(dataIndex);
+            var geo = this.coordinateSystem;
+            var region = geo.getRegion(name);
+
+            return region && geo.dataToPoint(region.center);
+        }
+    },
+
+    setZoom: function setZoom(zoom) {
+        this.option.zoom = zoom;
+    },
+
+    setCenter: function setCenter(center) {
+        this.option.center = center;
+    },
+
+    defaultOption: {
+        // 一级层叠
+        zlevel: 0,
+        // 二级层叠
+        z: 2,
+
+        coordinateSystem: 'geo',
+
+        // map should be explicitly specified since ec3.
+        map: '',
+
+        // If `geoIndex` is not specified, a exclusive geo will be
+        // created. Otherwise use the specified geo component, and
+        // `map` and `mapType` are ignored.
+        // geoIndex: 0,
+
+        // 'center' | 'left' | 'right' | 'x%' | {number}
+        left: 'center',
+        // 'center' | 'top' | 'bottom' | 'x%' | {number}
+        top: 'center',
+        // right
+        // bottom
+        // width:
+        // height
+
+        // Aspect is width / height. Inited to be geoJson bbox aspect
+        // This parameter is used for scale this aspect
+        aspectScale: 0.75,
+
+        ///// Layout with center and size
+        // If you wan't to put map in a fixed size box with right aspect ratio
+        // This two properties may more conveninet
+        // layoutCenter: [50%, 50%]
+        // layoutSize: 100
+
+
+        // 数值合并方式，默认加和，可选为：
+        // 'sum' | 'average' | 'max' | 'min'
+        // mapValueCalculation: 'sum',
+        // 地图数值计算结果小数精度
+        // mapValuePrecision: 0,
+
+
+        // 显示图例颜色标识（系列标识的小圆点），图例开启时有效
+        showLegendSymbol: true,
+        // 选择模式，默认关闭，可选single，multiple
+        // selectedMode: false,
+        dataRangeHoverLink: true,
+        // 是否开启缩放及漫游模式
+        // roam: false,
+
+        // Default on center of map
+        center: null,
+
+        zoom: 1,
+
+        scaleLimit: null,
+
+        label: {
+            normal: {
+                show: false,
+                textStyle: {
+                    color: '#000'
+                }
+            },
+            emphasis: {
+                show: true,
+                textStyle: {
+                    color: 'rgb(100,0,0)'
+                }
+            }
+        },
+        // scaleLimit: null,
+        itemStyle: {
+            normal: {
+                // color: 各异,
+                borderWidth: 0.5,
+                borderColor: '#444',
+                areaColor: '#eee'
+            },
+            // 也是选中样式
+            emphasis: {
+                areaColor: 'rgba(255,215,0,0.8)'
+            }
+        }
+    }
+
+});
+
+zrUtil.mixin(MapSeries, dataSelectableMixin);
+
+module.exports = MapSeries;
+
+/***/ }),
+/* 581 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+// var zrUtil = require('zrender/lib/core/util');
+var graphic = __webpack_require__(9);
+
+var MapDraw = __webpack_require__(586);
+
+__webpack_require__(8).extendChartView({
+
+    type: 'map',
+
+    render: function render(mapModel, ecModel, api, payload) {
+        // Not render if it is an toggleSelect action from self
+        if (payload && payload.type === 'mapToggleSelect' && payload.from === this.uid) {
+            return;
+        }
+
+        var group = this.group;
+        group.removeAll();
+
+        if (mapModel.getHostGeoModel()) {
+            return;
+        }
+
+        // Not update map if it is an roam action from self
+        if (!(payload && payload.type === 'geoRoam' && payload.componentType === 'series' && payload.seriesId === mapModel.id)) {
+            if (mapModel.needsDrawMap) {
+                var mapDraw = this._mapDraw || new MapDraw(api, true);
+                group.add(mapDraw.group);
+
+                mapDraw.draw(mapModel, ecModel, api, this, payload);
+
+                this._mapDraw = mapDraw;
+            } else {
+                // Remove drawed map
+                this._mapDraw && this._mapDraw.remove();
+                this._mapDraw = null;
+            }
+        } else {
+            var mapDraw = this._mapDraw;
+            mapDraw && group.add(mapDraw.group);
+        }
+
+        mapModel.get('showLegendSymbol') && ecModel.getComponent('legend') && this._renderSymbols(mapModel, ecModel, api);
+    },
+
+    remove: function remove() {
+        this._mapDraw && this._mapDraw.remove();
+        this._mapDraw = null;
+        this.group.removeAll();
+    },
+
+    dispose: function dispose() {
+        this._mapDraw && this._mapDraw.remove();
+        this._mapDraw = null;
+    },
+
+    _renderSymbols: function _renderSymbols(mapModel, ecModel, api) {
+        var originalData = mapModel.originalData;
+        var group = this.group;
+
+        originalData.each('value', function (value, idx) {
+            if (isNaN(value)) {
+                return;
+            }
+
+            var layout = originalData.getItemLayout(idx);
+
+            if (!layout || !layout.point) {
+                // Not exists in map
+                return;
+            }
+
+            var point = layout.point;
+            var offset = layout.offset;
+
+            var circle = new graphic.Circle({
+                style: {
+                    // Because the special of map draw.
+                    // Which needs statistic of multiple series and draw on one map.
+                    // And each series also need a symbol with legend color
+                    //
+                    // Layout and visual are put one the different data
+                    fill: mapModel.getData().getVisual('color')
+                },
+                shape: {
+                    cx: point[0] + offset * 9,
+                    cy: point[1],
+                    r: 3
+                },
+                silent: true,
+                z2: 10
+            });
+
+            // First data on the same region
+            if (!offset) {
+                var fullData = mapModel.mainSeries.getData();
+                var name = originalData.getName(idx);
+                var labelText = name;
+                var fullIndex = fullData.indexOfName(name);
+
+                var itemModel = originalData.getItemModel(idx);
+                var labelModel = itemModel.getModel('label.normal');
+                var hoverLabelModel = itemModel.getModel('label.emphasis');
+
+                var textStyleModel = labelModel.getModel('textStyle');
+                var hoverTextStyleModel = hoverLabelModel.getModel('textStyle');
+
+                var polygonGroups = fullData.getItemGraphicEl(fullIndex);
+                circle.setStyle({
+                    textPosition: 'bottom'
+                });
+
+                var onEmphasis = function onEmphasis() {
+                    circle.setStyle({
+                        text: hoverLabelModel.get('show') ? labelText : '',
+                        textFill: hoverTextStyleModel.getTextColor(),
+                        textFont: hoverTextStyleModel.getFont()
+                    });
+                };
+
+                var onNormal = function onNormal() {
+                    circle.setStyle({
+                        text: labelModel.get('show') ? labelText : '',
+                        textFill: textStyleModel.getTextColor(),
+                        textFont: textStyleModel.getFont()
+                    });
+                };
+
+                polygonGroups.on('mouseover', onEmphasis).on('mouseout', onNormal).on('emphasis', onEmphasis).on('normal', onNormal);
+
+                onNormal();
+            }
+
+            group.add(circle);
+        });
+    }
+});
+
+/***/ }),
+/* 582 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+
+module.exports = function (option) {
+    // Save geoCoord
+    var mapSeries = [];
+    zrUtil.each(option.series, function (seriesOpt) {
+        if (seriesOpt.type === 'map') {
+            mapSeries.push(seriesOpt);
+        }
+    });
+
+    zrUtil.each(mapSeries, function (seriesOpt) {
+        seriesOpt.map = seriesOpt.map || seriesOpt.mapType;
+        // Put x, y, width, height, x2, y2 in the top level
+        zrUtil.defaults(seriesOpt, seriesOpt.mapLocation);
+    });
+};
+
+/***/ }),
+/* 583 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+
+// FIXME 公用？
+/**
+ * @param {Array.<module:echarts/data/List>} datas
+ * @param {string} statisticType 'average' 'sum'
+ * @inner
+ */
+function dataStatistics(datas, statisticType) {
+    var dataNameMap = {};
+    var dims = ['value'];
+
+    zrUtil.each(datas, function (data) {
+        data.each(dims, function (value, idx) {
+            var name = data.getName(idx);
+            dataNameMap[name] = dataNameMap[name] || [];
+            if (!isNaN(value)) {
+                dataNameMap[name].push(value);
+            }
+        });
+    });
+
+    return datas[0].map(dims, function (value, idx) {
+        var name = datas[0].getName(idx);
+        var sum = 0;
+        var min = Infinity;
+        var max = -Infinity;
+        var len = dataNameMap[name].length;
+        for (var i = 0; i < len; i++) {
+            min = Math.min(min, dataNameMap[name][i]);
+            max = Math.max(max, dataNameMap[name][i]);
+            sum += dataNameMap[name][i];
+        }
+        var result;
+        if (statisticType === 'min') {
+            result = min;
+        } else if (statisticType === 'max') {
+            result = max;
+        } else if (statisticType === 'average') {
+            result = sum / len;
+        } else {
+            result = sum;
+        }
+        return len === 0 ? NaN : result;
+    });
+}
+
+module.exports = function (ecModel) {
+    var seriesGroups = {};
+    ecModel.eachSeriesByType('map', function (seriesModel) {
+        var hostGeoModel = seriesModel.getHostGeoModel();
+        var key = hostGeoModel ? 'o' + hostGeoModel.id : 'i' + seriesModel.getMapType();
+        (seriesGroups[key] = seriesGroups[key] || []).push(seriesModel);
+    });
+
+    zrUtil.each(seriesGroups, function (seriesList, key) {
+        var data = dataStatistics(zrUtil.map(seriesList, function (seriesModel) {
+            return seriesModel.getData();
+        }), seriesList[0].get('mapValueCalculation'));
+
+        for (var i = 0; i < seriesList.length; i++) {
+            seriesList[i].originalData = seriesList[i].getData();
+        }
+
+        // FIXME Put where?
+        for (var i = 0; i < seriesList.length; i++) {
+            seriesList[i].seriesGroup = seriesList;
+            seriesList[i].needsDrawMap = i === 0 && !seriesList[i].getHostGeoModel();
+
+            seriesList[i].setData(data.cloneShallow());
+            seriesList[i].mainSeries = seriesList[0];
+        }
+    });
+};
+
+/***/ }),
+/* 584 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+
+module.exports = function (ecModel) {
+
+    var processedMapType = {};
+
+    ecModel.eachSeriesByType('map', function (mapSeries) {
+        var mapType = mapSeries.getMapType();
+        if (mapSeries.getHostGeoModel() || processedMapType[mapType]) {
+            return;
+        }
+
+        var mapSymbolOffsets = {};
+
+        zrUtil.each(mapSeries.seriesGroup, function (subMapSeries) {
+            var geo = subMapSeries.coordinateSystem;
+            var data = subMapSeries.originalData;
+            if (subMapSeries.get('showLegendSymbol') && ecModel.getComponent('legend')) {
+                data.each('value', function (value, idx) {
+                    var name = data.getName(idx);
+                    var region = geo.getRegion(name);
+
+                    // If input series.data is [11, 22, '-'/null/undefined, 44],
+                    // it will be filled with NaN: [11, 22, NaN, 44] and NaN will
+                    // not be drawn. So here must validate if value is NaN.
+                    if (!region || isNaN(value)) {
+                        return;
+                    }
+
+                    var offset = mapSymbolOffsets[name] || 0;
+
+                    var point = geo.dataToPoint(region.center);
+
+                    mapSymbolOffsets[name] = offset + 1;
+
+                    data.setItemLayout(idx, {
+                        point: point,
+                        offset: offset
+                    });
+                });
+            }
+        });
+
+        // Show label of those region not has legendSymbol(which is offset 0)
+        var data = mapSeries.getData();
+        data.each(function (idx) {
+            var name = data.getName(idx);
+            var layout = data.getItemLayout(idx) || {};
+            layout.showLabel = !mapSymbolOffsets[name];
+            data.setItemLayout(idx, layout);
+        });
+
+        processedMapType[mapType] = true;
+    });
+};
+
+/***/ }),
+/* 585 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = function (ecModel) {
+    ecModel.eachSeriesByType('map', function (seriesModel) {
+        var colorList = seriesModel.get('color');
+        var itemStyleModel = seriesModel.getModel('itemStyle.normal');
+
+        var areaColor = itemStyleModel.get('areaColor');
+        var color = itemStyleModel.get('color') || colorList[seriesModel.seriesIndex % colorList.length];
+
+        seriesModel.getData().setVisual({
+            'areaColor': areaColor,
+            'color': color
+        });
+    });
+};
+
+/***/ }),
+/* 586 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @module echarts/component/helper/MapDraw
+ */
+
+var RoamController = __webpack_require__(560);
+var graphic = __webpack_require__(9);
+var zrUtil = __webpack_require__(1);
+
+function getFixedItemStyle(model, scale) {
+    var itemStyle = model.getItemStyle();
+    var areaColor = model.get('areaColor');
+
+    // If user want the color not to be changed when hover,
+    // they should both set areaColor and color to be null.
+    if (areaColor != null) {
+        itemStyle.fill = areaColor;
+    }
+
+    return itemStyle;
+}
+
+function updateMapSelectHandler(mapDraw, mapOrGeoModel, group, api, fromView) {
+    group.off('click');
+    group.off('mousedown');
+
+    if (mapOrGeoModel.get('selectedMode')) {
+
+        group.on('mousedown', function () {
+            mapDraw._mouseDownFlag = true;
+        });
+
+        group.on('click', function (e) {
+            if (!mapDraw._mouseDownFlag) {
+                return;
+            }
+            mapDraw._mouseDownFlag = false;
+
+            var el = e.target;
+            while (!el.__region) {
+                el = el.parent;
+            }
+            if (!el) {
+                return;
+            }
+
+            var region = el.__region;
+            var action = {
+                type: (mapOrGeoModel.mainType === 'geo' ? 'geo' : 'map') + 'ToggleSelect',
+                name: region.name,
+                from: fromView.uid
+            };
+            action[mapOrGeoModel.mainType + 'Id'] = mapOrGeoModel.id;
+
+            api.dispatchAction(action);
+
+            updateMapSelected(mapOrGeoModel, group);
+        });
+    }
+}
+
+function updateMapSelected(mapOrGeoModel, group) {
+    // FIXME
+    group.eachChild(function (otherRegionEl) {
+        if (otherRegionEl.__region) {
+            otherRegionEl.trigger(mapOrGeoModel.isSelected(otherRegionEl.__region.name) ? 'emphasis' : 'normal');
+        }
+    });
+}
+
+/**
+ * @alias module:echarts/component/helper/MapDraw
+ * @param {module:echarts/ExtensionAPI} api
+ * @param {boolean} updateGroup
+ */
+function MapDraw(api, updateGroup) {
+
+    var group = new graphic.Group();
+
+    /**
+     * @type {module:echarts/component/helper/RoamController}
+     * @private
+     */
+    this._controller = new RoamController(api.getZr(), updateGroup ? group : null, null);
+
+    /**
+     * @type {module:zrender/container/Group}
+     * @readOnly
+     */
+    this.group = group;
+
+    /**
+     * @type {boolean}
+     * @private
+     */
+    this._updateGroup = updateGroup;
+
+    /**
+     * This flag is used to make sure that only one among
+     * `pan`, `zoom`, `click` can occurs, otherwise 'selected'
+     * action may be triggered when `pan`, which is unexpected.
+     * @type {booelan}
+     */
+    this._mouseDownFlag;
+}
+
+MapDraw.prototype = {
+
+    constructor: MapDraw,
+
+    draw: function draw(mapOrGeoModel, ecModel, api, fromView, payload) {
+
+        var isGeo = mapOrGeoModel.mainType === 'geo';
+
+        // map series has data, geo model that controlled by map series
+        // has no data, otherwise data exists.
+        var data = mapOrGeoModel.getData && mapOrGeoModel.getData();
+        isGeo && ecModel.eachComponent({ mainType: 'series', subType: 'map' }, function (mapSeries) {
+            if (!data && mapSeries.getHostGeoModel() === mapOrGeoModel) {
+                data = mapSeries.getData();
+            }
+        });
+
+        var geo = mapOrGeoModel.coordinateSystem;
+
+        var group = this.group;
+
+        var scale = geo.scale;
+        var groupNewProp = {
+            position: geo.position,
+            scale: scale
+        };
+
+        // No animation when first draw or in action
+        if (!group.childAt(0) || payload) {
+            group.attr(groupNewProp);
+        } else {
+            graphic.updateProps(group, groupNewProp, mapOrGeoModel);
+        }
+
+        group.removeAll();
+
+        var itemStyleAccessPath = ['itemStyle', 'normal'];
+        var hoverItemStyleAccessPath = ['itemStyle', 'emphasis'];
+        var labelAccessPath = ['label', 'normal'];
+        var hoverLabelAccessPath = ['label', 'emphasis'];
+
+        zrUtil.each(geo.regions, function (region) {
+
+            var regionGroup = new graphic.Group();
+            var compoundPath = new graphic.CompoundPath({
+                shape: {
+                    paths: []
+                }
+            });
+            regionGroup.add(compoundPath);
+
+            var regionModel = mapOrGeoModel.getRegionModel(region.name) || mapOrGeoModel;
+
+            var itemStyleModel = regionModel.getModel(itemStyleAccessPath);
+            var hoverItemStyleModel = regionModel.getModel(hoverItemStyleAccessPath);
+            var itemStyle = getFixedItemStyle(itemStyleModel, scale);
+            var hoverItemStyle = getFixedItemStyle(hoverItemStyleModel, scale);
+
+            var labelModel = regionModel.getModel(labelAccessPath);
+            var hoverLabelModel = regionModel.getModel(hoverLabelAccessPath);
+
+            var dataIdx;
+            // Use the itemStyle in data if has data
+            if (data) {
+                dataIdx = data.indexOfName(region.name);
+                // Only visual color of each item will be used. It can be encoded by dataRange
+                // But visual color of series is used in symbol drawing
+                //
+                // Visual color for each series is for the symbol draw
+                var visualColor = data.getItemVisual(dataIdx, 'color', true);
+                if (visualColor) {
+                    itemStyle.fill = visualColor;
+                }
+            }
+
+            var textStyleModel = labelModel.getModel('textStyle');
+            var hoverTextStyleModel = hoverLabelModel.getModel('textStyle');
+
+            zrUtil.each(region.contours, function (contour) {
+
+                var polygon = new graphic.Polygon({
+                    shape: {
+                        points: contour
+                    }
+                });
+
+                compoundPath.shape.paths.push(polygon);
+            });
+
+            compoundPath.setStyle(itemStyle);
+            compoundPath.style.strokeNoScale = true;
+            compoundPath.culling = true;
+            // Label
+            var showLabel = labelModel.get('show');
+            var hoverShowLabel = hoverLabelModel.get('show');
+
+            var isDataNaN = data && isNaN(data.get('value', dataIdx));
+            var itemLayout = data && data.getItemLayout(dataIdx);
+            // In the following cases label will be drawn
+            // 1. In map series and data value is NaN
+            // 2. In geo component
+            // 4. Region has no series legendSymbol, which will be add a showLabel flag in mapSymbolLayout
+            if (isGeo || isDataNaN && (showLabel || hoverShowLabel) || itemLayout && itemLayout.showLabel) {
+                var query = data ? dataIdx : region.name;
+                var formattedStr = mapOrGeoModel.getFormattedLabel(query, 'normal');
+                var hoverFormattedStr = mapOrGeoModel.getFormattedLabel(query, 'emphasis');
+                var text = new graphic.Text({
+                    style: {
+                        text: showLabel ? formattedStr || region.name : '',
+                        fill: textStyleModel.getTextColor(),
+                        textFont: textStyleModel.getFont(),
+                        textAlign: 'center',
+                        textVerticalAlign: 'middle'
+                    },
+                    hoverStyle: {
+                        text: hoverShowLabel ? hoverFormattedStr || region.name : '',
+                        fill: hoverTextStyleModel.getTextColor(),
+                        textFont: hoverTextStyleModel.getFont()
+                    },
+                    position: region.center.slice(),
+                    scale: [1 / scale[0], 1 / scale[1]],
+                    z2: 10,
+                    silent: true
+                });
+
+                regionGroup.add(text);
+            }
+
+            // setItemGraphicEl, setHoverStyle after all polygons and labels
+            // are added to the rigionGroup
+            if (data) {
+                data.setItemGraphicEl(dataIdx, regionGroup);
+            } else {
+                var regionModel = mapOrGeoModel.getRegionModel(region.name);
+                // Package custom mouse event for geo component
+                compoundPath.eventData = {
+                    componentType: 'geo',
+                    geoIndex: mapOrGeoModel.componentIndex,
+                    name: region.name,
+                    region: regionModel && regionModel.option || {}
+                };
+            }
+
+            regionGroup.__region = region;
+
+            graphic.setHoverStyle(regionGroup, hoverItemStyle, { hoverSilentOnTouch: !!mapOrGeoModel.get('selectedMode') });
+
+            group.add(regionGroup);
+        });
+
+        this._updateController(mapOrGeoModel, ecModel, api);
+
+        updateMapSelectHandler(this, mapOrGeoModel, group, api, fromView);
+
+        updateMapSelected(mapOrGeoModel, group);
+    },
+
+    remove: function remove() {
+        this.group.removeAll();
+        this._controller.dispose();
+    },
+
+    _updateController: function _updateController(mapOrGeoModel, ecModel, api) {
+        var geo = mapOrGeoModel.coordinateSystem;
+        var controller = this._controller;
+        controller.zoomLimit = mapOrGeoModel.get('scaleLimit');
+        // Update zoom from model
+        controller.zoom = geo.getZoom();
+        // roamType is will be set default true if it is null
+        controller.enable(mapOrGeoModel.get('roam') || false);
+        var mainType = mapOrGeoModel.mainType;
+
+        function makeActionBase() {
+            var action = {
+                type: 'geoRoam',
+                componentType: mainType
+            };
+            action[mainType + 'Id'] = mapOrGeoModel.id;
+            return action;
+        }
+
+        controller.off('pan').on('pan', function (dx, dy) {
+            this._mouseDownFlag = false;
+
+            api.dispatchAction(zrUtil.extend(makeActionBase(), {
+                dx: dx,
+                dy: dy
+            }));
+        }, this);
+
+        controller.off('zoom').on('zoom', function (zoom, mouseX, mouseY) {
+            this._mouseDownFlag = false;
+
+            api.dispatchAction(zrUtil.extend(makeActionBase(), {
+                zoom: zoom,
+                originX: mouseX,
+                originY: mouseY
+            }));
+
+            if (this._updateGroup) {
+                var group = this.group;
+                var scale = group.scale;
+                group.traverse(function (el) {
+                    if (el.type === 'text') {
+                        el.attr('scale', [1 / scale[0], 1 / scale[1]]);
+                    }
+                });
+            }
+        }, this);
+
+        controller.setContainsPoint(function (x, y) {
+            return geo.getViewRectAfterRoam().contain(x, y);
+        });
+    }
+};
+
+module.exports = MapDraw;
+
+/***/ }),
+/* 587 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * visualMap component entry
+ */
+
+__webpack_require__(588);
+__webpack_require__(589);
+
+/***/ }),
+/* 588 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * DataZoom component entry
+ */
+
+__webpack_require__(8).registerPreprocessor(__webpack_require__(568));
+
+__webpack_require__(569);
+__webpack_require__(570);
+__webpack_require__(590);
+__webpack_require__(591);
+__webpack_require__(571);
+
+/***/ }),
+/* 589 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * DataZoom component entry
+ */
+
+__webpack_require__(8).registerPreprocessor(__webpack_require__(568));
+
+__webpack_require__(569);
+__webpack_require__(570);
+__webpack_require__(592);
+__webpack_require__(593);
+__webpack_require__(571);
+
+/***/ }),
+/* 590 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * @file Data zoom model
+ */
+
+var VisualMapModel = __webpack_require__(565);
+var zrUtil = __webpack_require__(1);
+var numberUtil = __webpack_require__(12);
+
+// Constant
+var DEFAULT_BAR_BOUND = [20, 140];
+
+var ContinuousModel = VisualMapModel.extend({
+
+    type: 'visualMap.continuous',
+
+    /**
+     * @protected
+     */
+    defaultOption: {
+        align: 'auto', // 'auto', 'left', 'right', 'top', 'bottom'
+        calculable: false, // This prop effect default component type determine,
+        // See echarts/component/visualMap/typeDefaulter.
+        range: null, // selected range. In default case `range` is [min, max]
+        // and can auto change along with modification of min max,
+        // util use specifid a range.
+        realtime: true, // Whether realtime update.
+        itemHeight: null, // The length of the range control edge.
+        itemWidth: null, // The length of the other side.
+        hoverLink: true, // Enable hover highlight.
+        hoverLinkDataSize: null, // The size of hovered data.
+        hoverLinkOnHandle: true // Whether trigger hoverLink when hover handle.
+    },
+
+    /**
+     * @override
+     */
+    optionUpdated: function optionUpdated(newOption, isInit) {
+        ContinuousModel.superApply(this, 'optionUpdated', arguments);
+
+        this.resetTargetSeries();
+        this.resetExtent();
+
+        this.resetVisual(function (mappingOption) {
+            mappingOption.mappingMethod = 'linear';
+            mappingOption.dataExtent = this.getExtent();
+        });
+
+        this._resetRange();
+    },
+
+    /**
+     * @protected
+     * @override
+     */
+    resetItemSize: function resetItemSize() {
+        ContinuousModel.superApply(this, 'resetItemSize', arguments);
+
+        var itemSize = this.itemSize;
+
+        this._orient === 'horizontal' && itemSize.reverse();
+
+        (itemSize[0] == null || isNaN(itemSize[0])) && (itemSize[0] = DEFAULT_BAR_BOUND[0]);
+        (itemSize[1] == null || isNaN(itemSize[1])) && (itemSize[1] = DEFAULT_BAR_BOUND[1]);
+    },
+
+    /**
+     * @private
+     */
+    _resetRange: function _resetRange() {
+        var dataExtent = this.getExtent();
+        var range = this.option.range;
+
+        if (!range || range.auto) {
+            // `range` should always be array (so we dont use other
+            // value like 'auto') for user-friend. (consider getOption).
+            dataExtent.auto = 1;
+            this.option.range = dataExtent;
+        } else if (zrUtil.isArray(range)) {
+            if (range[0] > range[1]) {
+                range.reverse();
+            }
+            range[0] = Math.max(range[0], dataExtent[0]);
+            range[1] = Math.min(range[1], dataExtent[1]);
+        }
+    },
+
+    /**
+     * @protected
+     * @override
+     */
+    completeVisualOption: function completeVisualOption() {
+        VisualMapModel.prototype.completeVisualOption.apply(this, arguments);
+
+        zrUtil.each(this.stateList, function (state) {
+            var symbolSize = this.option.controller[state].symbolSize;
+            if (symbolSize && symbolSize[0] !== symbolSize[1]) {
+                symbolSize[0] = 0; // For good looking.
+            }
+        }, this);
+    },
+
+    /**
+     * @override
+     */
+    setSelected: function setSelected(selected) {
+        this.option.range = selected.slice();
+        this._resetRange();
+    },
+
+    /**
+     * @public
+     */
+    getSelected: function getSelected() {
+        var dataExtent = this.getExtent();
+
+        var dataInterval = numberUtil.asc((this.get('range') || []).slice());
+
+        // Clamp
+        dataInterval[0] > dataExtent[1] && (dataInterval[0] = dataExtent[1]);
+        dataInterval[1] > dataExtent[1] && (dataInterval[1] = dataExtent[1]);
+        dataInterval[0] < dataExtent[0] && (dataInterval[0] = dataExtent[0]);
+        dataInterval[1] < dataExtent[0] && (dataInterval[1] = dataExtent[0]);
+
+        return dataInterval;
+    },
+
+    /**
+     * @override
+     */
+    getValueState: function getValueState(value) {
+        var range = this.option.range;
+        var dataExtent = this.getExtent();
+
+        // When range[0] === dataExtent[0], any value larger than dataExtent[0] maps to 'inRange'.
+        // range[1] is processed likewise.
+        return (range[0] <= dataExtent[0] || range[0] <= value) && (range[1] >= dataExtent[1] || value <= range[1]) ? 'inRange' : 'outOfRange';
+    },
+
+    /**
+     * @params {Array.<number>} range target value: range[0] <= value && value <= range[1]
+     * @return {Array.<Object>} [{seriesId, dataIndices: <Array.<number>>}, ...]
+     */
+    findTargetDataIndices: function findTargetDataIndices(range) {
+        var result = [];
+
+        this.eachTargetSeries(function (seriesModel) {
+            var dataIndices = [];
+            var data = seriesModel.getData();
+
+            data.each(this.getDataDimension(data), function (value, dataIndex) {
+                range[0] <= value && value <= range[1] && dataIndices.push(dataIndex);
+            }, true, this);
+
+            result.push({ seriesId: seriesModel.id, dataIndex: dataIndices });
+        }, this);
+
+        return result;
+    },
+
+    /**
+     * @implement
+     */
+    getVisualMeta: function getVisualMeta(getColorVisual) {
+        var oVals = getColorStopValues(this, 'outOfRange', this.getExtent());
+        var iVals = getColorStopValues(this, 'inRange', this.option.range.slice());
+        var stops = [];
+
+        function setStop(value, valueState) {
+            stops.push({
+                value: value,
+                color: getColorVisual(value, valueState)
+            });
+        }
+
+        // Format to: outOfRange -- inRange -- outOfRange.
+        var iIdx = 0;
+        var oIdx = 0;
+        var iLen = iVals.length;
+        var oLen = oVals.length;
+
+        for (; oIdx < oLen && (!iVals.length || oVals[oIdx] <= iVals[0]); oIdx++) {
+            // If oVal[oIdx] === iVals[iIdx], oVal[oIdx] should be ignored.
+            if (oVals[oIdx] < iVals[iIdx]) {
+                setStop(oVals[oIdx], 'outOfRange');
+            }
+        }
+        for (var first = 1; iIdx < iLen; iIdx++, first = 0) {
+            // If range is full, value beyond min, max will be clamped.
+            // make a singularity
+            first && stops.length && setStop(iVals[iIdx], 'outOfRange');
+            setStop(iVals[iIdx], 'inRange');
+        }
+        for (var first = 1; oIdx < oLen; oIdx++) {
+            if (!iVals.length || iVals[iVals.length - 1] < oVals[oIdx]) {
+                // make a singularity
+                if (first) {
+                    stops.length && setStop(stops[stops.length - 1].value, 'outOfRange');
+                    first = 0;
+                }
+                setStop(oVals[oIdx], 'outOfRange');
+            }
+        }
+
+        var stopsLen = stops.length;
+
+        return {
+            stops: stops,
+            outerColors: [stopsLen ? stops[0].color : 'transparent', stopsLen ? stops[stopsLen - 1].color : 'transparent']
+        };
+    }
+
+});
+
+function getColorStopValues(visualMapModel, valueState, dataExtent) {
+    if (dataExtent[0] === dataExtent[1]) {
+        return dataExtent.slice();
+    }
+
+    // When using colorHue mapping, it is not linear color any more.
+    // Moreover, canvas gradient seems not to be accurate linear.
+    // FIXME
+    // Should be arbitrary value 100? or based on pixel size?
+    var count = 200;
+    var step = (dataExtent[1] - dataExtent[0]) / count;
+
+    var value = dataExtent[0];
+    var stopValues = [];
+    for (var i = 0; i <= count && value < dataExtent[1]; i++) {
+        stopValues.push(value);
+        value += step;
+    }
+    stopValues.push(dataExtent[1]);
+
+    return stopValues;
+}
+
+module.exports = ContinuousModel;
+
+/***/ }),
+/* 591 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var VisualMapView = __webpack_require__(566);
+var graphic = __webpack_require__(9);
+var zrUtil = __webpack_require__(1);
+var numberUtil = __webpack_require__(12);
+var sliderMove = __webpack_require__(549);
+var LinearGradient = __webpack_require__(514);
+var helper = __webpack_require__(567);
+var modelUtil = __webpack_require__(21);
+
+var linearMap = numberUtil.linearMap;
+var each = zrUtil.each;
+var mathMin = Math.min;
+var mathMax = Math.max;
+
+// Arbitrary value
+var HOVER_LINK_SIZE = 12;
+var HOVER_LINK_OUT = 6;
+
+// Notice:
+// Any "interval" should be by the order of [low, high].
+// "handle0" (handleIndex === 0) maps to
+// low data value: this._dataInterval[0] and has low coord.
+// "handle1" (handleIndex === 1) maps to
+// high data value: this._dataInterval[1] and has high coord.
+// The logic of transform is implemented in this._createBarGroup.
+
+var ContinuousView = VisualMapView.extend({
+
+    type: 'visualMap.continuous',
+
+    /**
+     * @override
+     */
+    init: function init() {
+
+        ContinuousView.superApply(this, 'init', arguments);
+
+        /**
+         * @private
+         */
+        this._shapes = {};
+
+        /**
+         * @private
+         */
+        this._dataInterval = [];
+
+        /**
+         * @private
+         */
+        this._handleEnds = [];
+
+        /**
+         * @private
+         */
+        this._orient;
+
+        /**
+         * @private
+         */
+        this._useHandle;
+
+        /**
+         * @private
+         */
+        this._hoverLinkDataIndices = [];
+
+        /**
+         * @private
+         */
+        this._dragging;
+
+        /**
+         * @private
+         */
+        this._hovering;
+    },
+
+    /**
+     * @protected
+     * @override
+     */
+    doRender: function doRender(visualMapModel, ecModel, api, payload) {
+        if (!payload || payload.type !== 'selectDataRange' || payload.from !== this.uid) {
+            this._buildView();
+        }
+    },
+
+    /**
+     * @private
+     */
+    _buildView: function _buildView() {
+        this.group.removeAll();
+
+        var visualMapModel = this.visualMapModel;
+        var thisGroup = this.group;
+
+        this._orient = visualMapModel.get('orient');
+        this._useHandle = visualMapModel.get('calculable');
+
+        this._resetInterval();
+
+        this._renderBar(thisGroup);
+
+        var dataRangeText = visualMapModel.get('text');
+        this._renderEndsText(thisGroup, dataRangeText, 0);
+        this._renderEndsText(thisGroup, dataRangeText, 1);
+
+        // Do this for background size calculation.
+        this._updateView(true);
+
+        // After updating view, inner shapes is built completely,
+        // and then background can be rendered.
+        this.renderBackground(thisGroup);
+
+        // Real update view
+        this._updateView();
+
+        this._enableHoverLinkToSeries();
+        this._enableHoverLinkFromSeries();
+
+        this.positionGroup(thisGroup);
+    },
+
+    /**
+     * @private
+     */
+    _renderEndsText: function _renderEndsText(group, dataRangeText, endsIndex) {
+        if (!dataRangeText) {
+            return;
+        }
+
+        // Compatible with ec2, text[0] map to high value, text[1] map low value.
+        var text = dataRangeText[1 - endsIndex];
+        text = text != null ? text + '' : '';
+
+        var visualMapModel = this.visualMapModel;
+        var textGap = visualMapModel.get('textGap');
+        var itemSize = visualMapModel.itemSize;
+
+        var barGroup = this._shapes.barGroup;
+        var position = this._applyTransform([itemSize[0] / 2, endsIndex === 0 ? -textGap : itemSize[1] + textGap], barGroup);
+        var align = this._applyTransform(endsIndex === 0 ? 'bottom' : 'top', barGroup);
+        var orient = this._orient;
+        var textStyleModel = this.visualMapModel.textStyleModel;
+
+        this.group.add(new graphic.Text({
+            style: {
+                x: position[0],
+                y: position[1],
+                textVerticalAlign: orient === 'horizontal' ? 'middle' : align,
+                textAlign: orient === 'horizontal' ? align : 'center',
+                text: text,
+                textFont: textStyleModel.getFont(),
+                fill: textStyleModel.getTextColor()
+            }
+        }));
+    },
+
+    /**
+     * @private
+     */
+    _renderBar: function _renderBar(targetGroup) {
+        var visualMapModel = this.visualMapModel;
+        var shapes = this._shapes;
+        var itemSize = visualMapModel.itemSize;
+        var orient = this._orient;
+        var useHandle = this._useHandle;
+        var itemAlign = helper.getItemAlign(visualMapModel, this.api, itemSize);
+        var barGroup = shapes.barGroup = this._createBarGroup(itemAlign);
+
+        // Bar
+        barGroup.add(shapes.outOfRange = createPolygon());
+        barGroup.add(shapes.inRange = createPolygon(null, useHandle ? 'move' : null, zrUtil.bind(this._dragHandle, this, 'all', false), zrUtil.bind(this._dragHandle, this, 'all', true)));
+
+        var textRect = visualMapModel.textStyleModel.getTextRect('国');
+        var textSize = mathMax(textRect.width, textRect.height);
+
+        // Handle
+        if (useHandle) {
+            shapes.handleThumbs = [];
+            shapes.handleLabels = [];
+            shapes.handleLabelPoints = [];
+
+            this._createHandle(barGroup, 0, itemSize, textSize, orient, itemAlign);
+            this._createHandle(barGroup, 1, itemSize, textSize, orient, itemAlign);
+        }
+
+        this._createIndicator(barGroup, itemSize, textSize, orient);
+
+        targetGroup.add(barGroup);
+    },
+
+    /**
+     * @private
+     */
+    _createHandle: function _createHandle(barGroup, handleIndex, itemSize, textSize, orient) {
+        var onDrift = zrUtil.bind(this._dragHandle, this, handleIndex, false);
+        var onDragEnd = zrUtil.bind(this._dragHandle, this, handleIndex, true);
+        var handleThumb = createPolygon(createHandlePoints(handleIndex, textSize), 'move', onDrift, onDragEnd);
+        handleThumb.position[0] = itemSize[0];
+        barGroup.add(handleThumb);
+
+        // Text is always horizontal layout but should not be effected by
+        // transform (orient/inverse). So label is built separately but not
+        // use zrender/graphic/helper/RectText, and is located based on view
+        // group (according to handleLabelPoint) but not barGroup.
+        var textStyleModel = this.visualMapModel.textStyleModel;
+        var handleLabel = new graphic.Text({
+            draggable: true,
+            drift: onDrift,
+            ondragend: onDragEnd,
+            style: {
+                x: 0, y: 0, text: '',
+                textFont: textStyleModel.getFont(),
+                fill: textStyleModel.getTextColor()
+            }
+        });
+        this.group.add(handleLabel);
+
+        var handleLabelPoint = [orient === 'horizontal' ? textSize / 2 : textSize * 1.5, orient === 'horizontal' ? handleIndex === 0 ? -(textSize * 1.5) : textSize * 1.5 : handleIndex === 0 ? -textSize / 2 : textSize / 2];
+
+        var shapes = this._shapes;
+        shapes.handleThumbs[handleIndex] = handleThumb;
+        shapes.handleLabelPoints[handleIndex] = handleLabelPoint;
+        shapes.handleLabels[handleIndex] = handleLabel;
+    },
+
+    /**
+     * @private
+     */
+    _createIndicator: function _createIndicator(barGroup, itemSize, textSize, orient) {
+        var indicator = createPolygon([[0, 0]], 'move');
+        indicator.position[0] = itemSize[0];
+        indicator.attr({ invisible: true, silent: true });
+        barGroup.add(indicator);
+
+        var textStyleModel = this.visualMapModel.textStyleModel;
+        var indicatorLabel = new graphic.Text({
+            silent: true,
+            invisible: true,
+            style: {
+                x: 0, y: 0, text: '',
+                textFont: textStyleModel.getFont(),
+                fill: textStyleModel.getTextColor()
+            }
+        });
+        this.group.add(indicatorLabel);
+
+        var indicatorLabelPoint = [orient === 'horizontal' ? textSize / 2 : HOVER_LINK_OUT + 3, 0];
+
+        var shapes = this._shapes;
+        shapes.indicator = indicator;
+        shapes.indicatorLabel = indicatorLabel;
+        shapes.indicatorLabelPoint = indicatorLabelPoint;
+    },
+
+    /**
+     * @private
+     */
+    _dragHandle: function _dragHandle(handleIndex, isEnd, dx, dy) {
+        if (!this._useHandle) {
+            return;
+        }
+
+        this._dragging = !isEnd;
+
+        if (!isEnd) {
+            // Transform dx, dy to bar coordination.
+            var vertex = this._applyTransform([dx, dy], this._shapes.barGroup, true);
+            this._updateInterval(handleIndex, vertex[1]);
+
+            // Considering realtime, update view should be executed
+            // before dispatch action.
+            this._updateView();
+        }
+
+        // dragEnd do not dispatch action when realtime.
+        if (isEnd === !this.visualMapModel.get('realtime')) {
+            // jshint ignore:line
+            this.api.dispatchAction({
+                type: 'selectDataRange',
+                from: this.uid,
+                visualMapId: this.visualMapModel.id,
+                selected: this._dataInterval.slice()
+            });
+        }
+
+        if (isEnd) {
+            !this._hovering && this._clearHoverLinkToSeries();
+        } else if (useHoverLinkOnHandle(this.visualMapModel)) {
+            this._doHoverLinkToSeries(this._handleEnds[handleIndex], false);
+        }
+    },
+
+    /**
+     * @private
+     */
+    _resetInterval: function _resetInterval() {
+        var visualMapModel = this.visualMapModel;
+
+        var dataInterval = this._dataInterval = visualMapModel.getSelected();
+        var dataExtent = visualMapModel.getExtent();
+        var sizeExtent = [0, visualMapModel.itemSize[1]];
+
+        this._handleEnds = [linearMap(dataInterval[0], dataExtent, sizeExtent, true), linearMap(dataInterval[1], dataExtent, sizeExtent, true)];
+    },
+
+    /**
+     * @private
+     * @param {(number|string)} handleIndex 0 or 1 or 'all'
+     * @param {number} dx
+     * @param {number} dy
+     */
+    _updateInterval: function _updateInterval(handleIndex, delta) {
+        delta = delta || 0;
+        var visualMapModel = this.visualMapModel;
+        var handleEnds = this._handleEnds;
+
+        sliderMove(delta, handleEnds, [0, visualMapModel.itemSize[1]], handleIndex === 'all' ? 'rigid' : 'push', handleIndex);
+        var dataExtent = visualMapModel.getExtent();
+        var sizeExtent = [0, visualMapModel.itemSize[1]];
+        // Update data interval.
+        this._dataInterval = [linearMap(handleEnds[0], sizeExtent, dataExtent, true), linearMap(handleEnds[1], sizeExtent, dataExtent, true)];
+    },
+
+    /**
+     * @private
+     */
+    _updateView: function _updateView(forSketch) {
+        var visualMapModel = this.visualMapModel;
+        var dataExtent = visualMapModel.getExtent();
+        var shapes = this._shapes;
+
+        var outOfRangeHandleEnds = [0, visualMapModel.itemSize[1]];
+        var inRangeHandleEnds = forSketch ? outOfRangeHandleEnds : this._handleEnds;
+
+        var visualInRange = this._createBarVisual(this._dataInterval, dataExtent, inRangeHandleEnds, 'inRange');
+        var visualOutOfRange = this._createBarVisual(dataExtent, dataExtent, outOfRangeHandleEnds, 'outOfRange');
+
+        shapes.inRange.setStyle({
+            fill: visualInRange.barColor,
+            opacity: visualInRange.opacity
+        }).setShape('points', visualInRange.barPoints);
+        shapes.outOfRange.setStyle({
+            fill: visualOutOfRange.barColor,
+            opacity: visualOutOfRange.opacity
+        }).setShape('points', visualOutOfRange.barPoints);
+
+        this._updateHandle(inRangeHandleEnds, visualInRange);
+    },
+
+    /**
+     * @private
+     */
+    _createBarVisual: function _createBarVisual(dataInterval, dataExtent, handleEnds, forceState) {
+        var opts = {
+            forceState: forceState,
+            convertOpacityToAlpha: true
+        };
+        var colorStops = this._makeColorGradient(dataInterval, opts);
+
+        var symbolSizes = [this.getControllerVisual(dataInterval[0], 'symbolSize', opts), this.getControllerVisual(dataInterval[1], 'symbolSize', opts)];
+        var barPoints = this._createBarPoints(handleEnds, symbolSizes);
+
+        return {
+            barColor: new LinearGradient(0, 0, 0, 1, colorStops),
+            barPoints: barPoints,
+            handlesColor: [colorStops[0].color, colorStops[colorStops.length - 1].color]
+        };
+    },
+
+    /**
+     * @private
+     */
+    _makeColorGradient: function _makeColorGradient(dataInterval, opts) {
+        // Considering colorHue, which is not linear, so we have to sample
+        // to calculate gradient color stops, but not only caculate head
+        // and tail.
+        var sampleNumber = 100; // Arbitrary value.
+        var colorStops = [];
+        var step = (dataInterval[1] - dataInterval[0]) / sampleNumber;
+
+        colorStops.push({
+            color: this.getControllerVisual(dataInterval[0], 'color', opts),
+            offset: 0
+        });
+
+        for (var i = 1; i < sampleNumber; i++) {
+            var currValue = dataInterval[0] + step * i;
+            if (currValue > dataInterval[1]) {
+                break;
+            }
+            colorStops.push({
+                color: this.getControllerVisual(currValue, 'color', opts),
+                offset: i / sampleNumber
+            });
+        }
+
+        colorStops.push({
+            color: this.getControllerVisual(dataInterval[1], 'color', opts),
+            offset: 1
+        });
+
+        return colorStops;
+    },
+
+    /**
+     * @private
+     */
+    _createBarPoints: function _createBarPoints(handleEnds, symbolSizes) {
+        var itemSize = this.visualMapModel.itemSize;
+
+        return [[itemSize[0] - symbolSizes[0], handleEnds[0]], [itemSize[0], handleEnds[0]], [itemSize[0], handleEnds[1]], [itemSize[0] - symbolSizes[1], handleEnds[1]]];
+    },
+
+    /**
+     * @private
+     */
+    _createBarGroup: function _createBarGroup(itemAlign) {
+        var orient = this._orient;
+        var inverse = this.visualMapModel.get('inverse');
+
+        return new graphic.Group(orient === 'horizontal' && !inverse ? { scale: itemAlign === 'bottom' ? [1, 1] : [-1, 1], rotation: Math.PI / 2 } : orient === 'horizontal' && inverse ? { scale: itemAlign === 'bottom' ? [-1, 1] : [1, 1], rotation: -Math.PI / 2 } : orient === 'vertical' && !inverse ? { scale: itemAlign === 'left' ? [1, -1] : [-1, -1] } : { scale: itemAlign === 'left' ? [1, 1] : [-1, 1] });
+    },
+
+    /**
+     * @private
+     */
+    _updateHandle: function _updateHandle(handleEnds, visualInRange) {
+        if (!this._useHandle) {
+            return;
+        }
+
+        var shapes = this._shapes;
+        var visualMapModel = this.visualMapModel;
+        var handleThumbs = shapes.handleThumbs;
+        var handleLabels = shapes.handleLabels;
+
+        each([0, 1], function (handleIndex) {
+            var handleThumb = handleThumbs[handleIndex];
+            handleThumb.setStyle('fill', visualInRange.handlesColor[handleIndex]);
+            handleThumb.position[1] = handleEnds[handleIndex];
+
+            // Update handle label position.
+            var textPoint = graphic.applyTransform(shapes.handleLabelPoints[handleIndex], graphic.getTransform(handleThumb, this.group));
+            handleLabels[handleIndex].setStyle({
+                x: textPoint[0],
+                y: textPoint[1],
+                text: visualMapModel.formatValueText(this._dataInterval[handleIndex]),
+                textVerticalAlign: 'middle',
+                textAlign: this._applyTransform(this._orient === 'horizontal' ? handleIndex === 0 ? 'bottom' : 'top' : 'left', shapes.barGroup)
+            });
+        }, this);
+    },
+
+    /**
+     * @private
+     * @param {number} cursorValue
+     * @param {number} textValue
+     * @param {string} [rangeSymbol]
+     * @param {number} [halfHoverLinkSize]
+     */
+    _showIndicator: function _showIndicator(cursorValue, textValue, rangeSymbol, halfHoverLinkSize) {
+        var visualMapModel = this.visualMapModel;
+        var dataExtent = visualMapModel.getExtent();
+        var itemSize = visualMapModel.itemSize;
+        var sizeExtent = [0, itemSize[1]];
+        var pos = linearMap(cursorValue, dataExtent, sizeExtent, true);
+
+        var shapes = this._shapes;
+        var indicator = shapes.indicator;
+        if (!indicator) {
+            return;
+        }
+
+        indicator.position[1] = pos;
+        indicator.attr('invisible', false);
+        indicator.setShape('points', createIndicatorPoints(!!rangeSymbol, halfHoverLinkSize, pos, itemSize[1]));
+
+        var opts = { convertOpacityToAlpha: true };
+        var color = this.getControllerVisual(cursorValue, 'color', opts);
+        indicator.setStyle('fill', color);
+
+        // Update handle label position.
+        var textPoint = graphic.applyTransform(shapes.indicatorLabelPoint, graphic.getTransform(indicator, this.group));
+
+        var indicatorLabel = shapes.indicatorLabel;
+        indicatorLabel.attr('invisible', false);
+        var align = this._applyTransform('left', shapes.barGroup);
+        var orient = this._orient;
+        indicatorLabel.setStyle({
+            text: (rangeSymbol ? rangeSymbol : '') + visualMapModel.formatValueText(textValue),
+            textVerticalAlign: orient === 'horizontal' ? align : 'middle',
+            textAlign: orient === 'horizontal' ? 'center' : align,
+            x: textPoint[0],
+            y: textPoint[1]
+        });
+    },
+
+    /**
+     * @private
+     */
+    _enableHoverLinkToSeries: function _enableHoverLinkToSeries() {
+        var self = this;
+        this._shapes.barGroup.on('mousemove', function (e) {
+            self._hovering = true;
+
+            if (!self._dragging) {
+                var itemSize = self.visualMapModel.itemSize;
+                var pos = self._applyTransform([e.offsetX, e.offsetY], self._shapes.barGroup, true, true);
+                // For hover link show when hover handle, which might be
+                // below or upper than sizeExtent.
+                pos[1] = mathMin(mathMax(0, pos[1]), itemSize[1]);
+
+                self._doHoverLinkToSeries(pos[1], 0 <= pos[0] && pos[0] <= itemSize[0]);
+            }
+        }).on('mouseout', function () {
+            // When mouse is out of handle, hoverLink still need
+            // to be displayed when realtime is set as false.
+            self._hovering = false;
+            !self._dragging && self._clearHoverLinkToSeries();
+        });
+    },
+
+    /**
+     * @private
+     */
+    _enableHoverLinkFromSeries: function _enableHoverLinkFromSeries() {
+        var zr = this.api.getZr();
+
+        if (this.visualMapModel.option.hoverLink) {
+            zr.on('mouseover', this._hoverLinkFromSeriesMouseOver, this);
+            zr.on('mouseout', this._hideIndicator, this);
+        } else {
+            this._clearHoverLinkFromSeries();
+        }
+    },
+
+    /**
+     * @private
+     */
+    _doHoverLinkToSeries: function _doHoverLinkToSeries(cursorPos, hoverOnBar) {
+        var visualMapModel = this.visualMapModel;
+        var itemSize = visualMapModel.itemSize;
+
+        if (!visualMapModel.option.hoverLink) {
+            return;
+        }
+
+        var sizeExtent = [0, itemSize[1]];
+        var dataExtent = visualMapModel.getExtent();
+
+        // For hover link show when hover handle, which might be below or upper than sizeExtent.
+        cursorPos = mathMin(mathMax(sizeExtent[0], cursorPos), sizeExtent[1]);
+
+        var halfHoverLinkSize = getHalfHoverLinkSize(visualMapModel, dataExtent, sizeExtent);
+        var hoverRange = [cursorPos - halfHoverLinkSize, cursorPos + halfHoverLinkSize];
+        var cursorValue = linearMap(cursorPos, sizeExtent, dataExtent, true);
+        var valueRange = [linearMap(hoverRange[0], sizeExtent, dataExtent, true), linearMap(hoverRange[1], sizeExtent, dataExtent, true)];
+        // Consider data range is out of visualMap range, see test/visualMap-continuous.html,
+        // where china and india has very large population.
+        hoverRange[0] < sizeExtent[0] && (valueRange[0] = -Infinity);
+        hoverRange[1] > sizeExtent[1] && (valueRange[1] = Infinity);
+
+        // Do not show indicator when mouse is over handle,
+        // otherwise labels overlap, especially when dragging.
+        if (hoverOnBar) {
+            if (valueRange[0] === -Infinity) {
+                this._showIndicator(cursorValue, valueRange[1], '< ', halfHoverLinkSize);
+            } else if (valueRange[1] === Infinity) {
+                this._showIndicator(cursorValue, valueRange[0], '> ', halfHoverLinkSize);
+            } else {
+                this._showIndicator(cursorValue, cursorValue, '≈ ', halfHoverLinkSize);
+            }
+        }
+
+        // When realtime is set as false, handles, which are in barGroup,
+        // also trigger hoverLink, which help user to realize where they
+        // focus on when dragging. (see test/heatmap-large.html)
+        // When realtime is set as true, highlight will not show when hover
+        // handle, because the label on handle, which displays a exact value
+        // but not range, might mislead users.
+        var oldBatch = this._hoverLinkDataIndices;
+        var newBatch = [];
+        if (hoverOnBar || useHoverLinkOnHandle(visualMapModel)) {
+            newBatch = this._hoverLinkDataIndices = visualMapModel.findTargetDataIndices(valueRange);
+        }
+
+        var resultBatches = modelUtil.compressBatches(oldBatch, newBatch);
+        this._dispatchHighDown('downplay', helper.convertDataIndex(resultBatches[0]));
+        this._dispatchHighDown('highlight', helper.convertDataIndex(resultBatches[1]));
+    },
+
+    /**
+     * @private
+     */
+    _hoverLinkFromSeriesMouseOver: function _hoverLinkFromSeriesMouseOver(e) {
+        var el = e.target;
+
+        if (!el || el.dataIndex == null) {
+            return;
+        }
+
+        var dataModel = el.dataModel || this.ecModel.getSeriesByIndex(el.seriesIndex);
+        var data = dataModel.getData(el.dataType);
+        var dim = data.getDimension(this.visualMapModel.getDataDimension(data));
+        var value = data.get(dim, el.dataIndex, true);
+
+        if (!isNaN(value)) {
+            this._showIndicator(value, value);
+        }
+    },
+
+    /**
+     * @private
+     */
+    _hideIndicator: function _hideIndicator() {
+        var shapes = this._shapes;
+        shapes.indicator && shapes.indicator.attr('invisible', true);
+        shapes.indicatorLabel && shapes.indicatorLabel.attr('invisible', true);
+    },
+
+    /**
+     * @private
+     */
+    _clearHoverLinkToSeries: function _clearHoverLinkToSeries() {
+        this._hideIndicator();
+
+        var indices = this._hoverLinkDataIndices;
+
+        this._dispatchHighDown('downplay', helper.convertDataIndex(indices));
+
+        indices.length = 0;
+    },
+
+    /**
+     * @private
+     */
+    _clearHoverLinkFromSeries: function _clearHoverLinkFromSeries() {
+        this._hideIndicator();
+
+        var zr = this.api.getZr();
+        zr.off('mouseover', this._hoverLinkFromSeriesMouseOver);
+        zr.off('mouseout', this._hideIndicator);
+    },
+
+    /**
+     * @private
+     */
+    _applyTransform: function _applyTransform(vertex, element, inverse, global) {
+        var transform = graphic.getTransform(element, global ? null : this.group);
+
+        return graphic[zrUtil.isArray(vertex) ? 'applyTransform' : 'transformDirection'](vertex, transform, inverse);
+    },
+
+    /**
+     * @private
+     */
+    _dispatchHighDown: function _dispatchHighDown(type, batch) {
+        batch && batch.length && this.api.dispatchAction({
+            type: type,
+            batch: batch
+        });
+    },
+
+    /**
+     * @override
+     */
+    dispose: function dispose() {
+        this._clearHoverLinkFromSeries();
+        this._clearHoverLinkToSeries();
+    },
+
+    /**
+     * @override
+     */
+    remove: function remove() {
+        this._clearHoverLinkFromSeries();
+        this._clearHoverLinkToSeries();
+    }
+
+});
+
+function createPolygon(points, cursor, onDrift, onDragEnd) {
+    return new graphic.Polygon({
+        shape: { points: points },
+        draggable: !!onDrift,
+        cursor: cursor,
+        drift: onDrift,
+        ondragend: onDragEnd
+    });
+}
+
+function createHandlePoints(handleIndex, textSize) {
+    return handleIndex === 0 ? [[0, 0], [textSize, 0], [textSize, -textSize]] : [[0, 0], [textSize, 0], [textSize, textSize]];
+}
+
+function createIndicatorPoints(isRange, halfHoverLinkSize, pos, extentMax) {
+    return isRange ? [// indicate range
+    [0, -mathMin(halfHoverLinkSize, mathMax(pos, 0))], [HOVER_LINK_OUT, 0], [0, mathMin(halfHoverLinkSize, mathMax(extentMax - pos, 0))]] : [// indicate single value
+    [0, 0], [5, -5], [5, 5]];
+}
+
+function getHalfHoverLinkSize(visualMapModel, dataExtent, sizeExtent) {
+    var halfHoverLinkSize = HOVER_LINK_SIZE / 2;
+    var hoverLinkDataSize = visualMapModel.get('hoverLinkDataSize');
+    if (hoverLinkDataSize) {
+        halfHoverLinkSize = linearMap(hoverLinkDataSize, dataExtent, sizeExtent, true) / 2;
+    }
+    return halfHoverLinkSize;
+}
+
+function useHoverLinkOnHandle(visualMapModel) {
+    return !visualMapModel.get('realtime') && visualMapModel.get('hoverLinkOnHandle');
+}
+
+module.exports = ContinuousView;
+
+/***/ }),
+/* 592 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var VisualMapModel = __webpack_require__(565);
+var zrUtil = __webpack_require__(1);
+var VisualMapping = __webpack_require__(564);
+var visualDefault = __webpack_require__(574);
+var reformIntervals = __webpack_require__(12).reformIntervals;
+
+var PiecewiseModel = VisualMapModel.extend({
+
+    type: 'visualMap.piecewise',
+
+    /**
+     * Order Rule:
+     *
+     * option.categories / option.pieces / option.text / option.selected:
+     *     If !option.inverse,
+     *     Order when vertical: ['top', ..., 'bottom'].
+     *     Order when horizontal: ['left', ..., 'right'].
+     *     If option.inverse, the meaning of
+     *     the order should be reversed.
+     *
+     * this._pieceList:
+     *     The order is always [low, ..., high].
+     *
+     * Mapping from location to low-high:
+     *     If !option.inverse
+     *     When vertical, top is high.
+     *     When horizontal, right is high.
+     *     If option.inverse, reverse.
+     */
+
+    /**
+     * @protected
+     */
+    defaultOption: {
+        selected: null, // Object. If not specified, means selected.
+        // When pieces and splitNumber: {'0': true, '5': true}
+        // When categories: {'cate1': false, 'cate3': true}
+        // When selected === false, means all unselected.
+
+        minOpen: false, // Whether include values that smaller than `min`.
+        maxOpen: false, // Whether include values that bigger than `max`.
+
+        align: 'auto', // 'auto', 'left', 'right'
+        itemWidth: 20, // When put the controller vertically, it is the length of
+        // horizontal side of each item. Otherwise, vertical side.
+        itemHeight: 14, // When put the controller vertically, it is the length of
+        // vertical side of each item. Otherwise, horizontal side.
+        itemSymbol: 'roundRect',
+        pieceList: null, // Each item is Object, with some of those attrs:
+        // {min, max, lt, gt, lte, gte, value,
+        // color, colorSaturation, colorAlpha, opacity,
+        // symbol, symbolSize}, which customize the range or visual
+        // coding of the certain piece. Besides, see "Order Rule".
+        categories: null, // category names, like: ['some1', 'some2', 'some3'].
+        // Attr min/max are ignored when categories set. See "Order Rule"
+        splitNumber: 5, // If set to 5, auto split five pieces equally.
+        // If set to 0 and component type not set, component type will be
+        // determined as "continuous". (It is less reasonable but for ec2
+        // compatibility, see echarts/component/visualMap/typeDefaulter)
+        selectedMode: 'multiple', // Can be 'multiple' or 'single'.
+        itemGap: 10, // The gap between two items, in px.
+        hoverLink: true, // Enable hover highlight.
+
+        showLabel: null // By default, when text is used, label will hide (the logic
+        // is remained for compatibility reason)
+    },
+
+    /**
+     * @override
+     */
+    optionUpdated: function optionUpdated(newOption, isInit) {
+        PiecewiseModel.superApply(this, 'optionUpdated', arguments);
+
+        /**
+         * The order is always [low, ..., high].
+         * [{text: string, interval: Array.<number>}, ...]
+         * @private
+         * @type {Array.<Object>}
+         */
+        this._pieceList = [];
+
+        this.resetTargetSeries();
+        this.resetExtent();
+
+        /**
+         * 'pieces', 'categories', 'splitNumber'
+         * @type {string}
+         */
+        var mode = this._mode = this._determineMode();
+
+        resetMethods[this._mode].call(this);
+
+        this._resetSelected(newOption, isInit);
+
+        var categories = this.option.categories;
+
+        this.resetVisual(function (mappingOption, state) {
+            if (mode === 'categories') {
+                mappingOption.mappingMethod = 'category';
+                mappingOption.categories = zrUtil.clone(categories);
+            } else {
+                mappingOption.dataExtent = this.getExtent();
+                mappingOption.mappingMethod = 'piecewise';
+                mappingOption.pieceList = zrUtil.map(this._pieceList, function (piece) {
+                    var piece = zrUtil.clone(piece);
+                    if (state !== 'inRange') {
+                        // FIXME
+                        // outOfRange do not support special visual in pieces.
+                        piece.visual = null;
+                    }
+                    return piece;
+                });
+            }
+        });
+    },
+
+    /**
+     * @protected
+     * @override
+     */
+    completeVisualOption: function completeVisualOption() {
+        // Consider this case:
+        // visualMap: {
+        //      pieces: [{symbol: 'circle', lt: 0}, {symbol: 'rect', gte: 0}]
+        // }
+        // where no inRange/outOfRange set but only pieces. So we should make
+        // default inRange/outOfRange for this case, otherwise visuals that only
+        // appear in `pieces` will not be taken into account in visual encoding.
+
+        var option = this.option;
+        var visualTypesInPieces = {};
+        var visualTypes = VisualMapping.listVisualTypes();
+        var isCategory = this.isCategory();
+
+        zrUtil.each(option.pieces, function (piece) {
+            zrUtil.each(visualTypes, function (visualType) {
+                if (piece.hasOwnProperty(visualType)) {
+                    visualTypesInPieces[visualType] = 1;
+                }
+            });
+        });
+
+        zrUtil.each(visualTypesInPieces, function (v, visualType) {
+            var exists = 0;
+            zrUtil.each(this.stateList, function (state) {
+                exists |= has(option, state, visualType) || has(option.target, state, visualType);
+            }, this);
+
+            !exists && zrUtil.each(this.stateList, function (state) {
+                (option[state] || (option[state] = {}))[visualType] = visualDefault.get(visualType, state === 'inRange' ? 'active' : 'inactive', isCategory);
+            });
+        }, this);
+
+        function has(obj, state, visualType) {
+            return obj && obj[state] && (zrUtil.isObject(obj[state]) ? obj[state].hasOwnProperty(visualType) : obj[state] === visualType // e.g., inRange: 'symbol'
+            );
+        }
+
+        VisualMapModel.prototype.completeVisualOption.apply(this, arguments);
+    },
+
+    _resetSelected: function _resetSelected(newOption, isInit) {
+        var thisOption = this.option;
+        var pieceList = this._pieceList;
+
+        // Selected do not merge but all override.
+        var selected = (isInit ? thisOption : newOption).selected || {};
+        thisOption.selected = selected;
+
+        // Consider 'not specified' means true.
+        zrUtil.each(pieceList, function (piece, index) {
+            var key = this.getSelectedMapKey(piece);
+            if (!selected.hasOwnProperty(key)) {
+                selected[key] = true;
+            }
+        }, this);
+
+        if (thisOption.selectedMode === 'single') {
+            // Ensure there is only one selected.
+            var hasSel = false;
+
+            zrUtil.each(pieceList, function (piece, index) {
+                var key = this.getSelectedMapKey(piece);
+                if (selected[key]) {
+                    hasSel ? selected[key] = false : hasSel = true;
+                }
+            }, this);
+        }
+        // thisOption.selectedMode === 'multiple', default: all selected.
+    },
+
+    /**
+     * @public
+     */
+    getSelectedMapKey: function getSelectedMapKey(piece) {
+        return this._mode === 'categories' ? piece.value + '' : piece.index + '';
+    },
+
+    /**
+     * @public
+     */
+    getPieceList: function getPieceList() {
+        return this._pieceList;
+    },
+
+    /**
+     * @private
+     * @return {string}
+     */
+    _determineMode: function _determineMode() {
+        var option = this.option;
+
+        return option.pieces && option.pieces.length > 0 ? 'pieces' : this.option.categories ? 'categories' : 'splitNumber';
+    },
+
+    /**
+     * @public
+     * @override
+     */
+    setSelected: function setSelected(selected) {
+        this.option.selected = zrUtil.clone(selected);
+    },
+
+    /**
+     * @public
+     * @override
+     */
+    getValueState: function getValueState(value) {
+        var index = VisualMapping.findPieceIndex(value, this._pieceList);
+
+        return index != null ? this.option.selected[this.getSelectedMapKey(this._pieceList[index])] ? 'inRange' : 'outOfRange' : 'outOfRange';
+    },
+
+    /**
+     * @public
+     * @params {number} pieceIndex piece index in visualMapModel.getPieceList()
+     * @return {Array.<Object>} [{seriesId, dataIndices: <Array.<number>>}, ...]
+     */
+    findTargetDataIndices: function findTargetDataIndices(pieceIndex) {
+        var result = [];
+
+        this.eachTargetSeries(function (seriesModel) {
+            var dataIndices = [];
+            var data = seriesModel.getData();
+
+            data.each(this.getDataDimension(data), function (value, dataIndex) {
+                // Should always base on model pieceList, because it is order sensitive.
+                var pIdx = VisualMapping.findPieceIndex(value, this._pieceList);
+                pIdx === pieceIndex && dataIndices.push(dataIndex);
+            }, true, this);
+
+            result.push({ seriesId: seriesModel.id, dataIndex: dataIndices });
+        }, this);
+
+        return result;
+    },
+
+    /**
+     * @private
+     * @param {Object} piece piece.value or piece.interval is required.
+     * @return {number} Can be Infinity or -Infinity
+     */
+    getRepresentValue: function getRepresentValue(piece) {
+        var representValue;
+        if (this.isCategory()) {
+            representValue = piece.value;
+        } else {
+            if (piece.value != null) {
+                representValue = piece.value;
+            } else {
+                var pieceInterval = piece.interval || [];
+                representValue = pieceInterval[0] === -Infinity && pieceInterval[1] === Infinity ? 0 : (pieceInterval[0] + pieceInterval[1]) / 2;
+            }
+        }
+        return representValue;
+    },
+
+    getVisualMeta: function getVisualMeta(getColorVisual) {
+        // Do not support category. (category axis is ordinal, numerical)
+        if (this.isCategory()) {
+            return;
+        }
+
+        var stops = [];
+        var outerColors = [];
+        var visualMapModel = this;
+
+        function setStop(interval, valueState) {
+            var representValue = visualMapModel.getRepresentValue({ interval: interval });
+            if (!valueState) {
+                valueState = visualMapModel.getValueState(representValue);
+            }
+            var color = getColorVisual(representValue, valueState);
+            if (interval[0] === -Infinity) {
+                outerColors[0] = color;
+            } else if (interval[1] === Infinity) {
+                outerColors[1] = color;
+            } else {
+                stops.push({ value: interval[0], color: color }, { value: interval[1], color: color });
+            }
+        }
+
+        // Suplement
+        var pieceList = this._pieceList.slice();
+        if (!pieceList.length) {
+            pieceList.push({ interval: [-Infinity, Infinity] });
+        } else {
+            var edge = pieceList[0].interval[0];
+            edge !== -Infinity && pieceList.unshift({ interval: [-Infinity, edge] });
+            edge = pieceList[pieceList.length - 1].interval[1];
+            edge !== Infinity && pieceList.push({ interval: [edge, Infinity] });
+        }
+
+        var curr = -Infinity;
+        zrUtil.each(pieceList, function (piece) {
+            var interval = piece.interval;
+            if (interval) {
+                // Fulfill gap.
+                interval[0] > curr && setStop([curr, interval[0]], 'outOfRange');
+                setStop(interval.slice());
+                curr = interval[1];
+            }
+        }, this);
+
+        return { stops: stops, outerColors: outerColors };
+    }
+
+});
+
+/**
+ * Key is this._mode
+ * @type {Object}
+ * @this {module:echarts/component/viusalMap/PiecewiseMode}
+ */
+var resetMethods = {
+
+    splitNumber: function splitNumber() {
+        var thisOption = this.option;
+        var pieceList = this._pieceList;
+        var precision = thisOption.precision;
+        var dataExtent = this.getExtent();
+        var splitNumber = thisOption.splitNumber;
+        splitNumber = Math.max(parseInt(splitNumber, 10), 1);
+        thisOption.splitNumber = splitNumber;
+
+        var splitStep = (dataExtent[1] - dataExtent[0]) / splitNumber;
+        // Precision auto-adaption
+        while (+splitStep.toFixed(precision) !== splitStep && precision < 5) {
+            precision++;
+        }
+        thisOption.precision = precision;
+        splitStep = +splitStep.toFixed(precision);
+
+        var index = 0;
+
+        if (thisOption.minOpen) {
+            pieceList.push({
+                index: index++,
+                interval: [-Infinity, dataExtent[0]],
+                close: [0, 0]
+            });
+        }
+
+        for (var curr = dataExtent[0], len = index + splitNumber; index < len; curr += splitStep) {
+            var max = index === splitNumber - 1 ? dataExtent[1] : curr + splitStep;
+
+            pieceList.push({
+                index: index++,
+                interval: [curr, max],
+                close: [1, 1]
+            });
+        }
+
+        if (thisOption.maxOpen) {
+            pieceList.push({
+                index: index++,
+                interval: [dataExtent[1], Infinity],
+                close: [0, 0]
+            });
+        }
+
+        reformIntervals(pieceList);
+
+        zrUtil.each(pieceList, function (piece) {
+            piece.text = this.formatValueText(piece.interval);
+        }, this);
+    },
+
+    categories: function categories() {
+        var thisOption = this.option;
+        zrUtil.each(thisOption.categories, function (cate) {
+            // FIXME category模式也使用pieceList，但在visualMapping中不是使用pieceList。
+            // 是否改一致。
+            this._pieceList.push({
+                text: this.formatValueText(cate, true),
+                value: cate
+            });
+        }, this);
+
+        // See "Order Rule".
+        normalizeReverse(thisOption, this._pieceList);
+    },
+
+    pieces: function pieces() {
+        var thisOption = this.option;
+        var pieceList = this._pieceList;
+
+        zrUtil.each(thisOption.pieces, function (pieceListItem, index) {
+
+            if (!zrUtil.isObject(pieceListItem)) {
+                pieceListItem = { value: pieceListItem };
+            }
+
+            var item = { text: '', index: index };
+
+            if (pieceListItem.label != null) {
+                item.text = pieceListItem.label;
+            }
+
+            if (pieceListItem.hasOwnProperty('value')) {
+                var value = item.value = pieceListItem.value;
+                item.interval = [value, value];
+                item.close = [1, 1];
+            } else {
+                // `min` `max` is legacy option.
+                // `lt` `gt` `lte` `gte` is recommanded.
+                var interval = item.interval = [];
+                var close = item.close = [0, 0];
+
+                var closeList = [1, 0, 1];
+                var infinityList = [-Infinity, Infinity];
+
+                var useMinMax = [];
+                for (var lg = 0; lg < 2; lg++) {
+                    var names = [['gte', 'gt', 'min'], ['lte', 'lt', 'max']][lg];
+                    for (var i = 0; i < 3 && interval[lg] == null; i++) {
+                        interval[lg] = pieceListItem[names[i]];
+                        close[lg] = closeList[i];
+                        useMinMax[lg] = i === 2;
+                    }
+                    interval[lg] == null && (interval[lg] = infinityList[lg]);
+                }
+                useMinMax[0] && interval[1] === Infinity && (close[0] = 0);
+                useMinMax[1] && interval[0] === -Infinity && (close[1] = 0);
+
+                if (__DEV__) {
+                    if (interval[0] > interval[1]) {
+                        console.warn('Piece ' + index + 'is illegal: ' + interval + ' lower bound should not greater then uppper bound.');
+                    }
+                }
+
+                if (interval[0] === interval[1] && close[0] && close[1]) {
+                    // Consider: [{min: 5, max: 5, visual: {...}}, {min: 0, max: 5}],
+                    // we use value to lift the priority when min === max
+                    item.value = interval[0];
+                }
+            }
+
+            item.visual = VisualMapping.retrieveVisuals(pieceListItem);
+
+            pieceList.push(item);
+        }, this);
+
+        // See "Order Rule".
+        normalizeReverse(thisOption, pieceList);
+        // Only pieces
+        reformIntervals(pieceList);
+
+        zrUtil.each(pieceList, function (piece) {
+            var close = piece.close;
+            var edgeSymbols = [['<', '≤'][close[1]], ['>', '≥'][close[0]]];
+            piece.text = piece.text || this.formatValueText(piece.value != null ? piece.value : piece.interval, false, edgeSymbols);
+        }, this);
+    }
+};
+
+function normalizeReverse(thisOption, pieceList) {
+    var inverse = thisOption.inverse;
+    if (thisOption.orient === 'vertical' ? !inverse : inverse) {
+        pieceList.reverse();
+    }
+}
+
+module.exports = PiecewiseModel;
+
+/***/ }),
+/* 593 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var VisualMapView = __webpack_require__(566);
+var zrUtil = __webpack_require__(1);
+var graphic = __webpack_require__(9);
+var symbolCreators = __webpack_require__(170);
+var layout = __webpack_require__(48);
+var helper = __webpack_require__(567);
+
+var PiecewiseVisualMapView = VisualMapView.extend({
+
+    type: 'visualMap.piecewise',
+
+    /**
+     * @protected
+     * @override
+     */
+    doRender: function doRender() {
+        var thisGroup = this.group;
+
+        thisGroup.removeAll();
+
+        var visualMapModel = this.visualMapModel;
+        var textGap = visualMapModel.get('textGap');
+        var textStyleModel = visualMapModel.textStyleModel;
+        var textFont = textStyleModel.getFont();
+        var textFill = textStyleModel.getTextColor();
+        var itemAlign = this._getItemAlign();
+        var itemSize = visualMapModel.itemSize;
+        var viewData = this._getViewData();
+        var endsText = viewData.endsText;
+        var showLabel = zrUtil.retrieve(visualMapModel.get('showLabel', true), !endsText);
+
+        endsText && this._renderEndsText(thisGroup, endsText[0], itemSize, showLabel, itemAlign);
+
+        zrUtil.each(viewData.viewPieceList, renderItem, this);
+
+        endsText && this._renderEndsText(thisGroup, endsText[1], itemSize, showLabel, itemAlign);
+
+        layout.box(visualMapModel.get('orient'), thisGroup, visualMapModel.get('itemGap'));
+
+        this.renderBackground(thisGroup);
+
+        this.positionGroup(thisGroup);
+
+        function renderItem(item) {
+            var piece = item.piece;
+
+            var itemGroup = new graphic.Group();
+            itemGroup.onclick = zrUtil.bind(this._onItemClick, this, piece);
+
+            this._enableHoverLink(itemGroup, item.indexInModelPieceList);
+
+            var representValue = visualMapModel.getRepresentValue(piece);
+
+            this._createItemSymbol(itemGroup, representValue, [0, 0, itemSize[0], itemSize[1]]);
+
+            if (showLabel) {
+                var visualState = this.visualMapModel.getValueState(representValue);
+
+                itemGroup.add(new graphic.Text({
+                    style: {
+                        x: itemAlign === 'right' ? -textGap : itemSize[0] + textGap,
+                        y: itemSize[1] / 2,
+                        text: piece.text,
+                        textVerticalAlign: 'middle',
+                        textAlign: itemAlign,
+                        textFont: textFont,
+                        fill: textFill,
+                        opacity: visualState === 'outOfRange' ? 0.5 : 1
+                    }
+                }));
+            }
+
+            thisGroup.add(itemGroup);
+        }
+    },
+
+    /**
+     * @private
+     */
+    _enableHoverLink: function _enableHoverLink(itemGroup, pieceIndex) {
+        itemGroup.on('mouseover', zrUtil.bind(onHoverLink, this, 'highlight')).on('mouseout', zrUtil.bind(onHoverLink, this, 'downplay'));
+
+        function onHoverLink(method) {
+            var visualMapModel = this.visualMapModel;
+
+            visualMapModel.option.hoverLink && this.api.dispatchAction({
+                type: method,
+                batch: helper.convertDataIndex(visualMapModel.findTargetDataIndices(pieceIndex))
+            });
+        }
+    },
+
+    /**
+     * @private
+     */
+    _getItemAlign: function _getItemAlign() {
+        var visualMapModel = this.visualMapModel;
+        var modelOption = visualMapModel.option;
+
+        if (modelOption.orient === 'vertical') {
+            return helper.getItemAlign(visualMapModel, this.api, visualMapModel.itemSize);
+        } else {
+            // horizontal, most case left unless specifying right.
+            var align = modelOption.align;
+            if (!align || align === 'auto') {
+                align = 'left';
+            }
+            return align;
+        }
+    },
+
+    /**
+     * @private
+     */
+    _renderEndsText: function _renderEndsText(group, text, itemSize, showLabel, itemAlign) {
+        if (!text) {
+            return;
+        }
+
+        var itemGroup = new graphic.Group();
+        var textStyleModel = this.visualMapModel.textStyleModel;
+
+        itemGroup.add(new graphic.Text({
+            style: {
+                x: showLabel ? itemAlign === 'right' ? itemSize[0] : 0 : itemSize[0] / 2,
+                y: itemSize[1] / 2,
+                textVerticalAlign: 'middle',
+                textAlign: showLabel ? itemAlign : 'center',
+                text: text,
+                textFont: textStyleModel.getFont(),
+                fill: textStyleModel.getTextColor()
+            }
+        }));
+
+        group.add(itemGroup);
+    },
+
+    /**
+     * @private
+     * @return {Object} {peiceList, endsText} The order is the same as screen pixel order.
+     */
+    _getViewData: function _getViewData() {
+        var visualMapModel = this.visualMapModel;
+
+        var viewPieceList = zrUtil.map(visualMapModel.getPieceList(), function (piece, index) {
+            return { piece: piece, indexInModelPieceList: index };
+        });
+        var endsText = visualMapModel.get('text');
+
+        // Consider orient and inverse.
+        var orient = visualMapModel.get('orient');
+        var inverse = visualMapModel.get('inverse');
+
+        // Order of model pieceList is always [low, ..., high]
+        if (orient === 'horizontal' ? inverse : !inverse) {
+            viewPieceList.reverse();
+        }
+        // Origin order of endsText is [high, low]
+        else if (endsText) {
+                endsText = endsText.slice().reverse();
+            }
+
+        return { viewPieceList: viewPieceList, endsText: endsText };
+    },
+
+    /**
+     * @private
+     */
+    _createItemSymbol: function _createItemSymbol(group, representValue, shapeParam) {
+        group.add(symbolCreators.createSymbol(this.getControllerVisual(representValue, 'symbol'), shapeParam[0], shapeParam[1], shapeParam[2], shapeParam[3], this.getControllerVisual(representValue, 'color')));
+    },
+
+    /**
+     * @private
+     */
+    _onItemClick: function _onItemClick(piece) {
+        var visualMapModel = this.visualMapModel;
+        var option = visualMapModel.option;
+        var selected = zrUtil.clone(option.selected);
+        var newKey = visualMapModel.getSelectedMapKey(piece);
+
+        if (option.selectedMode === 'single') {
+            selected[newKey] = true;
+            zrUtil.each(selected, function (o, key) {
+                selected[key] = key === newKey;
+            });
+        } else {
+            selected[newKey] = !selected[newKey];
+        }
+
+        this.api.dispatchAction({
+            type: 'selectDataRange',
+            from: this.uid,
+            visualMapId: this.visualMapModel.id,
+            selected: selected
+        });
+    }
+});
+
+module.exports = PiecewiseVisualMapView;
+
+/***/ }),
+/* 594 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * Simple view coordinate system
+ * Mapping given x, y to transformd view x, y
+ */
+
+var vector = __webpack_require__(15);
+var matrix = __webpack_require__(66);
+
+var Transformable = __webpack_require__(532);
+var zrUtil = __webpack_require__(1);
+
+var BoundingRect = __webpack_require__(27);
+
+var v2ApplyTransform = vector.applyTransform;
+
+// Dummy transform node
+function TransformDummy() {
+    Transformable.call(this);
+}
+zrUtil.mixin(TransformDummy, Transformable);
+
+function View(name) {
+    /**
+     * @type {string}
+     */
+    this.name = name;
+
+    /**
+     * @type {Object}
+     */
+    this.zoomLimit;
+
+    Transformable.call(this);
+
+    this._roamTransform = new TransformDummy();
+
+    this._viewTransform = new TransformDummy();
+
+    this._center;
+    this._zoom;
+}
+
+View.prototype = {
+
+    constructor: View,
+
+    type: 'view',
+
+    /**
+     * @param {Array.<string>}
+     * @readOnly
+     */
+    dimensions: ['x', 'y'],
+
+    /**
+     * Set bounding rect
+     * @param {number} x
+     * @param {number} y
+     * @param {number} width
+     * @param {number} height
+     */
+
+    // PENDING to getRect
+    setBoundingRect: function setBoundingRect(x, y, width, height) {
+        this._rect = new BoundingRect(x, y, width, height);
+        return this._rect;
+    },
+
+    /**
+     * @return {module:zrender/core/BoundingRect}
+     */
+    // PENDING to getRect
+    getBoundingRect: function getBoundingRect() {
+        return this._rect;
+    },
+
+    /**
+     * @param {number} x
+     * @param {number} y
+     * @param {number} width
+     * @param {number} height
+     */
+    setViewRect: function setViewRect(x, y, width, height) {
+        this.transformTo(x, y, width, height);
+        this._viewRect = new BoundingRect(x, y, width, height);
+    },
+
+    /**
+     * Transformed to particular position and size
+     * @param {number} x
+     * @param {number} y
+     * @param {number} width
+     * @param {number} height
+     */
+    transformTo: function transformTo(x, y, width, height) {
+        var rect = this.getBoundingRect();
+        var viewTransform = this._viewTransform;
+
+        viewTransform.transform = rect.calculateTransform(new BoundingRect(x, y, width, height));
+
+        viewTransform.decomposeTransform();
+
+        this._updateTransform();
+    },
+
+    /**
+     * Set center of view
+     * @param {Array.<number>} [centerCoord]
+     */
+    setCenter: function setCenter(centerCoord) {
+        if (!centerCoord) {
+            return;
+        }
+        this._center = centerCoord;
+
+        this._updateCenterAndZoom();
+    },
+
+    /**
+     * @param {number} zoom
+     */
+    setZoom: function setZoom(zoom) {
+        zoom = zoom || 1;
+
+        var zoomLimit = this.zoomLimit;
+        if (zoomLimit) {
+            if (zoomLimit.max != null) {
+                zoom = Math.min(zoomLimit.max, zoom);
+            }
+            if (zoomLimit.min != null) {
+                zoom = Math.max(zoomLimit.min, zoom);
+            }
+        }
+        this._zoom = zoom;
+
+        this._updateCenterAndZoom();
+    },
+
+    /**
+     * Get default center without roam
+     */
+    getDefaultCenter: function getDefaultCenter() {
+        // Rect before any transform
+        var rawRect = this.getBoundingRect();
+        var cx = rawRect.x + rawRect.width / 2;
+        var cy = rawRect.y + rawRect.height / 2;
+
+        return [cx, cy];
+    },
+
+    getCenter: function getCenter() {
+        return this._center || this.getDefaultCenter();
+    },
+
+    getZoom: function getZoom() {
+        return this._zoom || 1;
+    },
+
+    /**
+     * @return {Array.<number}
+     */
+    getRoamTransform: function getRoamTransform() {
+        return this._roamTransform;
+    },
+
+    _updateCenterAndZoom: function _updateCenterAndZoom() {
+        // Must update after view transform updated
+        var viewTransformMatrix = this._viewTransform.getLocalTransform();
+        var roamTransform = this._roamTransform;
+        var defaultCenter = this.getDefaultCenter();
+        var center = this.getCenter();
+        var zoom = this.getZoom();
+
+        center = vector.applyTransform([], center, viewTransformMatrix);
+        defaultCenter = vector.applyTransform([], defaultCenter, viewTransformMatrix);
+
+        roamTransform.origin = center;
+        roamTransform.position = [defaultCenter[0] - center[0], defaultCenter[1] - center[1]];
+        roamTransform.scale = [zoom, zoom];
+
+        this._updateTransform();
+    },
+
+    /**
+     * Update transform from roam and mapLocation
+     * @private
+     */
+    _updateTransform: function _updateTransform() {
+        var roamTransform = this._roamTransform;
+        var viewTransform = this._viewTransform;
+
+        viewTransform.parent = roamTransform;
+        roamTransform.updateTransform();
+        viewTransform.updateTransform();
+
+        viewTransform.transform && matrix.copy(this.transform || (this.transform = []), viewTransform.transform);
+
+        if (this.transform) {
+            this.invTransform = this.invTransform || [];
+            matrix.invert(this.invTransform, this.transform);
+        } else {
+            this.invTransform = null;
+        }
+        this.decomposeTransform();
+    },
+
+    /**
+     * @return {module:zrender/core/BoundingRect}
+     */
+    getViewRect: function getViewRect() {
+        return this._viewRect;
+    },
+
+    /**
+     * Get view rect after roam transform
+     * @return {module:zrender/core/BoundingRect}
+     */
+    getViewRectAfterRoam: function getViewRectAfterRoam() {
+        var rect = this.getBoundingRect().clone();
+        rect.applyTransform(this.transform);
+        return rect;
+    },
+
+    /**
+     * Convert a single (lon, lat) data item to (x, y) point.
+     * @param {Array.<number>} data
+     * @return {Array.<number>}
+     */
+    dataToPoint: function dataToPoint(data) {
+        var transform = this.transform;
+        return transform ? v2ApplyTransform([], data, transform) : [data[0], data[1]];
+    },
+
+    /**
+     * Convert a (x, y) point to (lon, lat) data
+     * @param {Array.<number>} point
+     * @return {Array.<number>}
+     */
+    pointToData: function pointToData(point) {
+        var invTransform = this.invTransform;
+        return invTransform ? v2ApplyTransform([], point, invTransform) : [point[0], point[1]];
+    },
+
+    /**
+     * @implements
+     * see {module:echarts/CoodinateSystem}
+     */
+    convertToPixel: zrUtil.curry(doConvert, 'dataToPoint'),
+
+    /**
+     * @implements
+     * see {module:echarts/CoodinateSystem}
+     */
+    convertFromPixel: zrUtil.curry(doConvert, 'pointToData'),
+
+    /**
+     * @implements
+     * see {module:echarts/CoodinateSystem}
+     */
+    containPoint: function containPoint(point) {
+        return this.getViewRectAfterRoam().contain(point[0], point[1]);
+    }
+
+    /**
+     * @return {number}
+     */
+    // getScalarScale: function () {
+    //     // Use determinant square root of transform to mutiply scalar
+    //     var m = this.transform;
+    //     var det = Math.sqrt(Math.abs(m[0] * m[3] - m[2] * m[1]));
+    //     return det;
+    // }
+};
+
+zrUtil.mixin(View, Transformable);
+
+function doConvert(methodName, ecModel, finder, value) {
+    var seriesModel = finder.seriesModel;
+    var coordSys = seriesModel ? seriesModel.coordinateSystem : null; // e.g., graph.
+    return coordSys === this ? coordSys[methodName](value) : null;
+}
+
+module.exports = View;
+
+/***/ }),
+/* 595 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var parseGeoJson = __webpack_require__(599);
+
+var zrUtil = __webpack_require__(1);
+
+var BoundingRect = __webpack_require__(27);
+
+var View = __webpack_require__(594);
+
+// Geo fix functions
+var geoFixFuncs = [__webpack_require__(597), __webpack_require__(598), __webpack_require__(596)];
+
+/**
+ * [Geo description]
+ * @param {string} name Geo name
+ * @param {string} map Map type
+ * @param {Object} geoJson
+ * @param {Object} [specialAreas]
+ *        Specify the positioned areas by left, top, width, height
+ * @param {Object.<string, string>} [nameMap]
+ *        Specify name alias
+ */
+function Geo(name, map, geoJson, specialAreas, nameMap) {
+
+    View.call(this, name);
+
+    /**
+     * Map type
+     * @type {string}
+     */
+    this.map = map;
+
+    this._nameCoordMap = {};
+
+    this.loadGeoJson(geoJson, specialAreas, nameMap);
+}
+
+Geo.prototype = {
+
+    constructor: Geo,
+
+    type: 'geo',
+
+    /**
+     * @param {Array.<string>}
+     * @readOnly
+     */
+    dimensions: ['lng', 'lat'],
+
+    /**
+     * If contain given lng,lat coord
+     * @param {Array.<number>}
+     * @readOnly
+     */
+    containCoord: function containCoord(coord) {
+        var regions = this.regions;
+        for (var i = 0; i < regions.length; i++) {
+            if (regions[i].contain(coord)) {
+                return true;
+            }
+        }
+        return false;
+    },
+    /**
+     * @param {Object} geoJson
+     * @param {Object} [specialAreas]
+     *        Specify the positioned areas by left, top, width, height
+     * @param {Object.<string, string>} [nameMap]
+     *        Specify name alias
+     */
+    loadGeoJson: function loadGeoJson(geoJson, specialAreas, nameMap) {
+        // https://jsperf.com/try-catch-performance-overhead
+        try {
+            this.regions = geoJson ? parseGeoJson(geoJson) : [];
+        } catch (e) {
+            throw 'Invalid geoJson format\n' + e;
+        }
+        specialAreas = specialAreas || {};
+        nameMap = nameMap || {};
+        var regions = this.regions;
+        var regionsMap = {};
+        for (var i = 0; i < regions.length; i++) {
+            var regionName = regions[i].name;
+            // Try use the alias in nameMap
+            regionName = nameMap[regionName] || regionName;
+            regions[i].name = regionName;
+
+            regionsMap[regionName] = regions[i];
+            // Add geoJson
+            this.addGeoCoord(regionName, regions[i].center);
+
+            // Some area like Alaska in USA map needs to be tansformed
+            // to look better
+            var specialArea = specialAreas[regionName];
+            if (specialArea) {
+                regions[i].transformTo(specialArea.left, specialArea.top, specialArea.width, specialArea.height);
+            }
+        }
+
+        this._regionsMap = regionsMap;
+
+        this._rect = null;
+
+        zrUtil.each(geoFixFuncs, function (fixFunc) {
+            fixFunc(this);
+        }, this);
+    },
+
+    // Overwrite
+    transformTo: function transformTo(x, y, width, height) {
+        var rect = this.getBoundingRect();
+
+        rect = rect.clone();
+        // Longitute is inverted
+        rect.y = -rect.y - rect.height;
+
+        var viewTransform = this._viewTransform;
+
+        viewTransform.transform = rect.calculateTransform(new BoundingRect(x, y, width, height));
+
+        viewTransform.decomposeTransform();
+
+        var scale = viewTransform.scale;
+        scale[1] = -scale[1];
+
+        viewTransform.updateTransform();
+
+        this._updateTransform();
+    },
+
+    /**
+     * @param {string} name
+     * @return {module:echarts/coord/geo/Region}
+     */
+    getRegion: function getRegion(name) {
+        return this._regionsMap[name];
+    },
+
+    getRegionByCoord: function getRegionByCoord(coord) {
+        var regions = this.regions;
+        for (var i = 0; i < regions.length; i++) {
+            if (regions[i].contain(coord)) {
+                return regions[i];
+            }
+        }
+    },
+
+    /**
+     * Add geoCoord for indexing by name
+     * @param {string} name
+     * @param {Array.<number>} geoCoord
+     */
+    addGeoCoord: function addGeoCoord(name, geoCoord) {
+        this._nameCoordMap[name] = geoCoord;
+    },
+
+    /**
+     * Get geoCoord by name
+     * @param {string} name
+     * @return {Array.<number>}
+     */
+    getGeoCoord: function getGeoCoord(name) {
+        return this._nameCoordMap[name];
+    },
+
+    // Overwrite
+    getBoundingRect: function getBoundingRect() {
+        if (this._rect) {
+            return this._rect;
+        }
+        var rect;
+
+        var regions = this.regions;
+        for (var i = 0; i < regions.length; i++) {
+            var regionRect = regions[i].getBoundingRect();
+            rect = rect || regionRect.clone();
+            rect.union(regionRect);
+        }
+        // FIXME Always return new ?
+        return this._rect = rect || new BoundingRect(0, 0, 0, 0);
+    },
+
+    /**
+     * Convert series data to a list of points
+     * @param {module:echarts/data/List} data
+     * @param {boolean} stack
+     * @return {Array}
+     *  Return list of points. For example:
+     *  `[[10, 10], [20, 20], [30, 30]]`
+     */
+    dataToPoints: function dataToPoints(data) {
+        var item = [];
+        return data.mapArray(['lng', 'lat'], function (lon, lat) {
+            item[0] = lon;
+            item[1] = lat;
+            return this.dataToPoint(item);
+        }, this);
+    },
+
+    // Overwrite
+    /**
+     * @param {string|Array.<number>} data
+     * @return {Array.<number>}
+     */
+    dataToPoint: function dataToPoint(data) {
+        if (typeof data === 'string') {
+            // Map area name to geoCoord
+            data = this.getGeoCoord(data);
+        }
+        if (data) {
+            return View.prototype.dataToPoint.call(this, data);
+        }
+    },
+
+    /**
+     * @override
+     * @implements
+     * see {module:echarts/CoodinateSystem}
+     */
+    convertToPixel: zrUtil.curry(doConvert, 'dataToPoint'),
+
+    /**
+     * @override
+     * @implements
+     * see {module:echarts/CoodinateSystem}
+     */
+    convertFromPixel: zrUtil.curry(doConvert, 'pointToData')
+
+};
+
+zrUtil.mixin(Geo, View);
+
+function doConvert(methodName, ecModel, finder, value) {
+    var geoModel = finder.geoModel;
+    var seriesModel = finder.seriesModel;
+
+    var coordSys = geoModel ? geoModel.coordinateSystem : seriesModel ? seriesModel.coordinateSystem // For map.
+    || (seriesModel.getReferringComponents('geo')[0] || {}).coordinateSystem : null;
+
+    return coordSys === this ? coordSys[methodName](value) : null;
+}
+
+module.exports = Geo;
+
+/***/ }),
+/* 596 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+
+var geoCoordMap = {
+    'Russia': [100, 60],
+    'United States of America': [-99, 38]
+};
+
+module.exports = function (geo) {
+    zrUtil.each(geo.regions, function (region) {
+        var geoCoord = geoCoordMap[region.name];
+        if (geoCoord) {
+            var cp = region.center;
+            cp[0] = geoCoord[0];
+            cp[1] = geoCoord[1];
+        }
+    });
+};
+
+/***/ }),
+/* 597 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+// Fix for 南海诸岛
+
+
+var Region = __webpack_require__(572);
+
+var geoCoord = [126, 25];
+
+var points = [[[0, 3.5], [7, 11.2], [15, 11.9], [30, 7], [42, 0.7], [52, 0.7], [56, 7.7], [59, 0.7], [64, 0.7], [64, 0], [5, 0], [0, 3.5]], [[13, 16.1], [19, 14.7], [16, 21.7], [11, 23.1], [13, 16.1]], [[12, 32.2], [14, 38.5], [15, 38.5], [13, 32.2], [12, 32.2]], [[16, 47.6], [12, 53.2], [13, 53.2], [18, 47.6], [16, 47.6]], [[6, 64.4], [8, 70], [9, 70], [8, 64.4], [6, 64.4]], [[23, 82.6], [29, 79.8], [30, 79.8], [25, 82.6], [23, 82.6]], [[37, 70.7], [43, 62.3], [44, 62.3], [39, 70.7], [37, 70.7]], [[48, 51.1], [51, 45.5], [53, 45.5], [50, 51.1], [48, 51.1]], [[51, 35], [51, 28.7], [53, 28.7], [53, 35], [51, 35]], [[52, 22.4], [55, 17.5], [56, 17.5], [53, 22.4], [52, 22.4]], [[58, 12.6], [62, 7], [63, 7], [60, 12.6], [58, 12.6]], [[0, 3.5], [0, 93.1], [64, 93.1], [64, 0], [63, 0], [63, 92.4], [1, 92.4], [1, 3.5], [0, 3.5]]];
+for (var i = 0; i < points.length; i++) {
+    for (var k = 0; k < points[i].length; k++) {
+        points[i][k][0] /= 10.5;
+        points[i][k][1] /= -10.5 / 0.75;
+
+        points[i][k][0] += geoCoord[0];
+        points[i][k][1] += geoCoord[1];
+    }
+}
+module.exports = function (geo) {
+    if (geo.map === 'china') {
+        geo.regions.push(new Region('南海诸岛', points, geoCoord));
+    }
+};
+
+/***/ }),
+/* 598 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var zrUtil = __webpack_require__(1);
+
+var coordsOffsetMap = {
+    '南海诸岛': [32, 80],
+    // 全国
+    '广东': [0, -10],
+    '香港': [10, 5],
+    '澳门': [-10, 10],
+    //'北京': [-10, 0],
+    '天津': [5, 5]
+};
+
+module.exports = function (geo) {
+    zrUtil.each(geo.regions, function (region) {
+        var coordFix = coordsOffsetMap[region.name];
+        if (coordFix) {
+            var cp = region.center;
+            cp[0] += coordFix[0] / 10.5;
+            cp[1] += -coordFix[1] / (10.5 / 0.75);
+        }
+    });
+};
+
+/***/ }),
+/* 599 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * Parse and decode geo json
+ * @module echarts/coord/geo/parseGeoJson
+ */
+
+var zrUtil = __webpack_require__(1);
+
+var Region = __webpack_require__(572);
+
+function decode(json) {
+    if (!json.UTF8Encoding) {
+        return json;
+    }
+    var features = json.features;
+
+    for (var f = 0; f < features.length; f++) {
+        var feature = features[f];
+        var geometry = feature.geometry;
+        var coordinates = geometry.coordinates;
+        var encodeOffsets = geometry.encodeOffsets;
+
+        for (var c = 0; c < coordinates.length; c++) {
+            var coordinate = coordinates[c];
+
+            if (geometry.type === 'Polygon') {
+                coordinates[c] = decodePolygon(coordinate, encodeOffsets[c]);
+            } else if (geometry.type === 'MultiPolygon') {
+                for (var c2 = 0; c2 < coordinate.length; c2++) {
+                    var polygon = coordinate[c2];
+                    coordinate[c2] = decodePolygon(polygon, encodeOffsets[c][c2]);
+                }
+            }
+        }
+    }
+    // Has been decoded
+    json.UTF8Encoding = false;
+    return json;
+}
+
+function decodePolygon(coordinate, encodeOffsets) {
+    var result = [];
+    var prevX = encodeOffsets[0];
+    var prevY = encodeOffsets[1];
+
+    for (var i = 0; i < coordinate.length; i += 2) {
+        var x = coordinate.charCodeAt(i) - 64;
+        var y = coordinate.charCodeAt(i + 1) - 64;
+        // ZigZag decoding
+        x = x >> 1 ^ -(x & 1);
+        y = y >> 1 ^ -(y & 1);
+        // Delta deocding
+        x += prevX;
+        y += prevY;
+
+        prevX = x;
+        prevY = y;
+        // Dequantize
+        result.push([x / 1024, y / 1024]);
+    }
+
+    return result;
+}
+
+/**
+ * @inner
+ */
+function flattern2D(array) {
+    var ret = [];
+    for (var i = 0; i < array.length; i++) {
+        for (var k = 0; k < array[i].length; k++) {
+            ret.push(array[i][k]);
+        }
+    }
+    return ret;
+}
+
+/**
+ * @alias module:echarts/coord/geo/parseGeoJson
+ * @param {Object} geoJson
+ * @return {module:zrender/container/Group}
+ */
+module.exports = function (geoJson) {
+
+    decode(geoJson);
+
+    return zrUtil.map(zrUtil.filter(geoJson.features, function (featureObj) {
+        // Output of mapshaper may have geometry null
+        return featureObj.geometry && featureObj.properties;
+    }), function (featureObj) {
+        var properties = featureObj.properties;
+        var geometry = featureObj.geometry;
+
+        var coordinates = geometry.coordinates;
+
+        if (geometry.type === 'MultiPolygon') {
+            coordinates = flattern2D(coordinates);
+        }
+
+        return new Region(properties.name, coordinates, properties.cp);
+    });
+};
+
+/***/ }),
+/* 600 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var windingLine = __webpack_require__(508);
+
+var EPSILON = 1e-8;
+
+function isAroundEqual(a, b) {
+    return Math.abs(a - b) < EPSILON;
+}
+
+function contain(points, x, y) {
+    var w = 0;
+    var p = points[0];
+
+    if (!p) {
+        return false;
+    }
+
+    for (var i = 1; i < points.length; i++) {
+        var p2 = points[i];
+        w += windingLine(p[0], p[1], p2[0], p2[1], x, y);
+        p = p2;
+    }
+
+    // Close polygon
+    var p0 = points[0];
+    if (!isAroundEqual(p[0], p0[0]) || !isAroundEqual(p[1], p0[1])) {
+        w += windingLine(p[0], p[1], p0[0], p0[1], x, y);
+    }
+
+    return w !== 0;
+}
+
+module.exports = {
+    contain: contain
+};
+
+/***/ }),
+/* 601 */,
+/* 602 */,
+/* 603 */
+/***/ (function(module, exports) {
+
+module.exports = {
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"id": "710000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@°Ü¯Û",
+						"@@ƛĴÕƊÉɼģºðʀ\\ƎsÆNŌÔĚänÜƤɊĂǀĆĴĤǊŨxĚĮǂƺòƌâÔ®ĮXŦţƸZûÐƕƑGđ¨ĭMó·ęcëƝɉlÝƯֹÅŃ^Ó·śŃǋƏďíåɛGɉ¿IċããF¥ĘWǬÏĶñÄ",
+						"@@\\p|WoYG¿¥Ij@",
+						"@@¡@V^RqBbAnTXeQr©C",
+						"@@ÆEEkWqë I"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							122886,
+							24033
+						],
+						[
+							123335,
+							22980
+						],
+						[
+							122375,
+							24193
+						],
+						[
+							122518,
+							24117
+						],
+						[
+							124427,
+							22618
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					121.509062,
+					25.044332
+				],
+				"name": "台湾",
+				"childNum": 5
+			}
+		},
+		{
+			"id": "130000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@\\aM`Ç½ÓnUKĜēs¤­©yrý§uģcJ»eIP]ªrºc_ħ²G¼s`jÎŸnüsÂľP",
+						"@@U`Ts¿mÄ",
+						"@@FOhđ©OiÃ`ww^ÌkÑH«ƇǤŗĺtFu{Z}Ö@U´ʚLg®¯Oı°Ãw ^VbÉsmAê]]w§RRl£ŭuwNÁ`ÇFēÝčȻuT¡Ĺ¯Õ¯sŗő£YªhVƍ£ƅnëYNgq¼ś¿µı²UºÝUąąŖóxV@tƯJ]eR¾fe|rHA|h~Ėƍl§ÏjVë` ØoÅbbx³^zÃĶ¶Sj®AyÂhðk`«PËµEFÛ¬Y¨Ļrõqi¼Wi°§Ð±²°`[À|ĠO@ÆxO\\ta\\p_Zõ^û{ġȧXýĪÓjùÎRb^Î»j{íděYfíÙTymńŵōHim½éŅ­aVcř§ax¹XŻácWU£ôãºQ¨÷Ñws¥qEHÙ|šYQoŕÇyáĂ£MÃ°oťÊP¡mWO¡v{ôvîēÜISpÌhp¨ jdeŔQÖjX³àĈ[n`Yp@UcM`RKhEbpŞlNut®EtqnsÁgAiúoHqCXhfgu~ÏWP½¢G^}¯ÅīGCÑ^ãziMáļMTÃƘrMc|O_¯Ŏ´|morDkO\\mĆJfl@cĢ¬¢aĦtRıÒXòë¬WP{ŵǫƝīÛ÷ąV×qƥV¿aȉd³BqPBmaËđŻģmÅ®V¹d^KKonYg¯XhqaLdu¥Ípǅ¡KąÅkĝęěhq}HyÃ]¹ǧ£Í÷¿qágPmoei¤o^á¾ZEY^Ný{nOl±Í@Mċèk§daNaÇį¿]øRiiñEūiǱàUtėGyl}ÓM}jpEC~¡FtoQiHkk{ILgĽxqÈƋÄdeVDJj£J|ÅdzÂFt~KŨ¸IÆv|¢r}èonb}`RÎÄn°ÒdÞ²^®lnÐèĄlðÓ×]ªÆ}LiĂ±Ö`^°Ç¶p®đDcŋ`ZÔ¶êqvFÆN®ĆTH®¦O¾IbÐã´BĐɢŴÆíȦpĐÞXR·nndO¤OÀĈƒ­QgµFo|gȒęSWb©osx|hYhgŃfmÖĩnºTÌSp¢dYĤ¶UĈjlǐpäðëx³kÛfw²Xjz~ÂqbTÑěŨ@|oMzv¢ZrÃVw¬ŧĖ¸f°ÐTªqs{S¯r æÝl¼ÖĞ ǆiGĘJ¼lr}~K¨ŸƐÌWö¼Þ°nÞoĦL|C~D©|q]SvKÑcwpÏÏĿćènĪWlĄkT}¬Tp~®Hgd˒ĺBVtEÀ¢ôPĎƗè@~kü\\rÊĔÖæW_§¼F´©òDòjYÈrbĞāøŀG{ƀ|¦ðrb|ÀH`pʞkvGpuARhÞÆǶgĘTǼƹS£¨¡ù³ŘÍ]¿ÂyôEP xX¶¹ÜO¡gÚ¡IwÃé¦ÅBÏ|Ç°N«úmH¯âbęU~xĈbȒ{^xÖlD¸dɂ~"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							120023,
+							41045
+						],
+						[
+							121616,
+							39981
+						],
+						[
+							122102,
+							42307
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					114.502461,
+					38.045474
+				],
+				"name": "河北",
+				"childNum": 3
+			}
+		},
+		{
+			"id": "140000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@ħÜ_ªlìwGkÛÃǏokćiµVZģ¡coTSË¹ĪmnÕńehZg{gtwªpXaĚThȑp{¶Eh®RćƑP¿£PmcªaJyý{ýȥoÅîɡųAďä³aÏJ½¥PG­ąSM­sWz½µÛYÓŖgxoOkĒCo­Èµ]¯_²ÕjāK~©ÅØ^ÔkïçămÏk]­±cÝ¯ÑÃmQÍ~_apm~ç¡qu{JÅŧ·Ls}EyÁÆcI{¤IiCfUcƌÃp§]ě«vD@¡SÀµMÅwuYY¡DbÑc¡h×]nkoQdaMç~eDÛtT©±@¥ù@É¡ZcW|WqOJmĩl«ħşvOÓ«IqăV¥D[mI~Ó¢cehiÍ]Ɠ~ĥqX·eƷn±}v[ěďŕ]_œ`¹§ÕōIo©b­s^}Ét±ū«³p£ÿ¥WÑxçÁ«h×u×¥ř¾dÒ{ºvĴÎêÌɊ²¶ü¨|ÞƸµȲLLúÉƎ¤ϊęĔV`_bªS^|dzY|dz¥pZbÆ£¶ÒK}tĦÔņƠPYznÍvX¶Ěn ĠÔzý¦ª÷ÑĸÙUȌ¸dòÜJð´ìúNM¬XZ´¤ŊǸ_tldI{¦ƀðĠȤ¥NehXnYGR° ƬDj¬¸|CĞKqºfƐiĺ©ª~ĆOQª ¤@ìǦɌ²æBÊTĞHƘÁĪËĖĴŞȀÆÿȄlŤĒötÎ½î¼ĨXh|ªM¤ÐzÞĩÒSrao³"
+				],
+				"encodeOffsets": [
+					[
+						117016,
+						41452
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					112.549248,
+					37.857014
+				],
+				"name": "山西",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "150000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@ǪƫÌÛMĂ[`ÕCn}¶Vcês¯PqFB|S³C|kñHdiÄ¥sŉÅPóÑÑE^ÅPpy_YtShQ·aHwsOnŉÃs©iqjUSiº]ïW«gW¡ARëśĳĘů`çõh]y»ǃǛҤxÒm~zf}pf|ÜroÈzrKÈĵSƧż؜Ġu~è¬vîS¼ĂhĖMÈÄw\\fŦ°W ¢¾luŸDw\\Ŗĝ",
+						"@@GVu»Aylßí¹ãe]Eāò³C¹ð¾²iÒAdkò^P²CǜңǄ z¼g^èöŰ_Ĳĕê}gÁnUI«m]jvV¼euhwqAaW_µj»çjioQR¹ēÃßt@r³[ÛlćË^ÍÉáGOUÛOB±XkÅ¹£k|e]olkVÍ¼ÕqtaÏõjgÁ£§U^RLËnX°ÇBz^~wfvypV ¯ƫĉ˭ȫƗŷɿÿĿƑ˃ĝÿÃǃßËőó©ǐȍŒĖM×ÍEyxþp]ÉvïèvƀnÂĴÖ@V~Ĉ³MEĸÅĖtējyÄDXÄxGQuv_i¦aBçw˛wD©{tāmQ{EJ§KPśƘƿ¥@sCTÉ}ɃwƇy±gÑ}T[÷kÐç¦«SÒ¥¸ëBX½HáÅµÀğtSÝÂa[ƣ°¯¦Pï¡]£ġÒk®G²èQ°óMq}EóƐÇ\\@áügQÍu¥FTÕ¿Jû]|mvāÎYua^WoÀa·­ząÒot×¶CLƗi¯¤mƎHǊ¤îìɾŊìTdåwsRÖgĒųúÍġäÕ}Q¶¿A[¡{d×uQAMxVvMOmăl«ct[wº_ÇÊjbÂ£ĦS_éQZ_lwgOiýe`YYJq¥IÁǳ£ÙË[ÕªuƏ³ÍTs·bÁĽäė[b[ŗfãcn¥îC¿÷µ[ŏÀQ­ōĉm¿Á^£mJVmL[{Ï_£F¥Ö{ŹA}×Wu©ÅaųĳƳhB{·TQqÙIķËZđ©Yc|M¡LeVUóK_QWk_ĥ¿ãZ»X\\ĴuUèlG®ěłTĠğDŃGÆÍz]±ŭ©Å]ÅÐ}UË¥©TċïxgckfWgi\\ÏĒ¥HkµEë{»ÏetcG±ahUiñiWsɁ·cCÕk]wȑ|ća}wVaĚá G°ùnM¬¯{ÈÐÆA¥ÄêJxÙ¢hP¢ÛºµwWOóFÁz^ÀŗÎú´§¢T¤ǻƺSėǵhÝÅQgvBHouʝl_o¿Ga{ïq{¥|ſĿHĂ÷aĝÇqZñiñC³ª»E`¨åXēÕqÉû[l}ç@čƘóO¿¡FUsAʽīccocÇS}£IS~ălkĩXçmĈŀÐoÐdxÒuL^T{r@¢ÍĝKén£kQyÅõËXŷƏL§~}kq»IHėǅjĝ»ÑÞoå°qTt|r©ÏS¯·eŨĕx«È[eM¿yupN~¹ÏyN£{©għWí»Í¾səšǅ_ÃĀɗ±ąĳĉʍŌŷSÉA±åǥɋ@ë£R©ąP©}ĹªƏj¹erLDĝ·{i«ƫC½ÉshVzGS|úþXgp{ÁX¿ć{ƱȏñZáĔyoÁhA}ŅĆfdŉ_¹Y°ėǩÑ¡H¯¶oMQqð¡Ë|Ñ`ƭŁX½·óÛxğįÅcQs«tȋǅFù^it«Č¯[hAi©á¥ÇĚ×l|¹y¯Kȝqgů{ñǙµïċĹzŚȭ¶¡oŽäÕG\\ÄT¿Òõr¯LguÏYęRƩɷŌO\\İÐ¢æ^Ŋ ĲȶȆbÜGĝ¬¿ĚVĎgª^íu½jÿĕęjık@Ľ]ėl¥ËĭûÁėéV©±ćn©­ȇÍq¯½YÃÔŉÉNÑÅÝy¹NqáʅDǡËñ­ƁYÅy̱os§ȋµʽǘǏƬɱàưN¢ƔÊuľýľώȪƺɂļxZĈ}ÌŉŪĺœĭFЛĽ̅ȣͽÒŵìƩÇϋÿȮǡŏçƑůĕ~Ç¼ȳÐUfdIxÿ\\G zâɏÙOº·pqy£@qþ@Ǟ˽IBäƣzsÂZÁàĻdñ°ŕzéØűzșCìDȐĴĺf®Àľưø@ɜÖÞKĊŇƄ§͑těï͡VAġÑÑ»d³öǍÝXĉĕÖ{þĉu¸ËʅğU̎éhɹƆ̗̮ȘǊ֥ड़ࡰţાíϲäʮW¬®ҌeרūȠkɬɻ̼ãüfƠSצɩςåȈHϚÎKǳͲOðÏȆƘ¼CϚǚ࢚˼ФÔ¤ƌĞ̪Qʤ´¼mȠJˀƲÀɠmɆǄĜƠ´ǠN~ʢĜ¶ƌĆĘźʆȬ˪ĚĒ¸ĞGȖƴƀj`ĢçĶāàŃºēĢĖćYÀŎüôQÐÂŎŞǆŞêƖoˆDĤÕºÑǘÛˤ³̀gńƘĔÀ^ªƂ`ªt¾äƚêĦĀ¼ÐĔǎ¨Ȕ»͠^ˮÊȦƤøxRrŜH¤¸ÂxDÄ|ø˂˜ƮÐ¬ɚwɲFjĔ²Äw°ǆdÀÉ_ĸdîàŎjÊêTĞªŌŜWÈ|tqĢUB~´°ÎFCU¼pĀēƄN¦¾O¶łKĊOjĚj´ĜYp{¦SĚÍ\\T×ªV÷Ší¨ÅDK°ßtŇĔK¨ǵÂcḷ̌ĚǣȄĽFlġUĵŇȣFʉɁMğįʏƶɷØŭOǽ«ƽū¹Ʊő̝Ȩ§ȞʘĖiɜɶʦ}¨֪ࠜ̀ƇǬ¹ǨE˦ĥªÔêFxúQEr´Wrh¤Ɛ \\talĈDJÜ|[Pll̚¸ƎGú´P¬W¦^¦H]prRn|or¾wLVnÇIujkmon£cX^Bh`¥V¦U¤¸}xRj[^xN[~ªxQ[`ªHÆÂExx^wN¶Ê|¨ìMrdYpoRzNyÀDs~bcfÌ`L¾n|¾T°c¨È¢ar¤`[|òDŞĔöxElÖdHÀI`Ď\\Àì~ÆR¼tf¦^¢ķ¶eÐÚMptgjɡČÅyġLûŇV®ÄÈƀĎ°P|ªVVªj¬ĚÒêp¬E|ŬÂ_~¼rƐK f{ĘFĒƌXưăkÃĄ}nµo×q£ç­kX{uĩ«āíÓUŅÝVUŌ]Ť¥lyň[oi{¦LĸĦ^ôâJ¨^UZðÚĒL¿Ìf£K£ʺoqNwğc`uetOj×°KJ±qÆġmĚŗos¬qehqsuH{¸kH¡ÊRǪÇƌbȆ¢´äÜ¢NìÉʖ¦â©Ɨؗ"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							128500,
+							52752
+						],
+						[
+							127089,
+							51784
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					111.670801,
+					40.818311
+				],
+				"name": "内蒙古",
+				"childNum": 2
+			}
+		},
+		{
+			"id": "210000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@L@@s]",
+						"@@MnNm",
+						"@@dc",
+						"@@eÀC@b",
+						"@@fXwkbrÄ`qg",
+						"@@^jtWQ",
+						"@@~ Y[c",
+						"@@I`ĖN^_¿ZÁM",
+						"@@Ïxǌ{q_×^Gigp",
+						"@@iX¶BY",
+						"@@YZ",
+						"@@L_yG`b",
+						"@@^WqCTZ",
+						"@@\\[§t|]",
+						"@@m`p[",
+						"@@@é^BntaÊU]x ¯ÄPĲ­°hʙK³VÕ@Y~|EvĹsÇ¦­L^pÃ²ŸÒG Ël]xxÄ_fT¤Ď¤cPC¨¸TVjbgH²sdÎdHt`B²¬GJję¶[ÐhjeXdlwhðSČ¦ªVÊÏÆZÆŶ®²^ÎyÅHńĚDMħĜŁH­kçvV[ĳ¼WYÀäĦ`XlR`ôLUVfK¢{NZdĒªYĸÌÚJRr¸SA|ƴgŴĴÆbvªØX~źB|¦ÕE¤Ð`\\|KUnnI]¤ÀÂĊnŎR®Ő¿¶\\ÀøíDm¦ÎbŨabaĘ\\ľãÂ¸atÎSƐ´©v\\ÖÚÌǴ¤Â¨JKrZ_ZfjþhPkx`YRIjJcVf~sCN¤ EhæmsHy¨SðÑÌ\\\\ĐRÊwS¥fqŒßýáĞÙÉÖ[^¯ǤŲê´\\¦¬ĆPM¯£»uïpùzExanµyoluqe¦W^£ÊL}ñrkqWňûPUP¡ôJoo·U}£[·¨@XĸDXm­ÛÝºGUCÁª½{íĂ^cjk¶Ã[q¤LÉö³cux«|Zd²BWÇ®Yß½ve±ÃCý£W{Ú^q^sÑ·¨ËMr¹·C¥GDrí@wÕKţÃ«V·i}xËÍ÷i©ĝɝǡ]{c±OW³Ya±_ç©HĕoƫŇqr³Lys[ñ³¯OSďOMisZ±ÅFC¥Pq{Ã[Pg}\\¿ghćOk^ĩÃXaĕËĥM­oEqqZûěŉ³F¦oĵhÕP{¯~TÍlªNßYÐ{Ps{ÃVUeĎwk±ŉVÓ½ŽJãÇÇ»Jm°dhcÀffdF~ĀeĖd`sx² ®EĦ¦dQÂd^~ăÔH¦\\LKpĄVez¤NP ǹÓRÆąJSh­a[¦´ÂghwmBÐ¨źhI|VV|p] Â¼èNä¶ÜBÖ¼L`¼bØæKVpoúNZÞÒKxpw|ÊEMnzEQIZZNBčÚFÜçmĩWĪñtÞĵÇñZ«uD±|ƏlǗw·±PmÍada CLǑkùó¡³Ï«QaċÏOÃ¥ÕđQȥċƭy³ÁA"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							123686,
+							41445
+						],
+						[
+							126019,
+							40435
+						],
+						[
+							124393,
+							40128
+						],
+						[
+							126117,
+							39963
+						],
+						[
+							125322,
+							40140
+						],
+						[
+							126686,
+							40700
+						],
+						[
+							126041,
+							40374
+						],
+						[
+							125584,
+							40168
+						],
+						[
+							125509,
+							40217
+						],
+						[
+							125453,
+							40165
+						],
+						[
+							125362,
+							40214
+						],
+						[
+							125280,
+							40291
+						],
+						[
+							125774,
+							39997
+						],
+						[
+							125976,
+							40496
+						],
+						[
+							125822,
+							39993
+						],
+						[
+							122731,
+							40949
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					123.429096,
+					41.796767
+				],
+				"name": "辽宁",
+				"childNum": 16
+			}
+		},
+		{
+			"id": "220000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@ñr½ÉKāGÁ¤ia ÉÈ¹`\\xs¬dĆkNnuNUwNx¶c¸|\\¢GªóĄ~RãÖÎĢùđŴÕhQxtcæëSɽŉíëǉ£ƍG£nj°KƘµDsØÑpyĆ¸®¿bXp]vbÍZuĂ{n^IüÀSÖ¦EvRÎûh@â[ƏÈô~FNr¯ôçR±­HÑlĢ^¤¢OðætxsŒ]ÞÁTĠs¶¿âÆGW¾ìA¦·TÑ¬è¥ÏÐJ¨¼ÒÖ¼ƦɄxÊ~StD@Ă¼Ŵ¡jlºWvÐzƦZÐ²CH AxiukdGgetqmcÛ£Ozy¥cE}|¾cZk¿uŐã[oxGikfeäT@SUwpiÚFM©£è^Ú`@v¶eňf heP¶täOlÃUgÞzŸU`l}ÔÆUvØ_Ō¬Öi^ĉi§²ÃB~¡ĈÚEgc|DC_Ȧm²rBx¼MÔ¦ŮdĨÃâYxƘDVÇĺĿg¿cwÅ\\¹¥Yĭl¤OvLjM_a W`zļMž·\\swqÝSAqŚĳ¯°kRē°wx^ĐkǂÒ\\]nrĂ}²ĊŲÒøãh·M{yMzysěnĒġV·°G³¼XÀ¤¹i´o¤ŃÈ`ÌǲÄUĞd\\iÖmÈBĤÜɲDEh LG¾ƀÄ¾{WaYÍÈĢĘÔRîĐj}ÇccjoUb½{h§Ǿ{KƖµÎ÷GĄØŜçưÌs«lyiē«`å§H¥Ae^§GK}iã\\c]v©ģZmÃ|[M}ģTɟĵÂÂ`ÀçmFK¥ÚíÁbX³ÌQÒHof{]ept·GŋĜYünĎųVY^ydõkÅZW«WUa~U·SbwGçǑiW^qFuNĝ·EwUtW·Ýďæ©PuqEzwAVXRãQ`­©GYYhcUGorBd}ģÉb¡·µMicF«Yƅ»é\\ɹ~ǙG³mØ©BšuT§Ĥ½¢Ã_Ã½L¡ûsT\\rke\\PnwAKy}ywdSefµ]UhĿD@mÿvaÙNSkCuncÿ`lWėVâ¦÷~^fÏ~vwHCį`xqT­­lW«ï¸skmßEGqd¯R©Ý¯¯S\\cZ¹iűƏCuƍÓXoR}M^o£R}oªU­FuuXHlEÅÏ©¤ßgXþ¤D²ÄufàÀ­XXÈ±Ac{Yw¬dvõ´KÊ£\\rµÄlidā]|î©¾DÂVH¹Þ®ÜWnCķ W§@\\¸~¤Vp¸póIO¢VOŇürXql~òÉK]¤¥Xrfkvzpm¶bwyFoúvð¼¤ N°ąO¥«³[éǣű]°Õ\\ÚÊĝôîŇÔaâBYlďQ[ Ë[ïÒ¥RI|`j]P"
+				],
+				"encodeOffsets": [
+					[
+						126831,
+						44503
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					125.3245,
+					43.886841
+				],
+				"name": "吉林",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "230000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@UµNÿ¥īèçHÍøƕ¶Lǽ|g¨|a¾pVidd~ÈiíďÓQġėÇZÎXb½|ſÃH½KFgɱCģÛÇAnjÕc[VĝǱÃËÇ_ £ń³pj£º¿»WH´¯U¸đĢmtĜyzzNN|g¸÷äűÑ±ĉā~mq^[ǁÑďlw]¯xQĔ¯l°řĴrBÞTxr[tŽ¸ĻN_yX`biNKuP£kZĮ¦[ºxÆÀdhĹŀUÈƗCwáZħÄŭcÓ¥»NAw±qȥnD`{ChdÙFć}¢A±Äj¨]ĊÕjŋ«×`VuÓÅ~_kŷVÝyhVkÄãPsOµfgeŇµf@u_Ù ÙcªNªÙEojVxT@ãSefjlwH\\pŏäÀvlY½d{F~¦dyz¤PÜndsrhfHcvlwjF£G±DÏƥYyÏu¹XikĿ¦ÏqƗǀOŜ¨LI|FRĂn sª|C˜zxAè¥bfudTrFWÁ¹Am|ĔĕsķÆF´N}ćUÕ@Áĳſmuçuð^ÊýowFzØÎĕNőǏȎôªÌŒǄàĀÄ˄ĞŀƒʀĀƘŸˮȬƬĊ°Uzouxe]}AyÈW¯ÌmKQ]Īºif¸ÄX|sZt|½ÚUÎ lk^p{f¤lºlÆW A²PVÜPHÊâ]ÎĈÌÜk´\\@qàsĔÄQºpRij¼èi`¶bXrBgxfv»uUi^v~J¬mVp´£´VWrnP½ì¢BX¬hðX¹^TjVriªjtŊÄmtPGx¸bgRsT`ZozÆO]ÒFôÒOÆŊvÅpcGêsx´DR{AEOr°x|íb³Wm~DVjºéNNËÜ˛ɶ­GxŷCSt}]ûōSmtuÇÃĕNāg»íT«u}ç½BĵÞʣ¥ëÊ¡MÛ³ãȅ¡ƋaǩÈÉQG¢·lG|tvgrrf«ptęŘnÅĢrI²¯LiØsPf_vĠdxM prʹL¤¤eËÀđKïÙVY§]Ióáĥ]ķK¥j|pŇ\\kzţ¦šnņäÔVĂîĪ¬|vW®l¤èØrxm¶ă~lÄƯĄ̈́öȄEÔ¤ØQĄĄ»ƢjȦOǺ¨ìSŖÆƬyQv`cwZSÌ®ü±Ǆ]ŀç¬B¬©ńzƺŷɄeeOĨSfm ĊƀP̎ēz©ĊÄÕÊmgÇsJ¥ƔŊśæÎÑqv¿íUOµªÂnĦÁ_½ä@êí£P}Ġ[@gġ}gɊ×ûÏWXá¢užƻÌsNÍ½ƎÁ§čŐAēeL³àydl¦ĘVçŁpśǆĽĺſÊQíÜçÛġÔsĕ¬Ǹ¯YßċġHµ ¡eå`ļrĉŘóƢFìĎWøxÊkƈdƬv|I|·©NqńRŀ¤éeŊŀàŀU²ŕƀBQ£Ď}L¹Îk@©ĈuǰųǨÚ§ƈnTËÇéƟÊcfčŤ^XmHĊĕË«W·ċëx³ǔķÐċJāwİ_ĸȀ^ôWr­°oú¬ĦŨK~ȰCĐ´Ƕ£fNÎèâw¢XnŮeÂÆĶ¾¾xäLĴĘlļO¤ÒĨA¢Êɚ¨®ØCÔ ŬGƠƦYĜĘÜƬDJg_ͥœ@čŅĻA¶¯@wÎqC½Ĉ»NăëKďÍQÙƫ[«ÃígßÔÇOÝáWñuZ¯ĥŕā¡ÑķJu¤E å¯°WKÉ±_d_}}vyõu¬ï¹ÓU±½@gÏ¿rÃ½DgCdµ°MFYxw¿CG£Rƛ½Õ{]L§{qqą¿BÇƻğëܭǊË|c²}Fµ}ÙRsÓpg±QNqǫŋRwŕnéÑÉK«SeYRŋ@{¤SJ}D Ûǖ֍]gr¡µŷjqWÛham³~S«Ü[",
+						"@@ƨĶTLÇyqpÇÛqe{~oyen}s`qiXGù]Ëp½©lÉÁp]Þñ´FĂ^fäîºkàz¼BUv¬D"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							134456,
+							44547
+						],
+						[
+							127123,
+							51780
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					126.642464,
+					45.756967
+				],
+				"name": "黑龙江",
+				"childNum": 2
+			}
+		},
+		{
+			"id": "320000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@Õg^vÁbnÀ`Jnĝ¬òM¶ĘTÖŒbe¦¦{¸ZâćNp©Hp|`mjhSEb\\afv`sz^lkljÄtg¤D­¾X¿À|ĐiZȀåB·î}GL¢õcßjayBFµÏC^ĭcÙt¿sğH]j{s©HM¢QnDÀ©DaÜÞ·jgàiDbPufjDk`dPOîhw¡ĥ¥GP²ĐobºrYî¶aHŢ´ ]´rılw³r_{£DB_Ûdåuk|Ũ¯F Cºyr{XFye³Þċ¿ÂkĭB¿MvÛpm`rÚã@Ę¹hågËÖƿxnlč¶Åì½Ot¾dJlVJĂǀŞqvnO^JZż·Q}êÍÅmµÒ]ƍ¦Dq}¬R^èĂ´ŀĻĊIÔtĲyQŐĠMNtR®òLhĚs©»}OÓGZz¶A\\jĨFäOĤHYJvÞHNiÜaĎÉnFQlNM¤B´ĄNöɂtpŬdZÅglmuÇUšŞÚb¤uŃJŴu»¹ĄlȖħŴw̌ŵ²ǹǠ͛hĭłƕrçü±Yrřl¥i`ã__¢ćSÅr[Çq^ùzWmOĈaŐÝɞï²ʯʊáĘĳĒǭPħ͍ôƋÄÄÍīçÛɈǥ£­ÛmY`ó£Z«§°Ó³QafusNıǅ_k}¢m[ÝóDµ¡RLčiXyÅNïă¡¸iĔÏNÌķoıdōîåŤûHcs}~Ûwbù¹£¦ÓCtOPrE^ÒogĉIµÛÅʹK¤½phMú`mR¸¦PƚgÉLRs`£¯ãhD¨|³¤C"
+				],
+				"encodeOffsets": [
+					[
+						121451,
+						32518
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					118.767413,
+					32.041544
+				],
+				"name": "江苏",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "330000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@jX^n",
+						"@@sfdM",
+						"@@qP\\xz[_i",
+						"@@o\\VzRZ}mECy",
+						"@@R¢FX}°[m]",
+						"@@Cb\\}",
+						"@@e|v\\laus",
+						"@@v~s{",
+						"@@QxÂF©}",
+						"@@¹nvÞs©m",
+						"@@rQgYIh",
+						"@@bi«ZX",
+						"@@p[}ILd",
+						"@@À¿|",
+						"@@¹dnb",
+						"@@rS}[Kl",
+						"@@g~h}",
+						"@@FlCk",
+						"@@ůTG°ĄLHm°UF",
+						"@@OdRe",
+						"@@v[u\\",
+						"@@FjâL~wyoo~sµLZ",
+						"@@¬e¹aH",
+						"@@\\nÔ¡q]L³ë\\ÿ®QÌ",
+						"@@ÊA­©]ª",
+						"@@Kxv{­",
+						"@@@hlIk_",
+						"@@pWcrxp",
+						"@@Md|_iA",
+						"@@¢X£½z\\ðpN",
+						"@@hlÜ[LykAvyfw^E ",
+						"@@fp¤MusH",
+						"@@®_ma~LÁ¬`",
+						"@@@°¡mÛGĕ¨§Ianá[ýƤjfæÐNäGp",
+						"@@iMt\\",
+						"@@Zc[b",
+						"@@X®±GrÆ°Zæĉm",
+						"@@Z~dOSo|A¿qZv",
+						"@@@`EN£p",
+						"@@|s",
+						"@@@nDi",
+						"@@na£¾uYL¯QªmĉÅdMgÇjcº«ę¬­K­´B«Âącoċ\\xK`cįŧ«®á[~ıxu·ÅKsËÉc¢Ù\\ĭƛëbf¹­ģSĜkáƉÔ­ĈZB{aMµfzŉfÓÔŹŁƋǝÊĉ{ğč±g³ne{ç­ií´S¬\\ßðK¦w\\iqªĭiAuA­µ_W¥ƣO\\lċĢttC¨£t`PZäuXßBsĻyekOđġĵHuXBµ]×­­\\°®¬F¢¾pµ¼kŘó¬Wät¸|@L¨¸µrºù³Ù~§WIZW®±Ð¨ÒÉx`²pĜrOògtÁZ{üÙ[|ûKwsPlU[}¦Rvn`hsª^nQ´ĘRWb_ rtČFIÖkĦPJ¶ÖÀÖJĈĄTĚòC ²@PúØz©Pî¢£CÈÚĒ±hŖl¬â~nm¨f©iļ«mntqÒTÜÄjL®EÌFª²iÊxØ¨IÈhhst[Ôx}dtüGæţŔïĬaĸpMËÐjē¢·ðĄÆMzjWKĎ¢Q¶À_ê_@ıi«pZgf¤Nrq]§ĂN®«H±yƳí¾×ŊďŀĐÏŴǝĂíÀBŖÕªÁŐTFqĉ¯³ËCĕģi¨hÜ·ñt»¯Ï",
+						"@@ºwZRkĕWK "
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							125785,
+							31436
+						],
+						[
+							125729,
+							31431
+						],
+						[
+							125513,
+							31380
+						],
+						[
+							125329,
+							30690
+						],
+						[
+							125223,
+							30438
+						],
+						[
+							125115,
+							30114
+						],
+						[
+							124815,
+							29155
+						],
+						[
+							124419,
+							28746
+						],
+						[
+							124095,
+							28635
+						],
+						[
+							124005,
+							28609
+						],
+						[
+							125000,
+							30713
+						],
+						[
+							125111,
+							30698
+						],
+						[
+							125078,
+							30682
+						],
+						[
+							125150,
+							30684
+						],
+						[
+							124014,
+							28103
+						],
+						[
+							125008,
+							31331
+						],
+						[
+							125411,
+							31468
+						],
+						[
+							125329,
+							31479
+						],
+						[
+							125369,
+							31139
+						],
+						[
+							125626,
+							30916
+						],
+						[
+							125417,
+							30956
+						],
+						[
+							125254,
+							30976
+						],
+						[
+							125199,
+							30997
+						],
+						[
+							125095,
+							31058
+						],
+						[
+							125083,
+							30915
+						],
+						[
+							124885,
+							31015
+						],
+						[
+							125218,
+							30798
+						],
+						[
+							124867,
+							30838
+						],
+						[
+							124755,
+							30788
+						],
+						[
+							124802,
+							30809
+						],
+						[
+							125267,
+							30657
+						],
+						[
+							125218,
+							30578
+						],
+						[
+							125200,
+							30562
+						],
+						[
+							125192,
+							30787
+						],
+						[
+							124968,
+							30474
+						],
+						[
+							125167,
+							30396
+						],
+						[
+							125115,
+							30363
+						],
+						[
+							124955,
+							29879
+						],
+						[
+							124714,
+							29781
+						],
+						[
+							124762,
+							29462
+						],
+						[
+							124325,
+							28754
+						],
+						[
+							124863,
+							30077
+						],
+						[
+							125366,
+							31477
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					120.153576,
+					30.287459
+				],
+				"name": "浙江",
+				"childNum": 43
+			}
+		},
+		{
+			"id": "340000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@^iuLV\\",
+						"@@e©Edh",
+						"@@´CE¶zAXêeödK¡~H¸íæAȽd{ďÅÀ½W®£ChÃsikkly]_teu[bFaTign{]GqªoĈMYá|·¥f¥őaSÕėNµñĞ«Im_m¿Âa]uĜp Z_§{Cäg¤°r[_YjÆOdý[I[á·¥Q_nùgL¾mzˆDÜÆ¶ĊJhpc¹O]iŠ]¥ jtsggDÑ¡w×jÉ©±EFË­KiÛÃÕYvsm¬njĻª§emná}k«ŕgđ²ÙDÇ¤í¡ªOy×Où±@DñSęćăÕIÕ¿IµĥOlJÕÍRÍ|JìĻÒåyķrĕq§ÄĩsWÆßF¶X®¿mwRIÞfßoG³¾©uyHį{Ɓħ¯AFnuPÍÔzVdàôº^Ðæd´oG¤{S¬ćxã}ŧ×Kǥĩ«ÕOEÐ·ÖdÖsƘÑ¨[Û^Xr¢¼§xvÄÆµ`K§ tÒ´Cvlo¸fzŨð¾NY´ı~ÉĔēßúLÃÃ_ÈÏ|]ÂÏHlg`ben¾¢pUh~ƴĖ¶_r sĄ~cƈ]|r c~`¼{À{ȒiJjz`îÀT¥Û³]u}fïQl{skloNdjäËzDvčoQďHI¦rbrHĖ~BmlNRaĥTX\\{fÁKÁ®TLÂÄMtÊgĀDĄXƔvDcÎJbt[¤D@®hh~kt°ǾzÖ@¾ªdbYhüóV´ŮŒ¨Üc±r@J|àuYÇÔG·ĚąĐlŪÚpSJ¨ĸLvÞcPæķŨ®mÐálsgd×mQ¨ųÆ©Þ¤IÎs°KZpĄ|XwWdĎµmkǀwÌÕæhºgBĝâqÙĊzÖgņtÀÁĂÆáhEz|WzqD¹°Eŧl{ævÜcA`¤C`|´qxĲkq^³³GšµbíZ¹qpa±ď OH¦Ħx¢gPícOl_iCveaOjChß¸iÝbÛªCC¿mRV§¢A|tbkĜEÀtîm^g´fÄ"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							121722,
+							32278
+						],
+						[
+							119475,
+							30423
+						],
+						[
+							121606,
+							33646
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					117.283042,
+					31.86119
+				],
+				"name": "安徽",
+				"childNum": 3
+			}
+		},
+		{
+			"id": "350000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@zht´}[",
+						"@@aj^~ĆGå",
+						"@@edHse",
+						"@@@vPGsyQ",
+						"@@sBzddW[O",
+						"@@S¨Qy",
+						"@@NVucW",
+						"@@qptB@q",
+						"@@¸[iu",
+						"@@Q\\pD[_",
+						"@@jSwUappI",
+						"@@eXª~",
+						"@@AjvFoo",
+						"@@fT_Çí\\v|ba¦jZÆy|®",
+						"@@IjLg",
+						"@@wJIx«¼AoNe{M¥",
+						"@@K±¡ÓČ~N¾",
+						"@@k¡¹Eh~c®uDqZì¡I~Māe£bN¨gZý¡a±Öcp©PhI¢QqÇGj|¥U g[Ky¬ŏv@OptÉEF\\@ åA¬V{XģĐBycpě¼³Ăp·¤¥ohqqÚ¡ŅLs^Ã¡§qlÀhH¨MCe»åÇGD¥zPO£čÙkJA¼ßėuĕeûÒiÁŧS[¡Uûŗ½ùěcÝ§SùĩąSWó«íęACµeRåǃRCÒÇZÍ¢ź±^dlstjD¸ZpuÔâÃH¾oLUêÃÔjjēò´ĄWƛ^Ñ¥Ħ@ÇòmOw¡õyJyD}¢ďÑÈġfZda©º²z£NjD°Ötj¶¬ZSÎ~¾c°¶ÐmxO¸¢Pl´SL|¥AȪĖMņĲg®áIJČĒü` QF¬h|ĂJ@zµ |ê³È ¸UÖŬŬÀCtrĸr]ðM¤ĶĲHtÏ AĬkvsq^aÎbvdfÊòSD´Z^xPsĂrvƞŀjJd×ŘÉ ®AÎ¦ĤdxĆqAZRÀMźnĊ»İÐZ YXæJyĊ²·¶q§·K@·{sXãô«lŗ¶»o½E¡­«¢±¨Y®Ø¶^AvWĶGĒĢPlzfļtàAvWYãO_¤sD§ssČġ[kƤPX¦`¶®BBvĪjv©jx[L¥àï[F¼ÍË»ğV`«Ip}ccÅĥZEãoP´B@D¸m±z«Ƴ¿å³BRØ¶Wlâþäą`]Z£Tc ĹGµ¶Hm@_©k¾xĨôȉðX«½đCIbćqK³ÁÄš¬OAwã»aLŉËĥW[ÂGIÂNxĳ¤D¢îĎÎB§°_JGs¥E@¤ućPåcuMuw¢BI¿]zG¹guĮI"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							123250,
+							27563
+						],
+						[
+							122541,
+							27268
+						],
+						[
+							123020,
+							27189
+						],
+						[
+							122916,
+							27125
+						],
+						[
+							122887,
+							26845
+						],
+						[
+							122808,
+							26762
+						],
+						[
+							122568,
+							25912
+						],
+						[
+							122778,
+							26197
+						],
+						[
+							122515,
+							26757
+						],
+						[
+							122816,
+							26587
+						],
+						[
+							123388,
+							27005
+						],
+						[
+							122450,
+							26243
+						],
+						[
+							122578,
+							25962
+						],
+						[
+							121255,
+							25103
+						],
+						[
+							120987,
+							24903
+						],
+						[
+							122339,
+							25802
+						],
+						[
+							121042,
+							25093
+						],
+						[
+							122439,
+							26024
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					119.306239,
+					26.075302
+				],
+				"name": "福建",
+				"childNum": 18
+			}
+		},
+		{
+			"id": "360000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@ÖP¬ǦĪØLŨä~Ĉw«|TH£pc³Ïå¹]ĉđxe{ÎÓvOEm°BƂĨİ|Gvz½ª´HàpeJÝQxnÀW­EµàXÅĪt¨ÃĖrÄwÀFÎ|Ă¡WÕ¸cf¥XaęST±m[r«_gmQu~¥V\\OkxtL E¢Ú^~ýØkbēqoě±_Êw§Ñ²ÏƟė¼mĉŹ¿NQYBąrwģcÍ¥B­ŗÊcØiIƝĿuqtāwO]³YCñTeÉcaubÍ]trluīBÐGsĵıN£ï^ķqsq¿DūūVÕ·´Ç{éĈýÿOER_đûIċâJh­ŅıNȩĕB¦K{Tk³¡OP·wnµÏd¯}½TÍ«YiµÕsC¯iM¤­¦¯P|ÿUHvhe¥oFTuõ\\OSsMòđƇiaºćXĊĵà·çhƃ÷Ç{ígu^đgm[ÙxiIN¶Õ»lđÕwZSÆv©_ÈëJbVkĔVÀ¤P¾ºÈMÖxlò~ªÚàGĂ¢B±ÌKyñ`w²¹·`gsÙfIěxŕeykpudjuTfb·hh¿Jd[\\LáƔĨƐAĈepÀÂMD~ņªe^\\^§ý©j×cZØ¨zdÒa¶lÒJìõ`oz÷@¤uŞ¸´ôęöY¼HČƶajlÞƩ¥éZ[|h}^U  ¥pĄžƦO lt¸Æ Q\\aÆ|CnÂOjt­ĚĤdÈF`¶@Ðë ¦ōÒ¨SêvHĢÛ@[ÆQoxHW[ŰîÀt¦Ǆ~NĠ¢lĄtZoCƞÔºCxrpČNpj¢{f_Y`_eq®Aot`@oDXfkp¨|s¬\\DÄSfè©Hn¬^DhÆyøJhØxĢĀLÊƠPżċĄwĮ¶"
+				],
+				"encodeOffsets": [
+					[
+						118923,
+						30536
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					115.892151,
+					28.676493
+				],
+				"name": "江西",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "370000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@Xjd]mE",
+						"@@itnq",
+						"@@Dl@k",
+						"@@TGw",
+						"@@K¬U",
+						"@@Wd`c",
+						"@@PtMs",
+						"@@LnXlc",
+						"@@ppVu]Qn",
+						"@@cdzAU_",
+						"@@udRhnCE",
+						"@@oIpP",
+						"@@M{ĿčwbxƨîKÎMĮ]ZF½Y]â£ph¶¨râøÀÎǨ¤^ºÄGz~grĚĜlĞÆLĆǆ¢Îo¦cvKbgr°WhmZp L]LºcUÆ­nżĤÌĒbAnrOA´ȊcÀbƦUØrĆUÜøĬƞŶǬĴóò_A̈«ªdÎÉnb²ĦhņBĖįĦåXćì@L¯´ywƕCéÃµė ƿ¸lµZæyj|BíÂKNNnoƈfÈMZwnŐNàúÄsTJULîVjǎ¾ĒØDz²XPn±ŴPè¸ŔLƔÜƺ_TüÃĤBBċÈöA´faM¨{«M`¶d¡ôÖ°mȰBÔjj´PM|c^d¤u¤Û´ä«ƢfPk¶Môl]Lb}su^ke{lCMrDÇ­]NÑFsmoõľHyGă{{çrnÓEƕZGª¹Fj¢ÿ©}ÌCǷë¡ąuhÛ¡^KxC`C\\bÅxì²ĝÝ¿_NīCȽĿåB¥¢·IŖÕy\\¹kxÃ£ČáKµË¤ÁçFQ¡KtŵƋ]CgÏAùSedcÚźuYfyMmhUWpSyGwMPqŀÁ¼zK¶G­Y§Ë@´śÇµƕBm@IogZ¯uTMx}CVKï{éƵP_K«pÛÙqċtkkù]gTğwoɁsMõ³ăAN£MRkmEÊčÛbMjÝGuIZGPģãħE[iµBEuDPÔ~ª¼ęt]ûG§¡QMsğNPŏįzs£Ug{đJĿļā³]ç«Qr~¥CƎÑ^n¶ÆéÎR~Ż¸YI] PumŝrƿIā[xeÇ³L¯v¯s¬ÁY~}ťuŁgƋpÝĄ_ņī¶ÏSR´ÁP~¿Cyċßdwk´SsX|t`Ä ÈðAªìÎT°¦Dda^lĎDĶÚY°`ĪŴǒàŠv\\ebZHŖR¬ŢƱùęOÑM­³FÛaj"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							123806,
+							39303
+						],
+						[
+							123821,
+							39266
+						],
+						[
+							123742,
+							39256
+						],
+						[
+							123702,
+							39203
+						],
+						[
+							123649,
+							39066
+						],
+						[
+							123847,
+							38933
+						],
+						[
+							123580,
+							38839
+						],
+						[
+							123894,
+							37288
+						],
+						[
+							123043,
+							36624
+						],
+						[
+							123344,
+							38676
+						],
+						[
+							123522,
+							38857
+						],
+						[
+							123628,
+							38858
+						],
+						[
+							118267,
+							36772
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					117.000923,
+					36.675807
+				],
+				"name": "山东",
+				"childNum": 13
+			}
+		},
+		{
+			"id": "410000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@dXD}~Hgq~ÔN~zkĘHVsǲßjŬŢ`Pûàl¢\\ÀEhİgÞē X¼`khÍLùµP³swIÓzeŠĠð´E®ÚPtºIŊÊºL«šŕQGYfa[şußǑĩų_Z¯ĵÙčC]kbc¥CS¯ëÍB©ïÇÃ_{sWTt³xlàcČzÀD}ÂOQ³ÐTĬµƑÐ¿ŸghłŦv~}ÂZ«¤lPÇ£ªÝŴÅR§ØnhctâknÏ­ľŹUÓÝdKuķI§oTũÙďkęĆH¸Ó\\Ä¿PcnS{wBIvÉĽ[GqµuŇôYgûZca©@½Õǽys¯}lgg@­C\\£asIdÍuCQñ[L±ęk·ţb¨©kK»KC²òGKmĨS`UQnk}AGēsqaJ¥ĐGRĎpCuÌy ã iMcplk|tRkðev~^´¦ÜSí¿_iyjI|ȑ|¿_»d}q^{Ƈdă}tqµ`ŷé£©V¡om½ZÙÏÁRD|JOÈpÀRsI{ùÓjuµ{t}uËRivGçJFjµåkWê´MÂHewixGw½Yŷpµú³XU½ġyłåkÚwZX·l¢Á¢KzOÎÎjc¼htoDHr|­J½}JZ_¯iPq{tę½ĕ¦Zpĵø«kQĹ¤]MÛfaQpě±ǽ¾]u­Fu÷nčÄ¯ADp}AjmcEÇaª³o³ÆÍSƇĈÙDIzçñİ^KNiÞñ[aA²zzÌ÷D|[íÄ³gfÕÞd®|`Ć~oĠƑô³ŊD×°¯CsøÂ«ìUMhTº¨¸ǝêWÔDruÂÇZ£ĆPZW~ØØv¬gèÂÒw¦X¤Ā´oŬ¬²Ês~]®tªapŎJ¨Öº_ŔfŐ\\Đ\\Ĝu~m²Ƹ¸fWĦrƔ}Î^gjdfÔ¡J}\\n C¦þWxªJRÔŠu¬ĨĨmFdM{\\d\\YÊ¢ú@@¦ª²SÜsC}fNècbpRmlØ^gd¢aÒ¢CZZxvÆ¶N¿¢T@uC¬^ĊðÄn|lIlXhun[",
+						"@@hzUq"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							116744,
+							37216
+						],
+						[
+							116480,
+							33048
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					113.665412,
+					34.757975
+				],
+				"name": "河南",
+				"childNum": 2
+			}
+		},
+		{
+			"id": "420000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@ASd",
+						"@@ls{d",
+						"@@¾«}{ra®pîÃ\\{øCËyyB±b\\òÝjKL ]ĎĽÌJyÚCƈćÎT´Å´pb©ÈdFin~BCo°BĎÃømv®E^vǾ½Ĝ²RobÜeN^ĺ£R¬lĶ÷YoĖ¥Ě¾|sOr°jY`~I¾®I{GqpCgyl{£ÍÍyPLÂ¡¡¸kWxYlÙæŁĢz¾V´W¶ùŸo¾ZHxjwfxGNÁ³Xéæl¶EièIH ujÌQ~v|sv¶Ôi|ú¢FhQsğ¦SiŠBgÐE^ÁÐ{čnOÂÈUÎóĔÊēĲ}Z³½Mŧïeyp·uk³DsÑ¨L¶_ÅuÃ¨w»¡WqÜ]\\Ò§tƗcÕ¸ÕFÏǝĉăxŻČƟOKÉġÿ×wg÷IÅzCg]m«ªGeçÃTC«[t§{loWeC@ps_Bp­rf_``Z|ei¡oċMqow¹DƝÓDYpûsYkıǃ}s¥ç³[§cY§HK«Qy]¢wwö¸ïx¼ņ¾Xv®ÇÀµRĠÐHM±cÏdƒǍũȅȷ±DSyúĝ£ŤĀàtÖÿï[îb\\}pĭÉI±Ñy¿³x¯No|¹HÏÛmjúË~TuęjCöAwě¬Rđl¯ Ñb­ŇTĿ_[IčĄʿnM¦ğ\\É[T·k¹©oĕ@A¾wya¥Y\\¥Âaz¯ãÁ¡k¥ne£ÛwE©Êō¶˓uoj_U¡cF¹­[WvP©whuÕyBF`RqJUw\\i¡{jEPïÿ½fćQÑÀQ{°fLÔ~wXgītêÝ¾ĺHd³fJd]HJ²EoU¥HhwQsƐ»Xmg±çve]DmÍPoCc¾_hhøYrŊU¶eD°Č_N~øĹĚ·`z]Äþp¼äÌQv\\rCé¾TnkžŐÚÜa¼ÝƆĢ¶ÛodĔňÐ¢JqPb ¾|J¾fXƐîĨ_Z¯À}úƲN_ĒÄ^ĈaŐyp»CÇÄKñL³ġM²wrIÒŭxjb[n«øæà ^²­h¯ÚŐªÞ¸Y²ĒVø}Ā^İ´LÚm¥ÀJÞ{JVųÞŃx×sxxƈē ģMřÚðòIfĊŒ\\Ʈ±ŒdÊ§ĘDvČ_Àæ~Dċ´A®µ¨ØLV¦êHÒ¤"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							113712,
+							34000
+						],
+						[
+							115612,
+							30507
+						],
+						[
+							113649,
+							34054
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					114.298572,
+					30.584355
+				],
+				"name": "湖北",
+				"childNum": 3
+			}
+		},
+		{
+			"id": "430000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@nFZw",
+						"@@ãÆá½ÔXrCOËRïÿĩ­TooQyÓ[ŅBE¬ÎÓXaį§Ã¸G °ITxpúxÚĳ¥ÏĢ¾edÄ©ĸGàGhM¤Â_U}Ċ}¢pczfþg¤ÇôAV",
+						"@@ȴÚĖÁĐiOĜ«BxDõĚivSÌ}iùÜnÐºG{p°M°yÂÒzJ²Ì ÂcXëöüiáÿñőĞ¤ùTz²CȆȸǎŪƑÐc°dPÎğË¶[È½u¯½WM¡­ÉB·rínZÒ `¨GA¾\\pēXhÃRC­üWGġuTé§ŎÑ©êLM³}_EÇģc®ęisÁPDmÅ{b[RÅs·kPŽƥóRoOV~]{g\\êYƪ¦kÝbiċƵGZ»Ěõó·³vŝ£ø@pyö_ëIkÑµbcÑ§y×dYØªiþUjŅ³C}ÁN»hĻħƏâƓKA·³CQ±µ§¿AUƑ¹AtćOwD]JUÖgk¯b£ylZFËÑ±H­}EbóľA¡»Ku¦·³åş¥ùBD^{ÌC´­¦ŷJ£^[ª¿ğ|ƅN skóā¹¿ï]ă~÷O§­@Vm¡Qđ¦¢Ĥ{ºjÔª¥nf´~Õo×ÛąGû¥cÑ[Z¶ŨĪ²SÊǔƐƀAÚŌ¦QØ¼rŭ­«}NÏürÊ¬mjr@ĘrTW ­SsdHzƓ^ÇÂyUi¯DÅYlŹu{hT}mĉ¹¥ěDÿë©ıÓ[Oº£¥ótł¹MÕƪ`PDiÛU¾ÅâìUñBÈ£ýhedy¡oċ`pfmjP~kZaZsÐd°wj§@Ĵ®w~^kÀÅKvNmX\\¨aŃqvíó¿F¤¡@ũÑVw}S@j}¾«pĂrªg àÀ²NJ¶¶DôK|^ª°LX¾ŴäPĪ±£EXd^¶ĲÞÜ~u¸ǔMRhsRe`ÄofIÔ\\Ø  ićymnú¨cj ¢»GČìƊÿÐ¨XeĈĀ¾Oð Fi ¢|[jVxrIQ_EzAN¦zLU`cªxOTu RLÄªpUĪȴ^ŎµªÉFxÜf¤ºgĲèy°Áb[¦Zb¦z½xBĖ@ªpºjS´rVźOd©ʪiĎăJP`"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							115640,
+							30489
+						],
+						[
+							112577,
+							27316
+						],
+						[
+							114113,
+							30649
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					112.982279,
+					28.19409
+				],
+				"name": "湖南",
+				"childNum": 3
+			}
+		},
+		{
+			"id": "440000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@QdAsa",
+						"@@lxDRm",
+						"@@sbhNLo",
+						"@@Ă ý",
+						"@@WltOY[",
+						"@@Kr]S",
+						"@@e~AS}",
+						"@@I|Mym",
+						"@@Û³LS²Q",
+						"@@nvºBë¥cÕº",
+						"@@zdÛJm",
+						"@@°³",
+						"@@a yAª¸ËJIxØ@ĀHÉÕZofoo",
+						"@@sŗÃÔėAƁZÄ ~°ČPºb",
+						"@@¶ÝÌvmĞh¹Ĺ",
+						"@@HdSjĒ¢D}waru«ZqadY{K",
+						"@@el\\LqqO",
+						"@@~rMmX",
+						"@@f^E",
+						"@@øPªoj÷ÍÝħXČx°Q¨ıXJp",
+						"@@gÇƳmxatfu",
+						"@@EÆC½",
+						"@@¸B_¶ekWvSivc}p}Ăº¾NĎyj¦Èm th_®Ä}»âUzLË²Aā¡ßH©Ùñ}wkNÕ¹ÇO½¿£ēUlaUìIÇª`uTÅxYĒÖ¼kÖµMjJÚwn\\hĒv]îh|ÈƄøèg¸Ķß ĉĈWb¹ƀdéĘNTtP[öSvrCZaGubo´ŖÒÇĐ~¡zCIözx¢PnÈñ @ĥÒ¦]ƜX³ăĔñiiÄÓVépKG½ÄÓávYoC·sitiaÀyŧÎ¡ÈYDÑům}ý|m[węõĉZÅxUO}÷N¹³ĉo_qtăqwµŁYÙǝŕ¹tïÛUÃ¯mRCºĭ|µÕÊK½Rē ó]GªęAxNqSF|ām¡diď×YïYWªŉOeÚtĐ«zđ¹TāúEáÎÁWwíHcòßÎſ¿Çdğ·ùT×Çūʄ¡XgWÀǇğ·¿ÃOj YÇ÷Sğ³kzőõmĝ[³¡VÙæÅöMÌ³¹pÁaËýý©D©ÜJŹƕģGą¤{ÙūÇO²«BƱéAÒĥ¡«BhlmtÃPµyU¯ucd·w_bŝcīímGOGBȅŹãĻFŷŽŕ@Óoo¿ē±ß}}ÓF÷tĲWÈCőâUâǙIğŉ©IĳE×Á³AĥDĈ±ÌÜÓĨ£L]ĈÙƺZǾĆĖMĸĤfÎĵlŨnÈĐtFFĤêk¶^k°f¶g}®Faf`vXŲxl¦ÔÁ²¬Ð¦pqÊÌ²iXØRDÎ}Ä@ZĠsx®AR~®ETtĄZƈfŠŠHâÒÐAµ\\S¸^wĖkRzalŜ|E¨ÈNĀňZTpBh£\\ĎƀuXĖtKL¶G|»ĺEļĞ~ÜĢÛĊrOÙîvd]n¬VÊĜ°RÖpMƀ¬HbwEÀ©\\¤]ŸI®¥D³|Ë]CúAŠ¦æ´¥¸Lv¼¢ĽBaôF~®²GÌÒEYzk¤°ahlVÕI^CxĈPsBƒºVÀB¶¨R²´D",
+						"@@OR"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							117381,
+							22988
+						],
+						[
+							116552,
+							22934
+						],
+						[
+							116790,
+							22617
+						],
+						[
+							116973,
+							22545
+						],
+						[
+							116444,
+							22536
+						],
+						[
+							116931,
+							22515
+						],
+						[
+							116496,
+							22490
+						],
+						[
+							116453,
+							22449
+						],
+						[
+							113301,
+							21439
+						],
+						[
+							118726,
+							21604
+						],
+						[
+							118709,
+							21486
+						],
+						[
+							113210,
+							20816
+						],
+						[
+							115482,
+							22082
+						],
+						[
+							113171,
+							21585
+						],
+						[
+							113199,
+							21590
+						],
+						[
+							115232,
+							22102
+						],
+						[
+							115739,
+							22373
+						],
+						[
+							115134,
+							22184
+						],
+						[
+							113056,
+							21175
+						],
+						[
+							119573,
+							21271
+						],
+						[
+							119957,
+							24020
+						],
+						[
+							115859,
+							22356
+						],
+						[
+							116680,
+							26053
+						],
+						[
+							116561,
+							22649
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					113.280637,
+					23.125178
+				],
+				"name": "广东",
+				"childNum": 24
+			}
+		},
+		{
+			"id": "450000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@H TI¡U",
+						"@@Ɣ_LÊFZgčP­kini«qÇczÍY®¬Ů»qR×ō©DÕ§ƙǃŵTÉĩ±ıdÑnYYĲvNĆĆØÜ Öp}e³¦m©iÓ|¹ħņ|ª¦QF¢Â¬ʖovg¿em^ucäāmÇÖåB¡Õçĝ}FĻ¼Ĺ{µHKsLSđƃrč¤[AgoSŇYMÿ§Ç{FśbkylQxĕ]T·¶[BÑÏGáşşƇeăYSs­FQ}­BwtYğÃ@~CÍQ ×WjË±rÉ¥oÏ ±«ÓÂ¥kwWűue_b­E~µh¯ecl¯Ïr¯EģJğ}w³Ƈē`ãògK_ÛsUʝćğ¶höO¤Ǜn³c`¡yię[ďĵűMę§]XÎ_íÛ]éÛUćİÕBƣ±dy¹T^dûÅÑŦ·PĻþÙ`K¦¢ÍeĥR¿³£[~äu¼dltW¸oRM¢ď\\z}Æzdvň{ÎXF¶°Â_ÒÂÏL©ÖTmu¼ãlīkiqéfA·Êµ\\őDc¥ÝFyÔćcűH_hLÜêĺĐ¨c}rn`½Ì@¸¶ªVLhŒ\\Ţĺk~Ġið°|gtTĭĸ^xvKVGréAébUuMJVÃO¡qĂXËSģãlýà_juYÛÒBG^éÖ¶§EGÅzěƯ¤EkN[kdåucé¬dnYpAyČ{`]þ±X\\ÞÈk¡ĬjàhÂƄ¢Hè ŔâªLĒ^Öm¶ħĊAǦė¸zÚGn£¾rªŀÜt¬@ÖÚSx~øOŒŶÐÂæȠ\\ÈÜObĖw^oÞLf¬°bI lTØBÌF£Ć¹gñĤaYt¿¤VSñK¸¤nM¼JE±½¸ñoÜCƆæĪ^ĚQÖ¦^f´QüÜÊz¯lzUĺš@ìp¶n]sxtx¶@~ÒĂJb©gk{°~c°`Ô¬rV\\la¼¤ôá`¯¹LCÆbxEræOv[H­[~|aB£ÖsºdAĐzNÂðsÞÆĤªbab`ho¡³F«èVZs\\\\ÔRzpp®SĪº¨ÖºNĳd`a¦¤F³¢@`¢ĨĀìhYvlĆº¦Ċ~nS|gźv^kGÆÀè·"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							111707,
+							21520
+						],
+						[
+							113706,
+							26955
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					108.320004,
+					22.82402
+				],
+				"name": "广西",
+				"childNum": 2
+			}
+		},
+		{
+			"id": "460000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@¦Ŝil¢XƦƞòïè§ŞCêɕrŧůÇąĻõ·ĉ³œ̅kÇm@ċȧŧĥĽʉ­ƅſȓÒË¦ŝE}ºƑ[ÍĜȋ gÎfǐÏĤ¨êƺ\\Ɔ¸ĠĎvʄȀÐ¾jNðĀÒRZǆzÐĊ¢DÀɘZ"
+				],
+				"encodeOffsets": [
+					[
+						112750,
+						20508
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					110.33119,
+					20.031971
+				],
+				"name": "海南",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "510000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@LqSn",
+						"@@ĆOìÛÐ@ĞǔNY{¤Á§di´ezÝúØãwIþËQÇ¦ÃqÉSJ»ĂéʔõÔƁİlƞ¹§ĬqtÀƄmÀêErĒtD®ċæcQE®³^ĭ¥©l}äQtoŖÜqÆkµªÔĻĴ¡@Ċ°B²Èw^^RsºTĀ£ŚæQPJvÄz^Đ¹Æ¯fLà´GC²dt­ĀRt¼¤ĦOðğfÔðDŨŁĞƘïPÈ®âbMüÀXZ ¸£@Å»»QÉ­]dsÖ×_Í_ÌêŮPrĔĐÕGĂeZÜîĘqBhtO ¤tE[h|YÔZśÎs´xº±Uñt|OĩĠºNbgþJy^dÂY Į]Řz¦gC³R`Āz¢Aj¸CL¤RÆ»@­Ŏk\\Ç´£YW}z@Z}Ã¶oû¶]´^NÒ}èNªPÍy¹`S°´ATeVamdUĐwʄvĮÕ\\uÆŗ¨Yp¹àZÂmWh{á}WØǍÉüwga§ßAYrÅÂQĀÕ¬LŐý®Xøxª½Ű¦¦[þ`ÜUÖ´òrÙŠ°²ÄkĳnDX{U~ET{ļº¦PZcjF²Ė@pg¨B{u¨ŦyhoÚD®¯¢ WòàFÎ¤¨GDäz¦kŮPġqË¥À]eâÚ´ªKxīPÖ|æ[xÃ¤JÞĥsNÖ½I¬nĨY´®ÐƐmDŝuäđđEbee_v¡}ìęǊē}qÉåT¯µRs¡M@}ůaa­¯wvƉåZw\\Z{åû`[±oiJDÅ¦]ĕãïrG réÏ·~ąSfy×Í·ºſƽĵȁŗūmHQ¡Y¡®ÁÃ×t«­T¤JJJyJÈ`Ohß¦¡uËhIyCjmÿwZGTiSsOB²fNmsPa{M{õE^Hj}gYpaeu¯oáwHjÁ½M¡pMuåmni{fk\\oÎqCwEZ¼KĝAy{m÷LwO×SimRI¯rKõBS«sFe]fµ¢óY_ÆPRcue°Cbo×bd£ŌIHgtrnyPt¦foaXďxlBowz_{ÊéWiêEGhÜ¸ºuFĈIxf®Y½ĀǙ]¤EyF²ċw¸¿@g¢§RGv»áW`ÃĵJwi]t¥wO­½a[×]`Ãi­üL¦LabbTÀåc}ÍhÆh®BHî|îºÉk­¤Sy£ia©taį·Ɖ`ō¥UhOĝLk}©Fos´JmµlŁuønÑJWÎªYÀïAetTŅÓGË«bo{ıwodƟ½OġÜÂµxàNÖ¾P²§HKv¾]|BÆåoZ`¡Ø`ÀmºĠ~ÌÐ§nÇ¿¤]wğ@srğu~Io[é±¹ ¿ſđÓ@qg¹zƱřaí°KtÇ¤V»Ã[ĩǭƑ^ÇÓ@áťsZÏÅĭƋěpwDóÖáŻneQËq·GCœýS]x·ýq³OÕ¶Qzßti{řáÍÇWŝŭñzÇWpç¿JXĩè½cFÂLiVjx}\\NŇĖ¥GeJA¼ÄHfÈu~¸Æ«dE³ÉMA|bÒćhG¬CMõƤąAvüVéŀ_VÌ³ĐwQj´·ZeÈÁ¨X´Æ¡Qu·»ÕZ³ġqDoy`L¬gdp°şp¦ėìÅĮZ°Iähzĵf²å ĚÑKpIN|Ñz]ń·FU×é»R³MÉ»GM«kiér}Ã`¹ăÞmÈnÁîRǀ³ĜoİzŔwǶVÚ£À]ɜ»ĆlƂ²ĠþTº·àUȞÏʦ¶I«dĽĢdĬ¿»Ĕ×h\\c¬ä²GêëĤł¥ÀǿżÃÆMº}BÕĢyFVvwxBèĻĒ©Ĉt@Ğû¸£B¯¨ˋäßkķ½ªôNÔ~t¼Ŵu^s¼{TA¼ø°¢İªDè¾Ň¶ÝJ®Z´ğ~Sn|ªWÚ©òzPOȸbð¢|øĞA"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							108815,
+							30935
+						],
+						[
+							100197,
+							35028
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					104.065735,
+					30.659462
+				],
+				"name": "四川",
+				"childNum": 2
+			}
+		},
+		{
+			"id": "520000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@G\\lY£cj",
+						"@@q|mc¯vÏV",
+						"@@hÑ£IsNgßHHªķÃh_¹¡ĝÄ§ń¦uÙùgS¯JH|sÝÅtÁïyMDč»eÕtA¤{b\\}G®u\\åPFqwÅaDK°ºâ_£ùbµmÁÛĹM[q|hlaªāI}Ñµ@swtwm^oµDéĽŠyVky°ÉûÛR³e¥]RÕěħ[ƅåÛDpJiVÂF²I»mN·£LbÒYbWsÀbpkiTZĄă¶Hq`ĥ_J¯ae«KpÝx]aĕÛPÇȟ[ÁåŵÏő÷Pw}TÙ@Õs«ĿÛq©½m¤ÙH·yǥĘĉBµĨÕnđ]K©œáGçş§ÕßgǗĦTèƤƺ{¶ÉHÎd¾ŚÊ·OÐjXWrãLyzÉAL¾ę¢bĶėy_qMĔąro¼hĊw¶øV¤w²Ĉ]ÊKx|`ź¦ÂÈdrcÈbe¸`I¼čTF´¼Óýȃr¹ÍJ©k_șl³´_pĐ`oÒh¶pa^ÓĔ}D»^Xy`d[KvJPhèhCrĂĚÂ^Êƌ wZL­Ġ£ÁbrzOIlMMĪŐžËr×ÎeŦtw|¢mKjSǘňĂStÎŦEtqFT¾Eì¬¬ôxÌO¢ K³ŀºäYPVgŎ¦ŊmŞ¼VZwVlz¤£Tl®ctĽÚó{G­AÇge~Îd¿æaSba¥KKûj®_Ä^\\Ø¾bP®¦x^sxjĶI_Ä Xâ¼Hu¨Qh¡À@Ëô}±GNìĎlT¸`V~R°tbÕĊ`¸úÛtÏFDu[MfqGH·¥yAztMFe|R_GkChZeÚ°tov`xbDnÐ{E}ZèxNEÞREn[Pv@{~rĆAB§EO¿|UZ~ìUf¨J²ĂÝÆsªB`s¶fvö¦Õ~dÔq¨¸º»uù[[§´sb¤¢zþF¢ÆÀhÂW\\ıËIÝo±ĭŠ£þÊs}¡R]ěDg´VG¢j±®èºÃmpU[Áëº°rÜbNu¸}º¼`niºÔXĄ¤¼ÔdaµÁ_ÃftQQgR·Ǔv}Ý×ĵ]µWc¤F²OĩųãW½¯K©]{LóµCIµ±Mß¿h©āq¬o½~@i~TUxð´Đhw­ÀEîôuĶb[§nWuMÆJl½]vuıµb"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							112158,
+							27383
+						],
+						[
+							112105,
+							27474
+						],
+						[
+							112095,
+							27476
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					106.713478,
+					26.578343
+				],
+				"name": "贵州",
+				"childNum": 3
+			}
+		},
+		{
+			"id": "530000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@[ùx½}ÑRHYīĺûsÍniEoã½Ya²ė{c¬ĝgĂsAØÅwďõzFjw}«Dx¿}Uũlê@HÅ­F¨ÇoJ´Ónũuą¡Ã¢pÒÅØ TF²xa²ËXcÊlHîAßËŁkŻƑŷÉ©hW­æßUËs¡¦}teèÆ¶StÇÇ}Fd£jĈZĆÆ¤Tč\\D}O÷£U§~ŃGåŃDĝ¸Tsd¶¶Bª¤u¢ŌĎo~t¾ÍŶÒtD¦ÚiôözØX²ghįh½Û±¯ÿm·zR¦Ɵ`ªŊÃh¢rOÔ´£Ym¼èêf¯ŪĽncÚbw\\zlvWªâ ¦gmĿBĹ£¢ƹřbĥkǫßeeZkÙIKueT»sVesbaĕ  ¶®dNĄÄpªy¼³BE®lGŭCǶwêżĔÂepÍÀQƞpC¼ŲÈ­AÎô¶RäQ^Øu¬°_Èôc´¹ò¨PÎ¢hlĎ¦´ĦÆ´sâÇŲPnÊD^¯°Upv}®BPÌªjǬxSöwlfòªvqĸ|`H­viļndĜ­Ćhňem·FyÞqóSį¯³X_ĞçêtryvL¤§z¦c¦¥jnŞklD¤øz½ĜàĂŧMÅ|áƆàÊcðÂFÜáŢ¥\\\\ºİøÒÐJĴîD¦zK²ǏÎEh~CD­hMn^ÌöÄ©ČZÀaüfɭyœpį´ěFűk]Ôě¢qlÅĆÙa¶~ÄqêljN¬¼HÊNQ´ê¼VØ¸E^ŃÒyM{JLoÒęæe±Ķygã¯JYÆĭĘëo¥Šo¯hcK«z_prC´ĢÖY¼ v¸¢RÅW³Â§fÇ¸Yi³xR´ďUË`êĿUûuĆBƣöNDH«ĈgÑaB{ÊNF´¬c·Åv}eÇÃGB»If¦HňĕM~[iwjUÁKE¾dĪçWIèÀoÈXòyŞŮÈXâÎŚj|àsRyµÖPr´þ ¸^wþTDŔHr¸RÌmfżÕâCôoxĜƌÆĮÐYtâŦÔ@]ÈǮƒ\\Ī¼Ä£UsÈ¯LbîƲŚºyhr@ĒÔƀÀ²º\\êpJ}ĠvqtĠ@^xÀ£È¨mËÏğ}n¹_¿¢×Y_æpÅA^{½Lu¨GO±Õ½ßM¶wÁĢÛPƢ¼pcĲx|apÌ¬HÐŊSfsðBZ¿©XÏÒKk÷Eû¿SrEFsÕūkóVǥŉiTL¡n{uxţÏhôŝ¬ğōNNJkyPaqÂğ¤K®YxÉƋÁ]āęDqçgOgILu\\_gz]W¼~CÔē]bµogpÑ_oď`´³Țkl`IªºÎȄqÔþ»E³ĎSJ»_f·adÇqÇc¥Á_Źw{L^É±ćxU£µ÷xgĉp»ĆqNē`rĘzaĵĚ¡K½ÊBzyäKXqiWPÏÉ¸½řÍcÊG|µƕƣGË÷k°_^ý|_zċBZocmø¯hhcæ\\lMFlư£ĜÆyHF¨µêÕ]HAàÓ^it `þßäkĤÎT~Wlÿ¨ÔPzUCNVv [jâôDôď[}z¿msSh¯{jïğl}šĹ[őgK©U·µË@¾m_~q¡f¹ÅË^»f³ø}Q¡ÖË³gÍ±^Ç\\ëÃA_¿bWÏ[¶ƛé£F{īZgm@|kHǭƁć¦UĔť×ëǟeċ¼ȡȘÏíBÉ£āĘPªĳ¶ŉÿy©nď£G¹¡I±LÉĺÑdĉÜW¥}gÁ{aqÃ¥aıęÏZÁ`"
+				],
+				"encodeOffsets": [
+					[
+						104636,
+						22969
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					102.712251,
+					25.040609
+				],
+				"name": "云南",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "540000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@ÂhľxŖxÒVºÅâAĪÝȆµę¯Ňa±r_w~uSÕňqOj]ɄQ£ZUDûoY»©M[L¼qãË{VÍçWVi]ë©Ä÷àyƛhÚU°adcQ~Mx¥caÛcSyFÖk­uRýq¿ÔµQĽ³aG{¿FµëªéĜÿª@¬·K·àariĕĀ«V»ŶĴūgèLǴŇƶaftèBŚ£^âǐÝ®M¦ÁǞÿ¬LhJ¾óƾÆºcxwf]Y´¦|QLn°adĊ\\¨oǀÍŎ´ĩĀd`tÊQŞŕ|¨C^©Ĉ¦¦ÎJĊ{ëĎjª²rÐl`¼Ą[t|¦Stè¾PÜK¸dƄı]s¤î_v¹ÎVòŦj£Əsc¬_Ğ´|Ł¦Av¦w`ăaÝaa­¢e¤ı²©ªSªÈMĄwÉØŔì@T¤Ę\\õª@þo´­xA sÂtŎKzó²ÇČµ¢r^nĊ­Æ¬×üG¢³ {âĊ]G~bÀgVjzlhǶfOfdªB]pjTOtĊn¤}®¦Č¥d¢¼»ddY¼t¢eȤJ¤}Ǿ¡°§¤AÐlc@ĝsªćļđAçwxUuzEÖġ~AN¹ÄÅȀŻ¦¿ģŁéì±Hãd«g[Ø¼ēÀcīľġ¬cJµÐʥVȝ¸ßS¹ý±ğkƁ¼ą^ɛ¤Ûÿb[}¬ōõÃ]ËNm®g@Bg}ÍF±ǐyL¥íCIĳÏ÷Ñį[¹¦[âšEÛïÁÉdƅß{âNÆāŨß¾ě÷yC£k­´ÓH@Â¹TZ¥¢į·ÌAÐ§®Zcv½Z­¹|ÅWZqgW|ieZÅYVÓqdqbc²R@c¥Rã»GeeƃīQ}J[ÒK¬Ə|oėjġĠÑN¡ð¯EBčnwôɍėª²CλŹġǝʅįĭạ̃ūȹ]ΓͧgšsgȽóϧµǛęgſ¶ҍć`ĘąŌJÞä¤rÅň¥ÖÁUětęuůÞiĊÄÀ\\Æs¦ÓRb|Â^řÌkÄŷ¶½÷f±iMÝ@ĥ°G¬ÃM¥n£Øąğ¯ß§aëbéüÑOčk£{\\eµª×MÉfm«Ƒ{Å×Gŏǩãy³©WÑăû··Qòı}¯ãIéÕÂZ¨īès¶ZÈsæĔTŘvgÌsN@îá¾ó@ÙwU±ÉTå»£TđWxq¹Zobs[×¯cĩvėŧ³BM|¹kªħ¥TzNYnÝßpęrñĠĉRS~½ěVVµõ«M££µBĉ¥áºae~³AuĐh`Ü³ç@BÛïĿa©|z²Ý¼D£àč²ŸIûI āóK¥}rÝ_Á´éMaň¨~ªSĈ½½KÙóĿeƃÆB·¬ën×W|Uº}LJrƳlŒµ`bÔ`QÐÓ@s¬ñIÍ@ûws¡åQÑßÁ`ŋĴ{ĪTÚÅTSÄ³Yo|Ç[Ç¾µMW¢ĭiÕØ¿@MhpÕ]jéò¿OƇĆƇpêĉâlØwěsǩĵ¸cbU¹ř¨WavquSMzeo_^gsÏ·¥Ó@~¯¿RiīB\\qTGªÇĜçPoÿfñòą¦óQīÈáPābß{ZŗĸIæÅhnszÁCËìñÏ·ąĚÝUm®ó­L·ăUÈíoù´Êj°ŁŤ_uµ^°ìÇ@tĶĒ¡ÆM³Ģ«İĨÅ®ğRāðggheÆ¢zÊ©Ô\\°ÝĎz~ź¤PnMĪÖB£kné§żćĆKĒ°¼L¶èâz¨u¦¥LDĘz¬ýÎmĘd¾ßFzhg²Fy¦ĝ¤ċņbÎ@yĄæm°NĮZRÖíJ²öLĸÒ¨Y®ƌÐVàtt_ÚÂyĠz]ŢhzĎ{ÂĢXc|ÐqfO¢¤ögÌHNPKŖUú´xx[xvĐCûĀìÖT¬¸^}Ìsòd´_KgžLĴÀBon|H@Êx¦BpŰŌ¿fµƌA¾zǈRx¶FkĄźRzŀ~¶[´HnªVƞuĒ­È¨ƎcƽÌm¸ÁÈM¦x͊ëÀxǆBú^´W£dkɾĬpw˂ØɦļĬIŚÊnŔa¸~J°îlɌxĤÊÈðhÌ®gT´øàCÀ^ªerrƘd¢İP|Ė ŸWªĦ^¶´ÂLaT±üWƜǀRÂŶUńĖ[QhlLüAÜ\\qRĄ©"
+				],
+				"encodeOffsets": [
+					[
+						90849,
+						37210
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					91.132212,
+					29.660361
+				],
+				"name": "西藏",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "610000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@¸ÂW¢xR­Fq§uF@N¢XLRMº[ğȣſï|¥Jkc`sŉǷ£Y³WN«ùMëï³ÛIg÷±mTșÚÒķø©þ¥yÓğęmWµÎumZyOŅƟĥÓ~sÑL¤µaÅY¦ocyZ{y c]{Ta©`U_Ěē£ωÊƍKùK¶ȱÝƷ§{û»ÅÁȹÍéuĳ|¹cÑdìUYOuFÕÈYvÁCqÓTǢí§·S¹NgV¬ë÷Át°DØ¯C´ŉƒópģ}ąiEËFéGU¥×K§­¶³BČ}C¿åċ`wġB·¤őcƭ²ő[Å^axwQOñJÙïŚĤNĔwƇÄńwĪ­o[_KÓª³ÙnKÇěÿ]ďă_d©·©Ýŏ°Ù®g]±ß×¥¬÷m\\iaǑkěX{¢|ZKlçhLtŇîŵœè[É@ƉĄEtƇÏ³­ħZ«mJ×¾MtÝĦ£IwÄå\\Õ{OwĬ©LÙ³ÙTª¿^¦rÌĢŭO¥lãyC§HÍ£ßEñX¡­°ÙCgpťzb`wIvA|¥hoĕ@E±iYd¥OÿµÇvPW|mCĴŜǂÒW¶¸AĜh^Wx{@¬­F¸¡ķn£P|ªĴ@^ĠĈæbÔc¶lYi^MicĎ°Â[ävï¶gv@ÀĬ·lJ¸sn|¼u~a]ÆÈtŌºJpþ£KKf~¦UbyäIĺãnÔ¿^­ŵMThĠÜ¤ko¼Ŏìąǜh`[tRd²Ĳ_XPrɲlXiL§à¹H°Ȧqº®QCbAŌJ¸ĕÚ³ĺ§ `d¨YjiZvRĺ±öVKkjGȊÄePĞZmļKÀ[`ösìhïÎoĬdtKÞ{¬èÒÒBÔpĲÇĬJŊ¦±J«[©ārHµàåVKe§|P²ÇÓ·vUzgnN¾yI@oHĆÛķhxen¡QQ±ƝJǖRbzy¸ËÐl¼EºpĤ¼x¼½~Ğà@ÚüdK^mÌSjp²ȮµûGĦ}Ħðǚ¶òƄjɂz°{ºØkÈęâ¦jªBg\\ċ°s¬]jú EȌǆ¬stRÆdĠİwÜ¸ôW¾ƮłÒ_{Ìû¼jº¹¢GǪÒ¯ĘZ`ºŊecņą~BÂgzpâēòYƲȐĎ"
+				],
+				"encodeOffsets": [
+					[
+						113634,
+						40474
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					108.948024,
+					34.263161
+				],
+				"name": "陕西",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "620000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@Vu_^",
+						"@@ųEĠtt~nkh`Q¦ÅÄÜdwAb×ĠąJ¤DüègĺqBqj°lI¡Ĩ¶ĖIHdjÎB°aZ¢KJO[|A£Dx}NĂ¬HUnrk kp¼Y kMJn[aGáÚÏ[½rc}aQxOgsPMnUsncZsKúvAtÞġ£®ĀYKdnFw¢JE°Latf`¼h¬we|Æbj}GA·~W`¢MC¤tL©Ĳ°qdfObÞĬ¹ttu`^ZúE`[@Æsîz®¡CƳƜG²R¢RmfwĸgÜą G@pzJM½mhVy¸uÈÔO±¨{LfæU¶ßGĂq\\ª¬²I¥IŉÈīoıÓÑAçÑ|«LÝcspīðÍgtë_õ\\ĉñLYnĝgRǡÁiHLlõUĹ²uQjYi§Z_c¨´ĹĖÙ·ŋIaBD­R¹ȥr¯GºßK¨jWkɱOqWĳ\\a­Q\\sg_ĆǛōëp»£lğÛgSŶN®À]ÓämĹãJaz¥V}Le¤Lýo¹IsŋÅÇ^bz³tmEÁ´a¹cčecÇNĊãÁ\\č¯dNj]jZµkÓdaćå]ğĳ@ ©O{¤ĸm¢E·®«|@Xwg]Aģ±¯XǁÑǳªcwQÚŝñsÕ³ÛV_ý¥\\ů¥©¾÷w©WÕÊĩhÿÖÁRo¸V¬âDb¨hûxÊ×ǌ~Zâg|XÁnßYoº§ZÅŘv[ĭÖʃuďxcVbnUSfB¯³_TzºÎO©çMÑ~M³]µ^püµÄY~y@X~¤Z³[Èōl@®Å¼£QK·Di¡ByÿQ_´D¥hŗy^ĭÁZ]cIzýah¹MĪğPs{ò²Vw¹t³ŜË[Ñ}X\\gsF£sPAgěp×ëfYHāďÖqēŭOÏëdLü\\it^c®RÊº¶¢H°mrY£B¹čIoľu¶uI]vģSQ{UŻÅ}QÂ|Ì°ƅ¤ĩŪU ęĄÌZÒ\\v²PĔ»ƢNHĂyAmƂwVm`]ÈbH`Ì¢²ILvĜH®¤Dlt_¢JJÄämèÔDëþgºƫaʎÌrêYi~ Îİ¤NpÀA¾Ĕ¼bð÷®üszMzÖĖQdȨýv§Tè|ªHÃ¾a¸|Ð ƒwKĢx¦ivr^ÿ ¸l öæfƟĴ·PJv}n\\h¹¶v·À|\\ƁĚN´ĜçèÁz]ġ¤²¨QÒŨTIlªťØ}¼˗ƦvÄùØEÂ«FïËIqōTvāÜŏíÛßÛVj³âwGăÂíNOPìyV³ŉĖýZso§HÑiYw[ß\\X¦¥c]ÔƩÜ·«jÐqvÁ¦m^ċ±R¦΋ƈťĚgÀ»IïĨʗƮ°ƝĻþÍAƉſ±tÍEÕÞāNUÍ¡\\ſčåÒʻĘm ƭÌŹöʥëQ¤µ­ÇcƕªoIýIÉ_mkl³ăƓ¦j¡YzŇi}Msßõīʋ }ÁVm_[n}eı­Uĥ¼ªI{Î§DÓƻėojqYhĹT©oūĶ£]ďxĩǑMĝq`B´ƃ˺Чç~²ņj@¥@đ´ί}ĥtPńÇ¾V¬ufÓÉCtÓ̻¹£G³]ƖƾŎĪŪĘ̖¨ʈĢƂlɘ۪üºňUðǜȢƢż̌ȦǼĤŊɲĖÂ­KqĘŉ¼ĔǲņɾªǀÞĈĂD½ĄĎÌŗĞrôñnN¼â¾ʄľԆ|Ǆ֦ज़ȗǉ̘̭ɺƅêgV̍ʆĠ·ÌĊv|ýĖÕWĊǎÞ´õ¼cÒÒBĢ͢UĜð͒s¨ňƃLĉÕÝ@ɛƯ÷¿Ľ­ĹeȏĳëCȚDŲyê×Ŗyò¯ļcÂßYtÁƤyAã˾J@ǝrý@¤rz¸oP¹ɐÚyáHĀ[JwcVeȴÏ»ÈĖ}ƒŰŐèȭǢόĀƪÈŶë;Ñ̆ȤМľĮEŔĹŊũ~ËUă{ĻƹɁύȩþĽvĽƓÉ@ēĽɲßǐƫʾǗĒpäWÐxnsÀ^ƆwW©¦cÅ¡Ji§vúF¶¨c~c¼īeXǚ\\đ¾JwÀďksãAfÕ¦L}waoZD½Ml«]eÒÅaÉ²áo½FõÛ]ĻÒ¡wYR£¢rvÓ®y®LFLzĈôe]gx}|KK}xklL]c¦£fRtív¦PŨ£",
+						"@@M T¥"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							108619,
+							36299
+						],
+						[
+							108594,
+							36341
+						],
+						[
+							108600,
+							36306
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					103.823557,
+					36.058039
+				],
+				"name": "甘肃",
+				"childNum": 3
+			}
+		},
+		{
+			"id": "630000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@InJo",
+						"@@CÆ½OŃĦsΰ~Ē³¦@@Ņi±è}ШƄ˹A³r_ĞǒNĪĐw¤^ŬĵªpĺSZgrpiƼĘÔ¨C|ÍJ©Ħ»®VĲ~f\\m `UnÂ~ʌĬàöNt~ňjy¢ZiƔ¥Ąk´nl`JÊJþ©pdƖ®È£¶ìRʦźõƮËnʼėæÑƀĎ[¢VÎĂMÖÝÎF²sƊƀÎBļýƞ¯ʘƭðħ¼Jh¿ŦęΌƇ¥²Q]Č¥nuÂÏri¸¬ƪÛ^Ó¦d¥[Wàx\\ZjÒ¨GtpþYŊĕ´zUOëPîMĄÁxH´áiÜUàîÜŐĂÛSuŎrJðÌ¬EFÁú×uÃÎkrĒ{V}İ«O_ÌËĬ©ÓŧSRÑ±§Ģ£^ÂyèçěM³Ƃę{[¸¿uºµ[gt£¸OƤĿéYõ·kĀq]juw¥DĩƍõÇPéÄ½G©ã¤GuȧþRcÕĕNyyût­øï»a½ē¿BMoį£Íj}éZËqbʍƬh¹ìÿÓAçãnIÃ¡I`ks£CG­ěUy×Cy@¶ʡÊBnāzGơMē¼±O÷õJËĚăVĪũƆ£¯{ËL½ÌzżVR|ĠTbuvJvµhĻĖHAëáa­OÇðñęNwœľ·LmI±íĠĩPÉ×®ÿscB³±JKßĊ«`ađ»·QAmOVţéÿ¤¹SQt]]Çx±¯A@ĉĳ¢Óļ©l¶ÅÛrŕspãRk~¦ª]Į­´FRåd­ČsCqđéFn¿ÅƃmÉx{W©ºƝºįkÕƂƑ¸wWūÐ©ÈF£\\tÈ¥ÄRÈýÌJ lGr^×äùyÞ³fjc¨£ÂZ|ǓMĝÏ@ëÜőRĝ÷¡{aïȷPu°ËXÙ{©TmĠ}Y³­ÞIňµç½©C¡į÷¯B»|St»]vųs»}MÓ ÿʪƟǭA¡fs»PY¼c¡»¦cċ­¥£~msĉPSi^o©AecPeǵkgyUi¿h}aHĉ^|á´¡HØûÅ«ĉ®]m¡qċ¶±ÈyôōLÁstB®wn±ă¥HSòė£Së@×œÊăxÇN©©T±ª£Ĳ¡fb®Þbb_Ą¥xu¥B{łĝ³«`dƐt¤ťiñÍUuºí`£^tƃĲc·ÛLO½sç¥Ts{ă\\_»kÏ±q©čiìĉ|ÍI¥ć¥]ª§D{ŝŖÉR_sÿc³ĪōƿÎ§p[ĉc¯bKmR¥{³Ze^wx¹dƽÅ½ôIg §Mĕ ƹĴ¿ǣÜÍ]Ý]snåA{eƭ`ǻŊĿ\\ĳŬűYÂÿ¬jĖqßb¸L«¸©@ěĀ©ê¶ìÀEH|´bRľÓ¶rÀQþvl®ÕETzÜdb hw¤{LRdcb¯ÙVgƜßzÃôì®^jUèXÎ|UäÌ»rK\\ªN¼pZCüVY¤ɃRi^rPŇTÖ}|br°qňbĚ°ªiƶGQ¾²x¦PmlŜ[Ĥ¡ΞsĦÔÏâ\\ªÚŒU\\f¢N²§x|¤§xĔsZPòʛ²SÐqF`ªVÞŜĶƨVZÌL`¢dŐIqr\\oäõFÎ·¤»Ŷ×h¹]ClÙ\\¦ďÌį¬řtTӺƙgQÇÓHţĒ´ÃbEÄlbʔC|CŮkƮ[ʼ¬ň´KŮÈΰÌĪ¶ƶlðļATUvdTGº̼ÔsÊDÔveMg"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							105308,
+							37219
+						],
+						[
+							95370,
+							40081
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					101.778916,
+					36.623178
+				],
+				"name": "青海",
+				"childNum": 2
+			}
+		},
+		{
+			"id": "640000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@KëÀęĞ«Oęȿȕı]ŉ¡åįÕÔ«ǴõƪĚQÐZhv K°öqÀÑS[ÃÖHƖčËnL]ûcÙß@ĝ¾}w»»oģF¹»kÌÏ·{zP§B­¢íyÅt@@á]Yv_ssģ¼ißĻL¾ġsKD£¡N_X¸}B~HaiÅf{«x»ge_bsKF¯¡IxmELcÿZ¤­ĢÝsuBLùtYdmVtNmtOPhRw~bd¾qÐ\\âÙH\\bImlNZ»loqlVmGā§~QCw¤{A\\PKNY¯bFkC¥sks_Ã\\ă«¢ħkJi¯rrAhĹûç£CUĕĊ_ÔBixÅÙĄnªÑaM~ħpOu¥sîeQ¥¤^dkKwlL~{L~hw^ófćKyE­K­zuÔ¡qQ¤xZÑ¢^ļöÜ¾Ep±âbÊÑÆ^fk¬NC¾YpxbK~¥eÖäBlt¿Đx½I[ĒǙWf»Ĭ}d§dµùEuj¨IÆ¢¥dXªƅx¿]mtÏwßRĶX¢͎vÆzƂZò®ǢÌʆCrâºMÞzÆMÒÊÓŊZÄ¾r°Î®Ȉmª²ĈUªĚîøºĮ¦ÌĘk^FłĬhĚiĀĖ¾iİbjË"
+				],
+				"encodeOffsets": [
+					[
+						109366,
+						40242
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					106.278179,
+					38.46637
+				],
+				"name": "宁夏",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "650000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@QØĔ²X¨~ǘBºjʐßØvKƔX¨vĊOÃ·¢i@~cĝe_«E}QxgɪëÏÃ@sÅyXoŖ{ô«ŸuXêÎf`C¹ÂÿÐGĮÕĞXŪōŸMźÈƺQèĽôe|¿ƸJR¤ĘEjcUóº¯Ĩ_ŘÁMª÷Ð¥OéÈ¿ÖğǤǷÂFÒzÉx[]­Ĥĝœ¦EP}ûƥé¿İƷTėƫœŕƅƱB»Đ±ēO¦E}`cȺrĦáŖuÒª«ĲπdƺÏØZƴwʄ¤ĖGĐǂZĶèH¶}ÚZצʥĪï|ÇĦMŔ»İĝǈì¥Βba­¯¥ǕǚkĆŵĦɑĺƯxūД̵nơʃĽá½M»òmqóŘĝčË¾ăCćāƿÝɽ©ǱŅ»ēėŊLrÁ®ɱĕģŉǻ̋ȥơŻǛȡVï¹Ň۩ûkɗġƁ§ʇė̕ĩũƽō^ƕUv£ƁQïƵkŏ½ΉÃŭÇ³LŇʻ«ƭ\\lŭD{ʓDkaFÃÄa³ŤđÔGRÈƚhSӹŚsİ«ĐË[¥ÚDkº^Øg¼ŵ¸£EÍöůŉT¡c_ËKYƧUśĵÝU_©rETÏʜ±OñtYwē¨{£¨uM³x½şL©Ùá[ÓÐĥ Νtģ¢\\śnkOw¥±T»ƷFɯàĩÞáB¹ÆÑUwŕĽw]kE½Èå~Æ÷QyěCFmĭZīŵVÁƿQƛûXS²b½KÏ½ĉS©ŷXĕ{ĕK·¥Ɨcqq©f¿]ßDõU³h­gËÇïģÉɋwk¯í}I·œbmÉřīJɥĻˁ×xoɹīlc¤³Xù]ǅA¿w͉ì¥wÇN·ÂËnƾƍdÇ§đ®ƝvUm©³G\\}µĿQyŹlăµEwǇQ½yƋBe¶ŋÀůo¥AÉw@{Gpm¿AĳŽKLh³`ñcËtW±»ÕSëüÿďDu\\wwwù³VLŕOMËGh£õP¡erÏd{ġWÁč|yšg^ğyÁzÙs`s|ÉåªÇ}m¢Ń¨`x¥ù^}Ì¥H«YªƅAÐ¹n~ź¯f¤áÀzgÇDIÔ´AňĀÒ¶ûEYospõD[{ù°]uJqU|Soċxţ[õÔĥkŋÞŭZËºóYËüċrw ÞkrťË¿XGÉbřaDü·Ē÷AÃª[ÄäIÂ®BÕĐÞ_¢āĠpÛÄȉĖġDKwbmÄNôfƫVÉviǳHQµâFù­Âœ³¦{YGd¢ĚÜO {Ö¦ÞÍÀP^bƾl[vt×ĈÍEË¨¡Đ~´î¸ùÎhuè`¸HÕŔVºwĠââWò@{ÙNÝ´ə²ȕn{¿¥{l÷eé^eďXj©î\\ªÑòÜìc\\üqÕ[Č¡xoÂċªbØ­ø|¶ȴZdÆÂońéG\\¼C°ÌÆn´nxÊOĨŪƴĸ¢¸òTxÊǪMīĞÖŲÃɎOvʦƢ~FRěò¿ġ~åŊúN¸qĘ[Ĕ¶ÂćnÒPĒÜvúĀÊbÖ{Äî¸~Ŕünp¤ÂH¾ĄYÒ©ÊfºmÔĘcDoĬMŬS¤s²ʘÚžȂVŦ èW°ªB|ĲXŔþÈJĦÆæFĚêYĂªĂ]øªŖNÞüAfɨJ¯ÎrDDĤ`mz\\§~D¬{vJÂ«lµĂb¤pŌŰNĄ¨ĊXW|ų ¿¾ɄĦƐMTòP÷fØĶK¢ȝ˔Sô¹òEð­`Ɩ½ǒÂň×äı§ĤƝ§C~¡hlåǺŦŞkâ~}FøàĲaĞfƠ¥Ŕd®U¸źXv¢aƆúŪtŠųƠjdƺƺÅìnrh\\ĺ¯äɝĦ]èpĄ¦´LƞĬ´ƤǬ˼Ēɸ¤rºǼ²¨zÌPðŀbþ¹ļD¢¹\\ĜÑŚ¶ZƄ³âjĦoâȴLÊȮĐ­ĚăÀêZǚŐ¤qȂ\\L¢ŌİfÆs|zºeªÙæ§΢{Ā´ƐÚ¬¨Ĵà²łhʺKÞºÖTiƢ¾ªì°`öøu®Ê¾ãÖ"
+				],
+				"encodeOffsets": [
+					[
+						88824,
+						50096
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					87.617733,
+					43.792818
+				],
+				"name": "新疆",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "110000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@RºaYÕQaúÍÔiþĩȨWĢü|Ėu[qb[swP@ÅğP¿{\\¯Y²·Ñ¨j¯X\\¯MSvU¯YIŕY{[fk­VÁûtŷmiÍt_H»Ĩ±d`¹­{bwYr³S]§§o¹qGtm_SŧoaFLgQN_dV@Zom_ć\\ßW´ÕiœRcfio§ËgToÛJíĔóu|wP¤XnO¢ÉŦ¯pNÄā¤zâŖÈRpŢZÚ{GrFt¦Òx§ø¹RóäV¤XdżâºWbwŚ¨Ud®bêņ¾jnŎGŃŶnzÚScîĚZen¬"
+				],
+				"encodeOffsets": [
+					[
+						119421,
+						42013
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					116.405285,
+					39.904989
+				],
+				"name": "北京",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "120000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@ŬgX§Ü«E¶FÌ¬O_ïlÁgz±AXeµÄĵ{¶]gitgIj·¥ì_iU¨ÐƎk}ĕ{gBqGf{¿aU^fIư³õ{YıëNĿk©ïËZukāAīlĕĥs¡bġ«@dekąI[nlPqCnp{ō³°`{PNdƗqSÄĻNNâyj]äÒD ĬH°Æ]~¡HO¾X}ÐxgpgWrDGpù^LrzWxZ^¨´T\\|~@IzbĤjeĊªz£®ĔvěLmV¾Ô_ÈNW~zbĬvG²ZmDM~~"
+				],
+				"encodeOffsets": [
+					[
+						120237,
+						41215
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					117.190182,
+					39.125596
+				],
+				"name": "天津",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "310000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@ɧư¬EpƸÁx]",
+						"@@©²",
+						"@@MA",
+						"@@QpªKWT§¨",
+						"@@bŝÕÕEȣÚƥêImɇǦèÜĠÚÄÓŴ·ʌÇ",
+						"@@Sô¤r]ìƬįǜûȬɋŭ×^sYɍDŋŽąñCG²«ªč@h_p¯A{oloY¬j@Ĳ`gQÚpptǀ^MĲvtbe´Rh@oj¨",
+						"@@ÆLH{a}Eo¦"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							124702,
+							32062
+						],
+						[
+							124547,
+							32200
+						],
+						[
+							124808,
+							31991
+						],
+						[
+							124726,
+							32110
+						],
+						[
+							124903,
+							32376
+						],
+						[
+							124065,
+							32166
+						],
+						[
+							124870,
+							31965
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					121.472644,
+					31.231706
+				],
+				"name": "上海",
+				"childNum": 7
+			}
+		},
+		{
+			"id": "500000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@TÂÛ`Ùƅően½SêqDu[RåÍ¹÷eXÍy¸_ĺę}÷`M¯ċfCVµqŉ÷Zgg^d½pDOÎCn^uf²ènh¼WtƏxRGg¦pVFI±G^Ic´ecGĹÞ½sëÆNäÌ¤KÓe¯|R¸§LÜkPoïƭNï¶}Gywdiù©nkĈzj@Óc£»Wă¹Óf§c[µo·Ó|MvÛaq½«è\\ÂoVnÓØÍ²«bq¿ehCĜ^Q~ Évýş¤²ĮpEĶyhsŊwH½¿gÅ¡ýE¡ya£³t\\¨\\vú¹¼©·Ñr_oÒý¥et³]Et©uÖ¥±ă©KVeë]}wVPÀFA¨ąB}qTjgRemfFmQFÝMyùnÑAmÑCawu_p¯sfÛ_gI_pNysB¦zG¸rHeN\\CvEsÐñÚkcDÖĉsaQ¯}_UzÁē}^R Äd^ÍĸZ¾·¶`wećJE¹vÛ·HgéFXjÉê`|ypxkAwWĐpb¥eOsmzwqChóUQl¥F^lafanòsrEvfQdÁUVfÎvÜ^eftET¬ôA\\¢sJnQTjPØxøK|nBzĞ»LYFDxÓvr[ehľvN¢o¾NiÂxGpâ¬zbfZo~hGi]öF||NbtOMn eA±tPTLjpYQ|SHYĀxinzDJÌg¢và¥Pg_ÇzIIII£®S¬ØsÎ¼¥¨^LnGĲļĲƤjÎƀƾ¹¸ØÎezĆT¸}êÐqHðqĖä¥^CÆIj²p\\_ æüY|[YxƊæu°xb®Űb@~¢NQt°¶Sæ Ê~rǉĔëĚ¢~uf`faĔJåĊnÔ]jƎćÊ@£¾a®£Ű{ŶĕFègLk{Y|¡ĜWƔtƬJÑxq±ĢN´òKLÈÃ¼D|s`ŋć]Ã`đMùƱ¿~Y°ħ`ƏíW½eI½{aOIrÏ¡ĕŇapµÜƃġ²"
+				],
+				"encodeOffsets": [
+					[
+						111728,
+						31311
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					106.504962,
+					29.533155
+				],
+				"name": "重庆",
+				"childNum": 1
+			}
+		},
+		{
+			"id": "810000",
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+					[
+						"@@AlFi",
+						"@@mp",
+						"@@EpHo",
+						"@@rMUwAS¬]",
+						"@@ea¢pl¸Eõ¹hj[]ÔCÎ@lj¡uBX´AI¹[yDU]W`çwZkmcMpÅv}IoJlcafŃK°ä¬XJmÐ đhI®æÔtSHnEÒrÄc"
+					]
+				],
+				"encodeOffsets": [
+					[
+						[
+							117111,
+							23002
+						],
+						[
+							117072,
+							22876
+						],
+						[
+							117045,
+							22887
+						],
+						[
+							116882,
+							22747
+						],
+						[
+							116975,
+							23082
+						]
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					114.173355,
+					22.320048
+				],
+				"name": "香港",
+				"childNum": 5
+			}
+		},
+		{
+			"id": "820000",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					"@@áw{Îr"
+				],
+				"encodeOffsets": [
+					[
+						116285,
+						22746
+					]
+				]
+			},
+			"properties": {
+				"cp": [
+					113.54909,
+					22.198951
+				],
+				"name": "澳门",
+				"childNum": 1
+			}
+		}
+	],
+	"UTF8Encoding": true
+};
 
 /***/ })
 /******/ ]);

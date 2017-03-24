@@ -3557,7 +3557,7 @@ body, html, #app {
   #bilidata .main-content {
     flex: 1;
     overflow-y: auto;
-    background-color: #f6f6f6; }
+    background-color: #fafafa; }
 
 nav {
   position: relative; }
@@ -3566,7 +3566,7 @@ nav {
   nav .icon {
     display: block;
     width: 70%;
-    margin: 20px auto 40px; }
+    margin: 20px auto 25px; }
   nav .theme-switch {
     position: absolute;
     bottom: 1%;
@@ -3585,4 +3585,5 @@ nav {
   padding: 20px; }
 
 .charts {
+  height: 500px;
   margin-top: 50px; }
