@@ -1,0 +1,10 @@
+/*
+ * css reset
+ *      By Moudicat
+ * 2016/9/8   created original version.
+ * 2016/9/13  Added class 'clearfix' for float clear.
+ * 2016/9/22  Added form css reset part1.
+ * 2016/10/19 Added mobile device reset css for a & input.
+ * 2016/10/21 Added fieldset & legend css reset.
+ * */
+body,dd,dl,fieldset,h1,h2,h3,h4,h5,h6,legend,ol,p,ul{margin:0;padding:0}body{font-family:"microsoft yahei"}ol,ul{list-style:none}b,em,h1,h2,h3,h4,h5,h6,i,strong{font-weight:400;font-style:normal}a{text-decoration:none;color:#000;-webkit-tap-highlight-color:transparent}img{vertical-align:middle;border:none}input{padding:0;border:none;background:0 0;-webkit-tap-highlight-color:transparent;-webkit-appearance:none}textarea{resize:none}button,input,select,textarea{outline:0}legend{border:0}.clearfix:after{content:"";display:block;clear:both;overflow:hidden;height:0;visibility:hidden}.clearfix{zoom:1}
