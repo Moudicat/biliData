@@ -40,13 +40,14 @@ export class SideBar extends React.Component {
           <SubMenu title="数据分析" key="sub1">
             <Menu.Item key="1"><Link to="/sex">性别比例</Link></Menu.Item>
             <Menu.Item key="2"><Link to="/place">用户分布</Link></Menu.Item>
-            <Menu.Item key="3"><Link to="/attention">关注数统计</Link></Menu.Item>
-            <Menu.Item key="4"><Link to="/fans">粉丝数统计</Link></Menu.Item>
-            <Menu.Item key="5"><Link to="/friends">好友数统计</Link></Menu.Item>
+            <Menu.Item key="3"><Link to="/birthday">用户生日统计</Link></Menu.Item>
+            <Menu.Item key="4"><Link to="/attention">关注数统计</Link></Menu.Item>
+            <Menu.Item key="5"><Link to="/fans">粉丝数统计</Link></Menu.Item>
+            <Menu.Item key="6"><Link to="/friends">好友数统计</Link></Menu.Item>
           </SubMenu>
           <SubMenu title="数据查询" key="sub2">
-            <Menu.Item key="a7"><Link to="/usernames">用户名查询</Link></Menu.Item>
-            <Menu.Item key="a8"><Link to="/birthdays">生日查询</Link></Menu.Item>
+            <Menu.Item key="a1"><Link to="/usernames">用户名查询</Link></Menu.Item>
+            <Menu.Item key="a2"><Link to="/birthdays">生日查询</Link></Menu.Item>
           </SubMenu>
         </Menu>
         <Switch
