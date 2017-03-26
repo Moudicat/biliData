@@ -13,6 +13,8 @@ import Fansdata from './components/Fansdata.jsx';
 import Friendsdata from './components/Friendsdata.jsx';
 import Placedata from './components/Placedata.jsx';
 import Birthdaydata from './components/Birthdaydata.jsx';
+import Spuserdata from './components/Spuserdata.jsx';
+import Vuserdata from './components/Vuserdata.jsx';
 import NotFind from './components/NotFind.jsx';
 
 ReactDOM.render(
@@ -25,6 +27,8 @@ ReactDOM.render(
       <Route path="friends" component={Friendsdata}/>
       <Route path="place" component={Placedata}/>
       <Route path="birthday" component={Birthdaydata}/>
+      <Route path="spuser" component={Spuserdata}/>
+      <Route path="vuser" component={Vuserdata}/>
       <Route path="*" component={NotFind} />
     </Route>
   </Router>

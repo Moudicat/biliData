@@ -930,6 +930,10 @@ babylon@^6.11.0, babylon@^6.15.0:
   version "6.16.1"
   resolved "http://r.cnpmjs.org/babylon/download/babylon-6.16.1.tgz#30c5a22f481978a9e7f8cdfdf496b11d94b404d3"
 
+baffle@^0.3.6:
+  version "0.3.6"
+  resolved "http://r.cnpmjs.org/baffle/download/baffle-0.3.6.tgz#989d8a6363a19e630da85a3480422883f0bda4d0"
+
 balanced-match@^0.4.1, balanced-match@^0.4.2:
   version "0.4.2"
   resolved "http://r.cnpmjs.org/balanced-match/download/balanced-match-0.4.2.tgz#cb3f3e3c732dc0f01ee70b403f302e61d7709838"

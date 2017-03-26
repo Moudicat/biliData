@@ -27,7 +27,7 @@ export default class Placedata extends Component {
     let options = {
       title: [{
         text: "用户地域分布图",
-        subtext: "共计 " + total + '条数据',
+        subtext: "共计" + total + '条数据',
         left: 'center'
       }],
       tooltip: {
@@ -82,7 +82,6 @@ export default class Placedata extends Component {
   render() {
     return (
       <section>
-        <h2>地域关系</h2>
         <div ref="placeChart" className="charts" style={{width: "100%"}}></div>
       </section>
     )

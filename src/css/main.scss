@@ -26,7 +26,7 @@ body, html, #app {
   }
   .main-content {
     flex: 1;
-    overflow-y: auto;
+    overflow: hidden;
     background-color: #fafafa;
   }
 }
@@ -61,8 +61,36 @@ nav {
   box-sizing: border-box;
   padding: 20px;
 }
+#main {
+  text-align: center;
+}
 
+#title {
+  font-size: 50px;
+  padding-top: 10%;
+  margin-bottom: 30px;
+}
+h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+h3 {
+  font-size: 20px;
+}
 .charts {
   height: 500px;
   margin-top: 50px;
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1920px) {
+  .charts {
+    height: 650px;
+    margin-top: 50px;
+  }
+}
+@media only screen and (min-width: 1921px)  {
+  .charts {
+    height: 800px;
+    margin-top: 150px;
+  }
 }

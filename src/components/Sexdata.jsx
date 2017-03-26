@@ -24,7 +24,8 @@ export default class Sexdata extends Component {
       color: colorList,
       title: [{
         text: "用户性别比例",
-        subtext: "共计 " + total + '条数据'
+        subtext: "共计" + total + '条数据',
+        left: 'center'
       }],
       tooltip: {},
       grid: [{
@@ -97,7 +98,6 @@ export default class Sexdata extends Component {
   render() {
     return (
       <section>
-        <h2>性别数据</h2>
         <div ref="sexChart" className="charts" style={{width: "100%"}}></div>
       </section>
     )

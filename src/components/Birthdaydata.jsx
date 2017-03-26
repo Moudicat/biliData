@@ -25,7 +25,8 @@ export default class Birthdaydata extends Component {
     chart.setOption({
       title: [{
         text: "用户生日统计",
-        subtext: "共计 " + total + '条数据'
+        subtext: "共计" + total + '条数据',
+        left: 'center'
       }],
       tooltip: {
         trigger: 'axis',
@@ -97,7 +98,6 @@ export default class Birthdaydata extends Component {
   render() {
     return (
       <section>
-        <h2>用户生日统计</h2>
         <div ref="birthdayChart" className="charts" style={{width: "100%"}}></div>
       </section>
     )

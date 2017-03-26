@@ -46,8 +46,8 @@ export class SideBar extends React.Component {
             <Menu.Item key="6"><Link to="/friends">好友数统计</Link></Menu.Item>
           </SubMenu>
           <SubMenu title="数据查询" key="sub2">
-            <Menu.Item key="a1"><Link to="/usernames">用户名查询</Link></Menu.Item>
-            <Menu.Item key="a2"><Link to="/birthdays">生日查询</Link></Menu.Item>
+            <Menu.Item key="a1"><Link to="/spuser">特殊用户查询</Link></Menu.Item>
+            <Menu.Item key="a2"><Link to="/vuser">认证用户查询</Link></Menu.Item>
           </SubMenu>
         </Menu>
         <Switch

@@ -38,7 +38,8 @@ export default class Fansdata extends Component {
     chart.setOption({
       title: [{
         text: "用户粉丝数统计",
-        subtext: "共计 " + total + '条数据'
+        subtext: "共计" + total + '条数据',
+        left: 'center'
       }],
       tooltip: {
         trigger: 'axis',
@@ -120,7 +121,6 @@ export default class Fansdata extends Component {
   render() {
     return (
       <section>
-        <h2>粉丝数关系</h2>
         <div ref="fansChart" className="charts" style={{width: "100%"}}></div>
       </section>
     )

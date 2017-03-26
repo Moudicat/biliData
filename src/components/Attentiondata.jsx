@@ -38,7 +38,8 @@ export default class Attentiondata extends Component {
     chart.setOption({
       title: [{
         text: "用户关注数统计",
-        subtext: "共计 " + total + '条数据'
+        subtext: "共计" + total + '条数据',
+        left: 'center'
       }],
       tooltip: {
         trigger: 'axis',
@@ -120,7 +121,6 @@ export default class Attentiondata extends Component {
   render() {
     return (
       <section>
-        <h2>关注数关系</h2>
         <div ref="attentionChart" className="charts" style={{width: "100%"}}></div>
       </section>
     )
