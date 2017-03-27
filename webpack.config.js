@@ -21,7 +21,8 @@ module.exports = {
     ],
     data: './src/data.js',
     spUser: './src/data/spUser.js',
-    vUser: './src/data/vUser.js'
+    vUser: './src/data/vUser.js',
+    chinaMap: './src/data/china.js'
   },
   output: {
     path: path.resolve(__dirname + '/dist'),
@@ -78,7 +79,7 @@ module.exports = {
       template: './src/index.html'
     }),
     new webpack.optimize.CommonsChunkPlugin({
-      name: ['vendor', 'data', 'spUser', 'vUser'] // 指定公共 bundle 的名字。
+      name: ['vendor', 'data', 'spUser', 'vUser', 'chinaMap'] // 指定公共 bundle 的名字。
     })
   ]
 };

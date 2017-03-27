@@ -10,6 +10,7 @@ import 'echarts/lib/chart/map';
 import 'echarts/lib/component/visualMap';
 import '../../dist/data/china.json';
 import bilidata from '../data.js';
+require('../data/china.js');
 
 export default class Placedata extends Component {
 
@@ -46,7 +47,7 @@ export default class Placedata extends Component {
         {
           name: '用户地域分布',
           type: 'map',
-          mapType: 'china',
+          map: 'china',
           roam: true,
           center: [75.97, 41.71],
           data: place,
@@ -61,14 +62,14 @@ export default class Placedata extends Component {
         }
       ]
     };
-    let  xhr = new XMLHttpRequest();
-    xhr.open('get', './dist/data/china.json');
-    xhr.send();
-    xhr.onload = function () {
-      echarts.registerMap('china', JSON.parse(xhr.responseText));
-      chart.setOption(options);
-      chart.hideLoading();
-    }
+    // let  xhr = new XMLHttpRequest();
+    // xhr.open('get', './dist/data/china.json');
+    // xhr.send();
+    // xhr.onload = function () {
+    //   echarts.registerMap('china', JSON.parse(xhr.responseText));
+    // }
+    chart.setOption(options);
+    chart.hideLoading();
   };
 
   componentDidMount() {
