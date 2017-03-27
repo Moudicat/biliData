@@ -24,12 +24,14 @@ export default class Spuserdata extends Component {
     });
   }
   dataInit(cbk) {
-    let  xhr = new XMLHttpRequest();
-    xhr.open('get', './dist/data/spUser.json');
-    xhr.send();
-    xhr.onload = () => {
-      cbk && cbk(JSON.parse(xhr.responseText));
-    };
+    // let  xhr = new XMLHttpRequest();
+    // xhr.open('get', './dist/data/vUser.json');
+    // xhr.send();
+    // xhr.onload = () => {
+    //   cbk && cbk(JSON.parse(xhr.responseText));
+    // };
+    // 为了能在本地file协议下运行 此处没有采用ajax
+    cbk && cbk(require('../data/spUser.js').spUser);
   }
   render() {
     const columns = [{
@@ -102,6 +104,7 @@ export default class Spuserdata extends Component {
     }];
     if (!this.state.data) {
       this.dataInit((data) => {
+        console.log(data);
         this.setState({
           data
         })

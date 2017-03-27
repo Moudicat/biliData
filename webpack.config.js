@@ -4,7 +4,25 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: './src/routers.jsx',
+  entry: {
+    main: './src/routers.jsx',
+    vendor: [
+      'baffle',
+      'echarts/lib/echarts',
+      'echarts/lib/component/title',
+      'echarts/lib/component/legend',
+      'echarts/lib/component/tooltip',
+      'echarts/lib/chart/bar',
+      'echarts/lib/chart/pie',
+      'echarts/lib/chart/line',
+      'echarts/lib/chart/map',
+      'echarts/lib/component/visualMap',
+      'echarts/lib/component/dataZoom'
+    ],
+    data: './src/data.js',
+    spUser: './src/data/spUser.js',
+    vUser: './src/data/vUser.js'
+  },
   output: {
     path: path.resolve(__dirname + '/dist'),
     publicPath: './dist',
@@ -58,6 +76,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       filename: '../index.html',
       template: './src/index.html'
+    }),
+    new webpack.optimize.CommonsChunkPlugin({
+      name: ['vendor', 'data', 'spUser', 'vUser'] // 指定公共 bundle 的名字。
     })
   ]
 };
